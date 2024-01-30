@@ -109,8 +109,8 @@ id: Poland
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Poland//
-markerFolder: ./Poland//
+geojsonFolder: .//
+markerFolder: .//
 ```
 
 [name-en::Poland] 

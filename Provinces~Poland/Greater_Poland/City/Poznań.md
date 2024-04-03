@@ -14,13 +14,15 @@ confidential: public
 ---
 [geo-lon::16.93] 
 [geo-lat::52.42] 
-[name::Posen=Pozan] 
-State ::  
+[name::Poznań] 
+State ::  [Greater_Poland](../../Greater_Poland.md) 
 Country :: [[Poland]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
 
+#has_/name_/de_ :: Posen 
+#has_/name_/pl_ :: Poznań
 
 ```leaflet
 id: Posen=Pozan

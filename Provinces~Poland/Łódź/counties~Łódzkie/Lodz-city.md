@@ -12,15 +12,21 @@ isDeleted: false
 confidential: public
 
 ---
+
+# [Lodz-city](Lodz-city.md) 
+
 [geo-lon::19.45] 
 [geo-lat::51.77] 
-[name::Lodz=Litzmannstadt] 
+[name::Lodz] 
 State ::  
 Country :: [[Poland]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
 
+#has_/name_/en_ :: Lodz 
+#has_/name_/de_ :: Litzmannstadt 
+#has_/name_/pl_ :: Łódź 
 
 ```leaflet
 id: Lodz=Litzmannstadt

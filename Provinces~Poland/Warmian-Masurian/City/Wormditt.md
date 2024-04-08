@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::20.13] 
-[geo-lat::54.12] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::20.13] 
+[has_place_latitude::54.12] 
 [name::Wormditt] 
 State ::  
 Country :: [[Poland]]  

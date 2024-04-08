@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::18.12] 
-[geo-lat::51.12] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::18.12] 
+[has_place_latitude::51.12] 
 [name::Pitschen] 
 State ::  
 Country :: [[Poland]]  

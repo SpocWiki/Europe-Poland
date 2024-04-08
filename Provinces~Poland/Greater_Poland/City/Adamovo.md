@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.15] 
-[geo-lat::52.1] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::16.15] 
+[has_place_latitude::52.1] 
 [name::Adamovo] 
 State ::  
 Country :: [[Poland]]  

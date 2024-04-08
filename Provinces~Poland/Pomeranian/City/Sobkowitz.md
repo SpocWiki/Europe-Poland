@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::18.58] 
-[geo-lat::54.13] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::18.58] 
+[has_place_latitude::54.13] 
 [name::Sobkowitz] 
 State ::  
 Country :: [[Poland]]  

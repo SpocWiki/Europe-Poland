@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.53] 
-[geo-lat::53.95] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::16.53] 
+[has_place_latitude::53.95] 
 [name::Dorfstadt] 
 State ::  
 Country :: [[Poland]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15,33] 
-[geo-lat::53,47] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::15,33] 
+[has_place_latitude::53,47] 
 [name::Freienwalde/Pommern] 
 State ::  
 Country :: [[Poland]]  

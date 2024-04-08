@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.05] 
-[geo-lat::53.33] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::15.05] 
+[has_place_latitude::53.33] 
 [name::Stargard~Pommern] 
 State ::  
 Country :: [[Poland]]  

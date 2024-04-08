@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15] 
-[geo-lat::53.3] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::15] 
+[has_place_latitude::53.3] 
 [name::Kluczewo] 
 State ::  
 Country :: [[Poland]]  

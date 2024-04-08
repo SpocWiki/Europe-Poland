@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::22.4] 
-[geo-lat::53.7] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::22.4] 
+[has_place_latitude::53.7] 
 [name::Soltmahnen] 
 State ::  
 Country :: [[Poland]]  

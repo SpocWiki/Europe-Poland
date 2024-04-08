@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.33] 
-[geo-lat::50.47] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::16.33] 
+[has_place_latitude::50.47] 
 [name::Karlsberg] 
 State ::  
 Country :: [[Poland]]  

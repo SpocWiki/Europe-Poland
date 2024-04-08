@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.03] 
-[geo-lat::50.78] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::16.03] 
+[has_place_latitude::50.78] 
 [name::Landeshut] 
 State ::  
 Country :: [[Poland]]  

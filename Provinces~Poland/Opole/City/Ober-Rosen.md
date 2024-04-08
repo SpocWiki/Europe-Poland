@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::17.23] 
-[geo-lat::50.7] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::17.23] 
+[has_place_latitude::50.7] 
 [name::Ober-Rosen] 
 State ::  
 Country :: [[Poland]]  

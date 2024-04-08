@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::19.15] 
-[geo-lat::53.63] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::19.15] 
+[has_place_latitude::53.63] 
 [name::Wilkau~Westpommern] 
 State ::  
 Country :: [[Poland]]  

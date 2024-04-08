@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.55] 
-[geo-lat::54.53] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::16.55] 
+[has_place_latitude::54.53] 
 [name::Jershoeft] 
 State ::  
 Country :: [[Poland]]  

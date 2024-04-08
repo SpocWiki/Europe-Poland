@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.48] 
-[geo-lat::51.82] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::15.48] 
+[has_place_latitude::51.82] 
 [name::Seiffersdorf] 
 State ::  
 Country :: [[Poland]]  

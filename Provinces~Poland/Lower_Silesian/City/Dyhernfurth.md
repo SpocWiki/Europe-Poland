@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.72] 
-[geo-lat::51.27] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::16.72] 
+[has_place_latitude::51.27] 
 [name::Dyhernfurth] 
 State ::  
 Country :: [[Poland]]  

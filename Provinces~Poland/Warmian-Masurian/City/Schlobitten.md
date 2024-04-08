@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::19.78] 
-[geo-lat::54.13] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::19.78] 
+[has_place_latitude::54.13] 
 [name::Schlobitten] 
 State ::  
 Country :: [[Poland]]  

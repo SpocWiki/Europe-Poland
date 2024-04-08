@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::22.28] 
-[geo-lat::52.17] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::22.28] 
+[has_place_latitude::52.17] 
 [name::Siedlce] 
 State ::  
 Country :: [[Poland]]  

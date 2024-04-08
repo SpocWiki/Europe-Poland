@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::18.97] 
-[geo-lat::50.32] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::18.97] 
+[has_place_latitude::50.32] 
 [name::Koenigshuette] 
 State ::  
 Country :: [[Poland]]  

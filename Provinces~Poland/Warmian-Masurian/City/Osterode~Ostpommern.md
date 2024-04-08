@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::19.97] 
-[geo-lat::53.7] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::19.97] 
+[has_place_latitude::53.7] 
 [name::Osterode~Ostpommern] 
 State ::  
 Country :: [[Poland]]  

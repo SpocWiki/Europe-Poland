@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::18.95] 
-[geo-lat::53.78] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::18.95] 
+[has_place_latitude::53.78] 
 [name::Rachelshof] 
 State ::  
 Country :: [[Poland]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.43] 
-[geo-lat::51.67] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::15.43] 
+[has_place_latitude::51.67] 
 [name::Hirschfeldau] 
 State ::  
 Country :: [[Poland]]  

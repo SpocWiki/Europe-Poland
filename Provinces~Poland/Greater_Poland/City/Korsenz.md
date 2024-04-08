@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.87] 
-[geo-lat::51.53] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::16.87] 
+[has_place_latitude::51.53] 
 [name::Korsenz] 
 State ::  
 Country :: [[Poland]]  

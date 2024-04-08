@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::17.38] 
-[geo-lat::50.85] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::17.38] 
+[has_place_latitude::50.85] 
 [name::Mollwitz] 
 State ::  
 Country :: [[Poland]]  

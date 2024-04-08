@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.52] 
-[geo-lat::53.9] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::16.52] 
+[has_place_latitude::53.9] 
 [name::Zechendorf] 
 State ::  
 Country :: [[Poland]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.4] 
-[geo-lat::51.23] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::15.4] 
+[has_place_latitude::51.23] 
 [name::Siegersdorf] 
 State ::  
 Country :: [[Poland]]  

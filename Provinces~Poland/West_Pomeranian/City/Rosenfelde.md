@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.15] 
-[geo-lat::53.1] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::15.15] 
+[has_place_latitude::53.1] 
 [name::Rosenfelde] 
 State ::  
 Country :: [[Poland]]  

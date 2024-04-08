@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::17.82] 
-[geo-lat::54.45] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::17.82] 
+[has_place_latitude::54.45] 
 [name::Labuhn~Lauenburg] 
 State ::  
 Country :: [[Poland]]  

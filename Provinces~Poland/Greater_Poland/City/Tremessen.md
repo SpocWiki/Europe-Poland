@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::17.82] 
-[geo-lat::52.55] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::17.82] 
+[has_place_latitude::52.55] 
 [name::Tremessen] 
 State ::  
 Country :: [[Poland]]  

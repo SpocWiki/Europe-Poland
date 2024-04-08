@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.7] 
-[geo-lat::53.12] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::14.7] 
+[has_place_latitude::53.12] 
 [name::Bahn] 
 State ::  
 Country :: [[Poland]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.42] 
-[geo-lat::54.42] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::16.42] 
+[has_place_latitude::54.42] 
 [name::Ruegenwalde] 
 State ::  
 Country :: [[Poland]]  

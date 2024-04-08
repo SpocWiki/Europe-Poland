@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.5] 
-[geo-lat::50.58] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::16.5] 
+[has_place_latitude::50.58] 
 [name::Neurode] 
 State ::  
 Country :: [[Poland]]  

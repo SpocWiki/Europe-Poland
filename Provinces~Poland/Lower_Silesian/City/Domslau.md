@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.97] 
-[geo-lat::51.02] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::16.97] 
+[has_place_latitude::51.02] 
 [name::Domslau] 
 State ::  
 Country :: [[Poland]]  

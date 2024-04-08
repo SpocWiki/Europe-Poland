@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.72] 
-[geo-lat::50.78] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::15.72] 
+[has_place_latitude::50.78] 
 [name::Wang] 
 State ::  
 Country :: [[Poland]]  

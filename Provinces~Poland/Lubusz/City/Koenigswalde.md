@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.25] 
-[geo-lat::52.52] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::15.25] 
+[has_place_latitude::52.52] 
 [name::Koenigswalde] 
 State ::  
 Country :: [[Poland]]  

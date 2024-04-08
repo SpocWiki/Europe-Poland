@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.47] 
-[geo-lat::53.27] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::16.47] 
+[has_place_latitude::53.27] 
 [name::Deutsch-Krone] 
 State ::  
 Country :: [[Poland]]  

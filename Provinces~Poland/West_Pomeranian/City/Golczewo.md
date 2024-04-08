@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.98] 
-[geo-lat::53.83] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::14.98] 
+[has_place_latitude::53.83] 
 [name::Golczewo] 
 State ::  
 Country :: [[Poland]]  

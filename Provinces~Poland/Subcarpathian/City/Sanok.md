@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::22.23] 
-[geo-lat::49.58] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::22.23] 
+[has_place_latitude::49.58] 
 [name::Sanok] 
 State ::  
 Country :: [[Poland]]  

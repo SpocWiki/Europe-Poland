@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::19.23] 
-[geo-lat::54.23] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::19.23] 
+[has_place_latitude::54.23] 
 [name::Junfer] 
 State ::  
 Country :: [[Poland]]  

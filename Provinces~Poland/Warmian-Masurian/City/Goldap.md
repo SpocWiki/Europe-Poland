@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::22.3] 
-[geo-lat::54.32] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::22.3] 
+[has_place_latitude::54.32] 
 [name::Goldap] 
 State ::  
 Country :: [[Poland]]  

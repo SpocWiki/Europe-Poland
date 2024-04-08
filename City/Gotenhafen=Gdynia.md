@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::18.57] 
-[geo-lat::54.5] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::18.57] 
+[has_place_latitude::54.5] 
 [name::Gotenhafen=Gdynia] 
 State ::  
 Country :: [[Poland]]  

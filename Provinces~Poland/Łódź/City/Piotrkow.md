@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::19.7] 
-[geo-lat::51.32] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::19.7] 
+[has_place_latitude::51.32] 
 [name::Piotrkow] 
 State ::  
 Country :: [[Poland]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::17.58] 
-[geo-lat::54.75] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::17.58] 
+[has_place_latitude::54.75] 
 [name::Neuhoff] 
 State ::  
 Country :: [[Poland]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.22] 
-[geo-lat::51.4] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::16.22] 
+[has_place_latitude::51.4] 
 [name::Lueben] 
 State ::  
 Country :: [[Poland]]  

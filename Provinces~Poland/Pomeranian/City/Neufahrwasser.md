@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::18.67] 
-[geo-lat::54.4] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::18.67] 
+[has_place_latitude::54.4] 
 [name::Neufahrwasser] 
 State ::  
 Country :: [[Poland]]  

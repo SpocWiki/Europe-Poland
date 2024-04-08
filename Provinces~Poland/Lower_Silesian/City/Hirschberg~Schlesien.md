@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.73] 
-[geo-lat::50.9] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::15.73] 
+[has_place_latitude::50.9] 
 [name::Hirschberg~Schlesien] 
 State ::  
 Country :: [[Poland]]  

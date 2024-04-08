@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::19.5] 
-[geo-lat::49.88] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::19.5] 
+[has_place_latitude::49.88] 
 [name::Wadowice] 
 State ::  
 Country :: [[Poland]]  

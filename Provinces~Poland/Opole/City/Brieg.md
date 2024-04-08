@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::17.47] 
-[geo-lat::50.87] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::17.47] 
+[has_place_latitude::50.87] 
 [name::Brieg] 
 State ::  
 Country :: [[Poland]]  

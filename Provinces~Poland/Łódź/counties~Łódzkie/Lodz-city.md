@@ -15,8 +15,10 @@ confidential: public
 
 # [Lodz-city](Lodz-city.md) 
 
-[geo-lon::19.45] 
-[geo-lat::51.77] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::19.45] 
+[has_place_latitude::51.77] 
 [name::Lodz] 
 State ::  
 Country :: [[Poland]]  

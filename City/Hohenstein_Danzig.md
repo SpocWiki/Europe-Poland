@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::18,77] 
-[geo-lat::54,15] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::18,77] 
+[has_place_latitude::54,15] 
 [name::Hohenstein/Danzig] 
 State ::  
 Country :: [[Poland]]  

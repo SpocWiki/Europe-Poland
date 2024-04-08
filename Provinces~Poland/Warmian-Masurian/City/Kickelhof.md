@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::19.52] 
-[geo-lat::54.3] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::19.52] 
+[has_place_latitude::54.3] 
 [name::Kickelhof] 
 State ::  
 Country :: [[Russia]]  

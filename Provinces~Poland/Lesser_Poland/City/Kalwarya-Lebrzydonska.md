@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::19.63] 
-[geo-lat::49.87] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::19.63] 
+[has_place_latitude::49.87] 
 [name::Kalwarya-Lebrzydonska] 
 State ::  
 Country :: [[Poland]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::20] 
-[geo-lat::49.33] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::20] 
+[has_place_latitude::49.33] 
 [name::Poronin] 
 State ::  
 Country :: [[Poland]]  

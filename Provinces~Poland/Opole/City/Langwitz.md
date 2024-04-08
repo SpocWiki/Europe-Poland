@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::17.35] 
-[geo-lat::50.83] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::17.35] 
+[has_place_latitude::50.83] 
 [name::Langwitz] 
 State ::  
 Country :: [[Poland]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::19.03] 
-[geo-lat::54.03] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::19.03] 
+[has_place_latitude::54.03] 
 [name::Marienburg] 
 State ::  
 Country :: [[Poland]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::17.3] 
-[geo-lat::50.95] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::17.3] 
+[has_place_latitude::50.95] 
 [name::Ohlau] 
 State ::  
 Country :: [[Poland]]  

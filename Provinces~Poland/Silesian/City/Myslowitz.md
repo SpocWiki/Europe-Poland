@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::19.15] 
-[geo-lat::50.23] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::19.15] 
+[has_place_latitude::50.23] 
 [name::Myslowitz] 
 State ::  
 Country :: [[Poland]]  

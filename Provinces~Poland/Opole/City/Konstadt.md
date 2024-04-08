@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::18.05] 
-[geo-lat::51.03] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::18.05] 
+[has_place_latitude::51.03] 
 [name::Konstadt] 
 State ::  
 Country :: [[Poland]]  

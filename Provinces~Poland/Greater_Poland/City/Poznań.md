@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.93] 
-[geo-lat::52.42] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::16.93] 
+[has_place_latitude::52.42] 
 [name::Poznań] 
 State ::  [Greater_Poland](../../Greater_Poland.md) 
 Country :: [[Poland]]  

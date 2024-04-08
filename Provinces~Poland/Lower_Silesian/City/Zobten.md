@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.75] 
-[geo-lat::50.9] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::16.75] 
+[has_place_latitude::50.9] 
 [name::Zobten] 
 State ::  
 Country :: [[Poland]]  

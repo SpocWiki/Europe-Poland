@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::18.33] 
-[geo-lat::53.45] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::18.33] 
+[has_place_latitude::53.45] 
 [name::Schwetz] 
 State ::  
 Country :: [[Poland]]  

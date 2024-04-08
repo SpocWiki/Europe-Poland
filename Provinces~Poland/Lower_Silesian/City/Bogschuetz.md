@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::17.4] 
-[geo-lat::51.25] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::17.4] 
+[has_place_latitude::51.25] 
 [name::Bogschuetz] 
 State ::  
 Country :: [[Poland]]  

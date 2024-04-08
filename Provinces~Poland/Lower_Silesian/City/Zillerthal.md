@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.78] 
-[geo-lat::50.83] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::15.78] 
+[has_place_latitude::50.83] 
 [name::Zillerthal] 
 State ::  
 Country :: [[Poland]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::21] 
-[geo-lat::53.9] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::21] 
+[has_place_latitude::53.9] 
 [name::Beutnersdorf] 
 State ::  
 Country :: [[Poland]]  

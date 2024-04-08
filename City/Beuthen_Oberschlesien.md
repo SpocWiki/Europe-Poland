@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::18,93] 
-[geo-lat::50,35] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::18,93] 
+[has_place_latitude::50,35] 
 [name::Beuthen/Oberschlesien] 
 State ::  
 Country :: [[Poland]]  

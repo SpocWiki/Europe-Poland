@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::20.8] 
-[geo-lat::53.65] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::20.8] 
+[has_place_latitude::53.65] 
 [name::Wieps] 
 State ::  
 Country :: [[Poland]]  

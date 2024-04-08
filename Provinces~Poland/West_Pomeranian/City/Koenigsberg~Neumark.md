@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.43] 
-[geo-lat::52.97] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::14.43] 
+[has_place_latitude::52.97] 
 [name::Koenigsberg~Neumark] 
 State ::  
 Country :: [[Poland]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.1] 
-[geo-lat::53.25] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::16.1] 
+[has_place_latitude::53.25] 
 [name::Schulzendorf] 
 State ::  
 Country :: [[Poland]]  

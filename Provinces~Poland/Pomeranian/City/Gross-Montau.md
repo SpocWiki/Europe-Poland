@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::18.88] 
-[geo-lat::54.02] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::18.88] 
+[has_place_latitude::54.02] 
 [name::Gross-Montau] 
 State ::  
 Country :: [[Poland]]  

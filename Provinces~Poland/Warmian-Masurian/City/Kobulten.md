@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::21.03] 
-[geo-lat::53.8] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::21.03] 
+[has_place_latitude::53.8] 
 [name::Kobulten] 
 State ::  
 Country :: [[Poland]]  

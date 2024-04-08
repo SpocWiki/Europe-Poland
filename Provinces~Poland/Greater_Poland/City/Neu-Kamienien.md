@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::17.9] 
-[geo-lat::51.63] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::17.9] 
+[has_place_latitude::51.63] 
 [name::Neu-Kamienien] 
 State ::  
 Country :: [[Poland]]  

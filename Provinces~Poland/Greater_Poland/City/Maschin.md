@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.83] 
-[geo-lat::52.27] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::16.83] 
+[has_place_latitude::52.27] 
 [name::Maschin] 
 State ::  
 Country :: [[Poland]]  

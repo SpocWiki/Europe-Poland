@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::19.02] 
-[geo-lat::54.15] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::19.02] 
+[has_place_latitude::54.15] 
 [name::Neuteich] 
 State ::  
 Country :: [[Poland]]  

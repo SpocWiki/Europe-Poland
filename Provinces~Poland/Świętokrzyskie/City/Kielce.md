@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::20.62] 
-[geo-lat::50.87] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::20.62] 
+[has_place_latitude::50.87] 
 [name::Kielce] 
 State ::  
 Country :: [[Poland]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.07] 
-[geo-lat::51.6] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::15.07] 
+[has_place_latitude::51.6] 
 [name::Mildenau] 
 State ::  
 Country :: [[../../../../../Europe~South/Italy]]  

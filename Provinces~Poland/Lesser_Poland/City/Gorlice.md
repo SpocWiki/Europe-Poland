@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::21.17] 
-[geo-lat::49.65] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::21.17] 
+[has_place_latitude::49.65] 
 [name::Gorlice] 
 State ::  
 Country :: [[Poland]]  

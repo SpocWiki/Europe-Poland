@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::18.75] 
-[geo-lat::53.48] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::18.75] 
+[has_place_latitude::53.48] 
 [name::Graudenz] 
 State ::  
 Country :: [[Poland]]  

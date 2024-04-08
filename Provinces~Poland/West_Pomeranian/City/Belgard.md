@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16] 
-[geo-lat::54] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::16] 
+[has_place_latitude::54] 
 [name::Belgard] 
 State ::  
 Country :: [[Poland]]  

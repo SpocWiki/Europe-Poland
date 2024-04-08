@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.88] 
-[geo-lat::50.45] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::16.88] 
+[has_place_latitude::50.45] 
 [name::Reichenstein] 
 State ::  
 Country :: [[Poland]]  

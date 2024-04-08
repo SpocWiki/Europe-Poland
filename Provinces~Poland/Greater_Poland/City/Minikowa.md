@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.95] 
-[geo-lat::52.35] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::16.95] 
+[has_place_latitude::52.35] 
 [name::Minikowa] 
 State ::  
 Country :: [[Poland]]  

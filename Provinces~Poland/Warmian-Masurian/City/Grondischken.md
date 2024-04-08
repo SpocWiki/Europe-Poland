@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::21.92] 
-[geo-lat::54.23] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::21.92] 
+[has_place_latitude::54.23] 
 [name::Grondischken] 
 State ::  
 Country :: [[Poland]]  

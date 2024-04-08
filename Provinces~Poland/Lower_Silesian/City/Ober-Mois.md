@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.5] 
-[geo-lat::51.1] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::16.5] 
+[has_place_latitude::51.1] 
 [name::Ober-Mois] 
 State ::  
 Country :: [[Poland]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.72] 
-[geo-lat::52.67] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::14.72] 
+[has_place_latitude::52.67] 
 [name::Wilkersdorf] 
 State ::  
 Country :: [[Poland]]  

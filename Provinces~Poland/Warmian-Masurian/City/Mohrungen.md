@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::19.93] 
-[geo-lat::53.9] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::19.93] 
+[has_place_latitude::53.9] 
 [name::Mohrungen] 
 State ::  
 Country :: [[Poland]]  

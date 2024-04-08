@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::18.22] 
-[geo-lat::50.1] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::18.22] 
+[has_place_latitude::50.1] 
 [name::Ratibor] 
 State ::  
 Country :: [[Poland]]  

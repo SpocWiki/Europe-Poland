@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.03] 
-[geo-lat::52.87] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::16.03] 
+[has_place_latitude::52.87] 
 [name::Kreuz] 
 State ::  
 Country :: [[Poland]]  

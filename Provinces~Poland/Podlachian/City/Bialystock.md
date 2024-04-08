@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::23.17] 
-[geo-lat::53.13] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::23.17] 
+[has_place_latitude::53.13] 
 [name::Bialystock] 
 State ::  
 Country :: [[Poland]]  

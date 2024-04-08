@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::18] 
-[geo-lat::50.33] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::18] 
+[has_place_latitude::50.33] 
 [name::Nesselwitz] 
 State ::  
 Country :: [[Poland]]  

@@ -90,7 +90,7 @@ into a Subfolder named `Poland`, so that this Link into the Sub-Repository works
 
 ### #has_/image_for_/coat_of_arms 
 
-#has_/image_for_/coat_of_arms :: ![[./Coat_of_arms_of_Poland.svg|150]] <img src="./Coat_of_arms_of_Poland.svg" width="150"/>
+#has_/image_for_/coat_of_arms :: ![[./Coat_of_Arms-Poland.svg|150]] <img src="./Coat_of_Arms-Poland.svg" width="150"/>
 
 #has_/sound_of_/anthem :: ![[Anthem-Poland.mp3]]
 

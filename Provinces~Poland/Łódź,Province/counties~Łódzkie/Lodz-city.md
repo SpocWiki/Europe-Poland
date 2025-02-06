@@ -1,16 +1,20 @@
 ---
-location: [51.77,19.45] 
-mapzoom: [7,12] 
-mapmarker: city 
+location:
+  - 51.77
+  - 19.45
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32070
 isDeleted: false
 confidential: public
-
+aliases:
+  - Łódź
+  - Lodz
 ---
 
 # [Lodz-city](Lodz-city.md) 

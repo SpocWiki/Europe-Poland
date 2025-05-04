@@ -14,6 +14,9 @@ tags:
 - geo/Country/Region
 aliases:
 - Łódź
+- Lodz Province
+- Lodz Provinz
+- Provinz Lodz 
 
 Languages:
 - de

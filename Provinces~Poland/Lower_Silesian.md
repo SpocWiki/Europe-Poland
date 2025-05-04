@@ -14,6 +14,8 @@ tags:
 - geo/Country/Region
 aliases:
 - Lower_Silesian
+- Lower Silesian
+- Niederschlesien
 
 Languages:
 - de

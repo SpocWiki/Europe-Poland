@@ -14,6 +14,7 @@ tags:
 - geo/Country/Region
 aliases:
 - Lesser_Poland
+- Lesser Poland
 
 Languages:
 - de

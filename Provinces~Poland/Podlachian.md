@@ -14,6 +14,7 @@ tags:
 - geo/Country/Region
 aliases:
 - Podlachian
+- Podlaskie
 
 Languages:
 - de

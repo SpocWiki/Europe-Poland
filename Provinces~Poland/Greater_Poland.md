@@ -14,6 +14,7 @@ tags:
 - geo/Country/Region
 aliases:
 - Greater_Poland
+- Greater Poland
 
 Languages:
 - de

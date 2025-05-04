@@ -1,30 +1,30 @@
 ---
-location: [ 53.6 , 15.6 ] 
+location:
+  - 53.6
+  - 15.6
 type: geo-Region
 title: West_Pomeranian
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- West_Pomeranian
-
+  - West_Pomeranian
+  - West Pomeranian
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
 linkTitle: 
 keywords: 
 layout: 
 publishDate: 
-expiryDate: 
+expiryDate:
 ---
 
 # West_Pomeranian

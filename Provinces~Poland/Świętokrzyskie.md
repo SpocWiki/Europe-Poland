@@ -14,6 +14,8 @@ tags:
 - geo/Country/Region
 aliases:
 - Świętokrzyskie
+- Holy Cross
+- 
 
 Languages:
 - de

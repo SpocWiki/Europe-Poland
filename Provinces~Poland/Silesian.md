@@ -14,6 +14,7 @@ tags:
 - geo/Country/Region
 aliases:
 - Silesian
+- Schlesien
 
 Languages:
 - de

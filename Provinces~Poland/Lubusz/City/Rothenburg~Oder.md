@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Rothenburg~Oder|Rothenburg~Oder]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Rothenburg~Oder.public|Rothenburg~Oder.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Rothenburg~Oder.internal|Rothenburg~Oder.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Rothenburg~Oder.protect|Rothenburg~Oder.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Rothenburg~Oder.private|Rothenburg~Oder.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Rothenburg~Oder.personal|Rothenburg~Oder.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Rothenburg~Oder.secret|Rothenburg~Oder.secret]] 
+
+### [Rothenburg~Oder.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityRothenburg~Oder.public.md) 
+
+### [Rothenburg~Oder.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityRothenburg~Oder.internal.md) 
+
+### [Rothenburg~Oder.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityRothenburg~Oder.protect.md) 
+
+### [Rothenburg~Oder.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityRothenburg~Oder.private.md) 
+
+### [Rothenburg~Oder.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityRothenburg~Oder.personal.md) 
+
+### [Rothenburg~Oder.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityRothenburg~Oder.secret.md)
+

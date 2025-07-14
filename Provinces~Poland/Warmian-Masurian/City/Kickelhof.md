@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Kickelhof|Kickelhof]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Kickelhof.public|Kickelhof.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Kickelhof.internal|Kickelhof.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Kickelhof.protect|Kickelhof.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Kickelhof.private|Kickelhof.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Kickelhof.personal|Kickelhof.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Kickelhof.secret|Kickelhof.secret]] 
+
+### [Kickelhof.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityKickelhof.public.md) 
+
+### [Kickelhof.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityKickelhof.internal.md) 
+
+### [Kickelhof.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityKickelhof.protect.md) 
+
+### [Kickelhof.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityKickelhof.private.md) 
+
+### [Kickelhof.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityKickelhof.personal.md) 
+
+### [Kickelhof.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityKickelhof.secret.md)
+

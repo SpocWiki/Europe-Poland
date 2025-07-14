@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Techlipp|Techlipp]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Techlipp.public|Techlipp.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Techlipp.internal|Techlipp.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Techlipp.protect|Techlipp.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Techlipp.private|Techlipp.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Techlipp.personal|Techlipp.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Techlipp.secret|Techlipp.secret]] 
+
+### [Techlipp.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityTechlipp.public.md) 
+
+### [Techlipp.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityTechlipp.internal.md) 
+
+### [Techlipp.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityTechlipp.protect.md) 
+
+### [Techlipp.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityTechlipp.private.md) 
+
+### [Techlipp.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityTechlipp.personal.md) 
+
+### [Techlipp.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityTechlipp.secret.md)
+

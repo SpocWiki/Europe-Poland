@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Nikoleiken|Nikoleiken]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Nikoleiken.public|Nikoleiken.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Nikoleiken.internal|Nikoleiken.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Nikoleiken.protect|Nikoleiken.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Nikoleiken.private|Nikoleiken.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Nikoleiken.personal|Nikoleiken.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Nikoleiken.secret|Nikoleiken.secret]] 
+
+### [Nikoleiken.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNikoleiken.public.md) 
+
+### [Nikoleiken.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNikoleiken.internal.md) 
+
+### [Nikoleiken.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNikoleiken.protect.md) 
+
+### [Nikoleiken.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNikoleiken.private.md) 
+
+### [Nikoleiken.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNikoleiken.personal.md) 
+
+### [Nikoleiken.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNikoleiken.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Karlsdorf|Karlsdorf]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Karlsdorf.public|Karlsdorf.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Karlsdorf.internal|Karlsdorf.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Karlsdorf.protect|Karlsdorf.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Karlsdorf.private|Karlsdorf.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Karlsdorf.personal|Karlsdorf.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Karlsdorf.secret|Karlsdorf.secret]] 
+
+### [Karlsdorf.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityKarlsdorf.public.md) 
+
+### [Karlsdorf.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityKarlsdorf.internal.md) 
+
+### [Karlsdorf.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityKarlsdorf.protect.md) 
+
+### [Karlsdorf.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityKarlsdorf.private.md) 
+
+### [Karlsdorf.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityKarlsdorf.personal.md) 
+
+### [Karlsdorf.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityKarlsdorf.secret.md)
+

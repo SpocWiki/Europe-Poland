@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Koenigshuette|Koenigshuette]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Koenigshuette.public|Koenigshuette.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Koenigshuette.internal|Koenigshuette.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Koenigshuette.protect|Koenigshuette.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Koenigshuette.private|Koenigshuette.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Koenigshuette.personal|Koenigshuette.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Koenigshuette.secret|Koenigshuette.secret]] 
+
+### [Koenigshuette.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityKoenigshuette.public.md) 
+
+### [Koenigshuette.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityKoenigshuette.internal.md) 
+
+### [Koenigshuette.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityKoenigshuette.protect.md) 
+
+### [Koenigshuette.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityKoenigshuette.private.md) 
+
+### [Koenigshuette.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityKoenigshuette.personal.md) 
+
+### [Koenigshuette.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityKoenigshuette.secret.md)
+

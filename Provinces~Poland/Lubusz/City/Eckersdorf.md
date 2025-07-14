@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Eckersdorf|Eckersdorf]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Eckersdorf.public|Eckersdorf.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Eckersdorf.internal|Eckersdorf.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Eckersdorf.protect|Eckersdorf.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Eckersdorf.private|Eckersdorf.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Eckersdorf.personal|Eckersdorf.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Eckersdorf.secret|Eckersdorf.secret]] 
+
+### [Eckersdorf.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityEckersdorf.public.md) 
+
+### [Eckersdorf.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityEckersdorf.internal.md) 
+
+### [Eckersdorf.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityEckersdorf.protect.md) 
+
+### [Eckersdorf.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityEckersdorf.private.md) 
+
+### [Eckersdorf.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityEckersdorf.personal.md) 
+
+### [Eckersdorf.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityEckersdorf.secret.md)
+

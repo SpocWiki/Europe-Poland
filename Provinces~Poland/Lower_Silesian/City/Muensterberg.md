@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Muensterberg|Muensterberg]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Muensterberg.public|Muensterberg.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Muensterberg.internal|Muensterberg.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Muensterberg.protect|Muensterberg.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Muensterberg.private|Muensterberg.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Muensterberg.personal|Muensterberg.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Muensterberg.secret|Muensterberg.secret]] 
+
+### [Muensterberg.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityMuensterberg.public.md) 
+
+### [Muensterberg.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityMuensterberg.internal.md) 
+
+### [Muensterberg.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityMuensterberg.protect.md) 
+
+### [Muensterberg.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityMuensterberg.private.md) 
+
+### [Muensterberg.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityMuensterberg.personal.md) 
+
+### [Muensterberg.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityMuensterberg.secret.md)
+

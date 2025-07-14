@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Konstadt|Konstadt]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Konstadt.public|Konstadt.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Konstadt.internal|Konstadt.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Konstadt.protect|Konstadt.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Konstadt.private|Konstadt.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Konstadt.personal|Konstadt.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Konstadt.secret|Konstadt.secret]] 
+
+### [Konstadt.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityKonstadt.public.md) 
+
+### [Konstadt.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityKonstadt.internal.md) 
+
+### [Konstadt.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityKonstadt.protect.md) 
+
+### [Konstadt.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityKonstadt.private.md) 
+
+### [Konstadt.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityKonstadt.personal.md) 
+
+### [Konstadt.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityKonstadt.secret.md)
+

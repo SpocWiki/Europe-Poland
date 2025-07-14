@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Ratibor|Ratibor]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Ratibor.public|Ratibor.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Ratibor.internal|Ratibor.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Ratibor.protect|Ratibor.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Ratibor.private|Ratibor.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Ratibor.personal|Ratibor.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Ratibor.secret|Ratibor.secret]] 
+
+### [Ratibor.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityRatibor.public.md) 
+
+### [Ratibor.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityRatibor.internal.md) 
+
+### [Ratibor.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityRatibor.protect.md) 
+
+### [Ratibor.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityRatibor.private.md) 
+
+### [Ratibor.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityRatibor.personal.md) 
+
+### [Ratibor.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityRatibor.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Zielenzig|Zielenzig]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Zielenzig.public|Zielenzig.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Zielenzig.internal|Zielenzig.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Zielenzig.protect|Zielenzig.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Zielenzig.private|Zielenzig.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Zielenzig.personal|Zielenzig.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Zielenzig.secret|Zielenzig.secret]] 
+
+### [Zielenzig.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityZielenzig.public.md) 
+
+### [Zielenzig.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityZielenzig.internal.md) 
+
+### [Zielenzig.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityZielenzig.protect.md) 
+
+### [Zielenzig.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityZielenzig.private.md) 
+
+### [Zielenzig.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityZielenzig.personal.md) 
+
+### [Zielenzig.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityZielenzig.secret.md)
+

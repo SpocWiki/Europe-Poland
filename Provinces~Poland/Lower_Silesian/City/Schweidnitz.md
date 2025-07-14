@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Schweidnitz|Schweidnitz]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Schweidnitz.public|Schweidnitz.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Schweidnitz.internal|Schweidnitz.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Schweidnitz.protect|Schweidnitz.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Schweidnitz.private|Schweidnitz.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Schweidnitz.personal|Schweidnitz.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Schweidnitz.secret|Schweidnitz.secret]] 
+
+### [Schweidnitz.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CitySchweidnitz.public.md) 
+
+### [Schweidnitz.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CitySchweidnitz.internal.md) 
+
+### [Schweidnitz.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CitySchweidnitz.protect.md) 
+
+### [Schweidnitz.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CitySchweidnitz.private.md) 
+
+### [Schweidnitz.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CitySchweidnitz.personal.md) 
+
+### [Schweidnitz.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CitySchweidnitz.secret.md)
+

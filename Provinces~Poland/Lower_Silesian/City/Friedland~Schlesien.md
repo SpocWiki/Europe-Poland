@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Friedland~Schlesien|Friedland~Schlesien]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Friedland~Schlesien.public|Friedland~Schlesien.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Friedland~Schlesien.internal|Friedland~Schlesien.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Friedland~Schlesien.protect|Friedland~Schlesien.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Friedland~Schlesien.private|Friedland~Schlesien.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Friedland~Schlesien.personal|Friedland~Schlesien.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Friedland~Schlesien.secret|Friedland~Schlesien.secret]] 
+
+### [Friedland~Schlesien.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityFriedland~Schlesien.public.md) 
+
+### [Friedland~Schlesien.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityFriedland~Schlesien.internal.md) 
+
+### [Friedland~Schlesien.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityFriedland~Schlesien.protect.md) 
+
+### [Friedland~Schlesien.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityFriedland~Schlesien.private.md) 
+
+### [Friedland~Schlesien.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityFriedland~Schlesien.personal.md) 
+
+### [Friedland~Schlesien.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityFriedland~Schlesien.secret.md)
+

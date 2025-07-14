@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Wysoka|Wysoka]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Wysoka.public|Wysoka.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Wysoka.internal|Wysoka.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Wysoka.protect|Wysoka.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Wysoka.private|Wysoka.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Wysoka.personal|Wysoka.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Wysoka.secret|Wysoka.secret]] 
+
+### [Wysoka.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityWysoka.public.md) 
+
+### [Wysoka.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityWysoka.internal.md) 
+
+### [Wysoka.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityWysoka.protect.md) 
+
+### [Wysoka.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityWysoka.private.md) 
+
+### [Wysoka.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityWysoka.personal.md) 
+
+### [Wysoka.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityWysoka.secret.md)
+

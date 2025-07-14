@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Trackenberg|Trackenberg]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Trackenberg.public|Trackenberg.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Trackenberg.internal|Trackenberg.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Trackenberg.protect|Trackenberg.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Trackenberg.private|Trackenberg.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Trackenberg.personal|Trackenberg.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Trackenberg.secret|Trackenberg.secret]] 
+
+### [Trackenberg.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityTrackenberg.public.md) 
+
+### [Trackenberg.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityTrackenberg.internal.md) 
+
+### [Trackenberg.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityTrackenberg.protect.md) 
+
+### [Trackenberg.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityTrackenberg.private.md) 
+
+### [Trackenberg.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityTrackenberg.personal.md) 
+
+### [Trackenberg.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityTrackenberg.secret.md)
+

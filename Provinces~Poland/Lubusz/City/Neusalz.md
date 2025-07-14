@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Neusalz|Neusalz]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Neusalz.public|Neusalz.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Neusalz.internal|Neusalz.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Neusalz.protect|Neusalz.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Neusalz.private|Neusalz.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Neusalz.personal|Neusalz.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Neusalz.secret|Neusalz.secret]] 
+
+### [Neusalz.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityNeusalz.public.md) 
+
+### [Neusalz.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityNeusalz.internal.md) 
+
+### [Neusalz.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityNeusalz.protect.md) 
+
+### [Neusalz.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityNeusalz.private.md) 
+
+### [Neusalz.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityNeusalz.personal.md) 
+
+### [Neusalz.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityNeusalz.secret.md)
+

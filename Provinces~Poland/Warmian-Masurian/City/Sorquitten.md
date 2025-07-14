@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Sorquitten|Sorquitten]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Sorquitten.public|Sorquitten.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Sorquitten.internal|Sorquitten.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Sorquitten.protect|Sorquitten.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Sorquitten.private|Sorquitten.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Sorquitten.personal|Sorquitten.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Sorquitten.secret|Sorquitten.secret]] 
+
+### [Sorquitten.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CitySorquitten.public.md) 
+
+### [Sorquitten.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CitySorquitten.internal.md) 
+
+### [Sorquitten.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CitySorquitten.protect.md) 
+
+### [Sorquitten.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CitySorquitten.private.md) 
+
+### [Sorquitten.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CitySorquitten.personal.md) 
+
+### [Sorquitten.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CitySorquitten.secret.md)
+

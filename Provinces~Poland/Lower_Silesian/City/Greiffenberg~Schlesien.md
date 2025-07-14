@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Greiffenberg~Schlesien|Greiffenberg~Schlesien]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Greiffenberg~Schlesien.public|Greiffenberg~Schlesien.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Greiffenberg~Schlesien.internal|Greiffenberg~Schlesien.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Greiffenberg~Schlesien.protect|Greiffenberg~Schlesien.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Greiffenberg~Schlesien.private|Greiffenberg~Schlesien.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Greiffenberg~Schlesien.personal|Greiffenberg~Schlesien.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Greiffenberg~Schlesien.secret|Greiffenberg~Schlesien.secret]] 
+
+### [Greiffenberg~Schlesien.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityGreiffenberg~Schlesien.public.md) 
+
+### [Greiffenberg~Schlesien.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityGreiffenberg~Schlesien.internal.md) 
+
+### [Greiffenberg~Schlesien.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityGreiffenberg~Schlesien.protect.md) 
+
+### [Greiffenberg~Schlesien.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityGreiffenberg~Schlesien.private.md) 
+
+### [Greiffenberg~Schlesien.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityGreiffenberg~Schlesien.personal.md) 
+
+### [Greiffenberg~Schlesien.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityGreiffenberg~Schlesien.secret.md)
+

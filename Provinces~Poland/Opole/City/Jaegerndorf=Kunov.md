@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Czech_Republic/City/Jaegerndorf=Kunov|Jaegerndorf=Kunov]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Czech_Republic/City/Jaegerndorf=Kunov.public|Jaegerndorf=Kunov.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Czech_Republic/City/Jaegerndorf=Kunov.internal|Jaegerndorf=Kunov.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Czech_Republic/City/Jaegerndorf=Kunov.protect|Jaegerndorf=Kunov.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Czech_Republic/City/Jaegerndorf=Kunov.private|Jaegerndorf=Kunov.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Czech_Republic/City/Jaegerndorf=Kunov.personal|Jaegerndorf=Kunov.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Czech_Republic/City/Jaegerndorf=Kunov.secret|Jaegerndorf=Kunov.secret]] 
+
+### [Jaegerndorf=Kunov.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityJaegerndorf=Kunov.public.md) 
+
+### [Jaegerndorf=Kunov.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityJaegerndorf=Kunov.internal.md) 
+
+### [Jaegerndorf=Kunov.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityJaegerndorf=Kunov.protect.md) 
+
+### [Jaegerndorf=Kunov.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityJaegerndorf=Kunov.private.md) 
+
+### [Jaegerndorf=Kunov.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityJaegerndorf=Kunov.personal.md) 
+
+### [Jaegerndorf=Kunov.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityJaegerndorf=Kunov.secret.md)
+

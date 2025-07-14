@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Kaffzig|Kaffzig]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Kaffzig.public|Kaffzig.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Kaffzig.internal|Kaffzig.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Kaffzig.protect|Kaffzig.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Kaffzig.private|Kaffzig.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Kaffzig.personal|Kaffzig.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Kaffzig.secret|Kaffzig.secret]] 
+
+### [Kaffzig.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityKaffzig.public.md) 
+
+### [Kaffzig.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityKaffzig.internal.md) 
+
+### [Kaffzig.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityKaffzig.protect.md) 
+
+### [Kaffzig.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityKaffzig.private.md) 
+
+### [Kaffzig.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityKaffzig.personal.md) 
+
+### [Kaffzig.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityKaffzig.secret.md)
+

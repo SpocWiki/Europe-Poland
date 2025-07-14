@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Marggrabowa|Marggrabowa]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Marggrabowa.public|Marggrabowa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Marggrabowa.internal|Marggrabowa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Marggrabowa.protect|Marggrabowa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Marggrabowa.private|Marggrabowa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Marggrabowa.personal|Marggrabowa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Marggrabowa.secret|Marggrabowa.secret]] 
+
+### [Marggrabowa.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Podlachian\CityMarggrabowa.public.md) 
+
+### [Marggrabowa.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Podlachian\CityMarggrabowa.internal.md) 
+
+### [Marggrabowa.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Podlachian\CityMarggrabowa.protect.md) 
+
+### [Marggrabowa.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Podlachian\CityMarggrabowa.private.md) 
+
+### [Marggrabowa.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Podlachian\CityMarggrabowa.personal.md) 
+
+### [Marggrabowa.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Podlachian\CityMarggrabowa.secret.md)
+

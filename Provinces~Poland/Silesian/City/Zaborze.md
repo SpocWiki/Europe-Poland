@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Zaborze|Zaborze]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Zaborze.public|Zaborze.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Zaborze.internal|Zaborze.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Zaborze.protect|Zaborze.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Zaborze.private|Zaborze.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Zaborze.personal|Zaborze.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Zaborze.secret|Zaborze.secret]] 
+
+### [Zaborze.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityZaborze.public.md) 
+
+### [Zaborze.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityZaborze.internal.md) 
+
+### [Zaborze.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityZaborze.protect.md) 
+
+### [Zaborze.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityZaborze.private.md) 
+
+### [Zaborze.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityZaborze.personal.md) 
+
+### [Zaborze.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityZaborze.secret.md)
+

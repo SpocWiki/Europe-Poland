@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Woldenberg|Woldenberg]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Woldenberg.public|Woldenberg.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Woldenberg.internal|Woldenberg.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Woldenberg.protect|Woldenberg.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Woldenberg.private|Woldenberg.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Woldenberg.personal|Woldenberg.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Woldenberg.secret|Woldenberg.secret]] 
+
+### [Woldenberg.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityWoldenberg.public.md) 
+
+### [Woldenberg.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityWoldenberg.internal.md) 
+
+### [Woldenberg.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityWoldenberg.protect.md) 
+
+### [Woldenberg.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityWoldenberg.private.md) 
+
+### [Woldenberg.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityWoldenberg.personal.md) 
+
+### [Woldenberg.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityWoldenberg.secret.md)
+

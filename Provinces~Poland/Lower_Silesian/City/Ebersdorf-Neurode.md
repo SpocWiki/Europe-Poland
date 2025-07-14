@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Ebersdorf-Neurode|Ebersdorf-Neurode]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Ebersdorf-Neurode.public|Ebersdorf-Neurode.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Ebersdorf-Neurode.internal|Ebersdorf-Neurode.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Ebersdorf-Neurode.protect|Ebersdorf-Neurode.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Ebersdorf-Neurode.private|Ebersdorf-Neurode.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Ebersdorf-Neurode.personal|Ebersdorf-Neurode.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Ebersdorf-Neurode.secret|Ebersdorf-Neurode.secret]] 
+
+### [Ebersdorf-Neurode.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityEbersdorf-Neurode.public.md) 
+
+### [Ebersdorf-Neurode.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityEbersdorf-Neurode.internal.md) 
+
+### [Ebersdorf-Neurode.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityEbersdorf-Neurode.protect.md) 
+
+### [Ebersdorf-Neurode.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityEbersdorf-Neurode.private.md) 
+
+### [Ebersdorf-Neurode.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityEbersdorf-Neurode.personal.md) 
+
+### [Ebersdorf-Neurode.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityEbersdorf-Neurode.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Brznankowka|Brznankowka]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Brznankowka.public|Brznankowka.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Brznankowka.internal|Brznankowka.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Brznankowka.protect|Brznankowka.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Brznankowka.private|Brznankowka.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Brznankowka.personal|Brznankowka.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Brznankowka.secret|Brznankowka.secret]] 
+
+### [Brznankowka.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityBrznankowka.public.md) 
+
+### [Brznankowka.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityBrznankowka.internal.md) 
+
+### [Brznankowka.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityBrznankowka.protect.md) 
+
+### [Brznankowka.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityBrznankowka.private.md) 
+
+### [Brznankowka.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityBrznankowka.personal.md) 
+
+### [Brznankowka.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityBrznankowka.secret.md)
+

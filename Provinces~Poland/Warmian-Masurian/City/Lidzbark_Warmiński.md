@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Lidzbark_Warmiński|Lidzbark_Warmiński]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Lidzbark_Warmiński.public|Lidzbark_Warmiński.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Lidzbark_Warmiński.internal|Lidzbark_Warmiński.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Lidzbark_Warmiński.protect|Lidzbark_Warmiński.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Lidzbark_Warmiński.private|Lidzbark_Warmiński.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Lidzbark_Warmiński.personal|Lidzbark_Warmiński.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Lidzbark_Warmiński.secret|Lidzbark_Warmiński.secret]] 
+
+### [Lidzbark_Warmiński.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityLidzbark_Warmiński.public.md) 
+
+### [Lidzbark_Warmiński.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityLidzbark_Warmiński.internal.md) 
+
+### [Lidzbark_Warmiński.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityLidzbark_Warmiński.protect.md) 
+
+### [Lidzbark_Warmiński.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityLidzbark_Warmiński.private.md) 
+
+### [Lidzbark_Warmiński.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityLidzbark_Warmiński.personal.md) 
+
+### [Lidzbark_Warmiński.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityLidzbark_Warmiński.secret.md)
+

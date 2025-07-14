@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Dyhernfurth|Dyhernfurth]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Dyhernfurth.public|Dyhernfurth.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Dyhernfurth.internal|Dyhernfurth.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Dyhernfurth.protect|Dyhernfurth.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Dyhernfurth.private|Dyhernfurth.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Dyhernfurth.personal|Dyhernfurth.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Dyhernfurth.secret|Dyhernfurth.secret]] 
+
+### [Dyhernfurth.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityDyhernfurth.public.md) 
+
+### [Dyhernfurth.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityDyhernfurth.internal.md) 
+
+### [Dyhernfurth.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityDyhernfurth.protect.md) 
+
+### [Dyhernfurth.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityDyhernfurth.private.md) 
+
+### [Dyhernfurth.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityDyhernfurth.personal.md) 
+
+### [Dyhernfurth.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityDyhernfurth.secret.md)
+

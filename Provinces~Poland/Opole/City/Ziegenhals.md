@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Ziegenhals|Ziegenhals]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Ziegenhals.public|Ziegenhals.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Ziegenhals.internal|Ziegenhals.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Ziegenhals.protect|Ziegenhals.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Ziegenhals.private|Ziegenhals.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Ziegenhals.personal|Ziegenhals.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Ziegenhals.secret|Ziegenhals.secret]] 
+
+### [Ziegenhals.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityZiegenhals.public.md) 
+
+### [Ziegenhals.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityZiegenhals.internal.md) 
+
+### [Ziegenhals.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityZiegenhals.protect.md) 
+
+### [Ziegenhals.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityZiegenhals.private.md) 
+
+### [Ziegenhals.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityZiegenhals.personal.md) 
+
+### [Ziegenhals.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityZiegenhals.secret.md)
+

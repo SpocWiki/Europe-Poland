@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Lebehnke|Lebehnke]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Lebehnke.public|Lebehnke.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Lebehnke.internal|Lebehnke.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Lebehnke.protect|Lebehnke.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Lebehnke.private|Lebehnke.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Lebehnke.personal|Lebehnke.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Lebehnke.secret|Lebehnke.secret]] 
+
+### [Lebehnke.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityLebehnke.public.md) 
+
+### [Lebehnke.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityLebehnke.internal.md) 
+
+### [Lebehnke.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityLebehnke.protect.md) 
+
+### [Lebehnke.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityLebehnke.private.md) 
+
+### [Lebehnke.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityLebehnke.personal.md) 
+
+### [Lebehnke.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityLebehnke.secret.md)
+

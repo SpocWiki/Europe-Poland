@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Niederhermsdorf|Niederhermsdorf]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Niederhermsdorf.public|Niederhermsdorf.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Niederhermsdorf.internal|Niederhermsdorf.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Niederhermsdorf.protect|Niederhermsdorf.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Niederhermsdorf.private|Niederhermsdorf.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Niederhermsdorf.personal|Niederhermsdorf.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Niederhermsdorf.secret|Niederhermsdorf.secret]] 
+
+### [Niederhermsdorf.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityNiederhermsdorf.public.md) 
+
+### [Niederhermsdorf.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityNiederhermsdorf.internal.md) 
+
+### [Niederhermsdorf.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityNiederhermsdorf.protect.md) 
+
+### [Niederhermsdorf.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityNiederhermsdorf.private.md) 
+
+### [Niederhermsdorf.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityNiederhermsdorf.personal.md) 
+
+### [Niederhermsdorf.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityNiederhermsdorf.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Neustadt~Rheda~Pommern|Neustadt~Rheda~Pommern]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Neustadt~Rheda~Pommern.public|Neustadt~Rheda~Pommern.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Neustadt~Rheda~Pommern.internal|Neustadt~Rheda~Pommern.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Neustadt~Rheda~Pommern.protect|Neustadt~Rheda~Pommern.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Neustadt~Rheda~Pommern.private|Neustadt~Rheda~Pommern.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Neustadt~Rheda~Pommern.personal|Neustadt~Rheda~Pommern.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Neustadt~Rheda~Pommern.secret|Neustadt~Rheda~Pommern.secret]] 
+
+### [Neustadt~Rheda~Pommern.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNeustadt~Rheda~Pommern.public.md) 
+
+### [Neustadt~Rheda~Pommern.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNeustadt~Rheda~Pommern.internal.md) 
+
+### [Neustadt~Rheda~Pommern.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNeustadt~Rheda~Pommern.protect.md) 
+
+### [Neustadt~Rheda~Pommern.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNeustadt~Rheda~Pommern.private.md) 
+
+### [Neustadt~Rheda~Pommern.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNeustadt~Rheda~Pommern.personal.md) 
+
+### [Neustadt~Rheda~Pommern.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNeustadt~Rheda~Pommern.secret.md)
+

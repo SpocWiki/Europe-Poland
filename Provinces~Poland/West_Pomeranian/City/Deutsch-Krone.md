@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Deutsch-Krone|Deutsch-Krone]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Deutsch-Krone.public|Deutsch-Krone.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Deutsch-Krone.internal|Deutsch-Krone.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Deutsch-Krone.protect|Deutsch-Krone.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Deutsch-Krone.private|Deutsch-Krone.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Deutsch-Krone.personal|Deutsch-Krone.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Deutsch-Krone.secret|Deutsch-Krone.secret]] 
+
+### [Deutsch-Krone.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityDeutsch-Krone.public.md) 
+
+### [Deutsch-Krone.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityDeutsch-Krone.internal.md) 
+
+### [Deutsch-Krone.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityDeutsch-Krone.protect.md) 
+
+### [Deutsch-Krone.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityDeutsch-Krone.private.md) 
+
+### [Deutsch-Krone.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityDeutsch-Krone.personal.md) 
+
+### [Deutsch-Krone.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityDeutsch-Krone.secret.md)
+

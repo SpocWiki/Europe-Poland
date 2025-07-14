@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Kokoschken|Kokoschken]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Kokoschken.public|Kokoschken.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Kokoschken.internal|Kokoschken.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Kokoschken.protect|Kokoschken.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Kokoschken.private|Kokoschken.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Kokoschken.personal|Kokoschken.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Kokoschken.secret|Kokoschken.secret]] 
+
+### [Kokoschken.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityKokoschken.public.md) 
+
+### [Kokoschken.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityKokoschken.internal.md) 
+
+### [Kokoschken.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityKokoschken.protect.md) 
+
+### [Kokoschken.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityKokoschken.private.md) 
+
+### [Kokoschken.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityKokoschken.personal.md) 
+
+### [Kokoschken.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityKokoschken.secret.md)
+

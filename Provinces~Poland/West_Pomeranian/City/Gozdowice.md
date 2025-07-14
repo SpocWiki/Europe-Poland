@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Gozdowice|Gozdowice]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Gozdowice.public|Gozdowice.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Gozdowice.internal|Gozdowice.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Gozdowice.protect|Gozdowice.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Gozdowice.private|Gozdowice.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Gozdowice.personal|Gozdowice.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Gozdowice.secret|Gozdowice.secret]] 
+
+### [Gozdowice.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityGozdowice.public.md) 
+
+### [Gozdowice.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityGozdowice.internal.md) 
+
+### [Gozdowice.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityGozdowice.protect.md) 
+
+### [Gozdowice.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityGozdowice.private.md) 
+
+### [Gozdowice.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityGozdowice.personal.md) 
+
+### [Gozdowice.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityGozdowice.secret.md)
+

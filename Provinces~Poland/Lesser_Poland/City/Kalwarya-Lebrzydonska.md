@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Kalwarya-Lebrzydonska|Kalwarya-Lebrzydonska]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Kalwarya-Lebrzydonska.public|Kalwarya-Lebrzydonska.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Kalwarya-Lebrzydonska.internal|Kalwarya-Lebrzydonska.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Kalwarya-Lebrzydonska.protect|Kalwarya-Lebrzydonska.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Kalwarya-Lebrzydonska.private|Kalwarya-Lebrzydonska.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Kalwarya-Lebrzydonska.personal|Kalwarya-Lebrzydonska.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Kalwarya-Lebrzydonska.secret|Kalwarya-Lebrzydonska.secret]] 
+
+### [Kalwarya-Lebrzydonska.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityKalwarya-Lebrzydonska.public.md) 
+
+### [Kalwarya-Lebrzydonska.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityKalwarya-Lebrzydonska.internal.md) 
+
+### [Kalwarya-Lebrzydonska.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityKalwarya-Lebrzydonska.protect.md) 
+
+### [Kalwarya-Lebrzydonska.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityKalwarya-Lebrzydonska.private.md) 
+
+### [Kalwarya-Lebrzydonska.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityKalwarya-Lebrzydonska.personal.md) 
+
+### [Kalwarya-Lebrzydonska.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityKalwarya-Lebrzydonska.secret.md)
+

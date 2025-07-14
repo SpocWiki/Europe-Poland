@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Schoenlanke|Schoenlanke]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Schoenlanke.public|Schoenlanke.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Schoenlanke.internal|Schoenlanke.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Schoenlanke.protect|Schoenlanke.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Schoenlanke.private|Schoenlanke.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Schoenlanke.personal|Schoenlanke.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Schoenlanke.secret|Schoenlanke.secret]] 
+
+### [Schoenlanke.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CitySchoenlanke.public.md) 
+
+### [Schoenlanke.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CitySchoenlanke.internal.md) 
+
+### [Schoenlanke.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CitySchoenlanke.protect.md) 
+
+### [Schoenlanke.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CitySchoenlanke.private.md) 
+
+### [Schoenlanke.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CitySchoenlanke.personal.md) 
+
+### [Schoenlanke.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CitySchoenlanke.secret.md)
+

@@ -67,12 +67,17 @@ maxZoom: 18
 > [Wikipedia](https://en.wikipedia.org/wiki/Krak%C3%B3w)
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Krakau|Krakau]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Krakau.public|Krakau.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Krakau.internal|Krakau.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Krakau.protect|Krakau.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Krakau.private|Krakau.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Krakau.personal|Krakau.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Krakau.secret|Krakau.secret]] 
+
+### [Kraków.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityKraków.public.md) 
+
+### [Kraków.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityKraków.internal.md) 
+
+### [Kraków.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityKraków.protect.md) 
+
+### [Kraków.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityKraków.private.md) 
+
+### [Kraków.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityKraków.personal.md) 
+
+### [Kraków.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityKraków.secret.md)
+

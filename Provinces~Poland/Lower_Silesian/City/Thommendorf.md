@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Thommendorf|Thommendorf]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Thommendorf.public|Thommendorf.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Thommendorf.internal|Thommendorf.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Thommendorf.protect|Thommendorf.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Thommendorf.private|Thommendorf.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Thommendorf.personal|Thommendorf.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Thommendorf.secret|Thommendorf.secret]] 
+
+### [Thommendorf.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityThommendorf.public.md) 
+
+### [Thommendorf.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityThommendorf.internal.md) 
+
+### [Thommendorf.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityThommendorf.protect.md) 
+
+### [Thommendorf.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityThommendorf.private.md) 
+
+### [Thommendorf.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityThommendorf.personal.md) 
+
+### [Thommendorf.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityThommendorf.secret.md)
+

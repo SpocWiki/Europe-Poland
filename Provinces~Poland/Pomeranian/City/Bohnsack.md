@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Bohnsack|Bohnsack]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Bohnsack.public|Bohnsack.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Bohnsack.internal|Bohnsack.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Bohnsack.protect|Bohnsack.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Bohnsack.private|Bohnsack.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Bohnsack.personal|Bohnsack.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Bohnsack.secret|Bohnsack.secret]] 
+
+### [Bohnsack.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityBohnsack.public.md) 
+
+### [Bohnsack.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityBohnsack.internal.md) 
+
+### [Bohnsack.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityBohnsack.protect.md) 
+
+### [Bohnsack.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityBohnsack.private.md) 
+
+### [Bohnsack.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityBohnsack.personal.md) 
+
+### [Bohnsack.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityBohnsack.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Gilgenburg|Gilgenburg]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Gilgenburg.public|Gilgenburg.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Gilgenburg.internal|Gilgenburg.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Gilgenburg.protect|Gilgenburg.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Gilgenburg.private|Gilgenburg.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Gilgenburg.personal|Gilgenburg.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Gilgenburg.secret|Gilgenburg.secret]] 
+
+### [Gilgenburg.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityGilgenburg.public.md) 
+
+### [Gilgenburg.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityGilgenburg.internal.md) 
+
+### [Gilgenburg.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityGilgenburg.protect.md) 
+
+### [Gilgenburg.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityGilgenburg.private.md) 
+
+### [Gilgenburg.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityGilgenburg.personal.md) 
+
+### [Gilgenburg.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityGilgenburg.secret.md)
+

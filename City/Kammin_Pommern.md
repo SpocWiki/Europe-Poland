@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Kammin_Pommern|Kammin_Pommern]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Kammin_Pommern.public|Kammin_Pommern.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Kammin_Pommern.internal|Kammin_Pommern.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Kammin_Pommern.protect|Kammin_Pommern.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Kammin_Pommern.private|Kammin_Pommern.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Kammin_Pommern.personal|Kammin_Pommern.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Kammin_Pommern.secret|Kammin_Pommern.secret]] 
+
+### [Kammin_Pommern.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\CityKammin_Pommern.public.md) 
+
+### [Kammin_Pommern.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\CityKammin_Pommern.internal.md) 
+
+### [Kammin_Pommern.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\CityKammin_Pommern.protect.md) 
+
+### [Kammin_Pommern.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\CityKammin_Pommern.private.md) 
+
+### [Kammin_Pommern.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\CityKammin_Pommern.personal.md) 
+
+### [Kammin_Pommern.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\CityKammin_Pommern.secret.md)
+

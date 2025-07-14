@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Podsamtsche|Podsamtsche]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Podsamtsche.public|Podsamtsche.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Podsamtsche.internal|Podsamtsche.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Podsamtsche.protect|Podsamtsche.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Podsamtsche.private|Podsamtsche.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Podsamtsche.personal|Podsamtsche.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Podsamtsche.secret|Podsamtsche.secret]] 
+
+### [Podsamtsche.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Łódź,Province\CityPodsamtsche.public.md) 
+
+### [Podsamtsche.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Łódź,Province\CityPodsamtsche.internal.md) 
+
+### [Podsamtsche.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Łódź,Province\CityPodsamtsche.protect.md) 
+
+### [Podsamtsche.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Łódź,Province\CityPodsamtsche.private.md) 
+
+### [Podsamtsche.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Łódź,Province\CityPodsamtsche.personal.md) 
+
+### [Podsamtsche.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Łódź,Province\CityPodsamtsche.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Rosenberg~Westpommern|Rosenberg~Westpommern]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Rosenberg~Westpommern.public|Rosenberg~Westpommern.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Rosenberg~Westpommern.internal|Rosenberg~Westpommern.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Rosenberg~Westpommern.protect|Rosenberg~Westpommern.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Rosenberg~Westpommern.private|Rosenberg~Westpommern.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Rosenberg~Westpommern.personal|Rosenberg~Westpommern.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Rosenberg~Westpommern.secret|Rosenberg~Westpommern.secret]] 
+
+### [Rosenberg~Westpommern.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityRosenberg~Westpommern.public.md) 
+
+### [Rosenberg~Westpommern.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityRosenberg~Westpommern.internal.md) 
+
+### [Rosenberg~Westpommern.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityRosenberg~Westpommern.protect.md) 
+
+### [Rosenberg~Westpommern.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityRosenberg~Westpommern.private.md) 
+
+### [Rosenberg~Westpommern.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityRosenberg~Westpommern.personal.md) 
+
+### [Rosenberg~Westpommern.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityRosenberg~Westpommern.secret.md)
+

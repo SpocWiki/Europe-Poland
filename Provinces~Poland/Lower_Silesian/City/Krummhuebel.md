@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Krummhuebel|Krummhuebel]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Krummhuebel.public|Krummhuebel.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Krummhuebel.internal|Krummhuebel.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Krummhuebel.protect|Krummhuebel.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Krummhuebel.private|Krummhuebel.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Krummhuebel.personal|Krummhuebel.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Krummhuebel.secret|Krummhuebel.secret]] 
+
+### [Krummhuebel.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKrummhuebel.public.md) 
+
+### [Krummhuebel.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKrummhuebel.internal.md) 
+
+### [Krummhuebel.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKrummhuebel.protect.md) 
+
+### [Krummhuebel.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKrummhuebel.private.md) 
+
+### [Krummhuebel.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKrummhuebel.personal.md) 
+
+### [Krummhuebel.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKrummhuebel.secret.md)
+

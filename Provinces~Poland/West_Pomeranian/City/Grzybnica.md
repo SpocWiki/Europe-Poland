@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Grzybnica|Grzybnica]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Grzybnica.public|Grzybnica.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Grzybnica.internal|Grzybnica.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Grzybnica.protect|Grzybnica.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Grzybnica.private|Grzybnica.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Grzybnica.personal|Grzybnica.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Grzybnica.secret|Grzybnica.secret]] 
+
+### [Grzybnica.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityGrzybnica.public.md) 
+
+### [Grzybnica.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityGrzybnica.internal.md) 
+
+### [Grzybnica.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityGrzybnica.protect.md) 
+
+### [Grzybnica.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityGrzybnica.private.md) 
+
+### [Grzybnica.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityGrzybnica.personal.md) 
+
+### [Grzybnica.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityGrzybnica.secret.md)
+

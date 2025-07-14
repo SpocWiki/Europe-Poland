@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Alt-Boick|Alt-Boick]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Alt-Boick.public|Alt-Boick.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Alt-Boick.internal|Alt-Boick.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Alt-Boick.protect|Alt-Boick.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Alt-Boick.private|Alt-Boick.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Alt-Boick.personal|Alt-Boick.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Alt-Boick.secret|Alt-Boick.secret]] 
+
+### [Alt-Boick.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityAlt-Boick.public.md) 
+
+### [Alt-Boick.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityAlt-Boick.internal.md) 
+
+### [Alt-Boick.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityAlt-Boick.protect.md) 
+
+### [Alt-Boick.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityAlt-Boick.private.md) 
+
+### [Alt-Boick.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityAlt-Boick.personal.md) 
+
+### [Alt-Boick.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityAlt-Boick.secret.md)
+

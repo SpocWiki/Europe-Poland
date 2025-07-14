@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Patschkau|Patschkau]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Patschkau.public|Patschkau.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Patschkau.internal|Patschkau.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Patschkau.protect|Patschkau.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Patschkau.private|Patschkau.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Patschkau.personal|Patschkau.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Patschkau.secret|Patschkau.secret]] 
+
+### [Patschkau.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityPatschkau.public.md) 
+
+### [Patschkau.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityPatschkau.internal.md) 
+
+### [Patschkau.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityPatschkau.protect.md) 
+
+### [Patschkau.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityPatschkau.private.md) 
+
+### [Patschkau.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityPatschkau.personal.md) 
+
+### [Patschkau.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityPatschkau.secret.md)
+

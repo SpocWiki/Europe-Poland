@@ -41,11 +41,16 @@ markerFolder: ./Podlachian/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/Counties/Podlachian|Podlachian]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/Counties/Podlachian.public|Podlachian.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/Counties/Podlachian.internal|Podlachian.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/Counties/Podlachian.protect|Podlachian.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/Counties/Podlachian.private|Podlachian.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/Counties/Podlachian.personal|Podlachian.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/Counties/Podlachian.secret|Podlachian.secret]] 
+
+### [Podlachian.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandPodlachian.public.md) 
+
+### [Podlachian.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandPodlachian.internal.md) 
+
+### [Podlachian.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandPodlachian.protect.md) 
+
+### [Podlachian.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandPodlachian.private.md) 
+
+### [Podlachian.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandPodlachian.personal.md) 
+
+### [Podlachian.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandPodlachian.secret.md)
 

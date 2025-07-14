@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Gnesen|Gnesen]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Gnesen.public|Gnesen.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Gnesen.internal|Gnesen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Gnesen.protect|Gnesen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Gnesen.private|Gnesen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Gnesen.personal|Gnesen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Gnesen.secret|Gnesen.secret]] 
+
+### [Gnesen.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityGnesen.public.md) 
+
+### [Gnesen.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityGnesen.internal.md) 
+
+### [Gnesen.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityGnesen.protect.md) 
+
+### [Gnesen.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityGnesen.private.md) 
+
+### [Gnesen.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityGnesen.personal.md) 
+
+### [Gnesen.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityGnesen.secret.md)
+

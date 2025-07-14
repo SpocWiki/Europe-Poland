@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Czech_Republic/City/Istebna|Istebna]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Czech_Republic/City/Istebna.public|Istebna.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Czech_Republic/City/Istebna.internal|Istebna.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Czech_Republic/City/Istebna.protect|Istebna.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Czech_Republic/City/Istebna.private|Istebna.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Czech_Republic/City/Istebna.personal|Istebna.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Czech_Republic/City/Istebna.secret|Istebna.secret]] 
+
+### [Istebna.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityIstebna.public.md) 
+
+### [Istebna.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityIstebna.internal.md) 
+
+### [Istebna.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityIstebna.protect.md) 
+
+### [Istebna.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityIstebna.private.md) 
+
+### [Istebna.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityIstebna.personal.md) 
+
+### [Istebna.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityIstebna.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Herwigsdorf|Herwigsdorf]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Herwigsdorf.public|Herwigsdorf.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Herwigsdorf.internal|Herwigsdorf.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Herwigsdorf.protect|Herwigsdorf.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Herwigsdorf.private|Herwigsdorf.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Herwigsdorf.personal|Herwigsdorf.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Herwigsdorf.secret|Herwigsdorf.secret]] 
+
+### [Herwigsdorf.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityHerwigsdorf.public.md) 
+
+### [Herwigsdorf.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityHerwigsdorf.internal.md) 
+
+### [Herwigsdorf.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityHerwigsdorf.protect.md) 
+
+### [Herwigsdorf.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityHerwigsdorf.private.md) 
+
+### [Herwigsdorf.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityHerwigsdorf.personal.md) 
+
+### [Herwigsdorf.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityHerwigsdorf.secret.md)
+

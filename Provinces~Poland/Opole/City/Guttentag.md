@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Guttentag|Guttentag]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Guttentag.public|Guttentag.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Guttentag.internal|Guttentag.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Guttentag.protect|Guttentag.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Guttentag.private|Guttentag.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Guttentag.personal|Guttentag.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Guttentag.secret|Guttentag.secret]] 
+
+### [Guttentag.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityGuttentag.public.md) 
+
+### [Guttentag.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityGuttentag.internal.md) 
+
+### [Guttentag.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityGuttentag.protect.md) 
+
+### [Guttentag.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityGuttentag.private.md) 
+
+### [Guttentag.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityGuttentag.personal.md) 
+
+### [Guttentag.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityGuttentag.secret.md)
+

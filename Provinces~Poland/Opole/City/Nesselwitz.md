@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Nesselwitz|Nesselwitz]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Nesselwitz.public|Nesselwitz.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Nesselwitz.internal|Nesselwitz.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Nesselwitz.protect|Nesselwitz.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Nesselwitz.private|Nesselwitz.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Nesselwitz.personal|Nesselwitz.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Nesselwitz.secret|Nesselwitz.secret]] 
+
+### [Nesselwitz.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityNesselwitz.public.md) 
+
+### [Nesselwitz.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityNesselwitz.internal.md) 
+
+### [Nesselwitz.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityNesselwitz.protect.md) 
+
+### [Nesselwitz.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityNesselwitz.private.md) 
+
+### [Nesselwitz.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityNesselwitz.personal.md) 
+
+### [Nesselwitz.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityNesselwitz.secret.md)
+

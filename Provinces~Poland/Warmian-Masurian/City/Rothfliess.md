@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Rothfliess|Rothfliess]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Rothfliess.public|Rothfliess.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Rothfliess.internal|Rothfliess.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Rothfliess.protect|Rothfliess.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Rothfliess.private|Rothfliess.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Rothfliess.personal|Rothfliess.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Rothfliess.secret|Rothfliess.secret]] 
+
+### [Rothfliess.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityRothfliess.public.md) 
+
+### [Rothfliess.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityRothfliess.internal.md) 
+
+### [Rothfliess.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityRothfliess.protect.md) 
+
+### [Rothfliess.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityRothfliess.private.md) 
+
+### [Rothfliess.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityRothfliess.personal.md) 
+
+### [Rothfliess.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityRothfliess.secret.md)
+

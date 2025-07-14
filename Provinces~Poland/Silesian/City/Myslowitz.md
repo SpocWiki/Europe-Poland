@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Myslowitz|Myslowitz]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Myslowitz.public|Myslowitz.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Myslowitz.internal|Myslowitz.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Myslowitz.protect|Myslowitz.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Myslowitz.private|Myslowitz.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Myslowitz.personal|Myslowitz.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Myslowitz.secret|Myslowitz.secret]] 
+
+### [Myslowitz.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityMyslowitz.public.md) 
+
+### [Myslowitz.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityMyslowitz.internal.md) 
+
+### [Myslowitz.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityMyslowitz.protect.md) 
+
+### [Myslowitz.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityMyslowitz.private.md) 
+
+### [Myslowitz.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityMyslowitz.personal.md) 
+
+### [Myslowitz.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityMyslowitz.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Soltmahnen|Soltmahnen]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Soltmahnen.public|Soltmahnen.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Soltmahnen.internal|Soltmahnen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Soltmahnen.protect|Soltmahnen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Soltmahnen.private|Soltmahnen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Soltmahnen.personal|Soltmahnen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Soltmahnen.secret|Soltmahnen.secret]] 
+
+### [Soltmahnen.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Podlachian\CitySoltmahnen.public.md) 
+
+### [Soltmahnen.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Podlachian\CitySoltmahnen.internal.md) 
+
+### [Soltmahnen.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Podlachian\CitySoltmahnen.protect.md) 
+
+### [Soltmahnen.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Podlachian\CitySoltmahnen.private.md) 
+
+### [Soltmahnen.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Podlachian\CitySoltmahnen.personal.md) 
+
+### [Soltmahnen.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Podlachian\CitySoltmahnen.secret.md)
+

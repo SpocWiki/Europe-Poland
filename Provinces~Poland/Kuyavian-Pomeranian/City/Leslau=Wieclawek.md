@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Leslau=Wieclawek|Leslau=Wieclawek]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Leslau=Wieclawek.public|Leslau=Wieclawek.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Leslau=Wieclawek.internal|Leslau=Wieclawek.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Leslau=Wieclawek.protect|Leslau=Wieclawek.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Leslau=Wieclawek.private|Leslau=Wieclawek.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Leslau=Wieclawek.personal|Leslau=Wieclawek.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Leslau=Wieclawek.secret|Leslau=Wieclawek.secret]] 
+
+### [Leslau=Wieclawek.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityLeslau=Wieclawek.public.md) 
+
+### [Leslau=Wieclawek.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityLeslau=Wieclawek.internal.md) 
+
+### [Leslau=Wieclawek.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityLeslau=Wieclawek.protect.md) 
+
+### [Leslau=Wieclawek.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityLeslau=Wieclawek.private.md) 
+
+### [Leslau=Wieclawek.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityLeslau=Wieclawek.personal.md) 
+
+### [Leslau=Wieclawek.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityLeslau=Wieclawek.secret.md)
+

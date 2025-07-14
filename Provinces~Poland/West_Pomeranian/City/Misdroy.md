@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Misdroy|Misdroy]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Misdroy.public|Misdroy.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Misdroy.internal|Misdroy.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Misdroy.protect|Misdroy.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Misdroy.private|Misdroy.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Misdroy.personal|Misdroy.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Misdroy.secret|Misdroy.secret]] 
+
+### [Misdroy.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityMisdroy.public.md) 
+
+### [Misdroy.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityMisdroy.internal.md) 
+
+### [Misdroy.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityMisdroy.protect.md) 
+
+### [Misdroy.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityMisdroy.private.md) 
+
+### [Misdroy.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityMisdroy.personal.md) 
+
+### [Misdroy.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityMisdroy.secret.md)
+

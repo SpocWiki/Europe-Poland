@@ -56,10 +56,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Stettin|Stettin]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Stettin.public|Stettin.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Stettin.internal|Stettin.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Stettin.protect|Stettin.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Stettin.private|Stettin.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Stettin.personal|Stettin.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Stettin.secret|Stettin.secret]] 
+
+### [Stettin.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\counties~Zachodniopomorskie\Szczecin,CountyStettin.public.md) 
+
+### [Stettin.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\counties~Zachodniopomorskie\Szczecin,CountyStettin.internal.md) 
+
+### [Stettin.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\counties~Zachodniopomorskie\Szczecin,CountyStettin.protect.md) 
+
+### [Stettin.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\counties~Zachodniopomorskie\Szczecin,CountyStettin.private.md) 
+
+### [Stettin.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\counties~Zachodniopomorskie\Szczecin,CountyStettin.personal.md) 
+
+### [Stettin.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\counties~Zachodniopomorskie\Szczecin,CountyStettin.secret.md)
+

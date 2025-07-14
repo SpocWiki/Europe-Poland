@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Podgoczyn|Podgoczyn]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Podgoczyn.public|Podgoczyn.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Podgoczyn.internal|Podgoczyn.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Podgoczyn.protect|Podgoczyn.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Podgoczyn.private|Podgoczyn.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Podgoczyn.personal|Podgoczyn.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Podgoczyn.secret|Podgoczyn.secret]] 
+
+### [Podgoczyn.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityPodgoczyn.public.md) 
+
+### [Podgoczyn.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityPodgoczyn.internal.md) 
+
+### [Podgoczyn.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityPodgoczyn.protect.md) 
+
+### [Podgoczyn.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityPodgoczyn.private.md) 
+
+### [Podgoczyn.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityPodgoczyn.personal.md) 
+
+### [Podgoczyn.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityPodgoczyn.secret.md)
+

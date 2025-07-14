@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Schulzendorf|Schulzendorf]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Schulzendorf.public|Schulzendorf.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Schulzendorf.internal|Schulzendorf.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Schulzendorf.protect|Schulzendorf.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Schulzendorf.private|Schulzendorf.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Schulzendorf.personal|Schulzendorf.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Schulzendorf.secret|Schulzendorf.secret]] 
+
+### [Schulzendorf.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CitySchulzendorf.public.md) 
+
+### [Schulzendorf.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CitySchulzendorf.internal.md) 
+
+### [Schulzendorf.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CitySchulzendorf.protect.md) 
+
+### [Schulzendorf.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CitySchulzendorf.private.md) 
+
+### [Schulzendorf.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CitySchulzendorf.personal.md) 
+
+### [Schulzendorf.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CitySchulzendorf.secret.md)
+

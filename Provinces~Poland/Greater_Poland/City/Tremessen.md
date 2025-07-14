@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Tremessen|Tremessen]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Tremessen.public|Tremessen.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Tremessen.internal|Tremessen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Tremessen.protect|Tremessen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Tremessen.private|Tremessen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Tremessen.personal|Tremessen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Tremessen.secret|Tremessen.secret]] 
+
+### [Tremessen.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityTremessen.public.md) 
+
+### [Tremessen.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityTremessen.internal.md) 
+
+### [Tremessen.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityTremessen.protect.md) 
+
+### [Tremessen.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityTremessen.private.md) 
+
+### [Tremessen.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityTremessen.personal.md) 
+
+### [Tremessen.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityTremessen.secret.md)
+

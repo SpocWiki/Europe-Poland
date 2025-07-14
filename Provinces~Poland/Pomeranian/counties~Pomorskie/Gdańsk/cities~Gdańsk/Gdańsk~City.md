@@ -28,3 +28,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gda%C5%84sk)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Gdańsk~City.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\counties~Pomorskie\Gdańsk\cities~GdańskGdańsk~City.public.md) 
+
+### [Gdańsk~City.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\counties~Pomorskie\Gdańsk\cities~GdańskGdańsk~City.internal.md) 
+
+### [Gdańsk~City.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\counties~Pomorskie\Gdańsk\cities~GdańskGdańsk~City.protect.md) 
+
+### [Gdańsk~City.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\counties~Pomorskie\Gdańsk\cities~GdańskGdańsk~City.private.md) 
+
+### [Gdańsk~City.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\counties~Pomorskie\Gdańsk\cities~GdańskGdańsk~City.personal.md) 
+
+### [Gdańsk~City.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\counties~Pomorskie\Gdańsk\cities~GdańskGdańsk~City.secret.md)
+

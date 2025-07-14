@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Koenigszelt|Koenigszelt]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Koenigszelt.public|Koenigszelt.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Koenigszelt.internal|Koenigszelt.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Koenigszelt.protect|Koenigszelt.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Koenigszelt.private|Koenigszelt.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Koenigszelt.personal|Koenigszelt.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Koenigszelt.secret|Koenigszelt.secret]] 
+
+### [Koenigszelt.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKoenigszelt.public.md) 
+
+### [Koenigszelt.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKoenigszelt.internal.md) 
+
+### [Koenigszelt.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKoenigszelt.protect.md) 
+
+### [Koenigszelt.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKoenigszelt.private.md) 
+
+### [Koenigszelt.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKoenigszelt.personal.md) 
+
+### [Koenigszelt.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKoenigszelt.secret.md)
+

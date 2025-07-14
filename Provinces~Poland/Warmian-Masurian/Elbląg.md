@@ -35,9 +35,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Elbląg|Elbląg]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Elbing_Ostpreussen.internal|Elbing_Ostpreussen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Elbing_Ostpreussen.protect|Elbing_Ostpreussen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Elbing_Ostpreussen.private|Elbing_Ostpreussen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Elbing_Ostpreussen.personal|Elbing_Ostpreussen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Elbing_Ostpreussen.secret|Elbing_Ostpreussen.secret]] 
+
+### [Elbląg.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-MasurianElbląg.public.md) 
+
+### [Elbląg.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-MasurianElbląg.internal.md) 
+
+### [Elbląg.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-MasurianElbląg.protect.md) 
+
+### [Elbląg.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-MasurianElbląg.private.md) 
+
+### [Elbląg.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-MasurianElbląg.personal.md) 
+
+### [Elbląg.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-MasurianElbląg.secret.md)
+

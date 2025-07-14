@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Landsberg~Ostpommern|Landsberg~Ostpommern]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Landsberg~Ostpommern.public|Landsberg~Ostpommern.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Landsberg~Ostpommern.internal|Landsberg~Ostpommern.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Landsberg~Ostpommern.protect|Landsberg~Ostpommern.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Landsberg~Ostpommern.private|Landsberg~Ostpommern.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Landsberg~Ostpommern.personal|Landsberg~Ostpommern.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Landsberg~Ostpommern.secret|Landsberg~Ostpommern.secret]] 
+
+### [Landsberg~Ostpommern.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityLandsberg~Ostpommern.public.md) 
+
+### [Landsberg~Ostpommern.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityLandsberg~Ostpommern.internal.md) 
+
+### [Landsberg~Ostpommern.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityLandsberg~Ostpommern.protect.md) 
+
+### [Landsberg~Ostpommern.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityLandsberg~Ostpommern.private.md) 
+
+### [Landsberg~Ostpommern.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityLandsberg~Ostpommern.personal.md) 
+
+### [Landsberg~Ostpommern.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityLandsberg~Ostpommern.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Stephansheim|Stephansheim]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Stephansheim.public|Stephansheim.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Stephansheim.internal|Stephansheim.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Stephansheim.protect|Stephansheim.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Stephansheim.private|Stephansheim.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Stephansheim.personal|Stephansheim.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Stephansheim.secret|Stephansheim.secret]] 
+
+### [Stephansheim.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityStephansheim.public.md) 
+
+### [Stephansheim.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityStephansheim.internal.md) 
+
+### [Stephansheim.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityStephansheim.protect.md) 
+
+### [Stephansheim.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityStephansheim.private.md) 
+
+### [Stephansheim.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityStephansheim.personal.md) 
+
+### [Stephansheim.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityStephansheim.secret.md)
+

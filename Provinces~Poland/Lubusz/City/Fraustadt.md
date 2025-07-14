@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Fraustadt|Fraustadt]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Fraustadt.public|Fraustadt.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Fraustadt.internal|Fraustadt.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Fraustadt.protect|Fraustadt.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Fraustadt.private|Fraustadt.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Fraustadt.personal|Fraustadt.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Fraustadt.secret|Fraustadt.secret]] 
+
+### [Fraustadt.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityFraustadt.public.md) 
+
+### [Fraustadt.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityFraustadt.internal.md) 
+
+### [Fraustadt.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityFraustadt.protect.md) 
+
+### [Fraustadt.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityFraustadt.private.md) 
+
+### [Fraustadt.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityFraustadt.personal.md) 
+
+### [Fraustadt.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityFraustadt.secret.md)
+

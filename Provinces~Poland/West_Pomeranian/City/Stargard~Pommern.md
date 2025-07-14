@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Stargard~Pommern|Stargard~Pommern]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Stargard~Pommern.public|Stargard~Pommern.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Stargard~Pommern.internal|Stargard~Pommern.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Stargard~Pommern.protect|Stargard~Pommern.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Stargard~Pommern.private|Stargard~Pommern.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Stargard~Pommern.personal|Stargard~Pommern.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Stargard~Pommern.secret|Stargard~Pommern.secret]] 
+
+### [Stargard~Pommern.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityStargard~Pommern.public.md) 
+
+### [Stargard~Pommern.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityStargard~Pommern.internal.md) 
+
+### [Stargard~Pommern.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityStargard~Pommern.protect.md) 
+
+### [Stargard~Pommern.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityStargard~Pommern.private.md) 
+
+### [Stargard~Pommern.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityStargard~Pommern.personal.md) 
+
+### [Stargard~Pommern.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityStargard~Pommern.secret.md)
+

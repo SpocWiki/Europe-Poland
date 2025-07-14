@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Czestochowa|Czestochowa]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Czestochowa.public|Czestochowa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Czestochowa.internal|Czestochowa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Czestochowa.protect|Czestochowa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Czestochowa.private|Czestochowa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Czestochowa.personal|Czestochowa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Czestochowa.secret|Czestochowa.secret]] 
+
+### [Czestochowa.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityCzestochowa.public.md) 
+
+### [Czestochowa.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityCzestochowa.internal.md) 
+
+### [Czestochowa.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityCzestochowa.protect.md) 
+
+### [Czestochowa.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityCzestochowa.private.md) 
+
+### [Czestochowa.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityCzestochowa.personal.md) 
+
+### [Czestochowa.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityCzestochowa.secret.md)
+

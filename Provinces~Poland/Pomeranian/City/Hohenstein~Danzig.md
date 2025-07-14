@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Hohenstein~Danzig|Hohenstein~Danzig]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Hohenstein~Danzig.public|Hohenstein~Danzig.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Hohenstein~Danzig.internal|Hohenstein~Danzig.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Hohenstein~Danzig.protect|Hohenstein~Danzig.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Hohenstein~Danzig.private|Hohenstein~Danzig.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Hohenstein~Danzig.personal|Hohenstein~Danzig.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Hohenstein~Danzig.secret|Hohenstein~Danzig.secret]] 
+
+### [Hohenstein~Danzig.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityHohenstein~Danzig.public.md) 
+
+### [Hohenstein~Danzig.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityHohenstein~Danzig.internal.md) 
+
+### [Hohenstein~Danzig.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityHohenstein~Danzig.protect.md) 
+
+### [Hohenstein~Danzig.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityHohenstein~Danzig.private.md) 
+
+### [Hohenstein~Danzig.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityHohenstein~Danzig.personal.md) 
+
+### [Hohenstein~Danzig.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityHohenstein~Danzig.secret.md)
+

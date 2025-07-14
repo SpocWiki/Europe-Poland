@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Zarnowitz|Zarnowitz]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Zarnowitz.public|Zarnowitz.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Zarnowitz.internal|Zarnowitz.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Zarnowitz.protect|Zarnowitz.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Zarnowitz.private|Zarnowitz.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Zarnowitz.personal|Zarnowitz.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Zarnowitz.secret|Zarnowitz.secret]] 
+
+### [Zarnowitz.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityZarnowitz.public.md) 
+
+### [Zarnowitz.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityZarnowitz.internal.md) 
+
+### [Zarnowitz.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityZarnowitz.protect.md) 
+
+### [Zarnowitz.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityZarnowitz.private.md) 
+
+### [Zarnowitz.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityZarnowitz.personal.md) 
+
+### [Zarnowitz.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityZarnowitz.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Friedersdorf~Brandenburg|Friedersdorf~Brandenburg]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Friedersdorf~Brandenburg.public|Friedersdorf~Brandenburg.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Friedersdorf~Brandenburg.internal|Friedersdorf~Brandenburg.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Friedersdorf~Brandenburg.protect|Friedersdorf~Brandenburg.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Friedersdorf~Brandenburg.private|Friedersdorf~Brandenburg.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Friedersdorf~Brandenburg.personal|Friedersdorf~Brandenburg.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Friedersdorf~Brandenburg.secret|Friedersdorf~Brandenburg.secret]] 
+
+### [Friedersdorf~Brandenburg.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityFriedersdorf~Brandenburg.public.md) 
+
+### [Friedersdorf~Brandenburg.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityFriedersdorf~Brandenburg.internal.md) 
+
+### [Friedersdorf~Brandenburg.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityFriedersdorf~Brandenburg.protect.md) 
+
+### [Friedersdorf~Brandenburg.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityFriedersdorf~Brandenburg.private.md) 
+
+### [Friedersdorf~Brandenburg.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityFriedersdorf~Brandenburg.personal.md) 
+
+### [Friedersdorf~Brandenburg.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityFriedersdorf~Brandenburg.secret.md)
+

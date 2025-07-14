@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Waldenburg~Oberschlesien|Waldenburg~Oberschlesien]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Waldenburg~Oberschlesien.public|Waldenburg~Oberschlesien.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Waldenburg~Oberschlesien.internal|Waldenburg~Oberschlesien.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Waldenburg~Oberschlesien.protect|Waldenburg~Oberschlesien.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Waldenburg~Oberschlesien.private|Waldenburg~Oberschlesien.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Waldenburg~Oberschlesien.personal|Waldenburg~Oberschlesien.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Waldenburg~Oberschlesien.secret|Waldenburg~Oberschlesien.secret]] 
+
+### [Waldenburg~Oberschlesien.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityWaldenburg~Oberschlesien.public.md) 
+
+### [Waldenburg~Oberschlesien.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityWaldenburg~Oberschlesien.internal.md) 
+
+### [Waldenburg~Oberschlesien.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityWaldenburg~Oberschlesien.protect.md) 
+
+### [Waldenburg~Oberschlesien.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityWaldenburg~Oberschlesien.private.md) 
+
+### [Waldenburg~Oberschlesien.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityWaldenburg~Oberschlesien.personal.md) 
+
+### [Waldenburg~Oberschlesien.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityWaldenburg~Oberschlesien.secret.md)
+

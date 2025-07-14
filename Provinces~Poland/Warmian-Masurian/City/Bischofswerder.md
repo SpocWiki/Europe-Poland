@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Bischofswerder|Bischofswerder]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Bischofswerder.public|Bischofswerder.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Bischofswerder.internal|Bischofswerder.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Bischofswerder.protect|Bischofswerder.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Bischofswerder.private|Bischofswerder.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Bischofswerder.personal|Bischofswerder.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Bischofswerder.secret|Bischofswerder.secret]] 
+
+### [Bischofswerder.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityBischofswerder.public.md) 
+
+### [Bischofswerder.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityBischofswerder.internal.md) 
+
+### [Bischofswerder.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityBischofswerder.protect.md) 
+
+### [Bischofswerder.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityBischofswerder.private.md) 
+
+### [Bischofswerder.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityBischofswerder.personal.md) 
+
+### [Bischofswerder.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityBischofswerder.secret.md)
+

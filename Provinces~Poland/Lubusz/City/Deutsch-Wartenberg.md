@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Deutsch-Wartenberg|Deutsch-Wartenberg]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Deutsch-Wartenberg.public|Deutsch-Wartenberg.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Deutsch-Wartenberg.internal|Deutsch-Wartenberg.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Deutsch-Wartenberg.protect|Deutsch-Wartenberg.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Deutsch-Wartenberg.private|Deutsch-Wartenberg.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Deutsch-Wartenberg.personal|Deutsch-Wartenberg.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Deutsch-Wartenberg.secret|Deutsch-Wartenberg.secret]] 
+
+### [Deutsch-Wartenberg.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityDeutsch-Wartenberg.public.md) 
+
+### [Deutsch-Wartenberg.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityDeutsch-Wartenberg.internal.md) 
+
+### [Deutsch-Wartenberg.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityDeutsch-Wartenberg.protect.md) 
+
+### [Deutsch-Wartenberg.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityDeutsch-Wartenberg.private.md) 
+
+### [Deutsch-Wartenberg.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityDeutsch-Wartenberg.personal.md) 
+
+### [Deutsch-Wartenberg.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityDeutsch-Wartenberg.secret.md)
+

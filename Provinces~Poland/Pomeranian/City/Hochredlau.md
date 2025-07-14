@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Hochredlau|Hochredlau]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Hochredlau.public|Hochredlau.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Hochredlau.internal|Hochredlau.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Hochredlau.protect|Hochredlau.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Hochredlau.private|Hochredlau.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Hochredlau.personal|Hochredlau.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Hochredlau.secret|Hochredlau.secret]] 
+
+### [Hochredlau.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityHochredlau.public.md) 
+
+### [Hochredlau.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityHochredlau.internal.md) 
+
+### [Hochredlau.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityHochredlau.protect.md) 
+
+### [Hochredlau.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityHochredlau.private.md) 
+
+### [Hochredlau.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityHochredlau.personal.md) 
+
+### [Hochredlau.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityHochredlau.secret.md)
+

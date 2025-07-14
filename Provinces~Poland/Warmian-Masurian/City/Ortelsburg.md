@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Ortelsburg|Ortelsburg]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Ortelsburg.public|Ortelsburg.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Ortelsburg.internal|Ortelsburg.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Ortelsburg.protect|Ortelsburg.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Ortelsburg.private|Ortelsburg.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Ortelsburg.personal|Ortelsburg.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Ortelsburg.secret|Ortelsburg.secret]] 
+
+### [Ortelsburg.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityOrtelsburg.public.md) 
+
+### [Ortelsburg.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityOrtelsburg.internal.md) 
+
+### [Ortelsburg.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityOrtelsburg.protect.md) 
+
+### [Ortelsburg.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityOrtelsburg.private.md) 
+
+### [Ortelsburg.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityOrtelsburg.personal.md) 
+
+### [Ortelsburg.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityOrtelsburg.secret.md)
+

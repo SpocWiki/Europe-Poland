@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Warszawa|Warszawa]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Warszawa.public|Warszawa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Warszawa.internal|Warszawa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Warszawa.protect|Warszawa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Warszawa.private|Warszawa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Warszawa.personal|Warszawa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Warszawa.secret|Warszawa.secret]] 
+
+### [Warszawa.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Masovian\CityWarszawa.public.md) 
+
+### [Warszawa.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Masovian\CityWarszawa.internal.md) 
+
+### [Warszawa.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Masovian\CityWarszawa.protect.md) 
+
+### [Warszawa.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Masovian\CityWarszawa.private.md) 
+
+### [Warszawa.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Masovian\CityWarszawa.personal.md) 
+
+### [Warszawa.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Masovian\CityWarszawa.secret.md)
+

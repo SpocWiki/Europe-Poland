@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Sierad|Sierad]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Sierad.public|Sierad.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Sierad.internal|Sierad.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Sierad.protect|Sierad.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Sierad.private|Sierad.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Sierad.personal|Sierad.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Sierad.secret|Sierad.secret]] 
+
+### [Sierad.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Łódź,Province\counties~Łódzkie\Sieradz\cities~SieradzSierad.public.md) 
+
+### [Sierad.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Łódź,Province\counties~Łódzkie\Sieradz\cities~SieradzSierad.internal.md) 
+
+### [Sierad.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Łódź,Province\counties~Łódzkie\Sieradz\cities~SieradzSierad.protect.md) 
+
+### [Sierad.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Łódź,Province\counties~Łódzkie\Sieradz\cities~SieradzSierad.private.md) 
+
+### [Sierad.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Łódź,Province\counties~Łódzkie\Sieradz\cities~SieradzSierad.personal.md) 
+
+### [Sierad.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Łódź,Province\counties~Łódzkie\Sieradz\cities~SieradzSierad.secret.md)
+

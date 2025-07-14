@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Jaroslau|Jaroslau]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Jaroslau.public|Jaroslau.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Jaroslau.internal|Jaroslau.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Jaroslau.protect|Jaroslau.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Jaroslau.private|Jaroslau.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Jaroslau.personal|Jaroslau.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Jaroslau.secret|Jaroslau.secret]] 
+
+### [Jaroslau.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Subcarpathian\CityJaroslau.public.md) 
+
+### [Jaroslau.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Subcarpathian\CityJaroslau.internal.md) 
+
+### [Jaroslau.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Subcarpathian\CityJaroslau.protect.md) 
+
+### [Jaroslau.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Subcarpathian\CityJaroslau.private.md) 
+
+### [Jaroslau.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Subcarpathian\CityJaroslau.personal.md) 
+
+### [Jaroslau.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Subcarpathian\CityJaroslau.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Cieszyn|Cieszyn]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Cieszyn.public|Cieszyn.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Cieszyn.internal|Cieszyn.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Cieszyn.protect|Cieszyn.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Cieszyn.private|Cieszyn.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Cieszyn.personal|Cieszyn.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Cieszyn.secret|Cieszyn.secret]] 
+
+### [Cieszyn.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityCieszyn.public.md) 
+
+### [Cieszyn.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityCieszyn.internal.md) 
+
+### [Cieszyn.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityCieszyn.protect.md) 
+
+### [Cieszyn.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityCieszyn.private.md) 
+
+### [Cieszyn.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityCieszyn.personal.md) 
+
+### [Cieszyn.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityCieszyn.secret.md)
+

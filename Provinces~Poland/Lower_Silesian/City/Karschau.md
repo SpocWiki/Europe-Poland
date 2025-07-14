@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Portugal/City/Karschau|Karschau]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Portugal/City/Karschau.public|Karschau.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Portugal/City/Karschau.internal|Karschau.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Portugal/City/Karschau.protect|Karschau.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Portugal/City/Karschau.private|Karschau.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Portugal/City/Karschau.personal|Karschau.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Portugal/City/Karschau.secret|Karschau.secret]] 
+
+### [Karschau.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKarschau.public.md) 
+
+### [Karschau.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKarschau.internal.md) 
+
+### [Karschau.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKarschau.protect.md) 
+
+### [Karschau.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKarschau.private.md) 
+
+### [Karschau.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKarschau.personal.md) 
+
+### [Karschau.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKarschau.secret.md)
+

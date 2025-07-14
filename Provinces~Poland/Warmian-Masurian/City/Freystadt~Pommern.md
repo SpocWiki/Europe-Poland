@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Freystadt~Pommern|Freystadt~Pommern]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Freystadt~Pommern.public|Freystadt~Pommern.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Freystadt~Pommern.internal|Freystadt~Pommern.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Freystadt~Pommern.protect|Freystadt~Pommern.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Freystadt~Pommern.private|Freystadt~Pommern.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Freystadt~Pommern.personal|Freystadt~Pommern.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Freystadt~Pommern.secret|Freystadt~Pommern.secret]] 
+
+### [Freystadt~Pommern.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityFreystadt~Pommern.public.md) 
+
+### [Freystadt~Pommern.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityFreystadt~Pommern.internal.md) 
+
+### [Freystadt~Pommern.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityFreystadt~Pommern.protect.md) 
+
+### [Freystadt~Pommern.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityFreystadt~Pommern.private.md) 
+
+### [Freystadt~Pommern.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityFreystadt~Pommern.personal.md) 
+
+### [Freystadt~Pommern.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityFreystadt~Pommern.secret.md)
+

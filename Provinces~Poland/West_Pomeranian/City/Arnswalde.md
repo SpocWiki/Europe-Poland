@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Arnswalde|Arnswalde]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Arnswalde.public|Arnswalde.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Arnswalde.internal|Arnswalde.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Arnswalde.protect|Arnswalde.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Arnswalde.private|Arnswalde.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Arnswalde.personal|Arnswalde.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Arnswalde.secret|Arnswalde.secret]] 
+
+### [Arnswalde.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityArnswalde.public.md) 
+
+### [Arnswalde.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityArnswalde.internal.md) 
+
+### [Arnswalde.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityArnswalde.protect.md) 
+
+### [Arnswalde.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityArnswalde.private.md) 
+
+### [Arnswalde.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityArnswalde.personal.md) 
+
+### [Arnswalde.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityArnswalde.secret.md)
+

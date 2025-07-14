@@ -40,11 +40,16 @@ markerFolder: ./Kuyavian-Pomeranian/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/Counties/Kuyavian-Pomeranian|Kuyavian-Pomeranian]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/Counties/Kuyavian-Pomeranian.public|Kuyavian-Pomeranian.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/Counties/Kuyavian-Pomeranian.internal|Kuyavian-Pomeranian.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/Counties/Kuyavian-Pomeranian.protect|Kuyavian-Pomeranian.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/Counties/Kuyavian-Pomeranian.private|Kuyavian-Pomeranian.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/Counties/Kuyavian-Pomeranian.personal|Kuyavian-Pomeranian.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/Counties/Kuyavian-Pomeranian.secret|Kuyavian-Pomeranian.secret]] 
+
+### [Kuyavian-Pomeranian.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandKuyavian-Pomeranian.public.md) 
+
+### [Kuyavian-Pomeranian.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandKuyavian-Pomeranian.internal.md) 
+
+### [Kuyavian-Pomeranian.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandKuyavian-Pomeranian.protect.md) 
+
+### [Kuyavian-Pomeranian.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandKuyavian-Pomeranian.private.md) 
+
+### [Kuyavian-Pomeranian.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandKuyavian-Pomeranian.personal.md) 
+
+### [Kuyavian-Pomeranian.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandKuyavian-Pomeranian.secret.md)
 

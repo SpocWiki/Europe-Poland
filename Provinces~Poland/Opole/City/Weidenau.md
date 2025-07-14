@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Czech_Republic/City/Weidenau|Weidenau]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Czech_Republic/City/Weidenau.public|Weidenau.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Czech_Republic/City/Weidenau.internal|Weidenau.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Czech_Republic/City/Weidenau.protect|Weidenau.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Czech_Republic/City/Weidenau.private|Weidenau.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Czech_Republic/City/Weidenau.personal|Weidenau.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Czech_Republic/City/Weidenau.secret|Weidenau.secret]] 
+
+### [Weidenau.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityWeidenau.public.md) 
+
+### [Weidenau.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityWeidenau.internal.md) 
+
+### [Weidenau.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityWeidenau.protect.md) 
+
+### [Weidenau.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityWeidenau.private.md) 
+
+### [Weidenau.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityWeidenau.personal.md) 
+
+### [Weidenau.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityWeidenau.secret.md)
+

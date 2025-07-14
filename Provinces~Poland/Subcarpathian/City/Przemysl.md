@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Czech_Republic/City/Przemysl|Przemysl]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Czech_Republic/City/Przemysl.public|Przemysl.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Czech_Republic/City/Przemysl.internal|Przemysl.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Czech_Republic/City/Przemysl.protect|Przemysl.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Czech_Republic/City/Przemysl.private|Przemysl.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Czech_Republic/City/Przemysl.personal|Przemysl.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Czech_Republic/City/Przemysl.secret|Przemysl.secret]] 
+
+### [Przemysl.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Subcarpathian\CityPrzemysl.public.md) 
+
+### [Przemysl.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Subcarpathian\CityPrzemysl.internal.md) 
+
+### [Przemysl.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Subcarpathian\CityPrzemysl.protect.md) 
+
+### [Przemysl.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Subcarpathian\CityPrzemysl.private.md) 
+
+### [Przemysl.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Subcarpathian\CityPrzemysl.personal.md) 
+
+### [Przemysl.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Subcarpathian\CityPrzemysl.secret.md)
+

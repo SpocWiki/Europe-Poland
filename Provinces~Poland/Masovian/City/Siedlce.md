@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Siedlce|Siedlce]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Siedlce.public|Siedlce.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Siedlce.internal|Siedlce.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Siedlce.protect|Siedlce.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Siedlce.private|Siedlce.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Siedlce.personal|Siedlce.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Siedlce.secret|Siedlce.secret]] 
+
+### [Siedlce.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Masovian\CitySiedlce.public.md) 
+
+### [Siedlce.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Masovian\CitySiedlce.internal.md) 
+
+### [Siedlce.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Masovian\CitySiedlce.protect.md) 
+
+### [Siedlce.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Masovian\CitySiedlce.private.md) 
+
+### [Siedlce.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Masovian\CitySiedlce.personal.md) 
+
+### [Siedlce.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Masovian\CitySiedlce.secret.md)
+

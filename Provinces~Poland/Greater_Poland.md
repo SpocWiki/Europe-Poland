@@ -41,11 +41,16 @@ markerFolder: ./Greater_Poland/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/Counties/Greater_Poland|Greater_Poland]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/Counties/Greater_Poland.public|Greater_Poland.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/Counties/Greater_Poland.internal|Greater_Poland.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/Counties/Greater_Poland.protect|Greater_Poland.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/Counties/Greater_Poland.private|Greater_Poland.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/Counties/Greater_Poland.personal|Greater_Poland.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/Counties/Greater_Poland.secret|Greater_Poland.secret]] 
+
+### [Greater_Poland.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandGreater_Poland.public.md) 
+
+### [Greater_Poland.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandGreater_Poland.internal.md) 
+
+### [Greater_Poland.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandGreater_Poland.protect.md) 
+
+### [Greater_Poland.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandGreater_Poland.private.md) 
+
+### [Greater_Poland.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandGreater_Poland.personal.md) 
+
+### [Greater_Poland.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandGreater_Poland.secret.md)
 

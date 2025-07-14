@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Klikuszowa|Klikuszowa]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Klikuszowa.public|Klikuszowa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Klikuszowa.internal|Klikuszowa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Klikuszowa.protect|Klikuszowa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Klikuszowa.private|Klikuszowa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Klikuszowa.personal|Klikuszowa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Klikuszowa.secret|Klikuszowa.secret]] 
+
+### [Klikuszowa.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityKlikuszowa.public.md) 
+
+### [Klikuszowa.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityKlikuszowa.internal.md) 
+
+### [Klikuszowa.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityKlikuszowa.protect.md) 
+
+### [Klikuszowa.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityKlikuszowa.private.md) 
+
+### [Klikuszowa.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityKlikuszowa.personal.md) 
+
+### [Klikuszowa.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityKlikuszowa.secret.md)
+

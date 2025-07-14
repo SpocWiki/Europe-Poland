@@ -40,11 +40,16 @@ markerFolder: ./Warmian-Masurian/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/Counties/Warmian-Masurian|Warmian-Masurian]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/Counties/Warmian-Masurian.public|Warmian-Masurian.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/Counties/Warmian-Masurian.internal|Warmian-Masurian.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/Counties/Warmian-Masurian.protect|Warmian-Masurian.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/Counties/Warmian-Masurian.private|Warmian-Masurian.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/Counties/Warmian-Masurian.personal|Warmian-Masurian.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/Counties/Warmian-Masurian.secret|Warmian-Masurian.secret]] 
+
+### [Warmian-Masurian.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandWarmian-Masurian.public.md) 
+
+### [Warmian-Masurian.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandWarmian-Masurian.internal.md) 
+
+### [Warmian-Masurian.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandWarmian-Masurian.protect.md) 
+
+### [Warmian-Masurian.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandWarmian-Masurian.private.md) 
+
+### [Warmian-Masurian.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandWarmian-Masurian.personal.md) 
+
+### [Warmian-Masurian.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandWarmian-Masurian.secret.md)
 

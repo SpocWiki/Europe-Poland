@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Sternberg~Neum|Sternberg~Neum]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Sternberg~Neum.public|Sternberg~Neum.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Sternberg~Neum.internal|Sternberg~Neum.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Sternberg~Neum.protect|Sternberg~Neum.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Sternberg~Neum.private|Sternberg~Neum.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Sternberg~Neum.personal|Sternberg~Neum.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Sternberg~Neum.secret|Sternberg~Neum.secret]] 
+
+### [Sternberg~Neum.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CitySternberg~Neum.public.md) 
+
+### [Sternberg~Neum.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CitySternberg~Neum.internal.md) 
+
+### [Sternberg~Neum.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CitySternberg~Neum.protect.md) 
+
+### [Sternberg~Neum.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CitySternberg~Neum.private.md) 
+
+### [Sternberg~Neum.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CitySternberg~Neum.personal.md) 
+
+### [Sternberg~Neum.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CitySternberg~Neum.secret.md)
+

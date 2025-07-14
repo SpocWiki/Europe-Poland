@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Kordeshagen|Kordeshagen]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Kordeshagen.public|Kordeshagen.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Kordeshagen.internal|Kordeshagen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Kordeshagen.protect|Kordeshagen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Kordeshagen.private|Kordeshagen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Kordeshagen.personal|Kordeshagen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Kordeshagen.secret|Kordeshagen.secret]] 
+
+### [Kordeshagen.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityKordeshagen.public.md) 
+
+### [Kordeshagen.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityKordeshagen.internal.md) 
+
+### [Kordeshagen.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityKordeshagen.protect.md) 
+
+### [Kordeshagen.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityKordeshagen.private.md) 
+
+### [Kordeshagen.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityKordeshagen.personal.md) 
+
+### [Kordeshagen.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityKordeshagen.secret.md)
+

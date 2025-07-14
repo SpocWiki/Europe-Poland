@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Triebelwitz|Triebelwitz]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Triebelwitz.public|Triebelwitz.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Triebelwitz.internal|Triebelwitz.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Triebelwitz.protect|Triebelwitz.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Triebelwitz.private|Triebelwitz.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Triebelwitz.personal|Triebelwitz.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Triebelwitz.secret|Triebelwitz.secret]] 
+
+### [Triebelwitz.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityTriebelwitz.public.md) 
+
+### [Triebelwitz.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityTriebelwitz.internal.md) 
+
+### [Triebelwitz.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityTriebelwitz.protect.md) 
+
+### [Triebelwitz.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityTriebelwitz.private.md) 
+
+### [Triebelwitz.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityTriebelwitz.personal.md) 
+
+### [Triebelwitz.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityTriebelwitz.secret.md)
+

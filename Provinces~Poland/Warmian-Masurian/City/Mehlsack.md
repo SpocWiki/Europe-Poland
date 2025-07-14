@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Mehlsack|Mehlsack]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Mehlsack.public|Mehlsack.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Mehlsack.internal|Mehlsack.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Mehlsack.protect|Mehlsack.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Mehlsack.private|Mehlsack.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Mehlsack.personal|Mehlsack.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Mehlsack.secret|Mehlsack.secret]] 
+
+### [Mehlsack.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityMehlsack.public.md) 
+
+### [Mehlsack.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityMehlsack.internal.md) 
+
+### [Mehlsack.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityMehlsack.protect.md) 
+
+### [Mehlsack.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityMehlsack.private.md) 
+
+### [Mehlsack.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityMehlsack.personal.md) 
+
+### [Mehlsack.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityMehlsack.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Tolkemit|Tolkemit]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Tolkemit.public|Tolkemit.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Tolkemit.internal|Tolkemit.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Tolkemit.protect|Tolkemit.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Tolkemit.private|Tolkemit.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Tolkemit.personal|Tolkemit.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Tolkemit.secret|Tolkemit.secret]] 
+
+### [Tolkemit.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityTolkemit.public.md) 
+
+### [Tolkemit.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityTolkemit.internal.md) 
+
+### [Tolkemit.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityTolkemit.protect.md) 
+
+### [Tolkemit.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityTolkemit.private.md) 
+
+### [Tolkemit.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityTolkemit.personal.md) 
+
+### [Tolkemit.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityTolkemit.secret.md)
+

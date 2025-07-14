@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Dittmannsdorf-Schlesien|Dittmannsdorf-Schlesien]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Dittmannsdorf-Schlesien.public|Dittmannsdorf-Schlesien.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Dittmannsdorf-Schlesien.internal|Dittmannsdorf-Schlesien.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Dittmannsdorf-Schlesien.protect|Dittmannsdorf-Schlesien.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Dittmannsdorf-Schlesien.private|Dittmannsdorf-Schlesien.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Dittmannsdorf-Schlesien.personal|Dittmannsdorf-Schlesien.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Dittmannsdorf-Schlesien.secret|Dittmannsdorf-Schlesien.secret]] 
+
+### [Dittmannsdorf-Schlesien.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityDittmannsdorf-Schlesien.public.md) 
+
+### [Dittmannsdorf-Schlesien.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityDittmannsdorf-Schlesien.internal.md) 
+
+### [Dittmannsdorf-Schlesien.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityDittmannsdorf-Schlesien.protect.md) 
+
+### [Dittmannsdorf-Schlesien.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityDittmannsdorf-Schlesien.private.md) 
+
+### [Dittmannsdorf-Schlesien.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityDittmannsdorf-Schlesien.personal.md) 
+
+### [Dittmannsdorf-Schlesien.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityDittmannsdorf-Schlesien.secret.md)
+

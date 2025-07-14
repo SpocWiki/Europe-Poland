@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Freiwaldau|Freiwaldau]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Freiwaldau.public|Freiwaldau.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Freiwaldau.internal|Freiwaldau.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Freiwaldau.protect|Freiwaldau.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Freiwaldau.private|Freiwaldau.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Freiwaldau.personal|Freiwaldau.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Freiwaldau.secret|Freiwaldau.secret]] 
+
+### [Freiwaldau.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityFreiwaldau.public.md) 
+
+### [Freiwaldau.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityFreiwaldau.internal.md) 
+
+### [Freiwaldau.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityFreiwaldau.protect.md) 
+
+### [Freiwaldau.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityFreiwaldau.private.md) 
+
+### [Freiwaldau.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityFreiwaldau.personal.md) 
+
+### [Freiwaldau.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityFreiwaldau.secret.md)
+

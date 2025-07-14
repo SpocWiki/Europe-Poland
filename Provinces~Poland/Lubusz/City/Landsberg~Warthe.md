@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Landsberg~Warthe|Landsberg~Warthe]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Landsberg~Warthe.public|Landsberg~Warthe.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Landsberg~Warthe.internal|Landsberg~Warthe.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Landsberg~Warthe.protect|Landsberg~Warthe.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Landsberg~Warthe.private|Landsberg~Warthe.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Landsberg~Warthe.personal|Landsberg~Warthe.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Landsberg~Warthe.secret|Landsberg~Warthe.secret]] 
+
+### [Landsberg~Warthe.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityLandsberg~Warthe.public.md) 
+
+### [Landsberg~Warthe.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityLandsberg~Warthe.internal.md) 
+
+### [Landsberg~Warthe.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityLandsberg~Warthe.protect.md) 
+
+### [Landsberg~Warthe.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityLandsberg~Warthe.private.md) 
+
+### [Landsberg~Warthe.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityLandsberg~Warthe.personal.md) 
+
+### [Landsberg~Warthe.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityLandsberg~Warthe.secret.md)
+

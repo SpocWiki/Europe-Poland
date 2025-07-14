@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Wolfshain|Wolfshain]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Wolfshain.public|Wolfshain.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Wolfshain.internal|Wolfshain.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Wolfshain.protect|Wolfshain.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Wolfshain.private|Wolfshain.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Wolfshain.personal|Wolfshain.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Wolfshain.secret|Wolfshain.secret]] 
+
+### [Wolfshain.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityWolfshain.public.md) 
+
+### [Wolfshain.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityWolfshain.internal.md) 
+
+### [Wolfshain.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityWolfshain.protect.md) 
+
+### [Wolfshain.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityWolfshain.private.md) 
+
+### [Wolfshain.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityWolfshain.personal.md) 
+
+### [Wolfshain.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityWolfshain.secret.md)
+

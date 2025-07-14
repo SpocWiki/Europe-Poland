@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Finkenwalde|Finkenwalde]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Finkenwalde.public|Finkenwalde.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Finkenwalde.internal|Finkenwalde.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Finkenwalde.protect|Finkenwalde.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Finkenwalde.private|Finkenwalde.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Finkenwalde.personal|Finkenwalde.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Finkenwalde.secret|Finkenwalde.secret]] 
+
+### [Finkenwalde.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityFinkenwalde.public.md) 
+
+### [Finkenwalde.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityFinkenwalde.internal.md) 
+
+### [Finkenwalde.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityFinkenwalde.protect.md) 
+
+### [Finkenwalde.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityFinkenwalde.private.md) 
+
+### [Finkenwalde.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityFinkenwalde.personal.md) 
+
+### [Finkenwalde.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityFinkenwalde.secret.md)
+

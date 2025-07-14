@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Rawitsch|Rawitsch]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Rawitsch.public|Rawitsch.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Rawitsch.internal|Rawitsch.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Rawitsch.protect|Rawitsch.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Rawitsch.private|Rawitsch.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Rawitsch.personal|Rawitsch.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Rawitsch.secret|Rawitsch.secret]] 
+
+### [Rawitsch.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityRawitsch.public.md) 
+
+### [Rawitsch.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityRawitsch.internal.md) 
+
+### [Rawitsch.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityRawitsch.protect.md) 
+
+### [Rawitsch.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityRawitsch.private.md) 
+
+### [Rawitsch.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityRawitsch.personal.md) 
+
+### [Rawitsch.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityRawitsch.secret.md)
+

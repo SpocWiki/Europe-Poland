@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Pitschen|Pitschen]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Pitschen.public|Pitschen.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Pitschen.internal|Pitschen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Pitschen.protect|Pitschen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Pitschen.private|Pitschen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Pitschen.personal|Pitschen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Pitschen.secret|Pitschen.secret]] 
+
+### [Pitschen.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityPitschen.public.md) 
+
+### [Pitschen.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityPitschen.internal.md) 
+
+### [Pitschen.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityPitschen.protect.md) 
+
+### [Pitschen.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityPitschen.private.md) 
+
+### [Pitschen.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityPitschen.personal.md) 
+
+### [Pitschen.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityPitschen.secret.md)
+

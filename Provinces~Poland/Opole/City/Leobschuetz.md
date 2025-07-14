@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Leobschuetz|Leobschuetz]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Leobschuetz.public|Leobschuetz.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Leobschuetz.internal|Leobschuetz.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Leobschuetz.protect|Leobschuetz.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Leobschuetz.private|Leobschuetz.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Leobschuetz.personal|Leobschuetz.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Leobschuetz.secret|Leobschuetz.secret]] 
+
+### [Leobschuetz.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityLeobschuetz.public.md) 
+
+### [Leobschuetz.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityLeobschuetz.internal.md) 
+
+### [Leobschuetz.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityLeobschuetz.protect.md) 
+
+### [Leobschuetz.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityLeobschuetz.private.md) 
+
+### [Leobschuetz.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityLeobschuetz.personal.md) 
+
+### [Leobschuetz.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityLeobschuetz.secret.md)
+

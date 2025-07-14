@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Frauenburg|Frauenburg]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Frauenburg.public|Frauenburg.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Frauenburg.internal|Frauenburg.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Frauenburg.protect|Frauenburg.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Frauenburg.private|Frauenburg.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Frauenburg.personal|Frauenburg.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Frauenburg.secret|Frauenburg.secret]] 
+
+### [Frauenburg.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityFrauenburg.public.md) 
+
+### [Frauenburg.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityFrauenburg.internal.md) 
+
+### [Frauenburg.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityFrauenburg.protect.md) 
+
+### [Frauenburg.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityFrauenburg.private.md) 
+
+### [Frauenburg.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityFrauenburg.personal.md) 
+
+### [Frauenburg.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityFrauenburg.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Neu-Hammerstein|Neu-Hammerstein]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Neu-Hammerstein.public|Neu-Hammerstein.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Neu-Hammerstein.internal|Neu-Hammerstein.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Neu-Hammerstein.protect|Neu-Hammerstein.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Neu-Hammerstein.private|Neu-Hammerstein.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Neu-Hammerstein.personal|Neu-Hammerstein.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Neu-Hammerstein.secret|Neu-Hammerstein.secret]] 
+
+### [Neu-Hammerstein.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNeu-Hammerstein.public.md) 
+
+### [Neu-Hammerstein.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNeu-Hammerstein.internal.md) 
+
+### [Neu-Hammerstein.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNeu-Hammerstein.protect.md) 
+
+### [Neu-Hammerstein.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNeu-Hammerstein.private.md) 
+
+### [Neu-Hammerstein.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNeu-Hammerstein.personal.md) 
+
+### [Neu-Hammerstein.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNeu-Hammerstein.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Rachelshof|Rachelshof]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Rachelshof.public|Rachelshof.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Rachelshof.internal|Rachelshof.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Rachelshof.protect|Rachelshof.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Rachelshof.private|Rachelshof.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Rachelshof.personal|Rachelshof.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Rachelshof.secret|Rachelshof.secret]] 
+
+### [Rachelshof.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityRachelshof.public.md) 
+
+### [Rachelshof.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityRachelshof.internal.md) 
+
+### [Rachelshof.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityRachelshof.protect.md) 
+
+### [Rachelshof.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityRachelshof.private.md) 
+
+### [Rachelshof.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityRachelshof.personal.md) 
+
+### [Rachelshof.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityRachelshof.secret.md)
+

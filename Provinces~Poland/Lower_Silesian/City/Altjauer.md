@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Altjauer|Altjauer]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Altjauer.public|Altjauer.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Altjauer.internal|Altjauer.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Altjauer.protect|Altjauer.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Altjauer.private|Altjauer.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Altjauer.personal|Altjauer.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Altjauer.secret|Altjauer.secret]] 
+
+### [Altjauer.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityAltjauer.public.md) 
+
+### [Altjauer.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityAltjauer.internal.md) 
+
+### [Altjauer.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityAltjauer.protect.md) 
+
+### [Altjauer.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityAltjauer.private.md) 
+
+### [Altjauer.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityAltjauer.personal.md) 
+
+### [Altjauer.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityAltjauer.secret.md)
+

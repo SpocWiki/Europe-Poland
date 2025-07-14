@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Nieder-Weistritz|Nieder-Weistritz]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Nieder-Weistritz.public|Nieder-Weistritz.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Nieder-Weistritz.internal|Nieder-Weistritz.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Nieder-Weistritz.protect|Nieder-Weistritz.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Nieder-Weistritz.private|Nieder-Weistritz.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Nieder-Weistritz.personal|Nieder-Weistritz.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Nieder-Weistritz.secret|Nieder-Weistritz.secret]] 
+
+### [Nieder-Weistritz.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityNieder-Weistritz.public.md) 
+
+### [Nieder-Weistritz.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityNieder-Weistritz.internal.md) 
+
+### [Nieder-Weistritz.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityNieder-Weistritz.protect.md) 
+
+### [Nieder-Weistritz.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityNieder-Weistritz.private.md) 
+
+### [Nieder-Weistritz.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityNieder-Weistritz.personal.md) 
+
+### [Nieder-Weistritz.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityNieder-Weistritz.secret.md)
+

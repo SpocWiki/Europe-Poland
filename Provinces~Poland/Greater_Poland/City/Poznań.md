@@ -36,10 +36,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Posen=Pozan|Posen=Pozan]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Posen=Pozan.public|Posen=Pozan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Posen=Pozan.internal|Posen=Pozan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Posen=Pozan.protect|Posen=Pozan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Posen=Pozan.private|Posen=Pozan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Posen=Pozan.personal|Posen=Pozan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Posen=Pozan.secret|Posen=Pozan.secret]] 
+
+### [Poznań.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityPoznań.public.md) 
+
+### [Poznań.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityPoznań.internal.md) 
+
+### [Poznań.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityPoznań.protect.md) 
+
+### [Poznań.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityPoznań.private.md) 
+
+### [Poznań.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityPoznań.personal.md) 
+
+### [Poznań.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityPoznań.secret.md)
+

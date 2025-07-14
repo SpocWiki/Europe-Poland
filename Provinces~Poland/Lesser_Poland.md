@@ -41,11 +41,16 @@ markerFolder: ./Lesser_Poland/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/Counties/Lesser_Poland|Lesser_Poland]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/Counties/Lesser_Poland.public|Lesser_Poland.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/Counties/Lesser_Poland.internal|Lesser_Poland.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/Counties/Lesser_Poland.protect|Lesser_Poland.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/Counties/Lesser_Poland.private|Lesser_Poland.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/Counties/Lesser_Poland.personal|Lesser_Poland.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/Counties/Lesser_Poland.secret|Lesser_Poland.secret]] 
+
+### [Lesser_Poland.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandLesser_Poland.public.md) 
+
+### [Lesser_Poland.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandLesser_Poland.internal.md) 
+
+### [Lesser_Poland.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandLesser_Poland.protect.md) 
+
+### [Lesser_Poland.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandLesser_Poland.private.md) 
+
+### [Lesser_Poland.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandLesser_Poland.personal.md) 
+
+### [Lesser_Poland.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandLesser_Poland.secret.md)
 

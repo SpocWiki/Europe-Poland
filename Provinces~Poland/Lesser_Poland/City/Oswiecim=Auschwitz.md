@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Oswiecim=Auschwitz|Oswiecim=Auschwitz]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Oswiecim=Auschwitz.public|Oswiecim=Auschwitz.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Oswiecim=Auschwitz.internal|Oswiecim=Auschwitz.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Oswiecim=Auschwitz.protect|Oswiecim=Auschwitz.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Oswiecim=Auschwitz.private|Oswiecim=Auschwitz.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Oswiecim=Auschwitz.personal|Oswiecim=Auschwitz.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Oswiecim=Auschwitz.secret|Oswiecim=Auschwitz.secret]] 
+
+### [Oswiecim=Auschwitz.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityOswiecim=Auschwitz.public.md) 
+
+### [Oswiecim=Auschwitz.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityOswiecim=Auschwitz.internal.md) 
+
+### [Oswiecim=Auschwitz.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityOswiecim=Auschwitz.protect.md) 
+
+### [Oswiecim=Auschwitz.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityOswiecim=Auschwitz.private.md) 
+
+### [Oswiecim=Auschwitz.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityOswiecim=Auschwitz.personal.md) 
+
+### [Oswiecim=Auschwitz.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityOswiecim=Auschwitz.secret.md)
+

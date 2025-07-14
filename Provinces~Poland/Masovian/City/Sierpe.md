@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Sierpe|Sierpe]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Sierpe.public|Sierpe.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Sierpe.internal|Sierpe.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Sierpe.protect|Sierpe.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Sierpe.private|Sierpe.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Sierpe.personal|Sierpe.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Sierpe.secret|Sierpe.secret]] 
+
+### [Sierpe.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Masovian\CitySierpe.public.md) 
+
+### [Sierpe.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Masovian\CitySierpe.internal.md) 
+
+### [Sierpe.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Masovian\CitySierpe.protect.md) 
+
+### [Sierpe.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Masovian\CitySierpe.private.md) 
+
+### [Sierpe.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Masovian\CitySierpe.personal.md) 
+
+### [Sierpe.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Masovian\CitySierpe.secret.md)
+

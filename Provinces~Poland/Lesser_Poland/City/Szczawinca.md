@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Szczawinca|Szczawinca]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Szczawinca.public|Szczawinca.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Szczawinca.internal|Szczawinca.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Szczawinca.protect|Szczawinca.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Szczawinca.private|Szczawinca.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Szczawinca.personal|Szczawinca.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Szczawinca.secret|Szczawinca.secret]] 
+
+### [Szczawinca.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CitySzczawinca.public.md) 
+
+### [Szczawinca.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CitySzczawinca.internal.md) 
+
+### [Szczawinca.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CitySzczawinca.protect.md) 
+
+### [Szczawinca.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CitySzczawinca.private.md) 
+
+### [Szczawinca.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CitySzczawinca.personal.md) 
+
+### [Szczawinca.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CitySzczawinca.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Norry-Targ|Norry-Targ]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Norry-Targ.public|Norry-Targ.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Norry-Targ.internal|Norry-Targ.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Norry-Targ.protect|Norry-Targ.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Norry-Targ.private|Norry-Targ.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Norry-Targ.personal|Norry-Targ.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Norry-Targ.secret|Norry-Targ.secret]] 
+
+### [Norry-Targ.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityNorry-Targ.public.md) 
+
+### [Norry-Targ.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityNorry-Targ.internal.md) 
+
+### [Norry-Targ.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityNorry-Targ.protect.md) 
+
+### [Norry-Targ.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityNorry-Targ.private.md) 
+
+### [Norry-Targ.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityNorry-Targ.personal.md) 
+
+### [Norry-Targ.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityNorry-Targ.secret.md)
+

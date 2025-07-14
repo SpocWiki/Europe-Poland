@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Neu-Kamienien|Neu-Kamienien]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Neu-Kamienien.public|Neu-Kamienien.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Neu-Kamienien.internal|Neu-Kamienien.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Neu-Kamienien.protect|Neu-Kamienien.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Neu-Kamienien.private|Neu-Kamienien.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Neu-Kamienien.personal|Neu-Kamienien.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Neu-Kamienien.secret|Neu-Kamienien.secret]] 
+
+### [Neu-Kamienien.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityNeu-Kamienien.public.md) 
+
+### [Neu-Kamienien.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityNeu-Kamienien.internal.md) 
+
+### [Neu-Kamienien.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityNeu-Kamienien.protect.md) 
+
+### [Neu-Kamienien.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityNeu-Kamienien.private.md) 
+
+### [Neu-Kamienien.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityNeu-Kamienien.personal.md) 
+
+### [Neu-Kamienien.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityNeu-Kamienien.secret.md)
+

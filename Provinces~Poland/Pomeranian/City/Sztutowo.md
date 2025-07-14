@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Sztutowo|Sztutowo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Sztutowo.public|Sztutowo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Sztutowo.internal|Sztutowo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Sztutowo.protect|Sztutowo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Sztutowo.private|Sztutowo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Sztutowo.personal|Sztutowo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Sztutowo.secret|Sztutowo.secret]] 
+
+### [Sztutowo.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CitySztutowo.public.md) 
+
+### [Sztutowo.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CitySztutowo.internal.md) 
+
+### [Sztutowo.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CitySztutowo.protect.md) 
+
+### [Sztutowo.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CitySztutowo.private.md) 
+
+### [Sztutowo.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CitySztutowo.personal.md) 
+
+### [Sztutowo.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CitySztutowo.secret.md)
+

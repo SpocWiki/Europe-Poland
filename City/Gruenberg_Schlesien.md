@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Gruenberg_Schlesien|Gruenberg_Schlesien]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Gruenberg_Schlesien.public|Gruenberg_Schlesien.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Gruenberg_Schlesien.internal|Gruenberg_Schlesien.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Gruenberg_Schlesien.protect|Gruenberg_Schlesien.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Gruenberg_Schlesien.private|Gruenberg_Schlesien.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Gruenberg_Schlesien.personal|Gruenberg_Schlesien.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Gruenberg_Schlesien.secret|Gruenberg_Schlesien.secret]] 
+
+### [Gruenberg_Schlesien.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\CityGruenberg_Schlesien.public.md) 
+
+### [Gruenberg_Schlesien.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\CityGruenberg_Schlesien.internal.md) 
+
+### [Gruenberg_Schlesien.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\CityGruenberg_Schlesien.protect.md) 
+
+### [Gruenberg_Schlesien.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\CityGruenberg_Schlesien.private.md) 
+
+### [Gruenberg_Schlesien.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\CityGruenberg_Schlesien.personal.md) 
+
+### [Gruenberg_Schlesien.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\CityGruenberg_Schlesien.secret.md)
+

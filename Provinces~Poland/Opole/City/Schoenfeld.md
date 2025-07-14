@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Schoenfeld|Schoenfeld]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Schoenfeld.public|Schoenfeld.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Schoenfeld.internal|Schoenfeld.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Schoenfeld.protect|Schoenfeld.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Schoenfeld.private|Schoenfeld.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Schoenfeld.personal|Schoenfeld.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Schoenfeld.secret|Schoenfeld.secret]] 
+
+### [Schoenfeld.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CitySchoenfeld.public.md) 
+
+### [Schoenfeld.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CitySchoenfeld.internal.md) 
+
+### [Schoenfeld.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CitySchoenfeld.protect.md) 
+
+### [Schoenfeld.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CitySchoenfeld.private.md) 
+
+### [Schoenfeld.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CitySchoenfeld.personal.md) 
+
+### [Schoenfeld.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CitySchoenfeld.secret.md)
+

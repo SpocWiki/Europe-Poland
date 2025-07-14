@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Ustcon|Ustcon]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Ustcon.public|Ustcon.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Ustcon.internal|Ustcon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Ustcon.protect|Ustcon.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Ustcon.private|Ustcon.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Ustcon.personal|Ustcon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Ustcon.secret|Ustcon.secret]] 
+
+### [Ustcon.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityUstcon.public.md) 
+
+### [Ustcon.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityUstcon.internal.md) 
+
+### [Ustcon.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityUstcon.protect.md) 
+
+### [Ustcon.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityUstcon.private.md) 
+
+### [Ustcon.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityUstcon.personal.md) 
+
+### [Ustcon.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityUstcon.secret.md)
+

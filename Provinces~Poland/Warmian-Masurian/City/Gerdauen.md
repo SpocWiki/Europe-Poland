@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Gerdauen|Gerdauen]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Gerdauen.public|Gerdauen.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Gerdauen.internal|Gerdauen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Gerdauen.protect|Gerdauen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Gerdauen.private|Gerdauen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Gerdauen.personal|Gerdauen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Gerdauen.secret|Gerdauen.secret]] 
+
+### [Gerdauen.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityGerdauen.public.md) 
+
+### [Gerdauen.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityGerdauen.internal.md) 
+
+### [Gerdauen.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityGerdauen.protect.md) 
+
+### [Gerdauen.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityGerdauen.private.md) 
+
+### [Gerdauen.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityGerdauen.personal.md) 
+
+### [Gerdauen.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityGerdauen.secret.md)
+

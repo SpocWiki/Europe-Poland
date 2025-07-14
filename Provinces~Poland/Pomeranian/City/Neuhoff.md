@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Neuhoff|Neuhoff]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Neuhoff.public|Neuhoff.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Neuhoff.internal|Neuhoff.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Neuhoff.protect|Neuhoff.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Neuhoff.private|Neuhoff.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Neuhoff.personal|Neuhoff.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Neuhoff.secret|Neuhoff.secret]] 
+
+### [Neuhoff.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNeuhoff.public.md) 
+
+### [Neuhoff.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNeuhoff.internal.md) 
+
+### [Neuhoff.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNeuhoff.protect.md) 
+
+### [Neuhoff.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNeuhoff.private.md) 
+
+### [Neuhoff.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNeuhoff.personal.md) 
+
+### [Neuhoff.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNeuhoff.secret.md)
+

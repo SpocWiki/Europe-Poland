@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Rastenburgfelde|Rastenburgfelde]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Rastenburgfelde.public|Rastenburgfelde.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Rastenburgfelde.internal|Rastenburgfelde.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Rastenburgfelde.protect|Rastenburgfelde.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Rastenburgfelde.private|Rastenburgfelde.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Rastenburgfelde.personal|Rastenburgfelde.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Rastenburgfelde.secret|Rastenburgfelde.secret]] 
+
+### [Rastenburgfelde.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityRastenburgfelde.public.md) 
+
+### [Rastenburgfelde.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityRastenburgfelde.internal.md) 
+
+### [Rastenburgfelde.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityRastenburgfelde.protect.md) 
+
+### [Rastenburgfelde.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityRastenburgfelde.private.md) 
+
+### [Rastenburgfelde.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityRastenburgfelde.personal.md) 
+
+### [Rastenburgfelde.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityRastenburgfelde.secret.md)
+

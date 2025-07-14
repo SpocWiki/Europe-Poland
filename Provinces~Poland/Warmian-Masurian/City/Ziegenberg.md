@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Ziegenberg|Ziegenberg]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Ziegenberg.public|Ziegenberg.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Ziegenberg.internal|Ziegenberg.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Ziegenberg.protect|Ziegenberg.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Ziegenberg.private|Ziegenberg.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Ziegenberg.personal|Ziegenberg.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Ziegenberg.secret|Ziegenberg.secret]] 
+
+### [Ziegenberg.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityZiegenberg.public.md) 
+
+### [Ziegenberg.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityZiegenberg.internal.md) 
+
+### [Ziegenberg.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityZiegenberg.protect.md) 
+
+### [Ziegenberg.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityZiegenberg.private.md) 
+
+### [Ziegenberg.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityZiegenberg.personal.md) 
+
+### [Ziegenberg.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityZiegenberg.secret.md)
+

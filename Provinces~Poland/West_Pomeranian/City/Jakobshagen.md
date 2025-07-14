@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Jakobshagen|Jakobshagen]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Jakobshagen.public|Jakobshagen.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Jakobshagen.internal|Jakobshagen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Jakobshagen.protect|Jakobshagen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Jakobshagen.private|Jakobshagen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Jakobshagen.personal|Jakobshagen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Jakobshagen.secret|Jakobshagen.secret]] 
+
+### [Jakobshagen.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityJakobshagen.public.md) 
+
+### [Jakobshagen.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityJakobshagen.internal.md) 
+
+### [Jakobshagen.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityJakobshagen.protect.md) 
+
+### [Jakobshagen.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityJakobshagen.private.md) 
+
+### [Jakobshagen.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityJakobshagen.personal.md) 
+
+### [Jakobshagen.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityJakobshagen.secret.md)
+

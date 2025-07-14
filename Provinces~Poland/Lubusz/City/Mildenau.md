@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Italy/City/Mildenau|Mildenau]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Italy/City/Mildenau.public|Mildenau.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Italy/City/Mildenau.internal|Mildenau.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Italy/City/Mildenau.protect|Mildenau.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Italy/City/Mildenau.private|Mildenau.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Italy/City/Mildenau.personal|Mildenau.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Italy/City/Mildenau.secret|Mildenau.secret]] 
+
+### [Mildenau.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityMildenau.public.md) 
+
+### [Mildenau.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityMildenau.internal.md) 
+
+### [Mildenau.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityMildenau.protect.md) 
+
+### [Mildenau.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityMildenau.private.md) 
+
+### [Mildenau.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityMildenau.personal.md) 
+
+### [Mildenau.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityMildenau.secret.md)
+

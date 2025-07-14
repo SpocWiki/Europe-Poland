@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Bogschuetz|Bogschuetz]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Bogschuetz.public|Bogschuetz.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Bogschuetz.internal|Bogschuetz.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Bogschuetz.protect|Bogschuetz.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Bogschuetz.private|Bogschuetz.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Bogschuetz.personal|Bogschuetz.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Bogschuetz.secret|Bogschuetz.secret]] 
+
+### [Bogschuetz.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityBogschuetz.public.md) 
+
+### [Bogschuetz.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityBogschuetz.internal.md) 
+
+### [Bogschuetz.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityBogschuetz.protect.md) 
+
+### [Bogschuetz.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityBogschuetz.private.md) 
+
+### [Bogschuetz.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityBogschuetz.personal.md) 
+
+### [Bogschuetz.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityBogschuetz.secret.md)
+

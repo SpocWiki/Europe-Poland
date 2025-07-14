@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Czech_Republic/City/Krnov|Krnov]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Czech_Republic/City/Krnov.public|Krnov.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Czech_Republic/City/Krnov.internal|Krnov.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Czech_Republic/City/Krnov.protect|Krnov.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Czech_Republic/City/Krnov.private|Krnov.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Czech_Republic/City/Krnov.personal|Krnov.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Czech_Republic/City/Krnov.secret|Krnov.secret]] 
+
+### [Krnov.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityKrnov.public.md) 
+
+### [Krnov.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityKrnov.internal.md) 
+
+### [Krnov.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityKrnov.protect.md) 
+
+### [Krnov.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityKrnov.private.md) 
+
+### [Krnov.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityKrnov.personal.md) 
+
+### [Krnov.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityKrnov.secret.md)
+

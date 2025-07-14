@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Czech_Republic/City/Oberhemsdorf|Oberhemsdorf]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Czech_Republic/City/Oberhemsdorf.public|Oberhemsdorf.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Czech_Republic/City/Oberhemsdorf.internal|Oberhemsdorf.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Czech_Republic/City/Oberhemsdorf.protect|Oberhemsdorf.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Czech_Republic/City/Oberhemsdorf.private|Oberhemsdorf.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Czech_Republic/City/Oberhemsdorf.personal|Oberhemsdorf.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Czech_Republic/City/Oberhemsdorf.secret|Oberhemsdorf.secret]] 
+
+### [Oberhemsdorf.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityOberhemsdorf.public.md) 
+
+### [Oberhemsdorf.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityOberhemsdorf.internal.md) 
+
+### [Oberhemsdorf.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityOberhemsdorf.protect.md) 
+
+### [Oberhemsdorf.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityOberhemsdorf.private.md) 
+
+### [Oberhemsdorf.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityOberhemsdorf.personal.md) 
+
+### [Oberhemsdorf.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityOberhemsdorf.secret.md)
+

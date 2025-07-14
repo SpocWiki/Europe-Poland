@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Boleszkowice|Boleszkowice]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Boleszkowice.public|Boleszkowice.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Boleszkowice.internal|Boleszkowice.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Boleszkowice.protect|Boleszkowice.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Boleszkowice.private|Boleszkowice.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Boleszkowice.personal|Boleszkowice.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Boleszkowice.secret|Boleszkowice.secret]] 
+
+### [Boleszkowice.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityBoleszkowice.public.md) 
+
+### [Boleszkowice.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityBoleszkowice.internal.md) 
+
+### [Boleszkowice.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityBoleszkowice.protect.md) 
+
+### [Boleszkowice.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityBoleszkowice.private.md) 
+
+### [Boleszkowice.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityBoleszkowice.personal.md) 
+
+### [Boleszkowice.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityBoleszkowice.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Muehlhausen~Ostpommern|Muehlhausen~Ostpommern]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Muehlhausen~Ostpommern.public|Muehlhausen~Ostpommern.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Muehlhausen~Ostpommern.internal|Muehlhausen~Ostpommern.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Muehlhausen~Ostpommern.protect|Muehlhausen~Ostpommern.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Muehlhausen~Ostpommern.private|Muehlhausen~Ostpommern.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Muehlhausen~Ostpommern.personal|Muehlhausen~Ostpommern.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Muehlhausen~Ostpommern.secret|Muehlhausen~Ostpommern.secret]] 
+
+### [Muehlhausen~Ostpommern.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityMuehlhausen~Ostpommern.public.md) 
+
+### [Muehlhausen~Ostpommern.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityMuehlhausen~Ostpommern.internal.md) 
+
+### [Muehlhausen~Ostpommern.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityMuehlhausen~Ostpommern.protect.md) 
+
+### [Muehlhausen~Ostpommern.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityMuehlhausen~Ostpommern.private.md) 
+
+### [Muehlhausen~Ostpommern.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityMuehlhausen~Ostpommern.personal.md) 
+
+### [Muehlhausen~Ostpommern.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityMuehlhausen~Ostpommern.secret.md)
+

@@ -173,12 +173,17 @@ Capital :: [[Warszawa]]
 [Language-Id::494] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland|Poland]] 
-- [[../../../../../_public/geo/Continent/Europe/Europe~East/Poland.public|Poland.public]] 
-- [[../../../../../_internal/geo/Continent/Europe/Europe~East/Poland.internal|Poland.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Europe~East/Poland.protect|Poland.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Europe~East/Poland.private|Poland.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Europe~East/Poland.personal|Poland.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Europe~East/Poland.secret|Poland.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~East\PolandReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~East\PolandReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~East\PolandReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~East\PolandReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~East\PolandReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~East\PolandReadMe.secret.md)
+

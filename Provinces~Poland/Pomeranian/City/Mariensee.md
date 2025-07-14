@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Mariensee|Mariensee]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Mariensee.public|Mariensee.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Mariensee.internal|Mariensee.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Mariensee.protect|Mariensee.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Mariensee.private|Mariensee.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Mariensee.personal|Mariensee.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Mariensee.secret|Mariensee.secret]] 
+
+### [Mariensee.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityMariensee.public.md) 
+
+### [Mariensee.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityMariensee.internal.md) 
+
+### [Mariensee.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityMariensee.protect.md) 
+
+### [Mariensee.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityMariensee.private.md) 
+
+### [Mariensee.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityMariensee.personal.md) 
+
+### [Mariensee.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityMariensee.secret.md)
+

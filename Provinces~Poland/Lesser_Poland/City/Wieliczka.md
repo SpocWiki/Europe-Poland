@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Wieliczka|Wieliczka]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Wieliczka.public|Wieliczka.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Wieliczka.internal|Wieliczka.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Wieliczka.protect|Wieliczka.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Wieliczka.private|Wieliczka.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Wieliczka.personal|Wieliczka.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Wieliczka.secret|Wieliczka.secret]] 
+
+### [Wieliczka.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityWieliczka.public.md) 
+
+### [Wieliczka.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityWieliczka.internal.md) 
+
+### [Wieliczka.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityWieliczka.protect.md) 
+
+### [Wieliczka.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityWieliczka.private.md) 
+
+### [Wieliczka.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityWieliczka.personal.md) 
+
+### [Wieliczka.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityWieliczka.secret.md)
+

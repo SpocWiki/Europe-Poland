@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Zillerthal|Zillerthal]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Zillerthal.public|Zillerthal.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Zillerthal.internal|Zillerthal.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Zillerthal.protect|Zillerthal.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Zillerthal.private|Zillerthal.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Zillerthal.personal|Zillerthal.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Zillerthal.secret|Zillerthal.secret]] 
+
+### [Zillerthal.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityZillerthal.public.md) 
+
+### [Zillerthal.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityZillerthal.internal.md) 
+
+### [Zillerthal.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityZillerthal.protect.md) 
+
+### [Zillerthal.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityZillerthal.private.md) 
+
+### [Zillerthal.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityZillerthal.personal.md) 
+
+### [Zillerthal.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityZillerthal.secret.md)
+

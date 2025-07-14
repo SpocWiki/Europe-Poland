@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Steinau~Ostpommern|Steinau~Ostpommern]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Steinau~Ostpommern.public|Steinau~Ostpommern.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Steinau~Ostpommern.internal|Steinau~Ostpommern.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Steinau~Ostpommern.protect|Steinau~Ostpommern.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Steinau~Ostpommern.private|Steinau~Ostpommern.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Steinau~Ostpommern.personal|Steinau~Ostpommern.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Steinau~Ostpommern.secret|Steinau~Ostpommern.secret]] 
+
+### [Steinau~Ostpommern.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Podlachian\CitySteinau~Ostpommern.public.md) 
+
+### [Steinau~Ostpommern.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Podlachian\CitySteinau~Ostpommern.internal.md) 
+
+### [Steinau~Ostpommern.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Podlachian\CitySteinau~Ostpommern.protect.md) 
+
+### [Steinau~Ostpommern.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Podlachian\CitySteinau~Ostpommern.private.md) 
+
+### [Steinau~Ostpommern.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Podlachian\CitySteinau~Ostpommern.personal.md) 
+
+### [Steinau~Ostpommern.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Podlachian\CitySteinau~Ostpommern.secret.md)
+

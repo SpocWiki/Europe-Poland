@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Rosenberg~OberSchlesien|Rosenberg~OberSchlesien]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Rosenberg~OberSchlesien.public|Rosenberg~OberSchlesien.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Rosenberg~OberSchlesien.internal|Rosenberg~OberSchlesien.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Rosenberg~OberSchlesien.protect|Rosenberg~OberSchlesien.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Rosenberg~OberSchlesien.private|Rosenberg~OberSchlesien.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Rosenberg~OberSchlesien.personal|Rosenberg~OberSchlesien.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Rosenberg~OberSchlesien.secret|Rosenberg~OberSchlesien.secret]] 
+
+### [Rosenberg~OberSchlesien.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityRosenberg~OberSchlesien.public.md) 
+
+### [Rosenberg~OberSchlesien.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityRosenberg~OberSchlesien.internal.md) 
+
+### [Rosenberg~OberSchlesien.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityRosenberg~OberSchlesien.protect.md) 
+
+### [Rosenberg~OberSchlesien.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityRosenberg~OberSchlesien.private.md) 
+
+### [Rosenberg~OberSchlesien.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityRosenberg~OberSchlesien.personal.md) 
+
+### [Rosenberg~OberSchlesien.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityRosenberg~OberSchlesien.secret.md)
+

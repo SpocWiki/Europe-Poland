@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Freystadt_Schlesien|Freystadt_Schlesien]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Freystadt_Schlesien.public|Freystadt_Schlesien.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Freystadt_Schlesien.internal|Freystadt_Schlesien.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Freystadt_Schlesien.protect|Freystadt_Schlesien.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Freystadt_Schlesien.private|Freystadt_Schlesien.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Freystadt_Schlesien.personal|Freystadt_Schlesien.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Freystadt_Schlesien.secret|Freystadt_Schlesien.secret]] 
+
+### [Freystadt_Schlesien.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\CityFreystadt_Schlesien.public.md) 
+
+### [Freystadt_Schlesien.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\CityFreystadt_Schlesien.internal.md) 
+
+### [Freystadt_Schlesien.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\CityFreystadt_Schlesien.protect.md) 
+
+### [Freystadt_Schlesien.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\CityFreystadt_Schlesien.private.md) 
+
+### [Freystadt_Schlesien.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\CityFreystadt_Schlesien.personal.md) 
+
+### [Freystadt_Schlesien.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\CityFreystadt_Schlesien.secret.md)
+

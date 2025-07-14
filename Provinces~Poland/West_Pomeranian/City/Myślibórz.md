@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Myślibórz|Myślibórz]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Myślibórz.public|Myślibórz.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Myślibórz.internal|Myślibórz.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Myślibórz.protect|Myślibórz.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Myślibórz.private|Myślibórz.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Myślibórz.personal|Myślibórz.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Myślibórz.secret|Myślibórz.secret]] 
+
+### [Myślibórz.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityMyślibórz.public.md) 
+
+### [Myślibórz.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityMyślibórz.internal.md) 
+
+### [Myślibórz.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityMyślibórz.protect.md) 
+
+### [Myślibórz.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityMyślibórz.private.md) 
+
+### [Myślibórz.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityMyślibórz.personal.md) 
+
+### [Myślibórz.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityMyślibórz.secret.md)
+

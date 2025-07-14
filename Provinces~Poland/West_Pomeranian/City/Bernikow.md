@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Portugal/City/Bernikow|Bernikow]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Portugal/City/Bernikow.public|Bernikow.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Portugal/City/Bernikow.internal|Bernikow.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Portugal/City/Bernikow.protect|Bernikow.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Portugal/City/Bernikow.private|Bernikow.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Portugal/City/Bernikow.personal|Bernikow.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Portugal/City/Bernikow.secret|Bernikow.secret]] 
+
+### [Bernikow.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityBernikow.public.md) 
+
+### [Bernikow.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityBernikow.internal.md) 
+
+### [Bernikow.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityBernikow.protect.md) 
+
+### [Bernikow.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityBernikow.private.md) 
+
+### [Bernikow.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityBernikow.personal.md) 
+
+### [Bernikow.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityBernikow.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Kolbergermuende|Kolbergermuende]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Kolbergermuende.public|Kolbergermuende.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Kolbergermuende.internal|Kolbergermuende.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Kolbergermuende.protect|Kolbergermuende.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Kolbergermuende.private|Kolbergermuende.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Kolbergermuende.personal|Kolbergermuende.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Kolbergermuende.secret|Kolbergermuende.secret]] 
+
+### [Kolbergermuende.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityKolbergermuende.public.md) 
+
+### [Kolbergermuende.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityKolbergermuende.internal.md) 
+
+### [Kolbergermuende.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityKolbergermuende.protect.md) 
+
+### [Kolbergermuende.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityKolbergermuende.private.md) 
+
+### [Kolbergermuende.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityKolbergermuende.personal.md) 
+
+### [Kolbergermuende.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityKolbergermuende.secret.md)
+

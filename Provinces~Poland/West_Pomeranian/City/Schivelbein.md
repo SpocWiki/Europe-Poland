@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Schivelbein|Schivelbein]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Schivelbein.public|Schivelbein.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Schivelbein.internal|Schivelbein.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Schivelbein.protect|Schivelbein.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Schivelbein.private|Schivelbein.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Schivelbein.personal|Schivelbein.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Schivelbein.secret|Schivelbein.secret]] 
+
+### [Schivelbein.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CitySchivelbein.public.md) 
+
+### [Schivelbein.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CitySchivelbein.internal.md) 
+
+### [Schivelbein.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CitySchivelbein.protect.md) 
+
+### [Schivelbein.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CitySchivelbein.private.md) 
+
+### [Schivelbein.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CitySchivelbein.personal.md) 
+
+### [Schivelbein.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CitySchivelbein.secret.md)
+

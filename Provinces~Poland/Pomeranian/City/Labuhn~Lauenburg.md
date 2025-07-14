@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Labuhn~Lauenburg|Labuhn~Lauenburg]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Labuhn~Lauenburg.public|Labuhn~Lauenburg.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Labuhn~Lauenburg.internal|Labuhn~Lauenburg.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Labuhn~Lauenburg.protect|Labuhn~Lauenburg.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Labuhn~Lauenburg.private|Labuhn~Lauenburg.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Labuhn~Lauenburg.personal|Labuhn~Lauenburg.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Labuhn~Lauenburg.secret|Labuhn~Lauenburg.secret]] 
+
+### [Labuhn~Lauenburg.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityLabuhn~Lauenburg.public.md) 
+
+### [Labuhn~Lauenburg.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityLabuhn~Lauenburg.internal.md) 
+
+### [Labuhn~Lauenburg.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityLabuhn~Lauenburg.protect.md) 
+
+### [Labuhn~Lauenburg.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityLabuhn~Lauenburg.private.md) 
+
+### [Labuhn~Lauenburg.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityLabuhn~Lauenburg.personal.md) 
+
+### [Labuhn~Lauenburg.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityLabuhn~Lauenburg.secret.md)
+

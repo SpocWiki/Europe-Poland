@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Paprotsch|Paprotsch]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Paprotsch.public|Paprotsch.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Paprotsch.internal|Paprotsch.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Paprotsch.protect|Paprotsch.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Paprotsch.private|Paprotsch.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Paprotsch.personal|Paprotsch.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Paprotsch.secret|Paprotsch.secret]] 
+
+### [Paprotsch.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityPaprotsch.public.md) 
+
+### [Paprotsch.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityPaprotsch.internal.md) 
+
+### [Paprotsch.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityPaprotsch.protect.md) 
+
+### [Paprotsch.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityPaprotsch.private.md) 
+
+### [Paprotsch.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityPaprotsch.personal.md) 
+
+### [Paprotsch.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityPaprotsch.secret.md)
+

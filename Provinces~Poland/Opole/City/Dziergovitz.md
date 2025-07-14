@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Dziergovitz|Dziergovitz]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Dziergovitz.public|Dziergovitz.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Dziergovitz.internal|Dziergovitz.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Dziergovitz.protect|Dziergovitz.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Dziergovitz.private|Dziergovitz.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Dziergovitz.personal|Dziergovitz.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Dziergovitz.secret|Dziergovitz.secret]] 
+
+### [Dziergovitz.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityDziergovitz.public.md) 
+
+### [Dziergovitz.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityDziergovitz.internal.md) 
+
+### [Dziergovitz.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityDziergovitz.protect.md) 
+
+### [Dziergovitz.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityDziergovitz.private.md) 
+
+### [Dziergovitz.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityDziergovitz.personal.md) 
+
+### [Dziergovitz.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityDziergovitz.secret.md)
+

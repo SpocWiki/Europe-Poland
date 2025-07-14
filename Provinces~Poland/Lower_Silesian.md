@@ -42,11 +42,16 @@ markerFolder: ./Lower_Silesian/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/Counties/Lower_Silesian|Lower_Silesian]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/Counties/Lower_Silesian.public|Lower_Silesian.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/Counties/Lower_Silesian.internal|Lower_Silesian.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/Counties/Lower_Silesian.protect|Lower_Silesian.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/Counties/Lower_Silesian.private|Lower_Silesian.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/Counties/Lower_Silesian.personal|Lower_Silesian.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/Counties/Lower_Silesian.secret|Lower_Silesian.secret]] 
+
+### [Lower_Silesian.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandLower_Silesian.public.md) 
+
+### [Lower_Silesian.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandLower_Silesian.internal.md) 
+
+### [Lower_Silesian.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandLower_Silesian.protect.md) 
+
+### [Lower_Silesian.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandLower_Silesian.private.md) 
+
+### [Lower_Silesian.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandLower_Silesian.personal.md) 
+
+### [Lower_Silesian.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandLower_Silesian.secret.md)
 

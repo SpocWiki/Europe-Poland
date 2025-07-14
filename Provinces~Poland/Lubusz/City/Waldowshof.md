@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Waldowshof|Waldowshof]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Waldowshof.public|Waldowshof.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Waldowshof.internal|Waldowshof.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Waldowshof.protect|Waldowshof.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Waldowshof.private|Waldowshof.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Waldowshof.personal|Waldowshof.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Waldowshof.secret|Waldowshof.secret]] 
+
+### [Waldowshof.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityWaldowshof.public.md) 
+
+### [Waldowshof.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityWaldowshof.internal.md) 
+
+### [Waldowshof.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityWaldowshof.protect.md) 
+
+### [Waldowshof.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityWaldowshof.private.md) 
+
+### [Waldowshof.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityWaldowshof.personal.md) 
+
+### [Waldowshof.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityWaldowshof.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Schlobitten|Schlobitten]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Schlobitten.public|Schlobitten.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Schlobitten.internal|Schlobitten.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Schlobitten.protect|Schlobitten.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Schlobitten.private|Schlobitten.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Schlobitten.personal|Schlobitten.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Schlobitten.secret|Schlobitten.secret]] 
+
+### [Schlobitten.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CitySchlobitten.public.md) 
+
+### [Schlobitten.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CitySchlobitten.internal.md) 
+
+### [Schlobitten.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CitySchlobitten.protect.md) 
+
+### [Schlobitten.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CitySchlobitten.private.md) 
+
+### [Schlobitten.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CitySchlobitten.personal.md) 
+
+### [Schlobitten.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CitySchlobitten.secret.md)
+

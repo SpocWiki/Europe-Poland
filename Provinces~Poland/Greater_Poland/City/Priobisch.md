@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Priobisch|Priobisch]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Priobisch.public|Priobisch.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Priobisch.internal|Priobisch.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Priobisch.protect|Priobisch.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Priobisch.private|Priobisch.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Priobisch.personal|Priobisch.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Priobisch.secret|Priobisch.secret]] 
+
+### [Priobisch.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityPriobisch.public.md) 
+
+### [Priobisch.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityPriobisch.internal.md) 
+
+### [Priobisch.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityPriobisch.protect.md) 
+
+### [Priobisch.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityPriobisch.private.md) 
+
+### [Priobisch.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityPriobisch.personal.md) 
+
+### [Priobisch.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityPriobisch.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Rothwasser|Rothwasser]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Rothwasser.public|Rothwasser.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Rothwasser.internal|Rothwasser.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Rothwasser.protect|Rothwasser.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Rothwasser.private|Rothwasser.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Rothwasser.personal|Rothwasser.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Rothwasser.secret|Rothwasser.secret]] 
+
+### [Rothwasser.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityRothwasser.public.md) 
+
+### [Rothwasser.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityRothwasser.internal.md) 
+
+### [Rothwasser.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityRothwasser.protect.md) 
+
+### [Rothwasser.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityRothwasser.private.md) 
+
+### [Rothwasser.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityRothwasser.personal.md) 
+
+### [Rothwasser.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityRothwasser.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Peitschendorf|Peitschendorf]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Peitschendorf.public|Peitschendorf.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Peitschendorf.internal|Peitschendorf.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Peitschendorf.protect|Peitschendorf.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Peitschendorf.private|Peitschendorf.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Peitschendorf.personal|Peitschendorf.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Peitschendorf.secret|Peitschendorf.secret]] 
+
+### [Peitschendorf.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityPeitschendorf.public.md) 
+
+### [Peitschendorf.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityPeitschendorf.internal.md) 
+
+### [Peitschendorf.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityPeitschendorf.protect.md) 
+
+### [Peitschendorf.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityPeitschendorf.private.md) 
+
+### [Peitschendorf.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityPeitschendorf.personal.md) 
+
+### [Peitschendorf.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityPeitschendorf.secret.md)
+

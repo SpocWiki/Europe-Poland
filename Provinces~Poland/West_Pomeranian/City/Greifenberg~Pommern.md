@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Greifenberg~Pommern|Greifenberg~Pommern]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Greifenberg~Pommern.public|Greifenberg~Pommern.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Greifenberg~Pommern.internal|Greifenberg~Pommern.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Greifenberg~Pommern.protect|Greifenberg~Pommern.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Greifenberg~Pommern.private|Greifenberg~Pommern.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Greifenberg~Pommern.personal|Greifenberg~Pommern.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Greifenberg~Pommern.secret|Greifenberg~Pommern.secret]] 
+
+### [Greifenberg~Pommern.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityGreifenberg~Pommern.public.md) 
+
+### [Greifenberg~Pommern.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityGreifenberg~Pommern.internal.md) 
+
+### [Greifenberg~Pommern.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityGreifenberg~Pommern.protect.md) 
+
+### [Greifenberg~Pommern.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityGreifenberg~Pommern.private.md) 
+
+### [Greifenberg~Pommern.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityGreifenberg~Pommern.personal.md) 
+
+### [Greifenberg~Pommern.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityGreifenberg~Pommern.secret.md)
+

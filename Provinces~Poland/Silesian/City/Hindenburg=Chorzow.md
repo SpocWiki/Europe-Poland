@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Hindenburg=Chorzow|Hindenburg=Chorzow]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Hindenburg=Chorzow.public|Hindenburg=Chorzow.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Hindenburg=Chorzow.internal|Hindenburg=Chorzow.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Hindenburg=Chorzow.protect|Hindenburg=Chorzow.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Hindenburg=Chorzow.private|Hindenburg=Chorzow.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Hindenburg=Chorzow.personal|Hindenburg=Chorzow.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Hindenburg=Chorzow.secret|Hindenburg=Chorzow.secret]] 
+
+### [Hindenburg=Chorzow.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityHindenburg=Chorzow.public.md) 
+
+### [Hindenburg=Chorzow.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityHindenburg=Chorzow.internal.md) 
+
+### [Hindenburg=Chorzow.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityHindenburg=Chorzow.protect.md) 
+
+### [Hindenburg=Chorzow.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityHindenburg=Chorzow.private.md) 
+
+### [Hindenburg=Chorzow.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityHindenburg=Chorzow.personal.md) 
+
+### [Hindenburg=Chorzow.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityHindenburg=Chorzow.secret.md)
+

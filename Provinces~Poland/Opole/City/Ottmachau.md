@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Ottmachau|Ottmachau]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Ottmachau.public|Ottmachau.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Ottmachau.internal|Ottmachau.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Ottmachau.protect|Ottmachau.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Ottmachau.private|Ottmachau.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Ottmachau.personal|Ottmachau.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Ottmachau.secret|Ottmachau.secret]] 
+
+### [Ottmachau.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityOttmachau.public.md) 
+
+### [Ottmachau.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityOttmachau.internal.md) 
+
+### [Ottmachau.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityOttmachau.protect.md) 
+
+### [Ottmachau.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityOttmachau.private.md) 
+
+### [Ottmachau.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityOttmachau.personal.md) 
+
+### [Ottmachau.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityOttmachau.secret.md)
+

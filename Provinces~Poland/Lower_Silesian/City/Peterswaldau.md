@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Peterswaldau|Peterswaldau]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Peterswaldau.public|Peterswaldau.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Peterswaldau.internal|Peterswaldau.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Peterswaldau.protect|Peterswaldau.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Peterswaldau.private|Peterswaldau.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Peterswaldau.personal|Peterswaldau.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Peterswaldau.secret|Peterswaldau.secret]] 
+
+### [Peterswaldau.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityPeterswaldau.public.md) 
+
+### [Peterswaldau.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityPeterswaldau.internal.md) 
+
+### [Peterswaldau.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityPeterswaldau.protect.md) 
+
+### [Peterswaldau.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityPeterswaldau.private.md) 
+
+### [Peterswaldau.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityPeterswaldau.personal.md) 
+
+### [Peterswaldau.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityPeterswaldau.secret.md)
+

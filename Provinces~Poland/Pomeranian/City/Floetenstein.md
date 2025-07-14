@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Floetenstein|Floetenstein]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Floetenstein.public|Floetenstein.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Floetenstein.internal|Floetenstein.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Floetenstein.protect|Floetenstein.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Floetenstein.private|Floetenstein.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Floetenstein.personal|Floetenstein.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Floetenstein.secret|Floetenstein.secret]] 
+
+### [Floetenstein.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityFloetenstein.public.md) 
+
+### [Floetenstein.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityFloetenstein.internal.md) 
+
+### [Floetenstein.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityFloetenstein.protect.md) 
+
+### [Floetenstein.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityFloetenstein.private.md) 
+
+### [Floetenstein.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityFloetenstein.personal.md) 
+
+### [Floetenstein.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityFloetenstein.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Steinkirche|Steinkirche]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Steinkirche.public|Steinkirche.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Steinkirche.internal|Steinkirche.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Steinkirche.protect|Steinkirche.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Steinkirche.private|Steinkirche.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Steinkirche.personal|Steinkirche.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Steinkirche.secret|Steinkirche.secret]] 
+
+### [Steinkirche.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CitySteinkirche.public.md) 
+
+### [Steinkirche.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CitySteinkirche.internal.md) 
+
+### [Steinkirche.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CitySteinkirche.protect.md) 
+
+### [Steinkirche.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CitySteinkirche.private.md) 
+
+### [Steinkirche.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CitySteinkirche.personal.md) 
+
+### [Steinkirche.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CitySteinkirche.secret.md)
+

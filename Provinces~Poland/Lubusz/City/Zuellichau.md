@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Zuellichau|Zuellichau]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Zuellichau.public|Zuellichau.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Zuellichau.internal|Zuellichau.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Zuellichau.protect|Zuellichau.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Zuellichau.private|Zuellichau.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Zuellichau.personal|Zuellichau.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Zuellichau.secret|Zuellichau.secret]] 
+
+### [Zuellichau.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityZuellichau.public.md) 
+
+### [Zuellichau.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityZuellichau.internal.md) 
+
+### [Zuellichau.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityZuellichau.protect.md) 
+
+### [Zuellichau.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityZuellichau.private.md) 
+
+### [Zuellichau.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityZuellichau.personal.md) 
+
+### [Zuellichau.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityZuellichau.secret.md)
+

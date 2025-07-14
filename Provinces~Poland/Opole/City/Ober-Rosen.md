@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Ober-Rosen|Ober-Rosen]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Ober-Rosen.public|Ober-Rosen.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Ober-Rosen.internal|Ober-Rosen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Ober-Rosen.protect|Ober-Rosen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Ober-Rosen.private|Ober-Rosen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Ober-Rosen.personal|Ober-Rosen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Ober-Rosen.secret|Ober-Rosen.secret]] 
+
+### [Ober-Rosen.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityOber-Rosen.public.md) 
+
+### [Ober-Rosen.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityOber-Rosen.internal.md) 
+
+### [Ober-Rosen.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityOber-Rosen.protect.md) 
+
+### [Ober-Rosen.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityOber-Rosen.private.md) 
+
+### [Ober-Rosen.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityOber-Rosen.personal.md) 
+
+### [Ober-Rosen.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityOber-Rosen.secret.md)
+

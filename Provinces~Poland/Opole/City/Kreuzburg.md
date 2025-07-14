@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Kreuzburg|Kreuzburg]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Kreuzburg.public|Kreuzburg.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Kreuzburg.internal|Kreuzburg.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Kreuzburg.protect|Kreuzburg.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Kreuzburg.private|Kreuzburg.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Kreuzburg.personal|Kreuzburg.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Kreuzburg.secret|Kreuzburg.secret]] 
+
+### [Kreuzburg.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityKreuzburg.public.md) 
+
+### [Kreuzburg.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityKreuzburg.internal.md) 
+
+### [Kreuzburg.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityKreuzburg.protect.md) 
+
+### [Kreuzburg.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityKreuzburg.private.md) 
+
+### [Kreuzburg.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityKreuzburg.personal.md) 
+
+### [Kreuzburg.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityKreuzburg.secret.md)
+

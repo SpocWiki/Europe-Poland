@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Oppeln|Oppeln]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Oppeln.public|Oppeln.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Oppeln.internal|Oppeln.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Oppeln.protect|Oppeln.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Oppeln.private|Oppeln.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Oppeln.personal|Oppeln.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Oppeln.secret|Oppeln.secret]] 
+
+### [Oppeln.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityOppeln.public.md) 
+
+### [Oppeln.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityOppeln.internal.md) 
+
+### [Oppeln.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityOppeln.protect.md) 
+
+### [Oppeln.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityOppeln.private.md) 
+
+### [Oppeln.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityOppeln.personal.md) 
+
+### [Oppeln.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityOppeln.secret.md)
+

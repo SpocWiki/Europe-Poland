@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Schwiebus|Schwiebus]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Schwiebus.public|Schwiebus.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Schwiebus.internal|Schwiebus.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Schwiebus.protect|Schwiebus.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Schwiebus.private|Schwiebus.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Schwiebus.personal|Schwiebus.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Schwiebus.secret|Schwiebus.secret]] 
+
+### [Schwiebus.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CitySchwiebus.public.md) 
+
+### [Schwiebus.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CitySchwiebus.internal.md) 
+
+### [Schwiebus.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CitySchwiebus.protect.md) 
+
+### [Schwiebus.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CitySchwiebus.private.md) 
+
+### [Schwiebus.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CitySchwiebus.personal.md) 
+
+### [Schwiebus.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CitySchwiebus.secret.md)
+

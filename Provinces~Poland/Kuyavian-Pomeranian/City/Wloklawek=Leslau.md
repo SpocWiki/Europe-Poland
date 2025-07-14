@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Wloklawek=Leslau|Wloklawek=Leslau]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Wloklawek=Leslau.public|Wloklawek=Leslau.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Wloklawek=Leslau.internal|Wloklawek=Leslau.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Wloklawek=Leslau.protect|Wloklawek=Leslau.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Wloklawek=Leslau.private|Wloklawek=Leslau.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Wloklawek=Leslau.personal|Wloklawek=Leslau.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Wloklawek=Leslau.secret|Wloklawek=Leslau.secret]] 
+
+### [Wloklawek=Leslau.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityWloklawek=Leslau.public.md) 
+
+### [Wloklawek=Leslau.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityWloklawek=Leslau.internal.md) 
+
+### [Wloklawek=Leslau.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityWloklawek=Leslau.protect.md) 
+
+### [Wloklawek=Leslau.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityWloklawek=Leslau.private.md) 
+
+### [Wloklawek=Leslau.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityWloklawek=Leslau.personal.md) 
+
+### [Wloklawek=Leslau.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityWloklawek=Leslau.secret.md)
+

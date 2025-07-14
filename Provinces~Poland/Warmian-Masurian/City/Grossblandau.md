@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Grossblandau|Grossblandau]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Grossblandau.public|Grossblandau.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Grossblandau.internal|Grossblandau.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Grossblandau.protect|Grossblandau.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Grossblandau.private|Grossblandau.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Grossblandau.personal|Grossblandau.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Grossblandau.secret|Grossblandau.secret]] 
+
+### [Grossblandau.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityGrossblandau.public.md) 
+
+### [Grossblandau.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityGrossblandau.internal.md) 
+
+### [Grossblandau.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityGrossblandau.protect.md) 
+
+### [Grossblandau.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityGrossblandau.private.md) 
+
+### [Grossblandau.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityGrossblandau.personal.md) 
+
+### [Grossblandau.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityGrossblandau.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Rummelsburg|Rummelsburg]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Rummelsburg.public|Rummelsburg.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Rummelsburg.internal|Rummelsburg.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Rummelsburg.protect|Rummelsburg.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Rummelsburg.private|Rummelsburg.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Rummelsburg.personal|Rummelsburg.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Rummelsburg.secret|Rummelsburg.secret]] 
+
+### [Rummelsburg.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityRummelsburg.public.md) 
+
+### [Rummelsburg.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityRummelsburg.internal.md) 
+
+### [Rummelsburg.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityRummelsburg.protect.md) 
+
+### [Rummelsburg.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityRummelsburg.private.md) 
+
+### [Rummelsburg.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityRummelsburg.personal.md) 
+
+### [Rummelsburg.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityRummelsburg.secret.md)
+

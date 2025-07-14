@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Jordansmuehl|Jordansmuehl]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Jordansmuehl.public|Jordansmuehl.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Jordansmuehl.internal|Jordansmuehl.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Jordansmuehl.protect|Jordansmuehl.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Jordansmuehl.private|Jordansmuehl.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Jordansmuehl.personal|Jordansmuehl.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Jordansmuehl.secret|Jordansmuehl.secret]] 
+
+### [Jordansmuehl.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityJordansmuehl.public.md) 
+
+### [Jordansmuehl.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityJordansmuehl.internal.md) 
+
+### [Jordansmuehl.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityJordansmuehl.protect.md) 
+
+### [Jordansmuehl.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityJordansmuehl.private.md) 
+
+### [Jordansmuehl.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityJordansmuehl.personal.md) 
+
+### [Jordansmuehl.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityJordansmuehl.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Schoenborn|Schoenborn]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Schoenborn.public|Schoenborn.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Schoenborn.internal|Schoenborn.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Schoenborn.protect|Schoenborn.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Schoenborn.private|Schoenborn.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Schoenborn.personal|Schoenborn.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Schoenborn.secret|Schoenborn.secret]] 
+
+### [Schoenborn.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CitySchoenborn.public.md) 
+
+### [Schoenborn.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CitySchoenborn.internal.md) 
+
+### [Schoenborn.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CitySchoenborn.protect.md) 
+
+### [Schoenborn.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CitySchoenborn.private.md) 
+
+### [Schoenborn.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CitySchoenborn.personal.md) 
+
+### [Schoenborn.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CitySchoenborn.secret.md)
+

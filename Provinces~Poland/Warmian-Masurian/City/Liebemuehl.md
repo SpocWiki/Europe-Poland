@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Liebemuehl|Liebemuehl]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Liebemuehl.public|Liebemuehl.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Liebemuehl.internal|Liebemuehl.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Liebemuehl.protect|Liebemuehl.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Liebemuehl.private|Liebemuehl.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Liebemuehl.personal|Liebemuehl.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Liebemuehl.secret|Liebemuehl.secret]] 
+
+### [Liebemuehl.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityLiebemuehl.public.md) 
+
+### [Liebemuehl.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityLiebemuehl.internal.md) 
+
+### [Liebemuehl.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityLiebemuehl.protect.md) 
+
+### [Liebemuehl.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityLiebemuehl.private.md) 
+
+### [Liebemuehl.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityLiebemuehl.personal.md) 
+
+### [Liebemuehl.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityLiebemuehl.secret.md)
+

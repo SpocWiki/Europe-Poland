@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Muehlen~Ostpommern|Muehlen~Ostpommern]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Muehlen~Ostpommern.public|Muehlen~Ostpommern.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Muehlen~Ostpommern.internal|Muehlen~Ostpommern.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Muehlen~Ostpommern.protect|Muehlen~Ostpommern.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Muehlen~Ostpommern.private|Muehlen~Ostpommern.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Muehlen~Ostpommern.personal|Muehlen~Ostpommern.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Muehlen~Ostpommern.secret|Muehlen~Ostpommern.secret]] 
+
+### [Muehlen~Ostpommern.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityMuehlen~Ostpommern.public.md) 
+
+### [Muehlen~Ostpommern.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityMuehlen~Ostpommern.internal.md) 
+
+### [Muehlen~Ostpommern.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityMuehlen~Ostpommern.protect.md) 
+
+### [Muehlen~Ostpommern.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityMuehlen~Ostpommern.private.md) 
+
+### [Muehlen~Ostpommern.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityMuehlen~Ostpommern.personal.md) 
+
+### [Muehlen~Ostpommern.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityMuehlen~Ostpommern.secret.md)
+

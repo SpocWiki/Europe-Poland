@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Elbing~Ostpreussen|Elbing~Ostpreussen]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Elbing~Ostpreussen.public|Elbing~Ostpreussen.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Elbing~Ostpreussen.internal|Elbing~Ostpreussen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Elbing~Ostpreussen.protect|Elbing~Ostpreussen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Elbing~Ostpreussen.private|Elbing~Ostpreussen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Elbing~Ostpreussen.personal|Elbing~Ostpreussen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Elbing~Ostpreussen.secret|Elbing~Ostpreussen.secret]] 
+
+### [Elbing~Ostpreussen.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityElbing~Ostpreussen.public.md) 
+
+### [Elbing~Ostpreussen.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityElbing~Ostpreussen.internal.md) 
+
+### [Elbing~Ostpreussen.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityElbing~Ostpreussen.protect.md) 
+
+### [Elbing~Ostpreussen.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityElbing~Ostpreussen.private.md) 
+
+### [Elbing~Ostpreussen.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityElbing~Ostpreussen.personal.md) 
+
+### [Elbing~Ostpreussen.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityElbing~Ostpreussen.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Wuenschelburg|Wuenschelburg]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Wuenschelburg.public|Wuenschelburg.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Wuenschelburg.internal|Wuenschelburg.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Wuenschelburg.protect|Wuenschelburg.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Wuenschelburg.private|Wuenschelburg.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Wuenschelburg.personal|Wuenschelburg.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Wuenschelburg.secret|Wuenschelburg.secret]] 
+
+### [Wuenschelburg.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityWuenschelburg.public.md) 
+
+### [Wuenschelburg.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityWuenschelburg.internal.md) 
+
+### [Wuenschelburg.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityWuenschelburg.protect.md) 
+
+### [Wuenschelburg.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityWuenschelburg.private.md) 
+
+### [Wuenschelburg.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityWuenschelburg.personal.md) 
+
+### [Wuenschelburg.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityWuenschelburg.secret.md)
+

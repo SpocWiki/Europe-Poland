@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Weichsel|Weichsel]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Weichsel.public|Weichsel.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Weichsel.internal|Weichsel.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Weichsel.protect|Weichsel.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Weichsel.private|Weichsel.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Weichsel.personal|Weichsel.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Weichsel.secret|Weichsel.secret]] 
+
+### [Weichsel.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityWeichsel.public.md) 
+
+### [Weichsel.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityWeichsel.internal.md) 
+
+### [Weichsel.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityWeichsel.protect.md) 
+
+### [Weichsel.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityWeichsel.private.md) 
+
+### [Weichsel.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityWeichsel.personal.md) 
+
+### [Weichsel.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityWeichsel.secret.md)
+

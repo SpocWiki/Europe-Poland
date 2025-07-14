@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Kaschbach|Kaschbach]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Kaschbach.public|Kaschbach.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Kaschbach.internal|Kaschbach.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Kaschbach.protect|Kaschbach.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Kaschbach.private|Kaschbach.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Kaschbach.personal|Kaschbach.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Kaschbach.secret|Kaschbach.secret]] 
+
+### [Kaschbach.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKaschbach.public.md) 
+
+### [Kaschbach.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKaschbach.internal.md) 
+
+### [Kaschbach.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKaschbach.protect.md) 
+
+### [Kaschbach.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKaschbach.private.md) 
+
+### [Kaschbach.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKaschbach.personal.md) 
+
+### [Kaschbach.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKaschbach.secret.md)
+

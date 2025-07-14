@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Ober-Mois|Ober-Mois]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Ober-Mois.public|Ober-Mois.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Ober-Mois.internal|Ober-Mois.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Ober-Mois.protect|Ober-Mois.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Ober-Mois.private|Ober-Mois.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Ober-Mois.personal|Ober-Mois.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Ober-Mois.secret|Ober-Mois.secret]] 
+
+### [Ober-Mois.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityOber-Mois.public.md) 
+
+### [Ober-Mois.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityOber-Mois.internal.md) 
+
+### [Ober-Mois.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityOber-Mois.protect.md) 
+
+### [Ober-Mois.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityOber-Mois.private.md) 
+
+### [Ober-Mois.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityOber-Mois.personal.md) 
+
+### [Ober-Mois.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityOber-Mois.secret.md)
+

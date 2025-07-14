@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Tiegenhof|Tiegenhof]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Tiegenhof.public|Tiegenhof.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Tiegenhof.internal|Tiegenhof.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Tiegenhof.protect|Tiegenhof.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Tiegenhof.private|Tiegenhof.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Tiegenhof.personal|Tiegenhof.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Tiegenhof.secret|Tiegenhof.secret]] 
+
+### [Tiegenhof.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityTiegenhof.public.md) 
+
+### [Tiegenhof.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityTiegenhof.internal.md) 
+
+### [Tiegenhof.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityTiegenhof.protect.md) 
+
+### [Tiegenhof.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityTiegenhof.private.md) 
+
+### [Tiegenhof.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityTiegenhof.personal.md) 
+
+### [Tiegenhof.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityTiegenhof.secret.md)
+

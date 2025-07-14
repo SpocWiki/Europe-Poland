@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Pr.-Holland|Pr.-Holland]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Pr.-Holland.public|Pr.-Holland.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Pr.-Holland.internal|Pr.-Holland.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Pr.-Holland.protect|Pr.-Holland.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Pr.-Holland.private|Pr.-Holland.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Pr.-Holland.personal|Pr.-Holland.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Pr.-Holland.secret|Pr.-Holland.secret]] 
+
+### [Pr.-Holland.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityPr.-Holland.public.md) 
+
+### [Pr.-Holland.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityPr.-Holland.internal.md) 
+
+### [Pr.-Holland.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityPr.-Holland.protect.md) 
+
+### [Pr.-Holland.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityPr.-Holland.private.md) 
+
+### [Pr.-Holland.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityPr.-Holland.personal.md) 
+
+### [Pr.-Holland.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityPr.-Holland.secret.md)
+

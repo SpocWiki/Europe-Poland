@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Kamenz_Schlesien|Kamenz_Schlesien]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Kamenz_Schlesien.public|Kamenz_Schlesien.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Kamenz_Schlesien.internal|Kamenz_Schlesien.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Kamenz_Schlesien.protect|Kamenz_Schlesien.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Kamenz_Schlesien.private|Kamenz_Schlesien.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Kamenz_Schlesien.personal|Kamenz_Schlesien.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Kamenz_Schlesien.secret|Kamenz_Schlesien.secret]] 
+
+### [Kamenz_Schlesien.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\CityKamenz_Schlesien.public.md) 
+
+### [Kamenz_Schlesien.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\CityKamenz_Schlesien.internal.md) 
+
+### [Kamenz_Schlesien.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\CityKamenz_Schlesien.protect.md) 
+
+### [Kamenz_Schlesien.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\CityKamenz_Schlesien.private.md) 
+
+### [Kamenz_Schlesien.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\CityKamenz_Schlesien.personal.md) 
+
+### [Kamenz_Schlesien.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\CityKamenz_Schlesien.secret.md)
+

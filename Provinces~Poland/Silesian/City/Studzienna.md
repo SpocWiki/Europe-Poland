@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Studzienna|Studzienna]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Studzienna.public|Studzienna.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Studzienna.internal|Studzienna.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Studzienna.protect|Studzienna.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Studzienna.private|Studzienna.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Studzienna.personal|Studzienna.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Studzienna.secret|Studzienna.secret]] 
+
+### [Studzienna.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityStudzienna.public.md) 
+
+### [Studzienna.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityStudzienna.internal.md) 
+
+### [Studzienna.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityStudzienna.protect.md) 
+
+### [Studzienna.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityStudzienna.private.md) 
+
+### [Studzienna.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityStudzienna.personal.md) 
+
+### [Studzienna.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityStudzienna.secret.md)
+

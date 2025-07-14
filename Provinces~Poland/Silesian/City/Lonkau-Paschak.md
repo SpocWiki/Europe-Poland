@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Lonkau-Paschak|Lonkau-Paschak]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Lonkau-Paschak.public|Lonkau-Paschak.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Lonkau-Paschak.internal|Lonkau-Paschak.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Lonkau-Paschak.protect|Lonkau-Paschak.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Lonkau-Paschak.private|Lonkau-Paschak.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Lonkau-Paschak.personal|Lonkau-Paschak.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Lonkau-Paschak.secret|Lonkau-Paschak.secret]] 
+
+### [Lonkau-Paschak.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityLonkau-Paschak.public.md) 
+
+### [Lonkau-Paschak.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityLonkau-Paschak.internal.md) 
+
+### [Lonkau-Paschak.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityLonkau-Paschak.protect.md) 
+
+### [Lonkau-Paschak.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityLonkau-Paschak.private.md) 
+
+### [Lonkau-Paschak.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityLonkau-Paschak.personal.md) 
+
+### [Lonkau-Paschak.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityLonkau-Paschak.secret.md)
+

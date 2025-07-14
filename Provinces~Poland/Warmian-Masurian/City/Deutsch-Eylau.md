@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Deutsch-Eylau|Deutsch-Eylau]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Deutsch-Eylau.public|Deutsch-Eylau.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Deutsch-Eylau.internal|Deutsch-Eylau.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Deutsch-Eylau.protect|Deutsch-Eylau.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Deutsch-Eylau.private|Deutsch-Eylau.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Deutsch-Eylau.personal|Deutsch-Eylau.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Deutsch-Eylau.secret|Deutsch-Eylau.secret]] 
+
+### [Deutsch-Eylau.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityDeutsch-Eylau.public.md) 
+
+### [Deutsch-Eylau.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityDeutsch-Eylau.internal.md) 
+
+### [Deutsch-Eylau.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityDeutsch-Eylau.protect.md) 
+
+### [Deutsch-Eylau.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityDeutsch-Eylau.private.md) 
+
+### [Deutsch-Eylau.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityDeutsch-Eylau.personal.md) 
+
+### [Deutsch-Eylau.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityDeutsch-Eylau.secret.md)
+

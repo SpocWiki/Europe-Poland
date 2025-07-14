@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Saalfeld~Pommern|Saalfeld~Pommern]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Saalfeld~Pommern.public|Saalfeld~Pommern.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Saalfeld~Pommern.internal|Saalfeld~Pommern.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Saalfeld~Pommern.protect|Saalfeld~Pommern.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Saalfeld~Pommern.private|Saalfeld~Pommern.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Saalfeld~Pommern.personal|Saalfeld~Pommern.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Saalfeld~Pommern.secret|Saalfeld~Pommern.secret]] 
+
+### [Saalfeld~Pommern.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CitySaalfeld~Pommern.public.md) 
+
+### [Saalfeld~Pommern.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CitySaalfeld~Pommern.internal.md) 
+
+### [Saalfeld~Pommern.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CitySaalfeld~Pommern.protect.md) 
+
+### [Saalfeld~Pommern.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CitySaalfeld~Pommern.private.md) 
+
+### [Saalfeld~Pommern.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CitySaalfeld~Pommern.personal.md) 
+
+### [Saalfeld~Pommern.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CitySaalfeld~Pommern.secret.md)
+

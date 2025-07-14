@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Neustaedtel|Neustaedtel]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Neustaedtel.public|Neustaedtel.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Neustaedtel.internal|Neustaedtel.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Neustaedtel.protect|Neustaedtel.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Neustaedtel.private|Neustaedtel.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Neustaedtel.personal|Neustaedtel.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Neustaedtel.secret|Neustaedtel.secret]] 
+
+### [Neustaedtel.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityNeustaedtel.public.md) 
+
+### [Neustaedtel.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityNeustaedtel.internal.md) 
+
+### [Neustaedtel.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityNeustaedtel.protect.md) 
+
+### [Neustaedtel.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityNeustaedtel.private.md) 
+
+### [Neustaedtel.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityNeustaedtel.personal.md) 
+
+### [Neustaedtel.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityNeustaedtel.secret.md)
+

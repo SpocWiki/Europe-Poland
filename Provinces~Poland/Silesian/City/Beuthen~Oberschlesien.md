@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Beuthen~Oberschlesien|Beuthen~Oberschlesien]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Beuthen~Oberschlesien.public|Beuthen~Oberschlesien.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Beuthen~Oberschlesien.internal|Beuthen~Oberschlesien.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Beuthen~Oberschlesien.protect|Beuthen~Oberschlesien.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Beuthen~Oberschlesien.private|Beuthen~Oberschlesien.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Beuthen~Oberschlesien.personal|Beuthen~Oberschlesien.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Beuthen~Oberschlesien.secret|Beuthen~Oberschlesien.secret]] 
+
+### [Beuthen~Oberschlesien.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityBeuthen~Oberschlesien.public.md) 
+
+### [Beuthen~Oberschlesien.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityBeuthen~Oberschlesien.internal.md) 
+
+### [Beuthen~Oberschlesien.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityBeuthen~Oberschlesien.protect.md) 
+
+### [Beuthen~Oberschlesien.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityBeuthen~Oberschlesien.private.md) 
+
+### [Beuthen~Oberschlesien.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityBeuthen~Oberschlesien.personal.md) 
+
+### [Beuthen~Oberschlesien.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityBeuthen~Oberschlesien.secret.md)
+

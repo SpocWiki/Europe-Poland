@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Petersdorf~Riesengebirge|Petersdorf~Riesengebirge]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Petersdorf~Riesengebirge.public|Petersdorf~Riesengebirge.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Petersdorf~Riesengebirge.internal|Petersdorf~Riesengebirge.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Petersdorf~Riesengebirge.protect|Petersdorf~Riesengebirge.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Petersdorf~Riesengebirge.private|Petersdorf~Riesengebirge.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Petersdorf~Riesengebirge.personal|Petersdorf~Riesengebirge.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Petersdorf~Riesengebirge.secret|Petersdorf~Riesengebirge.secret]] 
+
+### [Petersdorf~Riesengebirge.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityPetersdorf~Riesengebirge.public.md) 
+
+### [Petersdorf~Riesengebirge.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityPetersdorf~Riesengebirge.internal.md) 
+
+### [Petersdorf~Riesengebirge.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityPetersdorf~Riesengebirge.protect.md) 
+
+### [Petersdorf~Riesengebirge.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityPetersdorf~Riesengebirge.private.md) 
+
+### [Petersdorf~Riesengebirge.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityPetersdorf~Riesengebirge.personal.md) 
+
+### [Petersdorf~Riesengebirge.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityPetersdorf~Riesengebirge.secret.md)
+

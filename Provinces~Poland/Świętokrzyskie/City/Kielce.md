@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Kielce|Kielce]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Kielce.public|Kielce.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Kielce.internal|Kielce.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Kielce.protect|Kielce.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Kielce.private|Kielce.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Kielce.personal|Kielce.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Kielce.secret|Kielce.secret]] 
+
+### [Kielce.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Świętokrzyskie\CityKielce.public.md) 
+
+### [Kielce.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Świętokrzyskie\CityKielce.internal.md) 
+
+### [Kielce.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Świętokrzyskie\CityKielce.protect.md) 
+
+### [Kielce.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Świętokrzyskie\CityKielce.private.md) 
+
+### [Kielce.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Świętokrzyskie\CityKielce.personal.md) 
+
+### [Kielce.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Świętokrzyskie\CityKielce.secret.md)
+

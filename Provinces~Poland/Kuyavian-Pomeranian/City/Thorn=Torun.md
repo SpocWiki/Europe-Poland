@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Thorn=Torun|Thorn=Torun]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Thorn=Torun.public|Thorn=Torun.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Thorn=Torun.internal|Thorn=Torun.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Thorn=Torun.protect|Thorn=Torun.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Thorn=Torun.private|Thorn=Torun.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Thorn=Torun.personal|Thorn=Torun.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Thorn=Torun.secret|Thorn=Torun.secret]] 
+
+### [Thorn=Torun.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityThorn=Torun.public.md) 
+
+### [Thorn=Torun.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityThorn=Torun.internal.md) 
+
+### [Thorn=Torun.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityThorn=Torun.protect.md) 
+
+### [Thorn=Torun.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityThorn=Torun.private.md) 
+
+### [Thorn=Torun.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityThorn=Torun.personal.md) 
+
+### [Thorn=Torun.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityThorn=Torun.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Dragebruch|Dragebruch]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Dragebruch.public|Dragebruch.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Dragebruch.internal|Dragebruch.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Dragebruch.protect|Dragebruch.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Dragebruch.private|Dragebruch.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Dragebruch.personal|Dragebruch.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Dragebruch.secret|Dragebruch.secret]] 
+
+### [Dragebruch.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityDragebruch.public.md) 
+
+### [Dragebruch.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityDragebruch.internal.md) 
+
+### [Dragebruch.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityDragebruch.protect.md) 
+
+### [Dragebruch.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityDragebruch.private.md) 
+
+### [Dragebruch.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityDragebruch.personal.md) 
+
+### [Dragebruch.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityDragebruch.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Świnoujście|Świnoujście]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Świnoujście.public|Świnoujście.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Świnoujście.internal|Świnoujście.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Świnoujście.protect|Świnoujście.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Świnoujście.private|Świnoujście.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Świnoujście.personal|Świnoujście.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Świnoujście.secret|Świnoujście.secret]] 
+
+### [Świnoujście.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityŚwinoujście.public.md) 
+
+### [Świnoujście.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityŚwinoujście.internal.md) 
+
+### [Świnoujście.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityŚwinoujście.protect.md) 
+
+### [Świnoujście.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityŚwinoujście.private.md) 
+
+### [Świnoujście.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityŚwinoujście.personal.md) 
+
+### [Świnoujście.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityŚwinoujście.secret.md)
+

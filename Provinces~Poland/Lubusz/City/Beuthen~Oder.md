@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Beuthen~Oder|Beuthen~Oder]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Beuthen~Oder.public|Beuthen~Oder.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Beuthen~Oder.internal|Beuthen~Oder.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Beuthen~Oder.protect|Beuthen~Oder.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Beuthen~Oder.private|Beuthen~Oder.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Beuthen~Oder.personal|Beuthen~Oder.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Beuthen~Oder.secret|Beuthen~Oder.secret]] 
+
+### [Beuthen~Oder.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityBeuthen~Oder.public.md) 
+
+### [Beuthen~Oder.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityBeuthen~Oder.internal.md) 
+
+### [Beuthen~Oder.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityBeuthen~Oder.protect.md) 
+
+### [Beuthen~Oder.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityBeuthen~Oder.private.md) 
+
+### [Beuthen~Oder.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityBeuthen~Oder.personal.md) 
+
+### [Beuthen~Oder.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityBeuthen~Oder.secret.md)
+

@@ -36,3 +36,20 @@ aliases:
 > The city's primary educational and cultural institutions comprise the University of Warsaw, the Warsaw University of Technology, the SGH Warsaw School of Economics, the Chopin University of Music, the Polish Academy of Sciences, the National Philharmonic Orchestra, the National Museum, and the Warsaw Grand Theatre, the largest of its kind in the world. The reconstructed Old Town, which represents a variety of European architectural styles, was listed as a World Heritage Site in 1980. Other landmarks include the Royal Castle, Sigismund's Column, the Wilanów Palace, the Palace on the Isle, St. John's Archcathedral, Main Market Square, and numerous churches and mansions along the Royal Route. Warsaw is a green capital, with around a quarter of the city's area occupied by parks. In sports, the city is home to Legia Warsaw football club and hosts the annual Warsaw Marathon.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Warsaw)
+
+
+
+## Confidential Links & Embeds: 
+
+### [Warszawa.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Masovian\counties~MazowieckieWarszawa.public.md) 
+
+### [Warszawa.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Masovian\counties~MazowieckieWarszawa.internal.md) 
+
+### [Warszawa.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Masovian\counties~MazowieckieWarszawa.protect.md) 
+
+### [Warszawa.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Masovian\counties~MazowieckieWarszawa.private.md) 
+
+### [Warszawa.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Masovian\counties~MazowieckieWarszawa.personal.md) 
+
+### [Warszawa.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Masovian\counties~MazowieckieWarszawa.secret.md)
+

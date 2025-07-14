@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Neustadt~Oberschlesien|Neustadt~Oberschlesien]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Neustadt~Oberschlesien.public|Neustadt~Oberschlesien.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Neustadt~Oberschlesien.internal|Neustadt~Oberschlesien.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Neustadt~Oberschlesien.protect|Neustadt~Oberschlesien.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Neustadt~Oberschlesien.private|Neustadt~Oberschlesien.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Neustadt~Oberschlesien.personal|Neustadt~Oberschlesien.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Neustadt~Oberschlesien.secret|Neustadt~Oberschlesien.secret]] 
+
+### [Neustadt~Oberschlesien.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityNeustadt~Oberschlesien.public.md) 
+
+### [Neustadt~Oberschlesien.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityNeustadt~Oberschlesien.internal.md) 
+
+### [Neustadt~Oberschlesien.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityNeustadt~Oberschlesien.protect.md) 
+
+### [Neustadt~Oberschlesien.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityNeustadt~Oberschlesien.private.md) 
+
+### [Neustadt~Oberschlesien.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityNeustadt~Oberschlesien.personal.md) 
+
+### [Neustadt~Oberschlesien.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityNeustadt~Oberschlesien.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Langenbrueck|Langenbrueck]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Langenbrueck.public|Langenbrueck.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Langenbrueck.internal|Langenbrueck.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Langenbrueck.protect|Langenbrueck.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Langenbrueck.private|Langenbrueck.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Langenbrueck.personal|Langenbrueck.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Langenbrueck.secret|Langenbrueck.secret]] 
+
+### [Langenbrueck.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityLangenbrueck.public.md) 
+
+### [Langenbrueck.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityLangenbrueck.internal.md) 
+
+### [Langenbrueck.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityLangenbrueck.protect.md) 
+
+### [Langenbrueck.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityLangenbrueck.private.md) 
+
+### [Langenbrueck.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityLangenbrueck.personal.md) 
+
+### [Langenbrueck.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityLangenbrueck.secret.md)
+

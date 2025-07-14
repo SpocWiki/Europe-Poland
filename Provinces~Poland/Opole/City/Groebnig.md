@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Groebnig|Groebnig]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Groebnig.public|Groebnig.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Groebnig.internal|Groebnig.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Groebnig.protect|Groebnig.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Groebnig.private|Groebnig.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Groebnig.personal|Groebnig.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Groebnig.secret|Groebnig.secret]] 
+
+### [Groebnig.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityGroebnig.public.md) 
+
+### [Groebnig.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityGroebnig.internal.md) 
+
+### [Groebnig.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityGroebnig.protect.md) 
+
+### [Groebnig.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityGroebnig.private.md) 
+
+### [Groebnig.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityGroebnig.personal.md) 
+
+### [Groebnig.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityGroebnig.secret.md)
+

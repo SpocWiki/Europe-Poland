@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Drenfurth|Drenfurth]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Drenfurth.public|Drenfurth.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Drenfurth.internal|Drenfurth.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Drenfurth.protect|Drenfurth.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Drenfurth.private|Drenfurth.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Drenfurth.personal|Drenfurth.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Drenfurth.secret|Drenfurth.secret]] 
+
+### [Drenfurth.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityDrenfurth.public.md) 
+
+### [Drenfurth.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityDrenfurth.internal.md) 
+
+### [Drenfurth.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityDrenfurth.protect.md) 
+
+### [Drenfurth.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityDrenfurth.private.md) 
+
+### [Drenfurth.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityDrenfurth.personal.md) 
+
+### [Drenfurth.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityDrenfurth.secret.md)
+

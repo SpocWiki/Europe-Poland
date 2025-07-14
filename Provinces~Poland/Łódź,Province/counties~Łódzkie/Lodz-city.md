@@ -44,10 +44,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Lodz=Litzmannstadt|Lodz=Litzmannstadt]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Lodz=Litzmannstadt.public|Lodz=Litzmannstadt.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Lodz=Litzmannstadt.internal|Lodz=Litzmannstadt.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Lodz=Litzmannstadt.protect|Lodz=Litzmannstadt.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Lodz=Litzmannstadt.private|Lodz=Litzmannstadt.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Lodz=Litzmannstadt.personal|Lodz=Litzmannstadt.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Lodz=Litzmannstadt.secret|Lodz=Litzmannstadt.secret]] 
+
+### [Lodz-city.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Łódź,Province\counties~ŁódzkieLodz-city.public.md) 
+
+### [Lodz-city.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Łódź,Province\counties~ŁódzkieLodz-city.internal.md) 
+
+### [Lodz-city.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Łódź,Province\counties~ŁódzkieLodz-city.protect.md) 
+
+### [Lodz-city.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Łódź,Province\counties~ŁódzkieLodz-city.private.md) 
+
+### [Lodz-city.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Łódź,Province\counties~ŁódzkieLodz-city.personal.md) 
+
+### [Lodz-city.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Łódź,Province\counties~ŁódzkieLodz-city.secret.md)
+

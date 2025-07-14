@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Friedrichsgraetz|Friedrichsgraetz]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Friedrichsgraetz.public|Friedrichsgraetz.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Friedrichsgraetz.internal|Friedrichsgraetz.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Friedrichsgraetz.protect|Friedrichsgraetz.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Friedrichsgraetz.private|Friedrichsgraetz.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Friedrichsgraetz.personal|Friedrichsgraetz.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Friedrichsgraetz.secret|Friedrichsgraetz.secret]] 
+
+### [Friedrichsgraetz.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityFriedrichsgraetz.public.md) 
+
+### [Friedrichsgraetz.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityFriedrichsgraetz.internal.md) 
+
+### [Friedrichsgraetz.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityFriedrichsgraetz.protect.md) 
+
+### [Friedrichsgraetz.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityFriedrichsgraetz.private.md) 
+
+### [Friedrichsgraetz.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityFriedrichsgraetz.personal.md) 
+
+### [Friedrichsgraetz.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityFriedrichsgraetz.secret.md)
+

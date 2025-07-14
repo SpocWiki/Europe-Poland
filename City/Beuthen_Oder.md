@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Beuthen_Oder|Beuthen_Oder]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Beuthen_Oder.public|Beuthen_Oder.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Beuthen_Oder.internal|Beuthen_Oder.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Beuthen_Oder.protect|Beuthen_Oder.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Beuthen_Oder.private|Beuthen_Oder.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Beuthen_Oder.personal|Beuthen_Oder.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Beuthen_Oder.secret|Beuthen_Oder.secret]] 
+
+### [Beuthen_Oder.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\CityBeuthen_Oder.public.md) 
+
+### [Beuthen_Oder.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\CityBeuthen_Oder.internal.md) 
+
+### [Beuthen_Oder.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\CityBeuthen_Oder.protect.md) 
+
+### [Beuthen_Oder.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\CityBeuthen_Oder.private.md) 
+
+### [Beuthen_Oder.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\CityBeuthen_Oder.personal.md) 
+
+### [Beuthen_Oder.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\CityBeuthen_Oder.secret.md)
+

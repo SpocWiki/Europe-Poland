@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Schmiedeberg|Schmiedeberg]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Schmiedeberg.public|Schmiedeberg.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Schmiedeberg.internal|Schmiedeberg.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Schmiedeberg.protect|Schmiedeberg.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Schmiedeberg.private|Schmiedeberg.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Schmiedeberg.personal|Schmiedeberg.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Schmiedeberg.secret|Schmiedeberg.secret]] 
+
+### [Schmiedeberg.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CitySchmiedeberg.public.md) 
+
+### [Schmiedeberg.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CitySchmiedeberg.internal.md) 
+
+### [Schmiedeberg.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CitySchmiedeberg.protect.md) 
+
+### [Schmiedeberg.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CitySchmiedeberg.private.md) 
+
+### [Schmiedeberg.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CitySchmiedeberg.personal.md) 
+
+### [Schmiedeberg.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CitySchmiedeberg.secret.md)
+

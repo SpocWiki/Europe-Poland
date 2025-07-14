@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Suwalki|Suwalki]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Suwalki.public|Suwalki.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Suwalki.internal|Suwalki.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Suwalki.protect|Suwalki.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Suwalki.private|Suwalki.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Suwalki.personal|Suwalki.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Suwalki.secret|Suwalki.secret]] 
+
+### [Suwalki.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Podlachian\CitySuwalki.public.md) 
+
+### [Suwalki.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Podlachian\CitySuwalki.internal.md) 
+
+### [Suwalki.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Podlachian\CitySuwalki.protect.md) 
+
+### [Suwalki.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Podlachian\CitySuwalki.private.md) 
+
+### [Suwalki.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Podlachian\CitySuwalki.personal.md) 
+
+### [Suwalki.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Podlachian\CitySuwalki.secret.md)
+

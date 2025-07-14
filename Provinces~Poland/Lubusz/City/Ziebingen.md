@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Ziebingen|Ziebingen]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Ziebingen.public|Ziebingen.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Ziebingen.internal|Ziebingen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Ziebingen.protect|Ziebingen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Ziebingen.private|Ziebingen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Ziebingen.personal|Ziebingen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Ziebingen.secret|Ziebingen.secret]] 
+
+### [Ziebingen.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityZiebingen.public.md) 
+
+### [Ziebingen.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityZiebingen.internal.md) 
+
+### [Ziebingen.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityZiebingen.protect.md) 
+
+### [Ziebingen.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityZiebingen.private.md) 
+
+### [Ziebingen.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityZiebingen.personal.md) 
+
+### [Ziebingen.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityZiebingen.secret.md)
+

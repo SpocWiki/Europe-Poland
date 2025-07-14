@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Hammerstein|Hammerstein]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Hammerstein.public|Hammerstein.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Hammerstein.internal|Hammerstein.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Hammerstein.protect|Hammerstein.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Hammerstein.private|Hammerstein.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Hammerstein.personal|Hammerstein.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Hammerstein.secret|Hammerstein.secret]] 
+
+### [Hammerstein.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityHammerstein.public.md) 
+
+### [Hammerstein.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityHammerstein.internal.md) 
+
+### [Hammerstein.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityHammerstein.protect.md) 
+
+### [Hammerstein.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityHammerstein.private.md) 
+
+### [Hammerstein.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityHammerstein.personal.md) 
+
+### [Hammerstein.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityHammerstein.secret.md)
+

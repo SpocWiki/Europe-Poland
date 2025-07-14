@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Pieńsk|Pieńsk]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Pieńsk.public|Pieńsk.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Pieńsk.internal|Pieńsk.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Pieńsk.protect|Pieńsk.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Pieńsk.private|Pieńsk.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Pieńsk.personal|Pieńsk.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Pieńsk.secret|Pieńsk.secret]] 
+
+### [Pieńsk.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityPieńsk.public.md) 
+
+### [Pieńsk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityPieńsk.internal.md) 
+
+### [Pieńsk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityPieńsk.protect.md) 
+
+### [Pieńsk.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityPieńsk.private.md) 
+
+### [Pieńsk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityPieńsk.personal.md) 
+
+### [Pieńsk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityPieńsk.secret.md)
+

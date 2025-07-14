@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Centnerbrunn|Centnerbrunn]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Centnerbrunn.public|Centnerbrunn.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Centnerbrunn.internal|Centnerbrunn.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Centnerbrunn.protect|Centnerbrunn.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Centnerbrunn.private|Centnerbrunn.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Centnerbrunn.personal|Centnerbrunn.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Centnerbrunn.secret|Centnerbrunn.secret]] 
+
+### [Centnerbrunn.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityCentnerbrunn.public.md) 
+
+### [Centnerbrunn.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityCentnerbrunn.internal.md) 
+
+### [Centnerbrunn.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityCentnerbrunn.protect.md) 
+
+### [Centnerbrunn.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityCentnerbrunn.private.md) 
+
+### [Centnerbrunn.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityCentnerbrunn.personal.md) 
+
+### [Centnerbrunn.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityCentnerbrunn.secret.md)
+

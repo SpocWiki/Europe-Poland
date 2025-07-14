@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Habelschwerdt|Habelschwerdt]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Habelschwerdt.public|Habelschwerdt.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Habelschwerdt.internal|Habelschwerdt.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Habelschwerdt.protect|Habelschwerdt.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Habelschwerdt.private|Habelschwerdt.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Habelschwerdt.personal|Habelschwerdt.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Habelschwerdt.secret|Habelschwerdt.secret]] 
+
+### [Habelschwerdt.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityHabelschwerdt.public.md) 
+
+### [Habelschwerdt.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityHabelschwerdt.internal.md) 
+
+### [Habelschwerdt.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityHabelschwerdt.protect.md) 
+
+### [Habelschwerdt.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityHabelschwerdt.private.md) 
+
+### [Habelschwerdt.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityHabelschwerdt.personal.md) 
+
+### [Habelschwerdt.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityHabelschwerdt.secret.md)
+

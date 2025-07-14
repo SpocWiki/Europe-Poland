@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Langenoels.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityLangenoels.public.md) 
+### [Langenoels](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Langenoels.md) 
 
-### [Langenoels.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityLangenoels.internal.md) 
+### [Langenoels.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Langenoels.public.md) 
 
-### [Langenoels.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityLangenoels.protect.md) 
+### [Langenoels.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Langenoels.internal.md) 
 
-### [Langenoels.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityLangenoels.private.md) 
+### [Langenoels.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Langenoels.protect.md) 
 
-### [Langenoels.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityLangenoels.personal.md) 
+### [Langenoels.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Langenoels.private.md) 
 
-### [Langenoels.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityLangenoels.secret.md)
+### [Langenoels.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Langenoels.personal.md) 
+
+### [Langenoels.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Langenoels.secret.md)
 

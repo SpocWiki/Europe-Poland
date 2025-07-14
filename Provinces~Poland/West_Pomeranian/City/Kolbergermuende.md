@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kolbergermuende.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityKolbergermuende.public.md) 
+### [Kolbergermuende](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Kolbergermuende.md) 
 
-### [Kolbergermuende.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityKolbergermuende.internal.md) 
+### [Kolbergermuende.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Kolbergermuende.public.md) 
 
-### [Kolbergermuende.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityKolbergermuende.protect.md) 
+### [Kolbergermuende.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Kolbergermuende.internal.md) 
 
-### [Kolbergermuende.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityKolbergermuende.private.md) 
+### [Kolbergermuende.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Kolbergermuende.protect.md) 
 
-### [Kolbergermuende.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityKolbergermuende.personal.md) 
+### [Kolbergermuende.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Kolbergermuende.private.md) 
 
-### [Kolbergermuende.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityKolbergermuende.secret.md)
+### [Kolbergermuende.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Kolbergermuende.personal.md) 
+
+### [Kolbergermuende.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Kolbergermuende.secret.md)
 

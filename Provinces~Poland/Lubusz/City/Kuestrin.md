@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kuestrin.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityKuestrin.public.md) 
+### [Kuestrin](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Kuestrin.md) 
 
-### [Kuestrin.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityKuestrin.internal.md) 
+### [Kuestrin.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Kuestrin.public.md) 
 
-### [Kuestrin.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityKuestrin.protect.md) 
+### [Kuestrin.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Kuestrin.internal.md) 
 
-### [Kuestrin.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityKuestrin.private.md) 
+### [Kuestrin.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Kuestrin.protect.md) 
 
-### [Kuestrin.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityKuestrin.personal.md) 
+### [Kuestrin.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Kuestrin.private.md) 
 
-### [Kuestrin.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityKuestrin.secret.md)
+### [Kuestrin.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Kuestrin.personal.md) 
+
+### [Kuestrin.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Kuestrin.secret.md)
 

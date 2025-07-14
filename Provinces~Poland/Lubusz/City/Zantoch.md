@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zantoch.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityZantoch.public.md) 
+### [Zantoch](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Zantoch.md) 
 
-### [Zantoch.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityZantoch.internal.md) 
+### [Zantoch.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Zantoch.public.md) 
 
-### [Zantoch.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityZantoch.protect.md) 
+### [Zantoch.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Zantoch.internal.md) 
 
-### [Zantoch.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityZantoch.private.md) 
+### [Zantoch.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Zantoch.protect.md) 
 
-### [Zantoch.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityZantoch.personal.md) 
+### [Zantoch.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Zantoch.private.md) 
 
-### [Zantoch.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityZantoch.secret.md)
+### [Zantoch.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Zantoch.personal.md) 
+
+### [Zantoch.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Zantoch.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Malapane.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityMalapane.public.md) 
+### [Malapane](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Malapane.md) 
 
-### [Malapane.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityMalapane.internal.md) 
+### [Malapane.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Malapane.public.md) 
 
-### [Malapane.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityMalapane.protect.md) 
+### [Malapane.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Malapane.internal.md) 
 
-### [Malapane.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityMalapane.private.md) 
+### [Malapane.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Malapane.protect.md) 
 
-### [Malapane.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityMalapane.personal.md) 
+### [Malapane.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Malapane.private.md) 
 
-### [Malapane.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityMalapane.secret.md)
+### [Malapane.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Malapane.personal.md) 
+
+### [Malapane.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Malapane.secret.md)
 

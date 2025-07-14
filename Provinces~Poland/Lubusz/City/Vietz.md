@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vietz.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityVietz.public.md) 
+### [Vietz](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Vietz.md) 
 
-### [Vietz.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityVietz.internal.md) 
+### [Vietz.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Vietz.public.md) 
 
-### [Vietz.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityVietz.protect.md) 
+### [Vietz.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Vietz.internal.md) 
 
-### [Vietz.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityVietz.private.md) 
+### [Vietz.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Vietz.protect.md) 
 
-### [Vietz.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityVietz.personal.md) 
+### [Vietz.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Vietz.private.md) 
 
-### [Vietz.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityVietz.secret.md)
+### [Vietz.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Vietz.personal.md) 
+
+### [Vietz.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Vietz.secret.md)
 

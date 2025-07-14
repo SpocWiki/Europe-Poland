@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bohnsack.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityBohnsack.public.md) 
+### [Bohnsack](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Bohnsack.md) 
 
-### [Bohnsack.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityBohnsack.internal.md) 
+### [Bohnsack.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Bohnsack.public.md) 
 
-### [Bohnsack.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityBohnsack.protect.md) 
+### [Bohnsack.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Bohnsack.internal.md) 
 
-### [Bohnsack.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityBohnsack.private.md) 
+### [Bohnsack.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Bohnsack.protect.md) 
 
-### [Bohnsack.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityBohnsack.personal.md) 
+### [Bohnsack.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Bohnsack.private.md) 
 
-### [Bohnsack.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityBohnsack.secret.md)
+### [Bohnsack.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Bohnsack.personal.md) 
+
+### [Bohnsack.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Bohnsack.secret.md)
 

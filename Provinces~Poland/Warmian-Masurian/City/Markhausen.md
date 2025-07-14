@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Markhausen.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityMarkhausen.public.md) 
+### [Markhausen](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Markhausen.md) 
 
-### [Markhausen.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityMarkhausen.internal.md) 
+### [Markhausen.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Markhausen.public.md) 
 
-### [Markhausen.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityMarkhausen.protect.md) 
+### [Markhausen.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Markhausen.internal.md) 
 
-### [Markhausen.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityMarkhausen.private.md) 
+### [Markhausen.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Markhausen.protect.md) 
 
-### [Markhausen.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityMarkhausen.personal.md) 
+### [Markhausen.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Markhausen.private.md) 
 
-### [Markhausen.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityMarkhausen.secret.md)
+### [Markhausen.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Markhausen.personal.md) 
+
+### [Markhausen.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Markhausen.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zuellchow.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityZuellchow.public.md) 
+### [Zuellchow](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Zuellchow.md) 
 
-### [Zuellchow.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityZuellchow.internal.md) 
+### [Zuellchow.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Zuellchow.public.md) 
 
-### [Zuellchow.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityZuellchow.protect.md) 
+### [Zuellchow.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Zuellchow.internal.md) 
 
-### [Zuellchow.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityZuellchow.private.md) 
+### [Zuellchow.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Zuellchow.protect.md) 
 
-### [Zuellchow.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityZuellchow.personal.md) 
+### [Zuellchow.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Zuellchow.private.md) 
 
-### [Zuellchow.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityZuellchow.secret.md)
+### [Zuellchow.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Zuellchow.personal.md) 
+
+### [Zuellchow.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Zuellchow.secret.md)
 

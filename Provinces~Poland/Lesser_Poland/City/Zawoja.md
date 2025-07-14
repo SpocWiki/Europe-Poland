@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zawoja.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityZawoja.public.md) 
+### [Zawoja](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Zawoja.md) 
 
-### [Zawoja.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityZawoja.internal.md) 
+### [Zawoja.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Zawoja.public.md) 
 
-### [Zawoja.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityZawoja.protect.md) 
+### [Zawoja.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Zawoja.internal.md) 
 
-### [Zawoja.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityZawoja.private.md) 
+### [Zawoja.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Zawoja.protect.md) 
 
-### [Zawoja.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityZawoja.personal.md) 
+### [Zawoja.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Zawoja.private.md) 
 
-### [Zawoja.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityZawoja.secret.md)
+### [Zawoja.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Zawoja.personal.md) 
+
+### [Zawoja.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Zawoja.secret.md)
 

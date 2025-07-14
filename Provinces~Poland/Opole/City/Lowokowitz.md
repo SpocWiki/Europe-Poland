@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lowokowitz.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityLowokowitz.public.md) 
+### [Lowokowitz](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Lowokowitz.md) 
 
-### [Lowokowitz.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityLowokowitz.internal.md) 
+### [Lowokowitz.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Lowokowitz.public.md) 
 
-### [Lowokowitz.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityLowokowitz.protect.md) 
+### [Lowokowitz.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Lowokowitz.internal.md) 
 
-### [Lowokowitz.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityLowokowitz.private.md) 
+### [Lowokowitz.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Lowokowitz.protect.md) 
 
-### [Lowokowitz.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityLowokowitz.personal.md) 
+### [Lowokowitz.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Lowokowitz.private.md) 
 
-### [Lowokowitz.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityLowokowitz.secret.md)
+### [Lowokowitz.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Lowokowitz.personal.md) 
+
+### [Lowokowitz.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Lowokowitz.secret.md)
 

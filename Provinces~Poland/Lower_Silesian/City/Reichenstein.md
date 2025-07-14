@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Reichenstein.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityReichenstein.public.md) 
+### [Reichenstein](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Reichenstein.md) 
 
-### [Reichenstein.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityReichenstein.internal.md) 
+### [Reichenstein.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Reichenstein.public.md) 
 
-### [Reichenstein.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityReichenstein.protect.md) 
+### [Reichenstein.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Reichenstein.internal.md) 
 
-### [Reichenstein.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityReichenstein.private.md) 
+### [Reichenstein.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Reichenstein.protect.md) 
 
-### [Reichenstein.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityReichenstein.personal.md) 
+### [Reichenstein.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Reichenstein.private.md) 
 
-### [Reichenstein.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityReichenstein.secret.md)
+### [Reichenstein.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Reichenstein.personal.md) 
+
+### [Reichenstein.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Reichenstein.secret.md)
 

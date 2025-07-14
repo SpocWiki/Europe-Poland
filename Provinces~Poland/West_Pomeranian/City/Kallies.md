@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kallies.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityKallies.public.md) 
+### [Kallies](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Kallies.md) 
 
-### [Kallies.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityKallies.internal.md) 
+### [Kallies.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Kallies.public.md) 
 
-### [Kallies.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityKallies.protect.md) 
+### [Kallies.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Kallies.internal.md) 
 
-### [Kallies.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityKallies.private.md) 
+### [Kallies.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Kallies.protect.md) 
 
-### [Kallies.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityKallies.personal.md) 
+### [Kallies.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Kallies.private.md) 
 
-### [Kallies.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityKallies.secret.md)
+### [Kallies.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Kallies.personal.md) 
+
+### [Kallies.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Kallies.secret.md)
 

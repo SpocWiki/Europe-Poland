@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Keltsch.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityKeltsch.public.md) 
+### [Keltsch](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Keltsch.md) 
 
-### [Keltsch.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityKeltsch.internal.md) 
+### [Keltsch.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Keltsch.public.md) 
 
-### [Keltsch.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityKeltsch.protect.md) 
+### [Keltsch.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Keltsch.internal.md) 
 
-### [Keltsch.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityKeltsch.private.md) 
+### [Keltsch.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Keltsch.protect.md) 
 
-### [Keltsch.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityKeltsch.personal.md) 
+### [Keltsch.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Keltsch.private.md) 
 
-### [Keltsch.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityKeltsch.secret.md)
+### [Keltsch.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Keltsch.personal.md) 
+
+### [Keltsch.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Keltsch.secret.md)
 

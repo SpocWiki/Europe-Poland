@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Waldenburg~Oberschlesien.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityWaldenburg~Oberschlesien.public.md) 
+### [Waldenburg~Oberschlesien](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Waldenburg~Oberschlesien.md) 
 
-### [Waldenburg~Oberschlesien.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityWaldenburg~Oberschlesien.internal.md) 
+### [Waldenburg~Oberschlesien.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Waldenburg~Oberschlesien.public.md) 
 
-### [Waldenburg~Oberschlesien.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityWaldenburg~Oberschlesien.protect.md) 
+### [Waldenburg~Oberschlesien.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Waldenburg~Oberschlesien.internal.md) 
 
-### [Waldenburg~Oberschlesien.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityWaldenburg~Oberschlesien.private.md) 
+### [Waldenburg~Oberschlesien.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Waldenburg~Oberschlesien.protect.md) 
 
-### [Waldenburg~Oberschlesien.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityWaldenburg~Oberschlesien.personal.md) 
+### [Waldenburg~Oberschlesien.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Waldenburg~Oberschlesien.private.md) 
 
-### [Waldenburg~Oberschlesien.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityWaldenburg~Oberschlesien.secret.md)
+### [Waldenburg~Oberschlesien.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Waldenburg~Oberschlesien.personal.md) 
+
+### [Waldenburg~Oberschlesien.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Waldenburg~Oberschlesien.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Quaritz.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityQuaritz.public.md) 
+### [Quaritz](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Quaritz.md) 
 
-### [Quaritz.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityQuaritz.internal.md) 
+### [Quaritz.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Quaritz.public.md) 
 
-### [Quaritz.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityQuaritz.protect.md) 
+### [Quaritz.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Quaritz.internal.md) 
 
-### [Quaritz.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityQuaritz.private.md) 
+### [Quaritz.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Quaritz.protect.md) 
 
-### [Quaritz.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityQuaritz.personal.md) 
+### [Quaritz.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Quaritz.private.md) 
 
-### [Quaritz.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityQuaritz.secret.md)
+### [Quaritz.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Quaritz.personal.md) 
+
+### [Quaritz.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Quaritz.secret.md)
 

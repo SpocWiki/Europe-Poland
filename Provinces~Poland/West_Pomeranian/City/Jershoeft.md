@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Jershoeft.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityJershoeft.public.md) 
+### [Jershoeft](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Jershoeft.md) 
 
-### [Jershoeft.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityJershoeft.internal.md) 
+### [Jershoeft.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Jershoeft.public.md) 
 
-### [Jershoeft.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityJershoeft.protect.md) 
+### [Jershoeft.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Jershoeft.internal.md) 
 
-### [Jershoeft.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityJershoeft.private.md) 
+### [Jershoeft.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Jershoeft.protect.md) 
 
-### [Jershoeft.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityJershoeft.personal.md) 
+### [Jershoeft.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Jershoeft.private.md) 
 
-### [Jershoeft.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityJershoeft.secret.md)
+### [Jershoeft.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Jershoeft.personal.md) 
+
+### [Jershoeft.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Jershoeft.secret.md)
 

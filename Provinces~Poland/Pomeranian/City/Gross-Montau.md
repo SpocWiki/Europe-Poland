@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gross-Montau.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityGross-Montau.public.md) 
+### [Gross-Montau](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Gross-Montau.md) 
 
-### [Gross-Montau.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityGross-Montau.internal.md) 
+### [Gross-Montau.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Gross-Montau.public.md) 
 
-### [Gross-Montau.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityGross-Montau.protect.md) 
+### [Gross-Montau.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Gross-Montau.internal.md) 
 
-### [Gross-Montau.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityGross-Montau.private.md) 
+### [Gross-Montau.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Gross-Montau.protect.md) 
 
-### [Gross-Montau.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityGross-Montau.personal.md) 
+### [Gross-Montau.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Gross-Montau.private.md) 
 
-### [Gross-Montau.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityGross-Montau.secret.md)
+### [Gross-Montau.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Gross-Montau.personal.md) 
+
+### [Gross-Montau.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Gross-Montau.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Johannisburg.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityJohannisburg.public.md) 
+### [Johannisburg](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Johannisburg.md) 
 
-### [Johannisburg.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityJohannisburg.internal.md) 
+### [Johannisburg.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Johannisburg.public.md) 
 
-### [Johannisburg.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityJohannisburg.protect.md) 
+### [Johannisburg.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Johannisburg.internal.md) 
 
-### [Johannisburg.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityJohannisburg.private.md) 
+### [Johannisburg.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Johannisburg.protect.md) 
 
-### [Johannisburg.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityJohannisburg.personal.md) 
+### [Johannisburg.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Johannisburg.private.md) 
 
-### [Johannisburg.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityJohannisburg.secret.md)
+### [Johannisburg.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Johannisburg.personal.md) 
+
+### [Johannisburg.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Johannisburg.secret.md)
 

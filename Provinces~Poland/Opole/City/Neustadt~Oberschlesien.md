@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Neustadt~Oberschlesien.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityNeustadt~Oberschlesien.public.md) 
+### [Neustadt~Oberschlesien](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Neustadt~Oberschlesien.md) 
 
-### [Neustadt~Oberschlesien.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityNeustadt~Oberschlesien.internal.md) 
+### [Neustadt~Oberschlesien.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Neustadt~Oberschlesien.public.md) 
 
-### [Neustadt~Oberschlesien.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityNeustadt~Oberschlesien.protect.md) 
+### [Neustadt~Oberschlesien.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Neustadt~Oberschlesien.internal.md) 
 
-### [Neustadt~Oberschlesien.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityNeustadt~Oberschlesien.private.md) 
+### [Neustadt~Oberschlesien.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Neustadt~Oberschlesien.protect.md) 
 
-### [Neustadt~Oberschlesien.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityNeustadt~Oberschlesien.personal.md) 
+### [Neustadt~Oberschlesien.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Neustadt~Oberschlesien.private.md) 
 
-### [Neustadt~Oberschlesien.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityNeustadt~Oberschlesien.secret.md)
+### [Neustadt~Oberschlesien.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Neustadt~Oberschlesien.personal.md) 
+
+### [Neustadt~Oberschlesien.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Neustadt~Oberschlesien.secret.md)
 

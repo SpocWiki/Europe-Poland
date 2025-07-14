@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kotzenreuschel.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKotzenreuschel.public.md) 
+### [Kotzenreuschel](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Kotzenreuschel.md) 
 
-### [Kotzenreuschel.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKotzenreuschel.internal.md) 
+### [Kotzenreuschel.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Kotzenreuschel.public.md) 
 
-### [Kotzenreuschel.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKotzenreuschel.protect.md) 
+### [Kotzenreuschel.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Kotzenreuschel.internal.md) 
 
-### [Kotzenreuschel.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKotzenreuschel.private.md) 
+### [Kotzenreuschel.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Kotzenreuschel.protect.md) 
 
-### [Kotzenreuschel.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKotzenreuschel.personal.md) 
+### [Kotzenreuschel.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Kotzenreuschel.private.md) 
 
-### [Kotzenreuschel.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKotzenreuschel.secret.md)
+### [Kotzenreuschel.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Kotzenreuschel.personal.md) 
+
+### [Kotzenreuschel.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Kotzenreuschel.secret.md)
 

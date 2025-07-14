@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schwartow.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CitySchwartow.public.md) 
+### [Schwartow](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Schwartow.md) 
 
-### [Schwartow.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CitySchwartow.internal.md) 
+### [Schwartow.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Schwartow.public.md) 
 
-### [Schwartow.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CitySchwartow.protect.md) 
+### [Schwartow.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Schwartow.internal.md) 
 
-### [Schwartow.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CitySchwartow.private.md) 
+### [Schwartow.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Schwartow.protect.md) 
 
-### [Schwartow.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CitySchwartow.personal.md) 
+### [Schwartow.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Schwartow.private.md) 
 
-### [Schwartow.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CitySchwartow.secret.md)
+### [Schwartow.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Schwartow.personal.md) 
+
+### [Schwartow.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Schwartow.secret.md)
 

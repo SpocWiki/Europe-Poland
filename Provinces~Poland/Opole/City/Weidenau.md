@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Weidenau.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityWeidenau.public.md) 
+### [Weidenau](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Weidenau.md) 
 
-### [Weidenau.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityWeidenau.internal.md) 
+### [Weidenau.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Weidenau.public.md) 
 
-### [Weidenau.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityWeidenau.protect.md) 
+### [Weidenau.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Weidenau.internal.md) 
 
-### [Weidenau.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityWeidenau.private.md) 
+### [Weidenau.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Weidenau.protect.md) 
 
-### [Weidenau.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityWeidenau.personal.md) 
+### [Weidenau.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Weidenau.private.md) 
 
-### [Weidenau.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityWeidenau.secret.md)
+### [Weidenau.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Weidenau.personal.md) 
+
+### [Weidenau.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Weidenau.secret.md)
 

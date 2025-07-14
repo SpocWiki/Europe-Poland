@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bischofsburg.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityBischofsburg.public.md) 
+### [Bischofsburg](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Bischofsburg.md) 
 
-### [Bischofsburg.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityBischofsburg.internal.md) 
+### [Bischofsburg.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Bischofsburg.public.md) 
 
-### [Bischofsburg.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityBischofsburg.protect.md) 
+### [Bischofsburg.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Bischofsburg.internal.md) 
 
-### [Bischofsburg.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityBischofsburg.private.md) 
+### [Bischofsburg.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Bischofsburg.protect.md) 
 
-### [Bischofsburg.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityBischofsburg.personal.md) 
+### [Bischofsburg.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Bischofsburg.private.md) 
 
-### [Bischofsburg.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityBischofsburg.secret.md)
+### [Bischofsburg.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Bischofsburg.personal.md) 
+
+### [Bischofsburg.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Bischofsburg.secret.md)
 

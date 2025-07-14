@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nickelswalde.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNickelswalde.public.md) 
+### [Nickelswalde](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Nickelswalde.md) 
 
-### [Nickelswalde.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNickelswalde.internal.md) 
+### [Nickelswalde.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Nickelswalde.public.md) 
 
-### [Nickelswalde.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNickelswalde.protect.md) 
+### [Nickelswalde.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Nickelswalde.internal.md) 
 
-### [Nickelswalde.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNickelswalde.private.md) 
+### [Nickelswalde.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Nickelswalde.protect.md) 
 
-### [Nickelswalde.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNickelswalde.personal.md) 
+### [Nickelswalde.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Nickelswalde.private.md) 
 
-### [Nickelswalde.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNickelswalde.secret.md)
+### [Nickelswalde.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Nickelswalde.personal.md) 
+
+### [Nickelswalde.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Nickelswalde.secret.md)
 

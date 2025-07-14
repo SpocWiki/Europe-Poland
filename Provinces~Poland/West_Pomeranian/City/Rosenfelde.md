@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rosenfelde.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityRosenfelde.public.md) 
+### [Rosenfelde](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Rosenfelde.md) 
 
-### [Rosenfelde.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityRosenfelde.internal.md) 
+### [Rosenfelde.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Rosenfelde.public.md) 
 
-### [Rosenfelde.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityRosenfelde.protect.md) 
+### [Rosenfelde.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Rosenfelde.internal.md) 
 
-### [Rosenfelde.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityRosenfelde.private.md) 
+### [Rosenfelde.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Rosenfelde.protect.md) 
 
-### [Rosenfelde.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityRosenfelde.personal.md) 
+### [Rosenfelde.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Rosenfelde.private.md) 
 
-### [Rosenfelde.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityRosenfelde.secret.md)
+### [Rosenfelde.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Rosenfelde.personal.md) 
+
+### [Rosenfelde.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Rosenfelde.secret.md)
 

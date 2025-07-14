@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Radlin.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityRadlin.public.md) 
+### [Radlin](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Radlin.md) 
 
-### [Radlin.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityRadlin.internal.md) 
+### [Radlin.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Radlin.public.md) 
 
-### [Radlin.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityRadlin.protect.md) 
+### [Radlin.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Radlin.internal.md) 
 
-### [Radlin.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityRadlin.private.md) 
+### [Radlin.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Radlin.protect.md) 
 
-### [Radlin.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityRadlin.personal.md) 
+### [Radlin.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Radlin.private.md) 
 
-### [Radlin.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityRadlin.secret.md)
+### [Radlin.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Radlin.personal.md) 
+
+### [Radlin.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Radlin.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schoenhof.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CitySchoenhof.public.md) 
+### [Schoenhof](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Schoenhof.md) 
 
-### [Schoenhof.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CitySchoenhof.internal.md) 
+### [Schoenhof.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Schoenhof.public.md) 
 
-### [Schoenhof.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CitySchoenhof.protect.md) 
+### [Schoenhof.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Schoenhof.internal.md) 
 
-### [Schoenhof.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CitySchoenhof.private.md) 
+### [Schoenhof.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Schoenhof.protect.md) 
 
-### [Schoenhof.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CitySchoenhof.personal.md) 
+### [Schoenhof.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Schoenhof.private.md) 
 
-### [Schoenhof.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CitySchoenhof.secret.md)
+### [Schoenhof.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Schoenhof.personal.md) 
+
+### [Schoenhof.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Schoenhof.secret.md)
 

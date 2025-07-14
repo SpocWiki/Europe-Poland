@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Staw.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityStaw.public.md) 
+### [Staw](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Staw.md) 
 
-### [Staw.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityStaw.internal.md) 
+### [Staw.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Staw.public.md) 
 
-### [Staw.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityStaw.protect.md) 
+### [Staw.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Staw.internal.md) 
 
-### [Staw.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityStaw.private.md) 
+### [Staw.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Staw.protect.md) 
 
-### [Staw.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityStaw.personal.md) 
+### [Staw.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Staw.private.md) 
 
-### [Staw.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityStaw.secret.md)
+### [Staw.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Staw.personal.md) 
+
+### [Staw.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Staw.secret.md)
 

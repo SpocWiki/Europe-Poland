@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Friedland~Schlesien.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityFriedland~Schlesien.public.md) 
+### [Friedland~Schlesien](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Friedland~Schlesien.md) 
 
-### [Friedland~Schlesien.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityFriedland~Schlesien.internal.md) 
+### [Friedland~Schlesien.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Friedland~Schlesien.public.md) 
 
-### [Friedland~Schlesien.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityFriedland~Schlesien.protect.md) 
+### [Friedland~Schlesien.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Friedland~Schlesien.internal.md) 
 
-### [Friedland~Schlesien.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityFriedland~Schlesien.private.md) 
+### [Friedland~Schlesien.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Friedland~Schlesien.protect.md) 
 
-### [Friedland~Schlesien.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityFriedland~Schlesien.personal.md) 
+### [Friedland~Schlesien.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Friedland~Schlesien.private.md) 
 
-### [Friedland~Schlesien.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityFriedland~Schlesien.secret.md)
+### [Friedland~Schlesien.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Friedland~Schlesien.personal.md) 
+
+### [Friedland~Schlesien.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Friedland~Schlesien.secret.md)
 

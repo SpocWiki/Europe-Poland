@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rudnik.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Subcarpathian\CityRudnik.public.md) 
+### [Rudnik](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Subcarpathian/City/Rudnik.md) 
 
-### [Rudnik.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Subcarpathian\CityRudnik.internal.md) 
+### [Rudnik.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Subcarpathian/City/Rudnik.public.md) 
 
-### [Rudnik.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Subcarpathian\CityRudnik.protect.md) 
+### [Rudnik.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Subcarpathian/City/Rudnik.internal.md) 
 
-### [Rudnik.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Subcarpathian\CityRudnik.private.md) 
+### [Rudnik.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Subcarpathian/City/Rudnik.protect.md) 
 
-### [Rudnik.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Subcarpathian\CityRudnik.personal.md) 
+### [Rudnik.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Subcarpathian/City/Rudnik.private.md) 
 
-### [Rudnik.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Subcarpathian\CityRudnik.secret.md)
+### [Rudnik.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Subcarpathian/City/Rudnik.personal.md) 
+
+### [Rudnik.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Subcarpathian/City/Rudnik.secret.md)
 

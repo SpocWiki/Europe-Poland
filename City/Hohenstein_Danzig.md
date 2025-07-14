@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hohenstein_Danzig.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\CityHohenstein_Danzig.public.md) 
+### [Hohenstein_Danzig](/_Standards/Earth/Continent/Europe/Europe~East/Poland/City/Hohenstein_Danzig.md) 
 
-### [Hohenstein_Danzig.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\CityHohenstein_Danzig.internal.md) 
+### [Hohenstein_Danzig.public](/_public/Earth/Continent/Europe/Europe~East/Poland/City/Hohenstein_Danzig.public.md) 
 
-### [Hohenstein_Danzig.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\CityHohenstein_Danzig.protect.md) 
+### [Hohenstein_Danzig.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/City/Hohenstein_Danzig.internal.md) 
 
-### [Hohenstein_Danzig.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\CityHohenstein_Danzig.private.md) 
+### [Hohenstein_Danzig.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/City/Hohenstein_Danzig.protect.md) 
 
-### [Hohenstein_Danzig.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\CityHohenstein_Danzig.personal.md) 
+### [Hohenstein_Danzig.private](/_private/Earth/Continent/Europe/Europe~East/Poland/City/Hohenstein_Danzig.private.md) 
 
-### [Hohenstein_Danzig.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\CityHohenstein_Danzig.secret.md)
+### [Hohenstein_Danzig.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/City/Hohenstein_Danzig.personal.md) 
+
+### [Hohenstein_Danzig.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/City/Hohenstein_Danzig.secret.md)
 

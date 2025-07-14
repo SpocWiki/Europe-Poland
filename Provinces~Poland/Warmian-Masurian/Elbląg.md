@@ -36,15 +36,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Elbląg.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-MasurianElbląg.public.md) 
+### [Elbląg](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/Elbląg.md) 
 
-### [Elbląg.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-MasurianElbląg.internal.md) 
+### [Elbląg.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/Elbląg.public.md) 
 
-### [Elbląg.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-MasurianElbląg.protect.md) 
+### [Elbląg.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/Elbląg.internal.md) 
 
-### [Elbląg.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-MasurianElbląg.private.md) 
+### [Elbląg.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/Elbląg.protect.md) 
 
-### [Elbląg.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-MasurianElbląg.personal.md) 
+### [Elbląg.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/Elbląg.private.md) 
 
-### [Elbląg.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-MasurianElbląg.secret.md)
+### [Elbląg.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/Elbląg.personal.md) 
+
+### [Elbląg.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/Elbląg.secret.md)
 

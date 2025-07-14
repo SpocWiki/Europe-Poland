@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schwerin~Brandenburg.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CitySchwerin~Brandenburg.public.md) 
+### [Schwerin~Brandenburg](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Schwerin~Brandenburg.md) 
 
-### [Schwerin~Brandenburg.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CitySchwerin~Brandenburg.internal.md) 
+### [Schwerin~Brandenburg.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Schwerin~Brandenburg.public.md) 
 
-### [Schwerin~Brandenburg.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CitySchwerin~Brandenburg.protect.md) 
+### [Schwerin~Brandenburg.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Schwerin~Brandenburg.internal.md) 
 
-### [Schwerin~Brandenburg.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CitySchwerin~Brandenburg.private.md) 
+### [Schwerin~Brandenburg.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Schwerin~Brandenburg.protect.md) 
 
-### [Schwerin~Brandenburg.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CitySchwerin~Brandenburg.personal.md) 
+### [Schwerin~Brandenburg.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Schwerin~Brandenburg.private.md) 
 
-### [Schwerin~Brandenburg.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CitySchwerin~Brandenburg.secret.md)
+### [Schwerin~Brandenburg.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Schwerin~Brandenburg.personal.md) 
+
+### [Schwerin~Brandenburg.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Schwerin~Brandenburg.secret.md)
 

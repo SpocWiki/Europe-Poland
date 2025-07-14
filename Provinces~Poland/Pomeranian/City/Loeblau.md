@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Loeblau.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityLoeblau.public.md) 
+### [Loeblau](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Loeblau.md) 
 
-### [Loeblau.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityLoeblau.internal.md) 
+### [Loeblau.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Loeblau.public.md) 
 
-### [Loeblau.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityLoeblau.protect.md) 
+### [Loeblau.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Loeblau.internal.md) 
 
-### [Loeblau.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityLoeblau.private.md) 
+### [Loeblau.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Loeblau.protect.md) 
 
-### [Loeblau.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityLoeblau.personal.md) 
+### [Loeblau.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Loeblau.private.md) 
 
-### [Loeblau.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityLoeblau.secret.md)
+### [Loeblau.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Loeblau.personal.md) 
+
+### [Loeblau.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Loeblau.secret.md)
 

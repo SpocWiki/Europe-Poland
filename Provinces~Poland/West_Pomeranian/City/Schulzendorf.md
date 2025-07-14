@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schulzendorf.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CitySchulzendorf.public.md) 
+### [Schulzendorf](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Schulzendorf.md) 
 
-### [Schulzendorf.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CitySchulzendorf.internal.md) 
+### [Schulzendorf.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Schulzendorf.public.md) 
 
-### [Schulzendorf.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CitySchulzendorf.protect.md) 
+### [Schulzendorf.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Schulzendorf.internal.md) 
 
-### [Schulzendorf.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CitySchulzendorf.private.md) 
+### [Schulzendorf.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Schulzendorf.protect.md) 
 
-### [Schulzendorf.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CitySchulzendorf.personal.md) 
+### [Schulzendorf.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Schulzendorf.private.md) 
 
-### [Schulzendorf.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CitySchulzendorf.secret.md)
+### [Schulzendorf.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Schulzendorf.personal.md) 
+
+### [Schulzendorf.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Schulzendorf.secret.md)
 

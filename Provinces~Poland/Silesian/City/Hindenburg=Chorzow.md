@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hindenburg=Chorzow.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityHindenburg=Chorzow.public.md) 
+### [Hindenburg=Chorzow](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Hindenburg=Chorzow.md) 
 
-### [Hindenburg=Chorzow.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityHindenburg=Chorzow.internal.md) 
+### [Hindenburg=Chorzow.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Hindenburg=Chorzow.public.md) 
 
-### [Hindenburg=Chorzow.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityHindenburg=Chorzow.protect.md) 
+### [Hindenburg=Chorzow.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Hindenburg=Chorzow.internal.md) 
 
-### [Hindenburg=Chorzow.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityHindenburg=Chorzow.private.md) 
+### [Hindenburg=Chorzow.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Hindenburg=Chorzow.protect.md) 
 
-### [Hindenburg=Chorzow.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityHindenburg=Chorzow.personal.md) 
+### [Hindenburg=Chorzow.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Hindenburg=Chorzow.private.md) 
 
-### [Hindenburg=Chorzow.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityHindenburg=Chorzow.secret.md)
+### [Hindenburg=Chorzow.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Hindenburg=Chorzow.personal.md) 
+
+### [Hindenburg=Chorzow.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Hindenburg=Chorzow.secret.md)
 

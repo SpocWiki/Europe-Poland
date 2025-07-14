@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Salzbrunn.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CitySalzbrunn.public.md) 
+### [Salzbrunn](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Salzbrunn.md) 
 
-### [Salzbrunn.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CitySalzbrunn.internal.md) 
+### [Salzbrunn.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Salzbrunn.public.md) 
 
-### [Salzbrunn.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CitySalzbrunn.protect.md) 
+### [Salzbrunn.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Salzbrunn.internal.md) 
 
-### [Salzbrunn.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CitySalzbrunn.private.md) 
+### [Salzbrunn.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Salzbrunn.protect.md) 
 
-### [Salzbrunn.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CitySalzbrunn.personal.md) 
+### [Salzbrunn.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Salzbrunn.private.md) 
 
-### [Salzbrunn.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CitySalzbrunn.secret.md)
+### [Salzbrunn.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Salzbrunn.personal.md) 
+
+### [Salzbrunn.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Salzbrunn.secret.md)
 

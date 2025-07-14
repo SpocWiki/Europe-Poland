@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Clarahof.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityClarahof.public.md) 
+### [Clarahof](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Clarahof.md) 
 
-### [Clarahof.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityClarahof.internal.md) 
+### [Clarahof.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Clarahof.public.md) 
 
-### [Clarahof.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityClarahof.protect.md) 
+### [Clarahof.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Clarahof.internal.md) 
 
-### [Clarahof.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityClarahof.private.md) 
+### [Clarahof.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Clarahof.protect.md) 
 
-### [Clarahof.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityClarahof.personal.md) 
+### [Clarahof.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Clarahof.private.md) 
 
-### [Clarahof.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityClarahof.secret.md)
+### [Clarahof.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Clarahof.personal.md) 
+
+### [Clarahof.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Clarahof.secret.md)
 

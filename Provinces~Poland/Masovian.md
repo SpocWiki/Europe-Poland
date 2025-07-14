@@ -41,15 +41,17 @@ markerFolder: ./Masovian/
 
 ## Confidential Links & Embeds: 
 
-### [Masovian.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandMasovian.public.md) 
+### [Masovian](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian.md) 
 
-### [Masovian.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandMasovian.internal.md) 
+### [Masovian.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian.public.md) 
 
-### [Masovian.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandMasovian.protect.md) 
+### [Masovian.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian.internal.md) 
 
-### [Masovian.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandMasovian.private.md) 
+### [Masovian.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian.protect.md) 
 
-### [Masovian.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandMasovian.personal.md) 
+### [Masovian.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian.private.md) 
 
-### [Masovian.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandMasovian.secret.md)
+### [Masovian.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian.personal.md) 
+
+### [Masovian.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian.secret.md)
 

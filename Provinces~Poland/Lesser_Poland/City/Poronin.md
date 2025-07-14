@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Poronin.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityPoronin.public.md) 
+### [Poronin](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Poronin.md) 
 
-### [Poronin.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityPoronin.internal.md) 
+### [Poronin.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Poronin.public.md) 
 
-### [Poronin.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityPoronin.protect.md) 
+### [Poronin.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Poronin.internal.md) 
 
-### [Poronin.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityPoronin.private.md) 
+### [Poronin.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Poronin.protect.md) 
 
-### [Poronin.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityPoronin.personal.md) 
+### [Poronin.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Poronin.private.md) 
 
-### [Poronin.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityPoronin.secret.md)
+### [Poronin.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Poronin.personal.md) 
+
+### [Poronin.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Poronin.secret.md)
 

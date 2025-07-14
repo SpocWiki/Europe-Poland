@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mysleince.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityMysleince.public.md) 
+### [Mysleince](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Mysleince.md) 
 
-### [Mysleince.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityMysleince.internal.md) 
+### [Mysleince.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Mysleince.public.md) 
 
-### [Mysleince.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityMysleince.protect.md) 
+### [Mysleince.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Mysleince.internal.md) 
 
-### [Mysleince.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityMysleince.private.md) 
+### [Mysleince.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Mysleince.protect.md) 
 
-### [Mysleince.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityMysleince.personal.md) 
+### [Mysleince.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Mysleince.private.md) 
 
-### [Mysleince.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityMysleince.secret.md)
+### [Mysleince.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Mysleince.personal.md) 
+
+### [Mysleince.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Mysleince.secret.md)
 

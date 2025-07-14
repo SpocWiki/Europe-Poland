@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bochmia.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityBochmia.public.md) 
+### [Bochmia](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Bochmia.md) 
 
-### [Bochmia.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityBochmia.internal.md) 
+### [Bochmia.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Bochmia.public.md) 
 
-### [Bochmia.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityBochmia.protect.md) 
+### [Bochmia.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Bochmia.internal.md) 
 
-### [Bochmia.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityBochmia.private.md) 
+### [Bochmia.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Bochmia.protect.md) 
 
-### [Bochmia.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityBochmia.personal.md) 
+### [Bochmia.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Bochmia.private.md) 
 
-### [Bochmia.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityBochmia.secret.md)
+### [Bochmia.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Bochmia.personal.md) 
+
+### [Bochmia.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Bochmia.secret.md)
 

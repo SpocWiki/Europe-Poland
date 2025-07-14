@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Jastrow.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityJastrow.public.md) 
+### [Jastrow](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Jastrow.md) 
 
-### [Jastrow.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityJastrow.internal.md) 
+### [Jastrow.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Jastrow.public.md) 
 
-### [Jastrow.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityJastrow.protect.md) 
+### [Jastrow.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Jastrow.internal.md) 
 
-### [Jastrow.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityJastrow.private.md) 
+### [Jastrow.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Jastrow.protect.md) 
 
-### [Jastrow.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityJastrow.personal.md) 
+### [Jastrow.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Jastrow.private.md) 
 
-### [Jastrow.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityJastrow.secret.md)
+### [Jastrow.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Jastrow.personal.md) 
+
+### [Jastrow.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Jastrow.secret.md)
 

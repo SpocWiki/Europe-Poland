@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dorfstadt.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityDorfstadt.public.md) 
+### [Dorfstadt](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Dorfstadt.md) 
 
-### [Dorfstadt.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityDorfstadt.internal.md) 
+### [Dorfstadt.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Dorfstadt.public.md) 
 
-### [Dorfstadt.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityDorfstadt.protect.md) 
+### [Dorfstadt.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Dorfstadt.internal.md) 
 
-### [Dorfstadt.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityDorfstadt.private.md) 
+### [Dorfstadt.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Dorfstadt.protect.md) 
 
-### [Dorfstadt.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityDorfstadt.personal.md) 
+### [Dorfstadt.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Dorfstadt.private.md) 
 
-### [Dorfstadt.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityDorfstadt.secret.md)
+### [Dorfstadt.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Dorfstadt.personal.md) 
+
+### [Dorfstadt.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Dorfstadt.secret.md)
 

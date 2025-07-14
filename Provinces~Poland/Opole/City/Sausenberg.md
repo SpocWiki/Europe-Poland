@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sausenberg.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CitySausenberg.public.md) 
+### [Sausenberg](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Sausenberg.md) 
 
-### [Sausenberg.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CitySausenberg.internal.md) 
+### [Sausenberg.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Sausenberg.public.md) 
 
-### [Sausenberg.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CitySausenberg.protect.md) 
+### [Sausenberg.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Sausenberg.internal.md) 
 
-### [Sausenberg.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CitySausenberg.private.md) 
+### [Sausenberg.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Sausenberg.protect.md) 
 
-### [Sausenberg.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CitySausenberg.personal.md) 
+### [Sausenberg.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Sausenberg.private.md) 
 
-### [Sausenberg.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CitySausenberg.secret.md)
+### [Sausenberg.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Sausenberg.personal.md) 
+
+### [Sausenberg.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Sausenberg.secret.md)
 

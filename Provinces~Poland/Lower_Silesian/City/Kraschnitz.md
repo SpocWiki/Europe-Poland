@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kraschnitz.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKraschnitz.public.md) 
+### [Kraschnitz](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Kraschnitz.md) 
 
-### [Kraschnitz.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKraschnitz.internal.md) 
+### [Kraschnitz.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Kraschnitz.public.md) 
 
-### [Kraschnitz.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKraschnitz.protect.md) 
+### [Kraschnitz.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Kraschnitz.internal.md) 
 
-### [Kraschnitz.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKraschnitz.private.md) 
+### [Kraschnitz.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Kraschnitz.protect.md) 
 
-### [Kraschnitz.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKraschnitz.personal.md) 
+### [Kraschnitz.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Kraschnitz.private.md) 
 
-### [Kraschnitz.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKraschnitz.secret.md)
+### [Kraschnitz.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Kraschnitz.personal.md) 
+
+### [Kraschnitz.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Kraschnitz.secret.md)
 

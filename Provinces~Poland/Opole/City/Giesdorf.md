@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Giesdorf.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityGiesdorf.public.md) 
+### [Giesdorf](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Giesdorf.md) 
 
-### [Giesdorf.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityGiesdorf.internal.md) 
+### [Giesdorf.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Giesdorf.public.md) 
 
-### [Giesdorf.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityGiesdorf.protect.md) 
+### [Giesdorf.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Giesdorf.internal.md) 
 
-### [Giesdorf.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityGiesdorf.private.md) 
+### [Giesdorf.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Giesdorf.protect.md) 
 
-### [Giesdorf.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityGiesdorf.personal.md) 
+### [Giesdorf.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Giesdorf.private.md) 
 
-### [Giesdorf.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityGiesdorf.secret.md)
+### [Giesdorf.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Giesdorf.personal.md) 
+
+### [Giesdorf.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Giesdorf.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Greiffenberg~Schlesien.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityGreiffenberg~Schlesien.public.md) 
+### [Greiffenberg~Schlesien](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Greiffenberg~Schlesien.md) 
 
-### [Greiffenberg~Schlesien.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityGreiffenberg~Schlesien.internal.md) 
+### [Greiffenberg~Schlesien.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Greiffenberg~Schlesien.public.md) 
 
-### [Greiffenberg~Schlesien.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityGreiffenberg~Schlesien.protect.md) 
+### [Greiffenberg~Schlesien.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Greiffenberg~Schlesien.internal.md) 
 
-### [Greiffenberg~Schlesien.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityGreiffenberg~Schlesien.private.md) 
+### [Greiffenberg~Schlesien.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Greiffenberg~Schlesien.protect.md) 
 
-### [Greiffenberg~Schlesien.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityGreiffenberg~Schlesien.personal.md) 
+### [Greiffenberg~Schlesien.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Greiffenberg~Schlesien.private.md) 
 
-### [Greiffenberg~Schlesien.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityGreiffenberg~Schlesien.secret.md)
+### [Greiffenberg~Schlesien.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Greiffenberg~Schlesien.personal.md) 
+
+### [Greiffenberg~Schlesien.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Greiffenberg~Schlesien.secret.md)
 

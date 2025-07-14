@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Danzig.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityDanzig.public.md) 
+### [Danzig](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Danzig.md) 
 
-### [Danzig.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityDanzig.internal.md) 
+### [Danzig.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Danzig.public.md) 
 
-### [Danzig.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityDanzig.protect.md) 
+### [Danzig.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Danzig.internal.md) 
 
-### [Danzig.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityDanzig.private.md) 
+### [Danzig.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Danzig.protect.md) 
 
-### [Danzig.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityDanzig.personal.md) 
+### [Danzig.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Danzig.private.md) 
 
-### [Danzig.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityDanzig.secret.md)
+### [Danzig.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Danzig.personal.md) 
+
+### [Danzig.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Danzig.secret.md)
 

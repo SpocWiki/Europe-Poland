@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Langenau~Schlesien.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityLangenau~Schlesien.public.md) 
+### [Langenau~Schlesien](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Langenau~Schlesien.md) 
 
-### [Langenau~Schlesien.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityLangenau~Schlesien.internal.md) 
+### [Langenau~Schlesien.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Langenau~Schlesien.public.md) 
 
-### [Langenau~Schlesien.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityLangenau~Schlesien.protect.md) 
+### [Langenau~Schlesien.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Langenau~Schlesien.internal.md) 
 
-### [Langenau~Schlesien.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityLangenau~Schlesien.private.md) 
+### [Langenau~Schlesien.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Langenau~Schlesien.protect.md) 
 
-### [Langenau~Schlesien.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityLangenau~Schlesien.personal.md) 
+### [Langenau~Schlesien.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Langenau~Schlesien.private.md) 
 
-### [Langenau~Schlesien.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityLangenau~Schlesien.secret.md)
+### [Langenau~Schlesien.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Langenau~Schlesien.personal.md) 
+
+### [Langenau~Schlesien.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Langenau~Schlesien.secret.md)
 

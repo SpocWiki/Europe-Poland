@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Warmbrunn.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityWarmbrunn.public.md) 
+### [Warmbrunn](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Warmbrunn.md) 
 
-### [Warmbrunn.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityWarmbrunn.internal.md) 
+### [Warmbrunn.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Warmbrunn.public.md) 
 
-### [Warmbrunn.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityWarmbrunn.protect.md) 
+### [Warmbrunn.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Warmbrunn.internal.md) 
 
-### [Warmbrunn.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityWarmbrunn.private.md) 
+### [Warmbrunn.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Warmbrunn.protect.md) 
 
-### [Warmbrunn.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityWarmbrunn.personal.md) 
+### [Warmbrunn.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Warmbrunn.private.md) 
 
-### [Warmbrunn.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityWarmbrunn.secret.md)
+### [Warmbrunn.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Warmbrunn.personal.md) 
+
+### [Warmbrunn.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Warmbrunn.secret.md)
 

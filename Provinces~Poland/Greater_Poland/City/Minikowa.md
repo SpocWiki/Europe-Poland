@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Minikowa.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityMinikowa.public.md) 
+### [Minikowa](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Minikowa.md) 
 
-### [Minikowa.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityMinikowa.internal.md) 
+### [Minikowa.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Minikowa.public.md) 
 
-### [Minikowa.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityMinikowa.protect.md) 
+### [Minikowa.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Minikowa.internal.md) 
 
-### [Minikowa.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityMinikowa.private.md) 
+### [Minikowa.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Minikowa.protect.md) 
 
-### [Minikowa.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityMinikowa.personal.md) 
+### [Minikowa.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Minikowa.private.md) 
 
-### [Minikowa.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityMinikowa.secret.md)
+### [Minikowa.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Minikowa.personal.md) 
+
+### [Minikowa.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Minikowa.secret.md)
 

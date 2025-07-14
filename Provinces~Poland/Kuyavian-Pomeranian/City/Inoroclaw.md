@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Inoroclaw.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityInoroclaw.public.md) 
+### [Inoroclaw](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Inoroclaw.md) 
 
-### [Inoroclaw.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityInoroclaw.internal.md) 
+### [Inoroclaw.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Inoroclaw.public.md) 
 
-### [Inoroclaw.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityInoroclaw.protect.md) 
+### [Inoroclaw.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Inoroclaw.internal.md) 
 
-### [Inoroclaw.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityInoroclaw.private.md) 
+### [Inoroclaw.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Inoroclaw.protect.md) 
 
-### [Inoroclaw.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityInoroclaw.personal.md) 
+### [Inoroclaw.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Inoroclaw.private.md) 
 
-### [Inoroclaw.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityInoroclaw.secret.md)
+### [Inoroclaw.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Inoroclaw.personal.md) 
+
+### [Inoroclaw.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Inoroclaw.secret.md)
 

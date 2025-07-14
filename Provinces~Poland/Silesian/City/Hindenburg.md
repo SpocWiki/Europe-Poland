@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hindenburg.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityHindenburg.public.md) 
+### [Hindenburg](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Hindenburg.md) 
 
-### [Hindenburg.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityHindenburg.internal.md) 
+### [Hindenburg.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Hindenburg.public.md) 
 
-### [Hindenburg.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityHindenburg.protect.md) 
+### [Hindenburg.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Hindenburg.internal.md) 
 
-### [Hindenburg.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityHindenburg.private.md) 
+### [Hindenburg.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Hindenburg.protect.md) 
 
-### [Hindenburg.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityHindenburg.personal.md) 
+### [Hindenburg.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Hindenburg.private.md) 
 
-### [Hindenburg.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityHindenburg.secret.md)
+### [Hindenburg.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Hindenburg.personal.md) 
+
+### [Hindenburg.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Hindenburg.secret.md)
 

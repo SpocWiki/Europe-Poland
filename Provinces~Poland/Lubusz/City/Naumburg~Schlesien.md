@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Naumburg~Schlesien.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityNaumburg~Schlesien.public.md) 
+### [Naumburg~Schlesien](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Naumburg~Schlesien.md) 
 
-### [Naumburg~Schlesien.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityNaumburg~Schlesien.internal.md) 
+### [Naumburg~Schlesien.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Naumburg~Schlesien.public.md) 
 
-### [Naumburg~Schlesien.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityNaumburg~Schlesien.protect.md) 
+### [Naumburg~Schlesien.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Naumburg~Schlesien.internal.md) 
 
-### [Naumburg~Schlesien.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityNaumburg~Schlesien.private.md) 
+### [Naumburg~Schlesien.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Naumburg~Schlesien.protect.md) 
 
-### [Naumburg~Schlesien.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityNaumburg~Schlesien.personal.md) 
+### [Naumburg~Schlesien.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Naumburg~Schlesien.private.md) 
 
-### [Naumburg~Schlesien.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityNaumburg~Schlesien.secret.md)
+### [Naumburg~Schlesien.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Naumburg~Schlesien.personal.md) 
+
+### [Naumburg~Schlesien.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Naumburg~Schlesien.secret.md)
 

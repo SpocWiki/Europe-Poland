@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Stolzenhagen.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityStolzenhagen.public.md) 
+### [Stolzenhagen](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Stolzenhagen.md) 
 
-### [Stolzenhagen.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityStolzenhagen.internal.md) 
+### [Stolzenhagen.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Stolzenhagen.public.md) 
 
-### [Stolzenhagen.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityStolzenhagen.protect.md) 
+### [Stolzenhagen.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Stolzenhagen.internal.md) 
 
-### [Stolzenhagen.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityStolzenhagen.private.md) 
+### [Stolzenhagen.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Stolzenhagen.protect.md) 
 
-### [Stolzenhagen.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityStolzenhagen.personal.md) 
+### [Stolzenhagen.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Stolzenhagen.private.md) 
 
-### [Stolzenhagen.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityStolzenhagen.secret.md)
+### [Stolzenhagen.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Stolzenhagen.personal.md) 
+
+### [Stolzenhagen.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Stolzenhagen.secret.md)
 

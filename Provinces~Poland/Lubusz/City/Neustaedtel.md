@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Neustaedtel.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityNeustaedtel.public.md) 
+### [Neustaedtel](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Neustaedtel.md) 
 
-### [Neustaedtel.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityNeustaedtel.internal.md) 
+### [Neustaedtel.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Neustaedtel.public.md) 
 
-### [Neustaedtel.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityNeustaedtel.protect.md) 
+### [Neustaedtel.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Neustaedtel.internal.md) 
 
-### [Neustaedtel.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityNeustaedtel.private.md) 
+### [Neustaedtel.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Neustaedtel.protect.md) 
 
-### [Neustaedtel.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityNeustaedtel.personal.md) 
+### [Neustaedtel.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Neustaedtel.private.md) 
 
-### [Neustaedtel.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityNeustaedtel.secret.md)
+### [Neustaedtel.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Neustaedtel.personal.md) 
+
+### [Neustaedtel.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Neustaedtel.secret.md)
 

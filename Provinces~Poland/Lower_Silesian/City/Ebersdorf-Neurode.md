@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ebersdorf-Neurode.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityEbersdorf-Neurode.public.md) 
+### [Ebersdorf-Neurode](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Ebersdorf-Neurode.md) 
 
-### [Ebersdorf-Neurode.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityEbersdorf-Neurode.internal.md) 
+### [Ebersdorf-Neurode.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Ebersdorf-Neurode.public.md) 
 
-### [Ebersdorf-Neurode.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityEbersdorf-Neurode.protect.md) 
+### [Ebersdorf-Neurode.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Ebersdorf-Neurode.internal.md) 
 
-### [Ebersdorf-Neurode.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityEbersdorf-Neurode.private.md) 
+### [Ebersdorf-Neurode.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Ebersdorf-Neurode.protect.md) 
 
-### [Ebersdorf-Neurode.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityEbersdorf-Neurode.personal.md) 
+### [Ebersdorf-Neurode.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Ebersdorf-Neurode.private.md) 
 
-### [Ebersdorf-Neurode.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityEbersdorf-Neurode.secret.md)
+### [Ebersdorf-Neurode.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Ebersdorf-Neurode.personal.md) 
+
+### [Ebersdorf-Neurode.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Ebersdorf-Neurode.secret.md)
 

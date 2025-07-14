@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Czestochowa.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityCzestochowa.public.md) 
+### [Czestochowa](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Czestochowa.md) 
 
-### [Czestochowa.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityCzestochowa.internal.md) 
+### [Czestochowa.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Czestochowa.public.md) 
 
-### [Czestochowa.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityCzestochowa.protect.md) 
+### [Czestochowa.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Czestochowa.internal.md) 
 
-### [Czestochowa.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityCzestochowa.private.md) 
+### [Czestochowa.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Czestochowa.protect.md) 
 
-### [Czestochowa.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityCzestochowa.personal.md) 
+### [Czestochowa.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Czestochowa.private.md) 
 
-### [Czestochowa.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityCzestochowa.secret.md)
+### [Czestochowa.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Czestochowa.personal.md) 
+
+### [Czestochowa.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Czestochowa.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kranowitz.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityKranowitz.public.md) 
+### [Kranowitz](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Kranowitz.md) 
 
-### [Kranowitz.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityKranowitz.internal.md) 
+### [Kranowitz.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Kranowitz.public.md) 
 
-### [Kranowitz.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityKranowitz.protect.md) 
+### [Kranowitz.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Kranowitz.internal.md) 
 
-### [Kranowitz.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityKranowitz.private.md) 
+### [Kranowitz.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Kranowitz.protect.md) 
 
-### [Kranowitz.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityKranowitz.personal.md) 
+### [Kranowitz.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Kranowitz.private.md) 
 
-### [Kranowitz.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityKranowitz.secret.md)
+### [Kranowitz.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Kranowitz.personal.md) 
+
+### [Kranowitz.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Kranowitz.secret.md)
 

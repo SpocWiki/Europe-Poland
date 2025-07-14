@@ -41,15 +41,17 @@ markerFolder: ./Opole/
 
 ## Confidential Links & Embeds: 
 
-### [Opole.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandOpole.public.md) 
+### [Opole](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole.md) 
 
-### [Opole.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandOpole.internal.md) 
+### [Opole.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole.public.md) 
 
-### [Opole.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandOpole.protect.md) 
+### [Opole.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole.internal.md) 
 
-### [Opole.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandOpole.private.md) 
+### [Opole.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole.protect.md) 
 
-### [Opole.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandOpole.personal.md) 
+### [Opole.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole.private.md) 
 
-### [Opole.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandOpole.secret.md)
+### [Opole.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole.personal.md) 
+
+### [Opole.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole.secret.md)
 

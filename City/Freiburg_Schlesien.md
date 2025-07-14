@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Freiburg_Schlesien.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\CityFreiburg_Schlesien.public.md) 
+### [Freiburg_Schlesien](/_Standards/Earth/Continent/Europe/Europe~East/Poland/City/Freiburg_Schlesien.md) 
 
-### [Freiburg_Schlesien.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\CityFreiburg_Schlesien.internal.md) 
+### [Freiburg_Schlesien.public](/_public/Earth/Continent/Europe/Europe~East/Poland/City/Freiburg_Schlesien.public.md) 
 
-### [Freiburg_Schlesien.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\CityFreiburg_Schlesien.protect.md) 
+### [Freiburg_Schlesien.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/City/Freiburg_Schlesien.internal.md) 
 
-### [Freiburg_Schlesien.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\CityFreiburg_Schlesien.private.md) 
+### [Freiburg_Schlesien.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/City/Freiburg_Schlesien.protect.md) 
 
-### [Freiburg_Schlesien.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\CityFreiburg_Schlesien.personal.md) 
+### [Freiburg_Schlesien.private](/_private/Earth/Continent/Europe/Europe~East/Poland/City/Freiburg_Schlesien.private.md) 
 
-### [Freiburg_Schlesien.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\CityFreiburg_Schlesien.secret.md)
+### [Freiburg_Schlesien.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/City/Freiburg_Schlesien.personal.md) 
+
+### [Freiburg_Schlesien.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/City/Freiburg_Schlesien.secret.md)
 

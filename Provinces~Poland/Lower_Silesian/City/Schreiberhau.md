@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schreiberhau.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CitySchreiberhau.public.md) 
+### [Schreiberhau](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Schreiberhau.md) 
 
-### [Schreiberhau.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CitySchreiberhau.internal.md) 
+### [Schreiberhau.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Schreiberhau.public.md) 
 
-### [Schreiberhau.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CitySchreiberhau.protect.md) 
+### [Schreiberhau.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Schreiberhau.internal.md) 
 
-### [Schreiberhau.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CitySchreiberhau.private.md) 
+### [Schreiberhau.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Schreiberhau.protect.md) 
 
-### [Schreiberhau.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CitySchreiberhau.personal.md) 
+### [Schreiberhau.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Schreiberhau.private.md) 
 
-### [Schreiberhau.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CitySchreiberhau.secret.md)
+### [Schreiberhau.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Schreiberhau.personal.md) 
+
+### [Schreiberhau.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Schreiberhau.secret.md)
 

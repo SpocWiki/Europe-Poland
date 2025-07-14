@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Freiburg~Schlesien.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityFreiburg~Schlesien.public.md) 
+### [Freiburg~Schlesien](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Freiburg~Schlesien.md) 
 
-### [Freiburg~Schlesien.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityFreiburg~Schlesien.internal.md) 
+### [Freiburg~Schlesien.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Freiburg~Schlesien.public.md) 
 
-### [Freiburg~Schlesien.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityFreiburg~Schlesien.protect.md) 
+### [Freiburg~Schlesien.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Freiburg~Schlesien.internal.md) 
 
-### [Freiburg~Schlesien.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityFreiburg~Schlesien.private.md) 
+### [Freiburg~Schlesien.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Freiburg~Schlesien.protect.md) 
 
-### [Freiburg~Schlesien.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityFreiburg~Schlesien.personal.md) 
+### [Freiburg~Schlesien.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Freiburg~Schlesien.private.md) 
 
-### [Freiburg~Schlesien.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityFreiburg~Schlesien.secret.md)
+### [Freiburg~Schlesien.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Freiburg~Schlesien.personal.md) 
+
+### [Freiburg~Schlesien.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Freiburg~Schlesien.secret.md)
 

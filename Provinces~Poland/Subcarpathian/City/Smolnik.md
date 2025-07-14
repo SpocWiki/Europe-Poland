@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Smolnik.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Subcarpathian\CitySmolnik.public.md) 
+### [Smolnik](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Subcarpathian/City/Smolnik.md) 
 
-### [Smolnik.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Subcarpathian\CitySmolnik.internal.md) 
+### [Smolnik.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Subcarpathian/City/Smolnik.public.md) 
 
-### [Smolnik.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Subcarpathian\CitySmolnik.protect.md) 
+### [Smolnik.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Subcarpathian/City/Smolnik.internal.md) 
 
-### [Smolnik.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Subcarpathian\CitySmolnik.private.md) 
+### [Smolnik.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Subcarpathian/City/Smolnik.protect.md) 
 
-### [Smolnik.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Subcarpathian\CitySmolnik.personal.md) 
+### [Smolnik.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Subcarpathian/City/Smolnik.private.md) 
 
-### [Smolnik.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Subcarpathian\CitySmolnik.secret.md)
+### [Smolnik.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Subcarpathian/City/Smolnik.personal.md) 
+
+### [Smolnik.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Subcarpathian/City/Smolnik.secret.md)
 

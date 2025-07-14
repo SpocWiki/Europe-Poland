@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Soppau.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CitySoppau.public.md) 
+### [Soppau](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Soppau.md) 
 
-### [Soppau.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CitySoppau.internal.md) 
+### [Soppau.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Soppau.public.md) 
 
-### [Soppau.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CitySoppau.protect.md) 
+### [Soppau.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Soppau.internal.md) 
 
-### [Soppau.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CitySoppau.private.md) 
+### [Soppau.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Soppau.protect.md) 
 
-### [Soppau.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CitySoppau.personal.md) 
+### [Soppau.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Soppau.private.md) 
 
-### [Soppau.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CitySoppau.secret.md)
+### [Soppau.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Soppau.personal.md) 
+
+### [Soppau.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Soppau.secret.md)
 

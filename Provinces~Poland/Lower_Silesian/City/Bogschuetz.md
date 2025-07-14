@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bogschuetz.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityBogschuetz.public.md) 
+### [Bogschuetz](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Bogschuetz.md) 
 
-### [Bogschuetz.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityBogschuetz.internal.md) 
+### [Bogschuetz.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Bogschuetz.public.md) 
 
-### [Bogschuetz.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityBogschuetz.protect.md) 
+### [Bogschuetz.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Bogschuetz.internal.md) 
 
-### [Bogschuetz.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityBogschuetz.private.md) 
+### [Bogschuetz.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Bogschuetz.protect.md) 
 
-### [Bogschuetz.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityBogschuetz.personal.md) 
+### [Bogschuetz.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Bogschuetz.private.md) 
 
-### [Bogschuetz.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityBogschuetz.secret.md)
+### [Bogschuetz.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Bogschuetz.personal.md) 
+
+### [Bogschuetz.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Bogschuetz.secret.md)
 

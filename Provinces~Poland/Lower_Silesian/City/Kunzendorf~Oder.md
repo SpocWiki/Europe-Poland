@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kunzendorf~Oder.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKunzendorf~Oder.public.md) 
+### [Kunzendorf~Oder](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Kunzendorf~Oder.md) 
 
-### [Kunzendorf~Oder.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKunzendorf~Oder.internal.md) 
+### [Kunzendorf~Oder.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Kunzendorf~Oder.public.md) 
 
-### [Kunzendorf~Oder.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKunzendorf~Oder.protect.md) 
+### [Kunzendorf~Oder.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Kunzendorf~Oder.internal.md) 
 
-### [Kunzendorf~Oder.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKunzendorf~Oder.private.md) 
+### [Kunzendorf~Oder.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Kunzendorf~Oder.protect.md) 
 
-### [Kunzendorf~Oder.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKunzendorf~Oder.personal.md) 
+### [Kunzendorf~Oder.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Kunzendorf~Oder.private.md) 
 
-### [Kunzendorf~Oder.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKunzendorf~Oder.secret.md)
+### [Kunzendorf~Oder.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Kunzendorf~Oder.personal.md) 
+
+### [Kunzendorf~Oder.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Kunzendorf~Oder.secret.md)
 

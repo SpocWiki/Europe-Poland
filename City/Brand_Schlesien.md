@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Brand_Schlesien.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\CityBrand_Schlesien.public.md) 
+### [Brand_Schlesien](/_Standards/Earth/Continent/Europe/Europe~East/Poland/City/Brand_Schlesien.md) 
 
-### [Brand_Schlesien.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\CityBrand_Schlesien.internal.md) 
+### [Brand_Schlesien.public](/_public/Earth/Continent/Europe/Europe~East/Poland/City/Brand_Schlesien.public.md) 
 
-### [Brand_Schlesien.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\CityBrand_Schlesien.protect.md) 
+### [Brand_Schlesien.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/City/Brand_Schlesien.internal.md) 
 
-### [Brand_Schlesien.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\CityBrand_Schlesien.private.md) 
+### [Brand_Schlesien.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/City/Brand_Schlesien.protect.md) 
 
-### [Brand_Schlesien.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\CityBrand_Schlesien.personal.md) 
+### [Brand_Schlesien.private](/_private/Earth/Continent/Europe/Europe~East/Poland/City/Brand_Schlesien.private.md) 
 
-### [Brand_Schlesien.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\CityBrand_Schlesien.secret.md)
+### [Brand_Schlesien.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/City/Brand_Schlesien.personal.md) 
+
+### [Brand_Schlesien.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/City/Brand_Schlesien.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hela.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\CityHela.public.md) 
+### [Hela](/_Standards/Earth/Continent/Europe/Europe~East/Poland/City/Hela.md) 
 
-### [Hela.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\CityHela.internal.md) 
+### [Hela.public](/_public/Earth/Continent/Europe/Europe~East/Poland/City/Hela.public.md) 
 
-### [Hela.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\CityHela.protect.md) 
+### [Hela.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/City/Hela.internal.md) 
 
-### [Hela.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\CityHela.private.md) 
+### [Hela.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/City/Hela.protect.md) 
 
-### [Hela.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\CityHela.personal.md) 
+### [Hela.private](/_private/Earth/Continent/Europe/Europe~East/Poland/City/Hela.private.md) 
 
-### [Hela.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\CityHela.secret.md)
+### [Hela.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/City/Hela.personal.md) 
+
+### [Hela.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/City/Hela.secret.md)
 

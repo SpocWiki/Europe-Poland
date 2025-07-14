@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Waldowshof.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityWaldowshof.public.md) 
+### [Waldowshof](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Waldowshof.md) 
 
-### [Waldowshof.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityWaldowshof.internal.md) 
+### [Waldowshof.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Waldowshof.public.md) 
 
-### [Waldowshof.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityWaldowshof.protect.md) 
+### [Waldowshof.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Waldowshof.internal.md) 
 
-### [Waldowshof.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityWaldowshof.private.md) 
+### [Waldowshof.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Waldowshof.protect.md) 
 
-### [Waldowshof.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityWaldowshof.personal.md) 
+### [Waldowshof.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Waldowshof.private.md) 
 
-### [Waldowshof.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityWaldowshof.secret.md)
+### [Waldowshof.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Waldowshof.personal.md) 
+
+### [Waldowshof.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Waldowshof.secret.md)
 

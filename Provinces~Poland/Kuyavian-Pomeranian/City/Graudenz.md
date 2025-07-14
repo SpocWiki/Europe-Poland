@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Graudenz.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityGraudenz.public.md) 
+### [Graudenz](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Graudenz.md) 
 
-### [Graudenz.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityGraudenz.internal.md) 
+### [Graudenz.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Graudenz.public.md) 
 
-### [Graudenz.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityGraudenz.protect.md) 
+### [Graudenz.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Graudenz.internal.md) 
 
-### [Graudenz.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityGraudenz.private.md) 
+### [Graudenz.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Graudenz.protect.md) 
 
-### [Graudenz.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityGraudenz.personal.md) 
+### [Graudenz.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Graudenz.private.md) 
 
-### [Graudenz.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityGraudenz.secret.md)
+### [Graudenz.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Graudenz.personal.md) 
+
+### [Graudenz.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Graudenz.secret.md)
 

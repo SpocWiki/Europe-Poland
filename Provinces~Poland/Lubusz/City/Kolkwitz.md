@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kolkwitz.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityKolkwitz.public.md) 
+### [Kolkwitz](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Kolkwitz.md) 
 
-### [Kolkwitz.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityKolkwitz.internal.md) 
+### [Kolkwitz.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Kolkwitz.public.md) 
 
-### [Kolkwitz.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityKolkwitz.protect.md) 
+### [Kolkwitz.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Kolkwitz.internal.md) 
 
-### [Kolkwitz.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityKolkwitz.private.md) 
+### [Kolkwitz.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Kolkwitz.protect.md) 
 
-### [Kolkwitz.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityKolkwitz.personal.md) 
+### [Kolkwitz.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Kolkwitz.private.md) 
 
-### [Kolkwitz.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityKolkwitz.secret.md)
+### [Kolkwitz.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Kolkwitz.personal.md) 
+
+### [Kolkwitz.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Kolkwitz.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Michlau.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityMichlau.public.md) 
+### [Michlau](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Michlau.md) 
 
-### [Michlau.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityMichlau.internal.md) 
+### [Michlau.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Michlau.public.md) 
 
-### [Michlau.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityMichlau.protect.md) 
+### [Michlau.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Michlau.internal.md) 
 
-### [Michlau.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityMichlau.private.md) 
+### [Michlau.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Michlau.protect.md) 
 
-### [Michlau.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityMichlau.personal.md) 
+### [Michlau.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Michlau.private.md) 
 
-### [Michlau.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityMichlau.secret.md)
+### [Michlau.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Michlau.personal.md) 
+
+### [Michlau.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Michlau.secret.md)
 

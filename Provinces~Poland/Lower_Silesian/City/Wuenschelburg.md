@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wuenschelburg.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityWuenschelburg.public.md) 
+### [Wuenschelburg](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Wuenschelburg.md) 
 
-### [Wuenschelburg.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityWuenschelburg.internal.md) 
+### [Wuenschelburg.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Wuenschelburg.public.md) 
 
-### [Wuenschelburg.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityWuenschelburg.protect.md) 
+### [Wuenschelburg.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Wuenschelburg.internal.md) 
 
-### [Wuenschelburg.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityWuenschelburg.private.md) 
+### [Wuenschelburg.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Wuenschelburg.protect.md) 
 
-### [Wuenschelburg.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityWuenschelburg.personal.md) 
+### [Wuenschelburg.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Wuenschelburg.private.md) 
 
-### [Wuenschelburg.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityWuenschelburg.secret.md)
+### [Wuenschelburg.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Wuenschelburg.personal.md) 
+
+### [Wuenschelburg.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Wuenschelburg.secret.md)
 

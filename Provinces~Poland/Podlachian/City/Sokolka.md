@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sokolka.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Podlachian\CitySokolka.public.md) 
+### [Sokolka](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Podlachian/City/Sokolka.md) 
 
-### [Sokolka.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Podlachian\CitySokolka.internal.md) 
+### [Sokolka.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Podlachian/City/Sokolka.public.md) 
 
-### [Sokolka.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Podlachian\CitySokolka.protect.md) 
+### [Sokolka.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Podlachian/City/Sokolka.internal.md) 
 
-### [Sokolka.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Podlachian\CitySokolka.private.md) 
+### [Sokolka.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Podlachian/City/Sokolka.protect.md) 
 
-### [Sokolka.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Podlachian\CitySokolka.personal.md) 
+### [Sokolka.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Podlachian/City/Sokolka.private.md) 
 
-### [Sokolka.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Podlachian\CitySokolka.secret.md)
+### [Sokolka.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Podlachian/City/Sokolka.personal.md) 
+
+### [Sokolka.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Podlachian/City/Sokolka.secret.md)
 

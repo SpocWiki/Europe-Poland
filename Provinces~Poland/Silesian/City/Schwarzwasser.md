@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schwarzwasser.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CitySchwarzwasser.public.md) 
+### [Schwarzwasser](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Schwarzwasser.md) 
 
-### [Schwarzwasser.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CitySchwarzwasser.internal.md) 
+### [Schwarzwasser.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Schwarzwasser.public.md) 
 
-### [Schwarzwasser.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CitySchwarzwasser.protect.md) 
+### [Schwarzwasser.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Schwarzwasser.internal.md) 
 
-### [Schwarzwasser.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CitySchwarzwasser.private.md) 
+### [Schwarzwasser.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Schwarzwasser.protect.md) 
 
-### [Schwarzwasser.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CitySchwarzwasser.personal.md) 
+### [Schwarzwasser.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Schwarzwasser.private.md) 
 
-### [Schwarzwasser.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CitySchwarzwasser.secret.md)
+### [Schwarzwasser.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Schwarzwasser.personal.md) 
+
+### [Schwarzwasser.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Schwarzwasser.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Suraz.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Podlachian\CitySuraz.public.md) 
+### [Suraz](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Podlachian/City/Suraz.md) 
 
-### [Suraz.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Podlachian\CitySuraz.internal.md) 
+### [Suraz.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Podlachian/City/Suraz.public.md) 
 
-### [Suraz.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Podlachian\CitySuraz.protect.md) 
+### [Suraz.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Podlachian/City/Suraz.internal.md) 
 
-### [Suraz.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Podlachian\CitySuraz.private.md) 
+### [Suraz.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Podlachian/City/Suraz.protect.md) 
 
-### [Suraz.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Podlachian\CitySuraz.personal.md) 
+### [Suraz.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Podlachian/City/Suraz.private.md) 
 
-### [Suraz.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Podlachian\CitySuraz.secret.md)
+### [Suraz.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Podlachian/City/Suraz.personal.md) 
+
+### [Suraz.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Podlachian/City/Suraz.secret.md)
 

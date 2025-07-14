@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hirschberg~Schlesien.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityHirschberg~Schlesien.public.md) 
+### [Hirschberg~Schlesien](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Hirschberg~Schlesien.md) 
 
-### [Hirschberg~Schlesien.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityHirschberg~Schlesien.internal.md) 
+### [Hirschberg~Schlesien.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Hirschberg~Schlesien.public.md) 
 
-### [Hirschberg~Schlesien.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityHirschberg~Schlesien.protect.md) 
+### [Hirschberg~Schlesien.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Hirschberg~Schlesien.internal.md) 
 
-### [Hirschberg~Schlesien.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityHirschberg~Schlesien.private.md) 
+### [Hirschberg~Schlesien.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Hirschberg~Schlesien.protect.md) 
 
-### [Hirschberg~Schlesien.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityHirschberg~Schlesien.personal.md) 
+### [Hirschberg~Schlesien.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Hirschberg~Schlesien.private.md) 
 
-### [Hirschberg~Schlesien.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityHirschberg~Schlesien.secret.md)
+### [Hirschberg~Schlesien.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Hirschberg~Schlesien.personal.md) 
+
+### [Hirschberg~Schlesien.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Hirschberg~Schlesien.secret.md)
 

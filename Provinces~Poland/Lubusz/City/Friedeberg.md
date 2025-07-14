@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Friedeberg.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityFriedeberg.public.md) 
+### [Friedeberg](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Friedeberg.md) 
 
-### [Friedeberg.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityFriedeberg.internal.md) 
+### [Friedeberg.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Friedeberg.public.md) 
 
-### [Friedeberg.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityFriedeberg.protect.md) 
+### [Friedeberg.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Friedeberg.internal.md) 
 
-### [Friedeberg.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityFriedeberg.private.md) 
+### [Friedeberg.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Friedeberg.protect.md) 
 
-### [Friedeberg.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityFriedeberg.personal.md) 
+### [Friedeberg.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Friedeberg.private.md) 
 
-### [Friedeberg.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityFriedeberg.secret.md)
+### [Friedeberg.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Friedeberg.personal.md) 
+
+### [Friedeberg.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Friedeberg.secret.md)
 

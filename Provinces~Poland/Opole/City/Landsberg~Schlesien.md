@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Landsberg~Schlesien.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityLandsberg~Schlesien.public.md) 
+### [Landsberg~Schlesien](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Landsberg~Schlesien.md) 
 
-### [Landsberg~Schlesien.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityLandsberg~Schlesien.internal.md) 
+### [Landsberg~Schlesien.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Landsberg~Schlesien.public.md) 
 
-### [Landsberg~Schlesien.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityLandsberg~Schlesien.protect.md) 
+### [Landsberg~Schlesien.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Landsberg~Schlesien.internal.md) 
 
-### [Landsberg~Schlesien.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityLandsberg~Schlesien.private.md) 
+### [Landsberg~Schlesien.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Landsberg~Schlesien.protect.md) 
 
-### [Landsberg~Schlesien.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityLandsberg~Schlesien.personal.md) 
+### [Landsberg~Schlesien.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Landsberg~Schlesien.private.md) 
 
-### [Landsberg~Schlesien.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityLandsberg~Schlesien.secret.md)
+### [Landsberg~Schlesien.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Landsberg~Schlesien.personal.md) 
+
+### [Landsberg~Schlesien.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Landsberg~Schlesien.secret.md)
 

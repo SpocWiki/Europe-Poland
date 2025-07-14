@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oswiecim=Auschwitz.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityOswiecim=Auschwitz.public.md) 
+### [Oswiecim=Auschwitz](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Oswiecim=Auschwitz.md) 
 
-### [Oswiecim=Auschwitz.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityOswiecim=Auschwitz.internal.md) 
+### [Oswiecim=Auschwitz.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Oswiecim=Auschwitz.public.md) 
 
-### [Oswiecim=Auschwitz.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityOswiecim=Auschwitz.protect.md) 
+### [Oswiecim=Auschwitz.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Oswiecim=Auschwitz.internal.md) 
 
-### [Oswiecim=Auschwitz.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityOswiecim=Auschwitz.private.md) 
+### [Oswiecim=Auschwitz.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Oswiecim=Auschwitz.protect.md) 
 
-### [Oswiecim=Auschwitz.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityOswiecim=Auschwitz.personal.md) 
+### [Oswiecim=Auschwitz.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Oswiecim=Auschwitz.private.md) 
 
-### [Oswiecim=Auschwitz.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityOswiecim=Auschwitz.secret.md)
+### [Oswiecim=Auschwitz.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Oswiecim=Auschwitz.personal.md) 
+
+### [Oswiecim=Auschwitz.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Oswiecim=Auschwitz.secret.md)
 

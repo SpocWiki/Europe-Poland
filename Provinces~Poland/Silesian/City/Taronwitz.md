@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Taronwitz.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityTaronwitz.public.md) 
+### [Taronwitz](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Taronwitz.md) 
 
-### [Taronwitz.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityTaronwitz.internal.md) 
+### [Taronwitz.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Taronwitz.public.md) 
 
-### [Taronwitz.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityTaronwitz.protect.md) 
+### [Taronwitz.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Taronwitz.internal.md) 
 
-### [Taronwitz.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityTaronwitz.private.md) 
+### [Taronwitz.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Taronwitz.protect.md) 
 
-### [Taronwitz.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityTaronwitz.personal.md) 
+### [Taronwitz.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Taronwitz.private.md) 
 
-### [Taronwitz.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityTaronwitz.secret.md)
+### [Taronwitz.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Taronwitz.personal.md) 
+
+### [Taronwitz.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Taronwitz.secret.md)
 

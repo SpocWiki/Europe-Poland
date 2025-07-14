@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schneidemuehl.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CitySchneidemuehl.public.md) 
+### [Schneidemuehl](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Schneidemuehl.md) 
 
-### [Schneidemuehl.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CitySchneidemuehl.internal.md) 
+### [Schneidemuehl.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Schneidemuehl.public.md) 
 
-### [Schneidemuehl.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CitySchneidemuehl.protect.md) 
+### [Schneidemuehl.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Schneidemuehl.internal.md) 
 
-### [Schneidemuehl.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CitySchneidemuehl.private.md) 
+### [Schneidemuehl.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Schneidemuehl.protect.md) 
 
-### [Schneidemuehl.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CitySchneidemuehl.personal.md) 
+### [Schneidemuehl.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Schneidemuehl.private.md) 
 
-### [Schneidemuehl.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CitySchneidemuehl.secret.md)
+### [Schneidemuehl.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Schneidemuehl.personal.md) 
+
+### [Schneidemuehl.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Schneidemuehl.secret.md)
 

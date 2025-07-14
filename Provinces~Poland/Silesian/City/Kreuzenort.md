@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kreuzenort.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityKreuzenort.public.md) 
+### [Kreuzenort](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Kreuzenort.md) 
 
-### [Kreuzenort.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityKreuzenort.internal.md) 
+### [Kreuzenort.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Kreuzenort.public.md) 
 
-### [Kreuzenort.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityKreuzenort.protect.md) 
+### [Kreuzenort.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Kreuzenort.internal.md) 
 
-### [Kreuzenort.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityKreuzenort.private.md) 
+### [Kreuzenort.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Kreuzenort.protect.md) 
 
-### [Kreuzenort.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityKreuzenort.personal.md) 
+### [Kreuzenort.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Kreuzenort.private.md) 
 
-### [Kreuzenort.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityKreuzenort.secret.md)
+### [Kreuzenort.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Kreuzenort.personal.md) 
+
+### [Kreuzenort.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Kreuzenort.secret.md)
 

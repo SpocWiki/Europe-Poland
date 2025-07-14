@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Eugenienhof.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityEugenienhof.public.md) 
+### [Eugenienhof](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Eugenienhof.md) 
 
-### [Eugenienhof.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityEugenienhof.internal.md) 
+### [Eugenienhof.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Eugenienhof.public.md) 
 
-### [Eugenienhof.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityEugenienhof.protect.md) 
+### [Eugenienhof.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Eugenienhof.internal.md) 
 
-### [Eugenienhof.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityEugenienhof.private.md) 
+### [Eugenienhof.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Eugenienhof.protect.md) 
 
-### [Eugenienhof.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityEugenienhof.personal.md) 
+### [Eugenienhof.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Eugenienhof.private.md) 
 
-### [Eugenienhof.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityEugenienhof.secret.md)
+### [Eugenienhof.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Eugenienhof.personal.md) 
+
+### [Eugenienhof.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Eugenienhof.secret.md)
 

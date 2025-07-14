@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Alt-Gleiwitz.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityAlt-Gleiwitz.public.md) 
+### [Alt-Gleiwitz](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Alt-Gleiwitz.md) 
 
-### [Alt-Gleiwitz.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityAlt-Gleiwitz.internal.md) 
+### [Alt-Gleiwitz.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Alt-Gleiwitz.public.md) 
 
-### [Alt-Gleiwitz.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityAlt-Gleiwitz.protect.md) 
+### [Alt-Gleiwitz.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Alt-Gleiwitz.internal.md) 
 
-### [Alt-Gleiwitz.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityAlt-Gleiwitz.private.md) 
+### [Alt-Gleiwitz.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Alt-Gleiwitz.protect.md) 
 
-### [Alt-Gleiwitz.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityAlt-Gleiwitz.personal.md) 
+### [Alt-Gleiwitz.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Alt-Gleiwitz.private.md) 
 
-### [Alt-Gleiwitz.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityAlt-Gleiwitz.secret.md)
+### [Alt-Gleiwitz.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Alt-Gleiwitz.personal.md) 
+
+### [Alt-Gleiwitz.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Alt-Gleiwitz.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kowahlen.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Podlachian\CityKowahlen.public.md) 
+### [Kowahlen](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Podlachian/City/Kowahlen.md) 
 
-### [Kowahlen.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Podlachian\CityKowahlen.internal.md) 
+### [Kowahlen.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Podlachian/City/Kowahlen.public.md) 
 
-### [Kowahlen.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Podlachian\CityKowahlen.protect.md) 
+### [Kowahlen.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Podlachian/City/Kowahlen.internal.md) 
 
-### [Kowahlen.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Podlachian\CityKowahlen.private.md) 
+### [Kowahlen.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Podlachian/City/Kowahlen.protect.md) 
 
-### [Kowahlen.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Podlachian\CityKowahlen.personal.md) 
+### [Kowahlen.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Podlachian/City/Kowahlen.private.md) 
 
-### [Kowahlen.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Podlachian\CityKowahlen.secret.md)
+### [Kowahlen.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Podlachian/City/Kowahlen.personal.md) 
+
+### [Kowahlen.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Podlachian/City/Kowahlen.secret.md)
 

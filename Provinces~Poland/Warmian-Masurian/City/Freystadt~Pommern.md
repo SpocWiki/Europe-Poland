@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Freystadt~Pommern.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityFreystadt~Pommern.public.md) 
+### [Freystadt~Pommern](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Freystadt~Pommern.md) 
 
-### [Freystadt~Pommern.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityFreystadt~Pommern.internal.md) 
+### [Freystadt~Pommern.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Freystadt~Pommern.public.md) 
 
-### [Freystadt~Pommern.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityFreystadt~Pommern.protect.md) 
+### [Freystadt~Pommern.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Freystadt~Pommern.internal.md) 
 
-### [Freystadt~Pommern.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityFreystadt~Pommern.private.md) 
+### [Freystadt~Pommern.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Freystadt~Pommern.protect.md) 
 
-### [Freystadt~Pommern.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityFreystadt~Pommern.personal.md) 
+### [Freystadt~Pommern.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Freystadt~Pommern.private.md) 
 
-### [Freystadt~Pommern.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityFreystadt~Pommern.secret.md)
+### [Freystadt~Pommern.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Freystadt~Pommern.personal.md) 
+
+### [Freystadt~Pommern.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Freystadt~Pommern.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sierad.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Łódź,Province\counties~Łódzkie\Sieradz\cities~SieradzSierad.public.md) 
+### [Sierad](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province/counties~Łódzkie/Sieradz/cities~Sieradz/Sierad.md) 
 
-### [Sierad.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Łódź,Province\counties~Łódzkie\Sieradz\cities~SieradzSierad.internal.md) 
+### [Sierad.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province/counties~Łódzkie/Sieradz/cities~Sieradz/Sierad.public.md) 
 
-### [Sierad.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Łódź,Province\counties~Łódzkie\Sieradz\cities~SieradzSierad.protect.md) 
+### [Sierad.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province/counties~Łódzkie/Sieradz/cities~Sieradz/Sierad.internal.md) 
 
-### [Sierad.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Łódź,Province\counties~Łódzkie\Sieradz\cities~SieradzSierad.private.md) 
+### [Sierad.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province/counties~Łódzkie/Sieradz/cities~Sieradz/Sierad.protect.md) 
 
-### [Sierad.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Łódź,Province\counties~Łódzkie\Sieradz\cities~SieradzSierad.personal.md) 
+### [Sierad.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province/counties~Łódzkie/Sieradz/cities~Sieradz/Sierad.private.md) 
 
-### [Sierad.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Łódź,Province\counties~Łódzkie\Sieradz\cities~SieradzSierad.secret.md)
+### [Sierad.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province/counties~Łódzkie/Sieradz/cities~Sieradz/Sierad.personal.md) 
+
+### [Sierad.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province/counties~Łódzkie/Sieradz/cities~Sieradz/Sierad.secret.md)
 

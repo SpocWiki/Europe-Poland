@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wilkersdorf.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityWilkersdorf.public.md) 
+### [Wilkersdorf](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Wilkersdorf.md) 
 
-### [Wilkersdorf.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityWilkersdorf.internal.md) 
+### [Wilkersdorf.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Wilkersdorf.public.md) 
 
-### [Wilkersdorf.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityWilkersdorf.protect.md) 
+### [Wilkersdorf.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Wilkersdorf.internal.md) 
 
-### [Wilkersdorf.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityWilkersdorf.private.md) 
+### [Wilkersdorf.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Wilkersdorf.protect.md) 
 
-### [Wilkersdorf.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityWilkersdorf.personal.md) 
+### [Wilkersdorf.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Wilkersdorf.private.md) 
 
-### [Wilkersdorf.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityWilkersdorf.secret.md)
+### [Wilkersdorf.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Wilkersdorf.personal.md) 
+
+### [Wilkersdorf.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Wilkersdorf.secret.md)
 

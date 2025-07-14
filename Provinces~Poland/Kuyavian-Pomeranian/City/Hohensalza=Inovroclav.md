@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hohensalza=Inovroclav.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityHohensalza=Inovroclav.public.md) 
+### [Hohensalza=Inovroclav](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Hohensalza=Inovroclav.md) 
 
-### [Hohensalza=Inovroclav.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityHohensalza=Inovroclav.internal.md) 
+### [Hohensalza=Inovroclav.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Hohensalza=Inovroclav.public.md) 
 
-### [Hohensalza=Inovroclav.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityHohensalza=Inovroclav.protect.md) 
+### [Hohensalza=Inovroclav.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Hohensalza=Inovroclav.internal.md) 
 
-### [Hohensalza=Inovroclav.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityHohensalza=Inovroclav.private.md) 
+### [Hohensalza=Inovroclav.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Hohensalza=Inovroclav.protect.md) 
 
-### [Hohensalza=Inovroclav.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityHohensalza=Inovroclav.personal.md) 
+### [Hohensalza=Inovroclav.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Hohensalza=Inovroclav.private.md) 
 
-### [Hohensalza=Inovroclav.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityHohensalza=Inovroclav.secret.md)
+### [Hohensalza=Inovroclav.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Hohensalza=Inovroclav.personal.md) 
+
+### [Hohensalza=Inovroclav.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Hohensalza=Inovroclav.secret.md)
 

@@ -45,15 +45,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lodz-city.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Łódź,Province\counties~ŁódzkieLodz-city.public.md) 
+### [Lodz-city](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province/counties~Łódzkie/Lodz-city.md) 
 
-### [Lodz-city.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Łódź,Province\counties~ŁódzkieLodz-city.internal.md) 
+### [Lodz-city.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province/counties~Łódzkie/Lodz-city.public.md) 
 
-### [Lodz-city.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Łódź,Province\counties~ŁódzkieLodz-city.protect.md) 
+### [Lodz-city.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province/counties~Łódzkie/Lodz-city.internal.md) 
 
-### [Lodz-city.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Łódź,Province\counties~ŁódzkieLodz-city.private.md) 
+### [Lodz-city.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province/counties~Łódzkie/Lodz-city.protect.md) 
 
-### [Lodz-city.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Łódź,Province\counties~ŁódzkieLodz-city.personal.md) 
+### [Lodz-city.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province/counties~Łódzkie/Lodz-city.private.md) 
 
-### [Lodz-city.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Łódź,Province\counties~ŁódzkieLodz-city.secret.md)
+### [Lodz-city.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province/counties~Łódzkie/Lodz-city.personal.md) 
+
+### [Lodz-city.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province/counties~Łódzkie/Lodz-city.secret.md)
 

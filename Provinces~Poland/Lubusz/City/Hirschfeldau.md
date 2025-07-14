@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hirschfeldau.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityHirschfeldau.public.md) 
+### [Hirschfeldau](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Hirschfeldau.md) 
 
-### [Hirschfeldau.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityHirschfeldau.internal.md) 
+### [Hirschfeldau.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Hirschfeldau.public.md) 
 
-### [Hirschfeldau.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityHirschfeldau.protect.md) 
+### [Hirschfeldau.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Hirschfeldau.internal.md) 
 
-### [Hirschfeldau.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityHirschfeldau.private.md) 
+### [Hirschfeldau.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Hirschfeldau.protect.md) 
 
-### [Hirschfeldau.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityHirschfeldau.personal.md) 
+### [Hirschfeldau.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Hirschfeldau.private.md) 
 
-### [Hirschfeldau.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityHirschfeldau.secret.md)
+### [Hirschfeldau.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Hirschfeldau.personal.md) 
+
+### [Hirschfeldau.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Hirschfeldau.secret.md)
 

@@ -29,19 +29,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Gda%C5%84sk)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Gdańsk~City.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\counties~Pomorskie\Gdańsk\cities~GdańskGdańsk~City.public.md) 
+### [Gdańsk~City](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/counties~Pomorskie/Gdańsk/cities~Gdańsk/Gdańsk~City.md) 
 
-### [Gdańsk~City.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\counties~Pomorskie\Gdańsk\cities~GdańskGdańsk~City.internal.md) 
+### [Gdańsk~City.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/counties~Pomorskie/Gdańsk/cities~Gdańsk/Gdańsk~City.public.md) 
 
-### [Gdańsk~City.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\counties~Pomorskie\Gdańsk\cities~GdańskGdańsk~City.protect.md) 
+### [Gdańsk~City.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/counties~Pomorskie/Gdańsk/cities~Gdańsk/Gdańsk~City.internal.md) 
 
-### [Gdańsk~City.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\counties~Pomorskie\Gdańsk\cities~GdańskGdańsk~City.private.md) 
+### [Gdańsk~City.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/counties~Pomorskie/Gdańsk/cities~Gdańsk/Gdańsk~City.protect.md) 
 
-### [Gdańsk~City.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\counties~Pomorskie\Gdańsk\cities~GdańskGdańsk~City.personal.md) 
+### [Gdańsk~City.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/counties~Pomorskie/Gdańsk/cities~Gdańsk/Gdańsk~City.private.md) 
 
-### [Gdańsk~City.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\counties~Pomorskie\Gdańsk\cities~GdańskGdańsk~City.secret.md)
+### [Gdańsk~City.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/counties~Pomorskie/Gdańsk/cities~Gdańsk/Gdańsk~City.personal.md) 
+
+### [Gdańsk~City.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/counties~Pomorskie/Gdańsk/cities~Gdańsk/Gdańsk~City.secret.md)
 

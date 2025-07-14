@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Leschnitz.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityLeschnitz.public.md) 
+### [Leschnitz](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Leschnitz.md) 
 
-### [Leschnitz.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityLeschnitz.internal.md) 
+### [Leschnitz.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Leschnitz.public.md) 
 
-### [Leschnitz.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityLeschnitz.protect.md) 
+### [Leschnitz.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Leschnitz.internal.md) 
 
-### [Leschnitz.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityLeschnitz.private.md) 
+### [Leschnitz.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Leschnitz.protect.md) 
 
-### [Leschnitz.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityLeschnitz.personal.md) 
+### [Leschnitz.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Leschnitz.private.md) 
 
-### [Leschnitz.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityLeschnitz.secret.md)
+### [Leschnitz.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Leschnitz.personal.md) 
+
+### [Leschnitz.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Leschnitz.secret.md)
 

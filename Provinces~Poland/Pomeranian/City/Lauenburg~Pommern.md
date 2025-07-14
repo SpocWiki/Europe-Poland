@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lauenburg~Pommern.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityLauenburg~Pommern.public.md) 
+### [Lauenburg~Pommern](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Lauenburg~Pommern.md) 
 
-### [Lauenburg~Pommern.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityLauenburg~Pommern.internal.md) 
+### [Lauenburg~Pommern.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Lauenburg~Pommern.public.md) 
 
-### [Lauenburg~Pommern.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityLauenburg~Pommern.protect.md) 
+### [Lauenburg~Pommern.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Lauenburg~Pommern.internal.md) 
 
-### [Lauenburg~Pommern.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityLauenburg~Pommern.private.md) 
+### [Lauenburg~Pommern.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Lauenburg~Pommern.protect.md) 
 
-### [Lauenburg~Pommern.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityLauenburg~Pommern.personal.md) 
+### [Lauenburg~Pommern.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Lauenburg~Pommern.private.md) 
 
-### [Lauenburg~Pommern.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityLauenburg~Pommern.secret.md)
+### [Lauenburg~Pommern.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Lauenburg~Pommern.personal.md) 
+
+### [Lauenburg~Pommern.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Lauenburg~Pommern.secret.md)
 

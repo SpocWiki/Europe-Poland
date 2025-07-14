@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Neustadt~Rheda~Pommern.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNeustadt~Rheda~Pommern.public.md) 
+### [Neustadt~Rheda~Pommern](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Neustadt~Rheda~Pommern.md) 
 
-### [Neustadt~Rheda~Pommern.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNeustadt~Rheda~Pommern.internal.md) 
+### [Neustadt~Rheda~Pommern.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Neustadt~Rheda~Pommern.public.md) 
 
-### [Neustadt~Rheda~Pommern.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNeustadt~Rheda~Pommern.protect.md) 
+### [Neustadt~Rheda~Pommern.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Neustadt~Rheda~Pommern.internal.md) 
 
-### [Neustadt~Rheda~Pommern.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNeustadt~Rheda~Pommern.private.md) 
+### [Neustadt~Rheda~Pommern.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Neustadt~Rheda~Pommern.protect.md) 
 
-### [Neustadt~Rheda~Pommern.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNeustadt~Rheda~Pommern.personal.md) 
+### [Neustadt~Rheda~Pommern.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Neustadt~Rheda~Pommern.private.md) 
 
-### [Neustadt~Rheda~Pommern.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNeustadt~Rheda~Pommern.secret.md)
+### [Neustadt~Rheda~Pommern.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Neustadt~Rheda~Pommern.personal.md) 
+
+### [Neustadt~Rheda~Pommern.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Neustadt~Rheda~Pommern.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Muehlhausen~Ostpommern.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityMuehlhausen~Ostpommern.public.md) 
+### [Muehlhausen~Ostpommern](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Muehlhausen~Ostpommern.md) 
 
-### [Muehlhausen~Ostpommern.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityMuehlhausen~Ostpommern.internal.md) 
+### [Muehlhausen~Ostpommern.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Muehlhausen~Ostpommern.public.md) 
 
-### [Muehlhausen~Ostpommern.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityMuehlhausen~Ostpommern.protect.md) 
+### [Muehlhausen~Ostpommern.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Muehlhausen~Ostpommern.internal.md) 
 
-### [Muehlhausen~Ostpommern.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityMuehlhausen~Ostpommern.private.md) 
+### [Muehlhausen~Ostpommern.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Muehlhausen~Ostpommern.protect.md) 
 
-### [Muehlhausen~Ostpommern.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityMuehlhausen~Ostpommern.personal.md) 
+### [Muehlhausen~Ostpommern.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Muehlhausen~Ostpommern.private.md) 
 
-### [Muehlhausen~Ostpommern.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityMuehlhausen~Ostpommern.secret.md)
+### [Muehlhausen~Ostpommern.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Muehlhausen~Ostpommern.personal.md) 
+
+### [Muehlhausen~Ostpommern.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Muehlhausen~Ostpommern.secret.md)
 

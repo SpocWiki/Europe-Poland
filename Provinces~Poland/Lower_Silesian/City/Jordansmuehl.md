@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Jordansmuehl.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityJordansmuehl.public.md) 
+### [Jordansmuehl](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Jordansmuehl.md) 
 
-### [Jordansmuehl.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityJordansmuehl.internal.md) 
+### [Jordansmuehl.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Jordansmuehl.public.md) 
 
-### [Jordansmuehl.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityJordansmuehl.protect.md) 
+### [Jordansmuehl.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Jordansmuehl.internal.md) 
 
-### [Jordansmuehl.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityJordansmuehl.private.md) 
+### [Jordansmuehl.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Jordansmuehl.protect.md) 
 
-### [Jordansmuehl.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityJordansmuehl.personal.md) 
+### [Jordansmuehl.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Jordansmuehl.private.md) 
 
-### [Jordansmuehl.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityJordansmuehl.secret.md)
+### [Jordansmuehl.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Jordansmuehl.personal.md) 
+
+### [Jordansmuehl.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Jordansmuehl.secret.md)
 

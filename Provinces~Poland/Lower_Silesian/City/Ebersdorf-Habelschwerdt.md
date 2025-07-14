@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ebersdorf-Habelschwerdt.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityEbersdorf-Habelschwerdt.public.md) 
+### [Ebersdorf-Habelschwerdt](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Ebersdorf-Habelschwerdt.md) 
 
-### [Ebersdorf-Habelschwerdt.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityEbersdorf-Habelschwerdt.internal.md) 
+### [Ebersdorf-Habelschwerdt.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Ebersdorf-Habelschwerdt.public.md) 
 
-### [Ebersdorf-Habelschwerdt.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityEbersdorf-Habelschwerdt.protect.md) 
+### [Ebersdorf-Habelschwerdt.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Ebersdorf-Habelschwerdt.internal.md) 
 
-### [Ebersdorf-Habelschwerdt.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityEbersdorf-Habelschwerdt.private.md) 
+### [Ebersdorf-Habelschwerdt.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Ebersdorf-Habelschwerdt.protect.md) 
 
-### [Ebersdorf-Habelschwerdt.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityEbersdorf-Habelschwerdt.personal.md) 
+### [Ebersdorf-Habelschwerdt.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Ebersdorf-Habelschwerdt.private.md) 
 
-### [Ebersdorf-Habelschwerdt.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityEbersdorf-Habelschwerdt.secret.md)
+### [Ebersdorf-Habelschwerdt.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Ebersdorf-Habelschwerdt.personal.md) 
+
+### [Ebersdorf-Habelschwerdt.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Ebersdorf-Habelschwerdt.secret.md)
 

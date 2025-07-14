@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kalwarya-Lebrzydonska.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityKalwarya-Lebrzydonska.public.md) 
+### [Kalwarya-Lebrzydonska](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Kalwarya-Lebrzydonska.md) 
 
-### [Kalwarya-Lebrzydonska.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityKalwarya-Lebrzydonska.internal.md) 
+### [Kalwarya-Lebrzydonska.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Kalwarya-Lebrzydonska.public.md) 
 
-### [Kalwarya-Lebrzydonska.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityKalwarya-Lebrzydonska.protect.md) 
+### [Kalwarya-Lebrzydonska.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Kalwarya-Lebrzydonska.internal.md) 
 
-### [Kalwarya-Lebrzydonska.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityKalwarya-Lebrzydonska.private.md) 
+### [Kalwarya-Lebrzydonska.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Kalwarya-Lebrzydonska.protect.md) 
 
-### [Kalwarya-Lebrzydonska.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityKalwarya-Lebrzydonska.personal.md) 
+### [Kalwarya-Lebrzydonska.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Kalwarya-Lebrzydonska.private.md) 
 
-### [Kalwarya-Lebrzydonska.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityKalwarya-Lebrzydonska.secret.md)
+### [Kalwarya-Lebrzydonska.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Kalwarya-Lebrzydonska.personal.md) 
+
+### [Kalwarya-Lebrzydonska.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Kalwarya-Lebrzydonska.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./West_Pomeranian/
 
 ## Confidential Links & Embeds: 
 
-### [West_Pomeranian.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandWest_Pomeranian.public.md) 
+### [West_Pomeranian](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian.md) 
 
-### [West_Pomeranian.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandWest_Pomeranian.internal.md) 
+### [West_Pomeranian.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian.public.md) 
 
-### [West_Pomeranian.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandWest_Pomeranian.protect.md) 
+### [West_Pomeranian.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian.internal.md) 
 
-### [West_Pomeranian.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandWest_Pomeranian.private.md) 
+### [West_Pomeranian.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian.protect.md) 
 
-### [West_Pomeranian.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandWest_Pomeranian.personal.md) 
+### [West_Pomeranian.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian.private.md) 
 
-### [West_Pomeranian.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandWest_Pomeranian.secret.md)
+### [West_Pomeranian.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian.personal.md) 
+
+### [West_Pomeranian.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian.secret.md)
 

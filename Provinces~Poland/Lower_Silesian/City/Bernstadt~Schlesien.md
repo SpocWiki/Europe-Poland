@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bernstadt~Schlesien.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityBernstadt~Schlesien.public.md) 
+### [Bernstadt~Schlesien](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Bernstadt~Schlesien.md) 
 
-### [Bernstadt~Schlesien.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityBernstadt~Schlesien.internal.md) 
+### [Bernstadt~Schlesien.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Bernstadt~Schlesien.public.md) 
 
-### [Bernstadt~Schlesien.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityBernstadt~Schlesien.protect.md) 
+### [Bernstadt~Schlesien.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Bernstadt~Schlesien.internal.md) 
 
-### [Bernstadt~Schlesien.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityBernstadt~Schlesien.private.md) 
+### [Bernstadt~Schlesien.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Bernstadt~Schlesien.protect.md) 
 
-### [Bernstadt~Schlesien.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityBernstadt~Schlesien.personal.md) 
+### [Bernstadt~Schlesien.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Bernstadt~Schlesien.private.md) 
 
-### [Bernstadt~Schlesien.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityBernstadt~Schlesien.secret.md)
+### [Bernstadt~Schlesien.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Bernstadt~Schlesien.personal.md) 
+
+### [Bernstadt~Schlesien.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Bernstadt~Schlesien.secret.md)
 

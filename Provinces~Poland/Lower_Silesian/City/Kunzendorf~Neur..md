@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kunzendorf~Neur..public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKunzendorf~Neur..public.md) 
+### [Kunzendorf~Neur.](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Kunzendorf~Neur..md) 
 
-### [Kunzendorf~Neur..internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKunzendorf~Neur..internal.md) 
+### [Kunzendorf~Neur..public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Kunzendorf~Neur..public.md) 
 
-### [Kunzendorf~Neur..protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKunzendorf~Neur..protect.md) 
+### [Kunzendorf~Neur..internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Kunzendorf~Neur..internal.md) 
 
-### [Kunzendorf~Neur..private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKunzendorf~Neur..private.md) 
+### [Kunzendorf~Neur..protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Kunzendorf~Neur..protect.md) 
 
-### [Kunzendorf~Neur..personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKunzendorf~Neur..personal.md) 
+### [Kunzendorf~Neur..private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Kunzendorf~Neur..private.md) 
 
-### [Kunzendorf~Neur..secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKunzendorf~Neur..secret.md)
+### [Kunzendorf~Neur..personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Kunzendorf~Neur..personal.md) 
+
+### [Kunzendorf~Neur..secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Kunzendorf~Neur..secret.md)
 

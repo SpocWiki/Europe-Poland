@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Elbing~Ostpreussen.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityElbing~Ostpreussen.public.md) 
+### [Elbing~Ostpreussen](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Elbing~Ostpreussen.md) 
 
-### [Elbing~Ostpreussen.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityElbing~Ostpreussen.internal.md) 
+### [Elbing~Ostpreussen.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Elbing~Ostpreussen.public.md) 
 
-### [Elbing~Ostpreussen.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityElbing~Ostpreussen.protect.md) 
+### [Elbing~Ostpreussen.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Elbing~Ostpreussen.internal.md) 
 
-### [Elbing~Ostpreussen.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityElbing~Ostpreussen.private.md) 
+### [Elbing~Ostpreussen.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Elbing~Ostpreussen.protect.md) 
 
-### [Elbing~Ostpreussen.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityElbing~Ostpreussen.personal.md) 
+### [Elbing~Ostpreussen.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Elbing~Ostpreussen.private.md) 
 
-### [Elbing~Ostpreussen.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityElbing~Ostpreussen.secret.md)
+### [Elbing~Ostpreussen.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Elbing~Ostpreussen.personal.md) 
+
+### [Elbing~Ostpreussen.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Elbing~Ostpreussen.secret.md)
 

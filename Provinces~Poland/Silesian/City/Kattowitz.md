@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kattowitz.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityKattowitz.public.md) 
+### [Kattowitz](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Kattowitz.md) 
 
-### [Kattowitz.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityKattowitz.internal.md) 
+### [Kattowitz.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Kattowitz.public.md) 
 
-### [Kattowitz.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityKattowitz.protect.md) 
+### [Kattowitz.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Kattowitz.internal.md) 
 
-### [Kattowitz.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityKattowitz.private.md) 
+### [Kattowitz.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Kattowitz.protect.md) 
 
-### [Kattowitz.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityKattowitz.personal.md) 
+### [Kattowitz.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Kattowitz.private.md) 
 
-### [Kattowitz.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityKattowitz.secret.md)
+### [Kattowitz.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Kattowitz.personal.md) 
+
+### [Kattowitz.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Kattowitz.secret.md)
 

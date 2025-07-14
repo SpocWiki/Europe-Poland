@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Plock.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Masovian\CityPlock.public.md) 
+### [Plock](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/City/Plock.md) 
 
-### [Plock.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Masovian\CityPlock.internal.md) 
+### [Plock.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/City/Plock.public.md) 
 
-### [Plock.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Masovian\CityPlock.protect.md) 
+### [Plock.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/City/Plock.internal.md) 
 
-### [Plock.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Masovian\CityPlock.private.md) 
+### [Plock.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/City/Plock.protect.md) 
 
-### [Plock.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Masovian\CityPlock.personal.md) 
+### [Plock.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/City/Plock.private.md) 
 
-### [Plock.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Masovian\CityPlock.secret.md)
+### [Plock.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/City/Plock.personal.md) 
+
+### [Plock.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/City/Plock.secret.md)
 

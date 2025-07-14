@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zembowitz.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityZembowitz.public.md) 
+### [Zembowitz](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Zembowitz.md) 
 
-### [Zembowitz.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityZembowitz.internal.md) 
+### [Zembowitz.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Zembowitz.public.md) 
 
-### [Zembowitz.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityZembowitz.protect.md) 
+### [Zembowitz.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Zembowitz.internal.md) 
 
-### [Zembowitz.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityZembowitz.private.md) 
+### [Zembowitz.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Zembowitz.protect.md) 
 
-### [Zembowitz.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityZembowitz.personal.md) 
+### [Zembowitz.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Zembowitz.private.md) 
 
-### [Zembowitz.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityZembowitz.secret.md)
+### [Zembowitz.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Zembowitz.personal.md) 
+
+### [Zembowitz.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Zembowitz.secret.md)
 

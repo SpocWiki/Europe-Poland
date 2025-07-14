@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Auschwitz=Oswiecim.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityAuschwitz=Oswiecim.public.md) 
+### [Auschwitz=Oswiecim](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Auschwitz=Oswiecim.md) 
 
-### [Auschwitz=Oswiecim.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityAuschwitz=Oswiecim.internal.md) 
+### [Auschwitz=Oswiecim.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Auschwitz=Oswiecim.public.md) 
 
-### [Auschwitz=Oswiecim.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityAuschwitz=Oswiecim.protect.md) 
+### [Auschwitz=Oswiecim.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Auschwitz=Oswiecim.internal.md) 
 
-### [Auschwitz=Oswiecim.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityAuschwitz=Oswiecim.private.md) 
+### [Auschwitz=Oswiecim.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Auschwitz=Oswiecim.protect.md) 
 
-### [Auschwitz=Oswiecim.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityAuschwitz=Oswiecim.personal.md) 
+### [Auschwitz=Oswiecim.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Auschwitz=Oswiecim.private.md) 
 
-### [Auschwitz=Oswiecim.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityAuschwitz=Oswiecim.secret.md)
+### [Auschwitz=Oswiecim.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Auschwitz=Oswiecim.personal.md) 
+
+### [Auschwitz=Oswiecim.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Auschwitz=Oswiecim.secret.md)
 

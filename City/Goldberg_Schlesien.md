@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Goldberg_Schlesien.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\CityGoldberg_Schlesien.public.md) 
+### [Goldberg_Schlesien](/_Standards/Earth/Continent/Europe/Europe~East/Poland/City/Goldberg_Schlesien.md) 
 
-### [Goldberg_Schlesien.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\CityGoldberg_Schlesien.internal.md) 
+### [Goldberg_Schlesien.public](/_public/Earth/Continent/Europe/Europe~East/Poland/City/Goldberg_Schlesien.public.md) 
 
-### [Goldberg_Schlesien.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\CityGoldberg_Schlesien.protect.md) 
+### [Goldberg_Schlesien.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/City/Goldberg_Schlesien.internal.md) 
 
-### [Goldberg_Schlesien.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\CityGoldberg_Schlesien.private.md) 
+### [Goldberg_Schlesien.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/City/Goldberg_Schlesien.protect.md) 
 
-### [Goldberg_Schlesien.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\CityGoldberg_Schlesien.personal.md) 
+### [Goldberg_Schlesien.private](/_private/Earth/Continent/Europe/Europe~East/Poland/City/Goldberg_Schlesien.private.md) 
 
-### [Goldberg_Schlesien.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\CityGoldberg_Schlesien.secret.md)
+### [Goldberg_Schlesien.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/City/Goldberg_Schlesien.personal.md) 
+
+### [Goldberg_Schlesien.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/City/Goldberg_Schlesien.secret.md)
 

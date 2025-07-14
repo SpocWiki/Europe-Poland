@@ -80,19 +80,19 @@ maxZoom: 18
 > [Wikipedia](https://en.wikipedia.org/wiki/Lublin)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Lublin~City.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lublin,Province\counties~Lubelskie\Lublin,County\cities~LublinLublin~City.public.md) 
+### [Lublin~City](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lublin,Province/counties~Lubelskie/Lublin,County/cities~Lublin/Lublin~City.md) 
 
-### [Lublin~City.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lublin,Province\counties~Lubelskie\Lublin,County\cities~LublinLublin~City.internal.md) 
+### [Lublin~City.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lublin,Province/counties~Lubelskie/Lublin,County/cities~Lublin/Lublin~City.public.md) 
 
-### [Lublin~City.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lublin,Province\counties~Lubelskie\Lublin,County\cities~LublinLublin~City.protect.md) 
+### [Lublin~City.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lublin,Province/counties~Lubelskie/Lublin,County/cities~Lublin/Lublin~City.internal.md) 
 
-### [Lublin~City.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lublin,Province\counties~Lubelskie\Lublin,County\cities~LublinLublin~City.private.md) 
+### [Lublin~City.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lublin,Province/counties~Lubelskie/Lublin,County/cities~Lublin/Lublin~City.protect.md) 
 
-### [Lublin~City.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lublin,Province\counties~Lubelskie\Lublin,County\cities~LublinLublin~City.personal.md) 
+### [Lublin~City.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lublin,Province/counties~Lubelskie/Lublin,County/cities~Lublin/Lublin~City.private.md) 
 
-### [Lublin~City.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lublin,Province\counties~Lubelskie\Lublin,County\cities~LublinLublin~City.secret.md)
+### [Lublin~City.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lublin,Province/counties~Lubelskie/Lublin,County/cities~Lublin/Lublin~City.personal.md) 
+
+### [Lublin~City.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lublin,Province/counties~Lubelskie/Lublin,County/cities~Lublin/Lublin~City.secret.md)
 

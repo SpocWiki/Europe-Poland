@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kosel~Oberschlesien.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityKosel~Oberschlesien.public.md) 
+### [Kosel~Oberschlesien](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Kosel~Oberschlesien.md) 
 
-### [Kosel~Oberschlesien.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityKosel~Oberschlesien.internal.md) 
+### [Kosel~Oberschlesien.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Kosel~Oberschlesien.public.md) 
 
-### [Kosel~Oberschlesien.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityKosel~Oberschlesien.protect.md) 
+### [Kosel~Oberschlesien.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Kosel~Oberschlesien.internal.md) 
 
-### [Kosel~Oberschlesien.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityKosel~Oberschlesien.private.md) 
+### [Kosel~Oberschlesien.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Kosel~Oberschlesien.protect.md) 
 
-### [Kosel~Oberschlesien.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityKosel~Oberschlesien.personal.md) 
+### [Kosel~Oberschlesien.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Kosel~Oberschlesien.private.md) 
 
-### [Kosel~Oberschlesien.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityKosel~Oberschlesien.secret.md)
+### [Kosel~Oberschlesien.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Kosel~Oberschlesien.personal.md) 
+
+### [Kosel~Oberschlesien.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Kosel~Oberschlesien.secret.md)
 

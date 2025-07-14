@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Finkenwalde.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityFinkenwalde.public.md) 
+### [Finkenwalde](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Finkenwalde.md) 
 
-### [Finkenwalde.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityFinkenwalde.internal.md) 
+### [Finkenwalde.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Finkenwalde.public.md) 
 
-### [Finkenwalde.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityFinkenwalde.protect.md) 
+### [Finkenwalde.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Finkenwalde.internal.md) 
 
-### [Finkenwalde.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityFinkenwalde.private.md) 
+### [Finkenwalde.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Finkenwalde.protect.md) 
 
-### [Finkenwalde.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityFinkenwalde.personal.md) 
+### [Finkenwalde.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Finkenwalde.private.md) 
 
-### [Finkenwalde.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityFinkenwalde.secret.md)
+### [Finkenwalde.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Finkenwalde.personal.md) 
+
+### [Finkenwalde.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Finkenwalde.secret.md)
 

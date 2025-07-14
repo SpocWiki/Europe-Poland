@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tiegenort.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\CityTiegenort.public.md) 
+### [Tiegenort](/_Standards/Earth/Continent/Europe/Europe~East/Poland/City/Tiegenort.md) 
 
-### [Tiegenort.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\CityTiegenort.internal.md) 
+### [Tiegenort.public](/_public/Earth/Continent/Europe/Europe~East/Poland/City/Tiegenort.public.md) 
 
-### [Tiegenort.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\CityTiegenort.protect.md) 
+### [Tiegenort.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/City/Tiegenort.internal.md) 
 
-### [Tiegenort.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\CityTiegenort.private.md) 
+### [Tiegenort.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/City/Tiegenort.protect.md) 
 
-### [Tiegenort.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\CityTiegenort.personal.md) 
+### [Tiegenort.private](/_private/Earth/Continent/Europe/Europe~East/Poland/City/Tiegenort.private.md) 
 
-### [Tiegenort.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\CityTiegenort.secret.md)
+### [Tiegenort.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/City/Tiegenort.personal.md) 
+
+### [Tiegenort.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/City/Tiegenort.secret.md)
 

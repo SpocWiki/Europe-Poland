@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bialystock.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Podlachian\CityBialystock.public.md) 
+### [Bialystock](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Podlachian/City/Bialystock.md) 
 
-### [Bialystock.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Podlachian\CityBialystock.internal.md) 
+### [Bialystock.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Podlachian/City/Bialystock.public.md) 
 
-### [Bialystock.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Podlachian\CityBialystock.protect.md) 
+### [Bialystock.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Podlachian/City/Bialystock.internal.md) 
 
-### [Bialystock.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Podlachian\CityBialystock.private.md) 
+### [Bialystock.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Podlachian/City/Bialystock.protect.md) 
 
-### [Bialystock.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Podlachian\CityBialystock.personal.md) 
+### [Bialystock.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Podlachian/City/Bialystock.private.md) 
 
-### [Bialystock.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Podlachian\CityBialystock.secret.md)
+### [Bialystock.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Podlachian/City/Bialystock.personal.md) 
+
+### [Bialystock.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Podlachian/City/Bialystock.secret.md)
 

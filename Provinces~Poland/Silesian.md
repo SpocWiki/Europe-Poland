@@ -42,15 +42,17 @@ markerFolder: ./Silesian/
 
 ## Confidential Links & Embeds: 
 
-### [Silesian.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandSilesian.public.md) 
+### [Silesian](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian.md) 
 
-### [Silesian.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandSilesian.internal.md) 
+### [Silesian.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian.public.md) 
 
-### [Silesian.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandSilesian.protect.md) 
+### [Silesian.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian.internal.md) 
 
-### [Silesian.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandSilesian.private.md) 
+### [Silesian.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian.protect.md) 
 
-### [Silesian.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandSilesian.personal.md) 
+### [Silesian.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian.private.md) 
 
-### [Silesian.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandSilesian.secret.md)
+### [Silesian.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian.personal.md) 
+
+### [Silesian.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian.secret.md)
 

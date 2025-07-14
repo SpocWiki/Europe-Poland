@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rummelsburg.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityRummelsburg.public.md) 
+### [Rummelsburg](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Rummelsburg.md) 
 
-### [Rummelsburg.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityRummelsburg.internal.md) 
+### [Rummelsburg.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Rummelsburg.public.md) 
 
-### [Rummelsburg.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityRummelsburg.protect.md) 
+### [Rummelsburg.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Rummelsburg.internal.md) 
 
-### [Rummelsburg.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityRummelsburg.private.md) 
+### [Rummelsburg.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Rummelsburg.protect.md) 
 
-### [Rummelsburg.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityRummelsburg.personal.md) 
+### [Rummelsburg.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Rummelsburg.private.md) 
 
-### [Rummelsburg.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityRummelsburg.secret.md)
+### [Rummelsburg.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Rummelsburg.personal.md) 
+
+### [Rummelsburg.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Rummelsburg.secret.md)
 

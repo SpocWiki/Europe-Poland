@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rosenberg~Westpommern.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityRosenberg~Westpommern.public.md) 
+### [Rosenberg~Westpommern](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Rosenberg~Westpommern.md) 
 
-### [Rosenberg~Westpommern.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityRosenberg~Westpommern.internal.md) 
+### [Rosenberg~Westpommern.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Rosenberg~Westpommern.public.md) 
 
-### [Rosenberg~Westpommern.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityRosenberg~Westpommern.protect.md) 
+### [Rosenberg~Westpommern.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Rosenberg~Westpommern.internal.md) 
 
-### [Rosenberg~Westpommern.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityRosenberg~Westpommern.private.md) 
+### [Rosenberg~Westpommern.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Rosenberg~Westpommern.protect.md) 
 
-### [Rosenberg~Westpommern.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityRosenberg~Westpommern.personal.md) 
+### [Rosenberg~Westpommern.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Rosenberg~Westpommern.private.md) 
 
-### [Rosenberg~Westpommern.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityRosenberg~Westpommern.secret.md)
+### [Rosenberg~Westpommern.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Rosenberg~Westpommern.personal.md) 
+
+### [Rosenberg~Westpommern.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Rosenberg~Westpommern.secret.md)
 

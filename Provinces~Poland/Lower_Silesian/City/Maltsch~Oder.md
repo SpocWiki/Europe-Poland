@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Maltsch~Oder.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityMaltsch~Oder.public.md) 
+### [Maltsch~Oder](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Maltsch~Oder.md) 
 
-### [Maltsch~Oder.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityMaltsch~Oder.internal.md) 
+### [Maltsch~Oder.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Maltsch~Oder.public.md) 
 
-### [Maltsch~Oder.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityMaltsch~Oder.protect.md) 
+### [Maltsch~Oder.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Maltsch~Oder.internal.md) 
 
-### [Maltsch~Oder.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityMaltsch~Oder.private.md) 
+### [Maltsch~Oder.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Maltsch~Oder.protect.md) 
 
-### [Maltsch~Oder.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityMaltsch~Oder.personal.md) 
+### [Maltsch~Oder.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Maltsch~Oder.private.md) 
 
-### [Maltsch~Oder.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityMaltsch~Oder.secret.md)
+### [Maltsch~Oder.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Maltsch~Oder.personal.md) 
+
+### [Maltsch~Oder.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Maltsch~Oder.secret.md)
 

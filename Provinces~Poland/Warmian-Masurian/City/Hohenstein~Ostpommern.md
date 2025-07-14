@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hohenstein~Ostpommern.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityHohenstein~Ostpommern.public.md) 
+### [Hohenstein~Ostpommern](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Hohenstein~Ostpommern.md) 
 
-### [Hohenstein~Ostpommern.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityHohenstein~Ostpommern.internal.md) 
+### [Hohenstein~Ostpommern.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Hohenstein~Ostpommern.public.md) 
 
-### [Hohenstein~Ostpommern.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityHohenstein~Ostpommern.protect.md) 
+### [Hohenstein~Ostpommern.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Hohenstein~Ostpommern.internal.md) 
 
-### [Hohenstein~Ostpommern.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityHohenstein~Ostpommern.private.md) 
+### [Hohenstein~Ostpommern.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Hohenstein~Ostpommern.protect.md) 
 
-### [Hohenstein~Ostpommern.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityHohenstein~Ostpommern.personal.md) 
+### [Hohenstein~Ostpommern.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Hohenstein~Ostpommern.private.md) 
 
-### [Hohenstein~Ostpommern.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityHohenstein~Ostpommern.secret.md)
+### [Hohenstein~Ostpommern.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Hohenstein~Ostpommern.personal.md) 
+
+### [Hohenstein~Ostpommern.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Hohenstein~Ostpommern.secret.md)
 

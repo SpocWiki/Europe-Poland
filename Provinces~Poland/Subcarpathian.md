@@ -41,15 +41,17 @@ markerFolder: ./Subcarpathian/
 
 ## Confidential Links & Embeds: 
 
-### [Subcarpathian.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandSubcarpathian.public.md) 
+### [Subcarpathian](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Subcarpathian.md) 
 
-### [Subcarpathian.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandSubcarpathian.internal.md) 
+### [Subcarpathian.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Subcarpathian.public.md) 
 
-### [Subcarpathian.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandSubcarpathian.protect.md) 
+### [Subcarpathian.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Subcarpathian.internal.md) 
 
-### [Subcarpathian.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandSubcarpathian.private.md) 
+### [Subcarpathian.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Subcarpathian.protect.md) 
 
-### [Subcarpathian.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandSubcarpathian.personal.md) 
+### [Subcarpathian.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Subcarpathian.private.md) 
 
-### [Subcarpathian.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandSubcarpathian.secret.md)
+### [Subcarpathian.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Subcarpathian.personal.md) 
+
+### [Subcarpathian.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Subcarpathian.secret.md)
 

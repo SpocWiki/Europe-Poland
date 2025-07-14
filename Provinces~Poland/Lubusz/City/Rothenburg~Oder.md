@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rothenburg~Oder.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityRothenburg~Oder.public.md) 
+### [Rothenburg~Oder](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Rothenburg~Oder.md) 
 
-### [Rothenburg~Oder.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityRothenburg~Oder.internal.md) 
+### [Rothenburg~Oder.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Rothenburg~Oder.public.md) 
 
-### [Rothenburg~Oder.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityRothenburg~Oder.protect.md) 
+### [Rothenburg~Oder.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Rothenburg~Oder.internal.md) 
 
-### [Rothenburg~Oder.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityRothenburg~Oder.private.md) 
+### [Rothenburg~Oder.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Rothenburg~Oder.protect.md) 
 
-### [Rothenburg~Oder.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityRothenburg~Oder.personal.md) 
+### [Rothenburg~Oder.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Rothenburg~Oder.private.md) 
 
-### [Rothenburg~Oder.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityRothenburg~Oder.secret.md)
+### [Rothenburg~Oder.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Rothenburg~Oder.personal.md) 
+
+### [Rothenburg~Oder.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Rothenburg~Oder.secret.md)
 

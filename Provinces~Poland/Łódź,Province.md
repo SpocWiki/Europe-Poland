@@ -44,15 +44,17 @@ markerFolder: ./Łódź/
 
 ## Confidential Links & Embeds: 
 
-### [Łódź,Province.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandŁódź,Province.public.md) 
+### [Łódź,Province](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province.md) 
 
-### [Łódź,Province.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandŁódź,Province.internal.md) 
+### [Łódź,Province.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province.public.md) 
 
-### [Łódź,Province.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandŁódź,Province.protect.md) 
+### [Łódź,Province.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province.internal.md) 
 
-### [Łódź,Province.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandŁódź,Province.private.md) 
+### [Łódź,Province.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province.protect.md) 
 
-### [Łódź,Province.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandŁódź,Province.personal.md) 
+### [Łódź,Province.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province.private.md) 
 
-### [Łódź,Province.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandŁódź,Province.secret.md)
+### [Łódź,Province.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province.personal.md) 
+
+### [Łódź,Province.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Koenigsberg~Neumark.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityKoenigsberg~Neumark.public.md) 
+### [Koenigsberg~Neumark](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Koenigsberg~Neumark.md) 
 
-### [Koenigsberg~Neumark.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityKoenigsberg~Neumark.internal.md) 
+### [Koenigsberg~Neumark.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Koenigsberg~Neumark.public.md) 
 
-### [Koenigsberg~Neumark.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityKoenigsberg~Neumark.protect.md) 
+### [Koenigsberg~Neumark.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Koenigsberg~Neumark.internal.md) 
 
-### [Koenigsberg~Neumark.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityKoenigsberg~Neumark.private.md) 
+### [Koenigsberg~Neumark.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Koenigsberg~Neumark.protect.md) 
 
-### [Koenigsberg~Neumark.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityKoenigsberg~Neumark.personal.md) 
+### [Koenigsberg~Neumark.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Koenigsberg~Neumark.private.md) 
 
-### [Koenigsberg~Neumark.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityKoenigsberg~Neumark.secret.md)
+### [Koenigsberg~Neumark.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Koenigsberg~Neumark.personal.md) 
+
+### [Koenigsberg~Neumark.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Koenigsberg~Neumark.secret.md)
 

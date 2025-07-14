@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Weichselmuende.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\CityWeichselmuende.public.md) 
+### [Weichselmuende](/_Standards/Earth/Continent/Europe/Europe~East/Poland/City/Weichselmuende.md) 
 
-### [Weichselmuende.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\CityWeichselmuende.internal.md) 
+### [Weichselmuende.public](/_public/Earth/Continent/Europe/Europe~East/Poland/City/Weichselmuende.public.md) 
 
-### [Weichselmuende.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\CityWeichselmuende.protect.md) 
+### [Weichselmuende.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/City/Weichselmuende.internal.md) 
 
-### [Weichselmuende.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\CityWeichselmuende.private.md) 
+### [Weichselmuende.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/City/Weichselmuende.protect.md) 
 
-### [Weichselmuende.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\CityWeichselmuende.personal.md) 
+### [Weichselmuende.private](/_private/Earth/Continent/Europe/Europe~East/Poland/City/Weichselmuende.private.md) 
 
-### [Weichselmuende.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\CityWeichselmuende.secret.md)
+### [Weichselmuende.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/City/Weichselmuende.personal.md) 
+
+### [Weichselmuende.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/City/Weichselmuende.secret.md)
 

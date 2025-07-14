@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Piotrkow.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Łódź,Province\counties~Łódzkie\Piotrków\cities~PiotrkówPiotrkow.public.md) 
+### [Piotrkow](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province/counties~Łódzkie/Piotrków/cities~Piotrków/Piotrkow.md) 
 
-### [Piotrkow.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Łódź,Province\counties~Łódzkie\Piotrków\cities~PiotrkówPiotrkow.internal.md) 
+### [Piotrkow.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province/counties~Łódzkie/Piotrków/cities~Piotrków/Piotrkow.public.md) 
 
-### [Piotrkow.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Łódź,Province\counties~Łódzkie\Piotrków\cities~PiotrkówPiotrkow.protect.md) 
+### [Piotrkow.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province/counties~Łódzkie/Piotrków/cities~Piotrków/Piotrkow.internal.md) 
 
-### [Piotrkow.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Łódź,Province\counties~Łódzkie\Piotrków\cities~PiotrkówPiotrkow.private.md) 
+### [Piotrkow.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province/counties~Łódzkie/Piotrków/cities~Piotrków/Piotrkow.protect.md) 
 
-### [Piotrkow.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Łódź,Province\counties~Łódzkie\Piotrków\cities~PiotrkówPiotrkow.personal.md) 
+### [Piotrkow.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province/counties~Łódzkie/Piotrków/cities~Piotrków/Piotrkow.private.md) 
 
-### [Piotrkow.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Łódź,Province\counties~Łódzkie\Piotrków\cities~PiotrkówPiotrkow.secret.md)
+### [Piotrkow.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province/counties~Łódzkie/Piotrków/cities~Piotrków/Piotrkow.personal.md) 
+
+### [Piotrkow.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province/counties~Łódzkie/Piotrków/cities~Piotrków/Piotrkow.secret.md)
 

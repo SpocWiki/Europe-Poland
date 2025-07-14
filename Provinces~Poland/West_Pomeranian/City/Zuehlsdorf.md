@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zuehlsdorf.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityZuehlsdorf.public.md) 
+### [Zuehlsdorf](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Zuehlsdorf.md) 
 
-### [Zuehlsdorf.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityZuehlsdorf.internal.md) 
+### [Zuehlsdorf.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Zuehlsdorf.public.md) 
 
-### [Zuehlsdorf.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityZuehlsdorf.protect.md) 
+### [Zuehlsdorf.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Zuehlsdorf.internal.md) 
 
-### [Zuehlsdorf.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityZuehlsdorf.private.md) 
+### [Zuehlsdorf.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Zuehlsdorf.protect.md) 
 
-### [Zuehlsdorf.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityZuehlsdorf.personal.md) 
+### [Zuehlsdorf.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Zuehlsdorf.private.md) 
 
-### [Zuehlsdorf.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityZuehlsdorf.secret.md)
+### [Zuehlsdorf.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Zuehlsdorf.personal.md) 
+
+### [Zuehlsdorf.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Zuehlsdorf.secret.md)
 

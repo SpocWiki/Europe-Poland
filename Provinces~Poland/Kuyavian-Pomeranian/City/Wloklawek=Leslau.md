@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wloklawek=Leslau.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityWloklawek=Leslau.public.md) 
+### [Wloklawek=Leslau](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Wloklawek=Leslau.md) 
 
-### [Wloklawek=Leslau.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityWloklawek=Leslau.internal.md) 
+### [Wloklawek=Leslau.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Wloklawek=Leslau.public.md) 
 
-### [Wloklawek=Leslau.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityWloklawek=Leslau.protect.md) 
+### [Wloklawek=Leslau.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Wloklawek=Leslau.internal.md) 
 
-### [Wloklawek=Leslau.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityWloklawek=Leslau.private.md) 
+### [Wloklawek=Leslau.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Wloklawek=Leslau.protect.md) 
 
-### [Wloklawek=Leslau.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityWloklawek=Leslau.personal.md) 
+### [Wloklawek=Leslau.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Wloklawek=Leslau.private.md) 
 
-### [Wloklawek=Leslau.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityWloklawek=Leslau.secret.md)
+### [Wloklawek=Leslau.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Wloklawek=Leslau.personal.md) 
+
+### [Wloklawek=Leslau.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Wloklawek=Leslau.secret.md)
 

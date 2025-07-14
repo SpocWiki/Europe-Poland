@@ -69,15 +69,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kraków.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityKraków.public.md) 
+### [Kraków](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Kraków.md) 
 
-### [Kraków.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityKraków.internal.md) 
+### [Kraków.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Kraków.public.md) 
 
-### [Kraków.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityKraków.protect.md) 
+### [Kraków.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Kraków.internal.md) 
 
-### [Kraków.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityKraków.private.md) 
+### [Kraków.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Kraków.protect.md) 
 
-### [Kraków.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityKraków.personal.md) 
+### [Kraków.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Kraków.private.md) 
 
-### [Kraków.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityKraków.secret.md)
+### [Kraków.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Kraków.personal.md) 
+
+### [Kraków.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Kraków.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rudoltowitz.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityRudoltowitz.public.md) 
+### [Rudoltowitz](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Rudoltowitz.md) 
 
-### [Rudoltowitz.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityRudoltowitz.internal.md) 
+### [Rudoltowitz.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Rudoltowitz.public.md) 
 
-### [Rudoltowitz.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityRudoltowitz.protect.md) 
+### [Rudoltowitz.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Rudoltowitz.internal.md) 
 
-### [Rudoltowitz.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityRudoltowitz.private.md) 
+### [Rudoltowitz.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Rudoltowitz.protect.md) 
 
-### [Rudoltowitz.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityRudoltowitz.personal.md) 
+### [Rudoltowitz.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Rudoltowitz.private.md) 
 
-### [Rudoltowitz.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityRudoltowitz.secret.md)
+### [Rudoltowitz.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Rudoltowitz.personal.md) 
+
+### [Rudoltowitz.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Rudoltowitz.secret.md)
 

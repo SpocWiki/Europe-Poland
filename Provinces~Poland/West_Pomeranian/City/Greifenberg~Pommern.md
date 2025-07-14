@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Greifenberg~Pommern.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityGreifenberg~Pommern.public.md) 
+### [Greifenberg~Pommern](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Greifenberg~Pommern.md) 
 
-### [Greifenberg~Pommern.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityGreifenberg~Pommern.internal.md) 
+### [Greifenberg~Pommern.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Greifenberg~Pommern.public.md) 
 
-### [Greifenberg~Pommern.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityGreifenberg~Pommern.protect.md) 
+### [Greifenberg~Pommern.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Greifenberg~Pommern.internal.md) 
 
-### [Greifenberg~Pommern.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityGreifenberg~Pommern.private.md) 
+### [Greifenberg~Pommern.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Greifenberg~Pommern.protect.md) 
 
-### [Greifenberg~Pommern.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityGreifenberg~Pommern.personal.md) 
+### [Greifenberg~Pommern.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Greifenberg~Pommern.private.md) 
 
-### [Greifenberg~Pommern.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityGreifenberg~Pommern.secret.md)
+### [Greifenberg~Pommern.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Greifenberg~Pommern.personal.md) 
+
+### [Greifenberg~Pommern.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Greifenberg~Pommern.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Centnerbrunn.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityCentnerbrunn.public.md) 
+### [Centnerbrunn](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Centnerbrunn.md) 
 
-### [Centnerbrunn.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityCentnerbrunn.internal.md) 
+### [Centnerbrunn.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Centnerbrunn.public.md) 
 
-### [Centnerbrunn.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityCentnerbrunn.protect.md) 
+### [Centnerbrunn.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Centnerbrunn.internal.md) 
 
-### [Centnerbrunn.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityCentnerbrunn.private.md) 
+### [Centnerbrunn.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Centnerbrunn.protect.md) 
 
-### [Centnerbrunn.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityCentnerbrunn.personal.md) 
+### [Centnerbrunn.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Centnerbrunn.private.md) 
 
-### [Centnerbrunn.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityCentnerbrunn.secret.md)
+### [Centnerbrunn.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Centnerbrunn.personal.md) 
+
+### [Centnerbrunn.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Centnerbrunn.secret.md)
 

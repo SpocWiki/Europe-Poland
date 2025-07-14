@@ -42,15 +42,17 @@ markerFolder: ./Greater_Poland/
 
 ## Confidential Links & Embeds: 
 
-### [Greater_Poland.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandGreater_Poland.public.md) 
+### [Greater_Poland](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland.md) 
 
-### [Greater_Poland.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandGreater_Poland.internal.md) 
+### [Greater_Poland.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland.public.md) 
 
-### [Greater_Poland.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandGreater_Poland.protect.md) 
+### [Greater_Poland.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland.internal.md) 
 
-### [Greater_Poland.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandGreater_Poland.private.md) 
+### [Greater_Poland.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland.protect.md) 
 
-### [Greater_Poland.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandGreater_Poland.personal.md) 
+### [Greater_Poland.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland.private.md) 
 
-### [Greater_Poland.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandGreater_Poland.secret.md)
+### [Greater_Poland.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland.personal.md) 
+
+### [Greater_Poland.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland.secret.md)
 

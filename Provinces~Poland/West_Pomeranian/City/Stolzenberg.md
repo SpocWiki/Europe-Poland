@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Stolzenberg.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityStolzenberg.public.md) 
+### [Stolzenberg](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Stolzenberg.md) 
 
-### [Stolzenberg.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityStolzenberg.internal.md) 
+### [Stolzenberg.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Stolzenberg.public.md) 
 
-### [Stolzenberg.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityStolzenberg.protect.md) 
+### [Stolzenberg.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Stolzenberg.internal.md) 
 
-### [Stolzenberg.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityStolzenberg.private.md) 
+### [Stolzenberg.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Stolzenberg.protect.md) 
 
-### [Stolzenberg.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityStolzenberg.personal.md) 
+### [Stolzenberg.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Stolzenberg.private.md) 
 
-### [Stolzenberg.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityStolzenberg.secret.md)
+### [Stolzenberg.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Stolzenberg.personal.md) 
+
+### [Stolzenberg.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Stolzenberg.secret.md)
 

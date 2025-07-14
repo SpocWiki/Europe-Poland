@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Freystadt_Schlesien.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\CityFreystadt_Schlesien.public.md) 
+### [Freystadt_Schlesien](/_Standards/Earth/Continent/Europe/Europe~East/Poland/City/Freystadt_Schlesien.md) 
 
-### [Freystadt_Schlesien.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\CityFreystadt_Schlesien.internal.md) 
+### [Freystadt_Schlesien.public](/_public/Earth/Continent/Europe/Europe~East/Poland/City/Freystadt_Schlesien.public.md) 
 
-### [Freystadt_Schlesien.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\CityFreystadt_Schlesien.protect.md) 
+### [Freystadt_Schlesien.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/City/Freystadt_Schlesien.internal.md) 
 
-### [Freystadt_Schlesien.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\CityFreystadt_Schlesien.private.md) 
+### [Freystadt_Schlesien.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/City/Freystadt_Schlesien.protect.md) 
 
-### [Freystadt_Schlesien.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\CityFreystadt_Schlesien.personal.md) 
+### [Freystadt_Schlesien.private](/_private/Earth/Continent/Europe/Europe~East/Poland/City/Freystadt_Schlesien.private.md) 
 
-### [Freystadt_Schlesien.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\CityFreystadt_Schlesien.secret.md)
+### [Freystadt_Schlesien.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/City/Freystadt_Schlesien.personal.md) 
+
+### [Freystadt_Schlesien.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/City/Freystadt_Schlesien.secret.md)
 

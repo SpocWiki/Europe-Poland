@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ober-Leschen.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityOber-Leschen.public.md) 
+### [Ober-Leschen](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Ober-Leschen.md) 
 
-### [Ober-Leschen.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityOber-Leschen.internal.md) 
+### [Ober-Leschen.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Ober-Leschen.public.md) 
 
-### [Ober-Leschen.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityOber-Leschen.protect.md) 
+### [Ober-Leschen.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Ober-Leschen.internal.md) 
 
-### [Ober-Leschen.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityOber-Leschen.private.md) 
+### [Ober-Leschen.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Ober-Leschen.protect.md) 
 
-### [Ober-Leschen.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityOber-Leschen.personal.md) 
+### [Ober-Leschen.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Ober-Leschen.private.md) 
 
-### [Ober-Leschen.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityOber-Leschen.secret.md)
+### [Ober-Leschen.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Ober-Leschen.personal.md) 
+
+### [Ober-Leschen.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Ober-Leschen.secret.md)
 

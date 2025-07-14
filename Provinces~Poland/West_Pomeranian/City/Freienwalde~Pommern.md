@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Freienwalde~Pommern.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityFreienwalde~Pommern.public.md) 
+### [Freienwalde~Pommern](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Freienwalde~Pommern.md) 
 
-### [Freienwalde~Pommern.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityFreienwalde~Pommern.internal.md) 
+### [Freienwalde~Pommern.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Freienwalde~Pommern.public.md) 
 
-### [Freienwalde~Pommern.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityFreienwalde~Pommern.protect.md) 
+### [Freienwalde~Pommern.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Freienwalde~Pommern.internal.md) 
 
-### [Freienwalde~Pommern.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityFreienwalde~Pommern.private.md) 
+### [Freienwalde~Pommern.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Freienwalde~Pommern.protect.md) 
 
-### [Freienwalde~Pommern.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityFreienwalde~Pommern.personal.md) 
+### [Freienwalde~Pommern.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Freienwalde~Pommern.private.md) 
 
-### [Freienwalde~Pommern.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityFreienwalde~Pommern.secret.md)
+### [Freienwalde~Pommern.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Freienwalde~Pommern.personal.md) 
+
+### [Freienwalde~Pommern.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Freienwalde~Pommern.secret.md)
 

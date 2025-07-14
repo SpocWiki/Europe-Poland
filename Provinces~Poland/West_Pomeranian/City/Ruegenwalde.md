@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ruegenwalde.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityRuegenwalde.public.md) 
+### [Ruegenwalde](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Ruegenwalde.md) 
 
-### [Ruegenwalde.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityRuegenwalde.internal.md) 
+### [Ruegenwalde.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Ruegenwalde.public.md) 
 
-### [Ruegenwalde.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityRuegenwalde.protect.md) 
+### [Ruegenwalde.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Ruegenwalde.internal.md) 
 
-### [Ruegenwalde.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityRuegenwalde.private.md) 
+### [Ruegenwalde.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Ruegenwalde.protect.md) 
 
-### [Ruegenwalde.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityRuegenwalde.personal.md) 
+### [Ruegenwalde.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Ruegenwalde.private.md) 
 
-### [Ruegenwalde.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityRuegenwalde.secret.md)
+### [Ruegenwalde.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Ruegenwalde.personal.md) 
+
+### [Ruegenwalde.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Ruegenwalde.secret.md)
 

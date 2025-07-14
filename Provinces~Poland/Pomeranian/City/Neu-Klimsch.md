@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Neu-Klimsch.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNeu-Klimsch.public.md) 
+### [Neu-Klimsch](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Neu-Klimsch.md) 
 
-### [Neu-Klimsch.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNeu-Klimsch.internal.md) 
+### [Neu-Klimsch.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Neu-Klimsch.public.md) 
 
-### [Neu-Klimsch.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNeu-Klimsch.protect.md) 
+### [Neu-Klimsch.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Neu-Klimsch.internal.md) 
 
-### [Neu-Klimsch.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNeu-Klimsch.private.md) 
+### [Neu-Klimsch.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Neu-Klimsch.protect.md) 
 
-### [Neu-Klimsch.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNeu-Klimsch.personal.md) 
+### [Neu-Klimsch.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Neu-Klimsch.private.md) 
 
-### [Neu-Klimsch.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNeu-Klimsch.secret.md)
+### [Neu-Klimsch.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Neu-Klimsch.personal.md) 
+
+### [Neu-Klimsch.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Neu-Klimsch.secret.md)
 

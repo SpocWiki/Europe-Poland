@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ober-Glogau.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityOber-Glogau.public.md) 
+### [Ober-Glogau](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Ober-Glogau.md) 
 
-### [Ober-Glogau.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityOber-Glogau.internal.md) 
+### [Ober-Glogau.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Ober-Glogau.public.md) 
 
-### [Ober-Glogau.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityOber-Glogau.protect.md) 
+### [Ober-Glogau.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Ober-Glogau.internal.md) 
 
-### [Ober-Glogau.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityOber-Glogau.private.md) 
+### [Ober-Glogau.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Ober-Glogau.protect.md) 
 
-### [Ober-Glogau.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityOber-Glogau.personal.md) 
+### [Ober-Glogau.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Ober-Glogau.private.md) 
 
-### [Ober-Glogau.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityOber-Glogau.secret.md)
+### [Ober-Glogau.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Ober-Glogau.personal.md) 
+
+### [Ober-Glogau.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Ober-Glogau.secret.md)
 

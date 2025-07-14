@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cieszyn.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityCieszyn.public.md) 
+### [Cieszyn](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Cieszyn.md) 
 
-### [Cieszyn.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityCieszyn.internal.md) 
+### [Cieszyn.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Cieszyn.public.md) 
 
-### [Cieszyn.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityCieszyn.protect.md) 
+### [Cieszyn.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Cieszyn.internal.md) 
 
-### [Cieszyn.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityCieszyn.private.md) 
+### [Cieszyn.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Cieszyn.protect.md) 
 
-### [Cieszyn.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityCieszyn.personal.md) 
+### [Cieszyn.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Cieszyn.private.md) 
 
-### [Cieszyn.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityCieszyn.secret.md)
+### [Cieszyn.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Cieszyn.personal.md) 
+
+### [Cieszyn.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Cieszyn.secret.md)
 

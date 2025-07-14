@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Beuthen_Oder.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\CityBeuthen_Oder.public.md) 
+### [Beuthen_Oder](/_Standards/Earth/Continent/Europe/Europe~East/Poland/City/Beuthen_Oder.md) 
 
-### [Beuthen_Oder.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\CityBeuthen_Oder.internal.md) 
+### [Beuthen_Oder.public](/_public/Earth/Continent/Europe/Europe~East/Poland/City/Beuthen_Oder.public.md) 
 
-### [Beuthen_Oder.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\CityBeuthen_Oder.protect.md) 
+### [Beuthen_Oder.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/City/Beuthen_Oder.internal.md) 
 
-### [Beuthen_Oder.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\CityBeuthen_Oder.private.md) 
+### [Beuthen_Oder.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/City/Beuthen_Oder.protect.md) 
 
-### [Beuthen_Oder.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\CityBeuthen_Oder.personal.md) 
+### [Beuthen_Oder.private](/_private/Earth/Continent/Europe/Europe~East/Poland/City/Beuthen_Oder.private.md) 
 
-### [Beuthen_Oder.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\CityBeuthen_Oder.secret.md)
+### [Beuthen_Oder.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/City/Beuthen_Oder.personal.md) 
+
+### [Beuthen_Oder.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/City/Beuthen_Oder.secret.md)
 

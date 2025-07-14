@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sanok.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Subcarpathian\CitySanok.public.md) 
+### [Sanok](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Subcarpathian/City/Sanok.md) 
 
-### [Sanok.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Subcarpathian\CitySanok.internal.md) 
+### [Sanok.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Subcarpathian/City/Sanok.public.md) 
 
-### [Sanok.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Subcarpathian\CitySanok.protect.md) 
+### [Sanok.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Subcarpathian/City/Sanok.internal.md) 
 
-### [Sanok.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Subcarpathian\CitySanok.private.md) 
+### [Sanok.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Subcarpathian/City/Sanok.protect.md) 
 
-### [Sanok.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Subcarpathian\CitySanok.personal.md) 
+### [Sanok.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Subcarpathian/City/Sanok.private.md) 
 
-### [Sanok.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Subcarpathian\CitySanok.secret.md)
+### [Sanok.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Subcarpathian/City/Sanok.personal.md) 
+
+### [Sanok.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Subcarpathian/City/Sanok.secret.md)
 

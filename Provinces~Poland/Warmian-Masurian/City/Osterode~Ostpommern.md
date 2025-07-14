@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Osterode~Ostpommern.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityOsterode~Ostpommern.public.md) 
+### [Osterode~Ostpommern](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Osterode~Ostpommern.md) 
 
-### [Osterode~Ostpommern.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityOsterode~Ostpommern.internal.md) 
+### [Osterode~Ostpommern.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Osterode~Ostpommern.public.md) 
 
-### [Osterode~Ostpommern.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityOsterode~Ostpommern.protect.md) 
+### [Osterode~Ostpommern.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Osterode~Ostpommern.internal.md) 
 
-### [Osterode~Ostpommern.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityOsterode~Ostpommern.private.md) 
+### [Osterode~Ostpommern.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Osterode~Ostpommern.protect.md) 
 
-### [Osterode~Ostpommern.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityOsterode~Ostpommern.personal.md) 
+### [Osterode~Ostpommern.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Osterode~Ostpommern.private.md) 
 
-### [Osterode~Ostpommern.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityOsterode~Ostpommern.secret.md)
+### [Osterode~Ostpommern.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Osterode~Ostpommern.personal.md) 
+
+### [Osterode~Ostpommern.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Osterode~Ostpommern.secret.md)
 

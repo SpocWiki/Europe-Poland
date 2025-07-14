@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wilkau~Westpommern.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityWilkau~Westpommern.public.md) 
+### [Wilkau~Westpommern](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Wilkau~Westpommern.md) 
 
-### [Wilkau~Westpommern.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityWilkau~Westpommern.internal.md) 
+### [Wilkau~Westpommern.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Wilkau~Westpommern.public.md) 
 
-### [Wilkau~Westpommern.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityWilkau~Westpommern.protect.md) 
+### [Wilkau~Westpommern.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Wilkau~Westpommern.internal.md) 
 
-### [Wilkau~Westpommern.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityWilkau~Westpommern.private.md) 
+### [Wilkau~Westpommern.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Wilkau~Westpommern.protect.md) 
 
-### [Wilkau~Westpommern.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityWilkau~Westpommern.personal.md) 
+### [Wilkau~Westpommern.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Wilkau~Westpommern.private.md) 
 
-### [Wilkau~Westpommern.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityWilkau~Westpommern.secret.md)
+### [Wilkau~Westpommern.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Wilkau~Westpommern.personal.md) 
+
+### [Wilkau~Westpommern.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Wilkau~Westpommern.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Josefsberg.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityJosefsberg.public.md) 
+### [Josefsberg](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Josefsberg.md) 
 
-### [Josefsberg.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityJosefsberg.internal.md) 
+### [Josefsberg.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Josefsberg.public.md) 
 
-### [Josefsberg.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityJosefsberg.protect.md) 
+### [Josefsberg.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Josefsberg.internal.md) 
 
-### [Josefsberg.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityJosefsberg.private.md) 
+### [Josefsberg.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Josefsberg.protect.md) 
 
-### [Josefsberg.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityJosefsberg.personal.md) 
+### [Josefsberg.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Josefsberg.private.md) 
 
-### [Josefsberg.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityJosefsberg.secret.md)
+### [Josefsberg.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Josefsberg.personal.md) 
+
+### [Josefsberg.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Josefsberg.secret.md)
 

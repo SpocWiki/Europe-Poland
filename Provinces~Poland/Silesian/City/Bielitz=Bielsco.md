@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bielitz=Bielsco.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityBielitz=Bielsco.public.md) 
+### [Bielitz=Bielsco](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Bielitz=Bielsco.md) 
 
-### [Bielitz=Bielsco.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityBielitz=Bielsco.internal.md) 
+### [Bielitz=Bielsco.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Bielitz=Bielsco.public.md) 
 
-### [Bielitz=Bielsco.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityBielitz=Bielsco.protect.md) 
+### [Bielitz=Bielsco.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Bielitz=Bielsco.internal.md) 
 
-### [Bielitz=Bielsco.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityBielitz=Bielsco.private.md) 
+### [Bielitz=Bielsco.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Bielitz=Bielsco.protect.md) 
 
-### [Bielitz=Bielsco.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityBielitz=Bielsco.personal.md) 
+### [Bielitz=Bielsco.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Bielitz=Bielsco.private.md) 
 
-### [Bielitz=Bielsco.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityBielitz=Bielsco.secret.md)
+### [Bielitz=Bielsco.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Bielitz=Bielsco.personal.md) 
+
+### [Bielitz=Bielsco.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Bielitz=Bielsco.secret.md)
 

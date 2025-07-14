@@ -38,18 +38,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Warsaw)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Warszawa.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Masovian\counties~MazowieckieWarszawa.public.md) 
+### [Warszawa](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/counties~Mazowieckie/Warszawa.md) 
 
-### [Warszawa.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Masovian\counties~MazowieckieWarszawa.internal.md) 
+### [Warszawa.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/counties~Mazowieckie/Warszawa.public.md) 
 
-### [Warszawa.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Masovian\counties~MazowieckieWarszawa.protect.md) 
+### [Warszawa.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/counties~Mazowieckie/Warszawa.internal.md) 
 
-### [Warszawa.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Masovian\counties~MazowieckieWarszawa.private.md) 
+### [Warszawa.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/counties~Mazowieckie/Warszawa.protect.md) 
 
-### [Warszawa.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Masovian\counties~MazowieckieWarszawa.personal.md) 
+### [Warszawa.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/counties~Mazowieckie/Warszawa.private.md) 
 
-### [Warszawa.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Masovian\counties~MazowieckieWarszawa.secret.md)
+### [Warszawa.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/counties~Mazowieckie/Warszawa.personal.md) 
+
+### [Warszawa.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/counties~Mazowieckie/Warszawa.secret.md)
 

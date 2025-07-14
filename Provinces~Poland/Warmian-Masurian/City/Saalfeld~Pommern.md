@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Saalfeld~Pommern.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CitySaalfeld~Pommern.public.md) 
+### [Saalfeld~Pommern](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Saalfeld~Pommern.md) 
 
-### [Saalfeld~Pommern.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CitySaalfeld~Pommern.internal.md) 
+### [Saalfeld~Pommern.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Saalfeld~Pommern.public.md) 
 
-### [Saalfeld~Pommern.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CitySaalfeld~Pommern.protect.md) 
+### [Saalfeld~Pommern.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Saalfeld~Pommern.internal.md) 
 
-### [Saalfeld~Pommern.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CitySaalfeld~Pommern.private.md) 
+### [Saalfeld~Pommern.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Saalfeld~Pommern.protect.md) 
 
-### [Saalfeld~Pommern.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CitySaalfeld~Pommern.personal.md) 
+### [Saalfeld~Pommern.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Saalfeld~Pommern.private.md) 
 
-### [Saalfeld~Pommern.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CitySaalfeld~Pommern.secret.md)
+### [Saalfeld~Pommern.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Saalfeld~Pommern.personal.md) 
+
+### [Saalfeld~Pommern.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Saalfeld~Pommern.secret.md)
 

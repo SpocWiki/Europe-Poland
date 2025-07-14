@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Neusandetz=Newy_Sacz.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityNeusandetz=Newy_Sacz.public.md) 
+### [Neusandetz=Newy_Sacz](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Neusandetz=Newy_Sacz.md) 
 
-### [Neusandetz=Newy_Sacz.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityNeusandetz=Newy_Sacz.internal.md) 
+### [Neusandetz=Newy_Sacz.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Neusandetz=Newy_Sacz.public.md) 
 
-### [Neusandetz=Newy_Sacz.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityNeusandetz=Newy_Sacz.protect.md) 
+### [Neusandetz=Newy_Sacz.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Neusandetz=Newy_Sacz.internal.md) 
 
-### [Neusandetz=Newy_Sacz.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityNeusandetz=Newy_Sacz.private.md) 
+### [Neusandetz=Newy_Sacz.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Neusandetz=Newy_Sacz.protect.md) 
 
-### [Neusandetz=Newy_Sacz.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityNeusandetz=Newy_Sacz.personal.md) 
+### [Neusandetz=Newy_Sacz.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Neusandetz=Newy_Sacz.private.md) 
 
-### [Neusandetz=Newy_Sacz.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lesser_Poland\CityNeusandetz=Newy_Sacz.secret.md)
+### [Neusandetz=Newy_Sacz.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Neusandetz=Newy_Sacz.personal.md) 
+
+### [Neusandetz=Newy_Sacz.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Neusandetz=Newy_Sacz.secret.md)
 

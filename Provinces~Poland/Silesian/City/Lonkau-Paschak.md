@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lonkau-Paschak.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityLonkau-Paschak.public.md) 
+### [Lonkau-Paschak](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Lonkau-Paschak.md) 
 
-### [Lonkau-Paschak.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityLonkau-Paschak.internal.md) 
+### [Lonkau-Paschak.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Lonkau-Paschak.public.md) 
 
-### [Lonkau-Paschak.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityLonkau-Paschak.protect.md) 
+### [Lonkau-Paschak.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Lonkau-Paschak.internal.md) 
 
-### [Lonkau-Paschak.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityLonkau-Paschak.private.md) 
+### [Lonkau-Paschak.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Lonkau-Paschak.protect.md) 
 
-### [Lonkau-Paschak.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityLonkau-Paschak.personal.md) 
+### [Lonkau-Paschak.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Lonkau-Paschak.private.md) 
 
-### [Lonkau-Paschak.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityLonkau-Paschak.secret.md)
+### [Lonkau-Paschak.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Lonkau-Paschak.personal.md) 
+
+### [Lonkau-Paschak.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Lonkau-Paschak.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rosenberg~OberSchlesien.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityRosenberg~OberSchlesien.public.md) 
+### [Rosenberg~OberSchlesien](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Rosenberg~OberSchlesien.md) 
 
-### [Rosenberg~OberSchlesien.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityRosenberg~OberSchlesien.internal.md) 
+### [Rosenberg~OberSchlesien.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Rosenberg~OberSchlesien.public.md) 
 
-### [Rosenberg~OberSchlesien.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityRosenberg~OberSchlesien.protect.md) 
+### [Rosenberg~OberSchlesien.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Rosenberg~OberSchlesien.internal.md) 
 
-### [Rosenberg~OberSchlesien.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityRosenberg~OberSchlesien.private.md) 
+### [Rosenberg~OberSchlesien.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Rosenberg~OberSchlesien.protect.md) 
 
-### [Rosenberg~OberSchlesien.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityRosenberg~OberSchlesien.personal.md) 
+### [Rosenberg~OberSchlesien.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Rosenberg~OberSchlesien.private.md) 
 
-### [Rosenberg~OberSchlesien.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityRosenberg~OberSchlesien.secret.md)
+### [Rosenberg~OberSchlesien.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Rosenberg~OberSchlesien.personal.md) 
+
+### [Rosenberg~OberSchlesien.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Rosenberg~OberSchlesien.secret.md)
 

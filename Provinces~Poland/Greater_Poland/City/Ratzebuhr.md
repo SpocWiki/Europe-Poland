@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ratzebuhr.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityRatzebuhr.public.md) 
+### [Ratzebuhr](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Ratzebuhr.md) 
 
-### [Ratzebuhr.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityRatzebuhr.internal.md) 
+### [Ratzebuhr.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Ratzebuhr.public.md) 
 
-### [Ratzebuhr.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityRatzebuhr.protect.md) 
+### [Ratzebuhr.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Ratzebuhr.internal.md) 
 
-### [Ratzebuhr.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityRatzebuhr.private.md) 
+### [Ratzebuhr.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Ratzebuhr.protect.md) 
 
-### [Ratzebuhr.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityRatzebuhr.personal.md) 
+### [Ratzebuhr.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Ratzebuhr.private.md) 
 
-### [Ratzebuhr.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityRatzebuhr.secret.md)
+### [Ratzebuhr.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Ratzebuhr.personal.md) 
+
+### [Ratzebuhr.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Ratzebuhr.secret.md)
 

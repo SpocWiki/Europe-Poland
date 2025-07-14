@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Landsberg~Ostpommern.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityLandsberg~Ostpommern.public.md) 
+### [Landsberg~Ostpommern](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Landsberg~Ostpommern.md) 
 
-### [Landsberg~Ostpommern.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityLandsberg~Ostpommern.internal.md) 
+### [Landsberg~Ostpommern.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Landsberg~Ostpommern.public.md) 
 
-### [Landsberg~Ostpommern.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityLandsberg~Ostpommern.protect.md) 
+### [Landsberg~Ostpommern.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Landsberg~Ostpommern.internal.md) 
 
-### [Landsberg~Ostpommern.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityLandsberg~Ostpommern.private.md) 
+### [Landsberg~Ostpommern.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Landsberg~Ostpommern.protect.md) 
 
-### [Landsberg~Ostpommern.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityLandsberg~Ostpommern.personal.md) 
+### [Landsberg~Ostpommern.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Landsberg~Ostpommern.private.md) 
 
-### [Landsberg~Ostpommern.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityLandsberg~Ostpommern.secret.md)
+### [Landsberg~Ostpommern.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Landsberg~Ostpommern.personal.md) 
+
+### [Landsberg~Ostpommern.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Landsberg~Ostpommern.secret.md)
 

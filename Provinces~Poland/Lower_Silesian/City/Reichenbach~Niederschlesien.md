@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Reichenbach~Niederschlesien.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityReichenbach~Niederschlesien.public.md) 
+### [Reichenbach~Niederschlesien](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Reichenbach~Niederschlesien.md) 
 
-### [Reichenbach~Niederschlesien.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityReichenbach~Niederschlesien.internal.md) 
+### [Reichenbach~Niederschlesien.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Reichenbach~Niederschlesien.public.md) 
 
-### [Reichenbach~Niederschlesien.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityReichenbach~Niederschlesien.protect.md) 
+### [Reichenbach~Niederschlesien.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Reichenbach~Niederschlesien.internal.md) 
 
-### [Reichenbach~Niederschlesien.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityReichenbach~Niederschlesien.private.md) 
+### [Reichenbach~Niederschlesien.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Reichenbach~Niederschlesien.protect.md) 
 
-### [Reichenbach~Niederschlesien.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityReichenbach~Niederschlesien.personal.md) 
+### [Reichenbach~Niederschlesien.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Reichenbach~Niederschlesien.private.md) 
 
-### [Reichenbach~Niederschlesien.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityReichenbach~Niederschlesien.secret.md)
+### [Reichenbach~Niederschlesien.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Reichenbach~Niederschlesien.personal.md) 
+
+### [Reichenbach~Niederschlesien.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Reichenbach~Niederschlesien.secret.md)
 

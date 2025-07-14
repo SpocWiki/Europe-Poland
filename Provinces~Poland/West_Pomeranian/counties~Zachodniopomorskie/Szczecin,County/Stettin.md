@@ -57,15 +57,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Stettin.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\counties~Zachodniopomorskie\Szczecin,CountyStettin.public.md) 
+### [Stettin](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/counties~Zachodniopomorskie/Szczecin,County/Stettin.md) 
 
-### [Stettin.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\counties~Zachodniopomorskie\Szczecin,CountyStettin.internal.md) 
+### [Stettin.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/counties~Zachodniopomorskie/Szczecin,County/Stettin.public.md) 
 
-### [Stettin.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\counties~Zachodniopomorskie\Szczecin,CountyStettin.protect.md) 
+### [Stettin.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/counties~Zachodniopomorskie/Szczecin,County/Stettin.internal.md) 
 
-### [Stettin.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\counties~Zachodniopomorskie\Szczecin,CountyStettin.private.md) 
+### [Stettin.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/counties~Zachodniopomorskie/Szczecin,County/Stettin.protect.md) 
 
-### [Stettin.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\counties~Zachodniopomorskie\Szczecin,CountyStettin.personal.md) 
+### [Stettin.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/counties~Zachodniopomorskie/Szczecin,County/Stettin.private.md) 
 
-### [Stettin.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\counties~Zachodniopomorskie\Szczecin,CountyStettin.secret.md)
+### [Stettin.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/counties~Zachodniopomorskie/Szczecin,County/Stettin.personal.md) 
+
+### [Stettin.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/counties~Zachodniopomorskie/Szczecin,County/Stettin.secret.md)
 

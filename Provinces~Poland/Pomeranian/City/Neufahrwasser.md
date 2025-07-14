@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Neufahrwasser.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNeufahrwasser.public.md) 
+### [Neufahrwasser](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Neufahrwasser.md) 
 
-### [Neufahrwasser.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNeufahrwasser.internal.md) 
+### [Neufahrwasser.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Neufahrwasser.public.md) 
 
-### [Neufahrwasser.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNeufahrwasser.protect.md) 
+### [Neufahrwasser.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Neufahrwasser.internal.md) 
 
-### [Neufahrwasser.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNeufahrwasser.private.md) 
+### [Neufahrwasser.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Neufahrwasser.protect.md) 
 
-### [Neufahrwasser.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNeufahrwasser.personal.md) 
+### [Neufahrwasser.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Neufahrwasser.private.md) 
 
-### [Neufahrwasser.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNeufahrwasser.secret.md)
+### [Neufahrwasser.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Neufahrwasser.personal.md) 
+
+### [Neufahrwasser.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Neufahrwasser.secret.md)
 

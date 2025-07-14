@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Alt-Kuttendorf.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityAlt-Kuttendorf.public.md) 
+### [Alt-Kuttendorf](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Alt-Kuttendorf.md) 
 
-### [Alt-Kuttendorf.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityAlt-Kuttendorf.internal.md) 
+### [Alt-Kuttendorf.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Alt-Kuttendorf.public.md) 
 
-### [Alt-Kuttendorf.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityAlt-Kuttendorf.protect.md) 
+### [Alt-Kuttendorf.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Alt-Kuttendorf.internal.md) 
 
-### [Alt-Kuttendorf.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityAlt-Kuttendorf.private.md) 
+### [Alt-Kuttendorf.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Alt-Kuttendorf.protect.md) 
 
-### [Alt-Kuttendorf.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityAlt-Kuttendorf.personal.md) 
+### [Alt-Kuttendorf.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Alt-Kuttendorf.private.md) 
 
-### [Alt-Kuttendorf.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityAlt-Kuttendorf.secret.md)
+### [Alt-Kuttendorf.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Alt-Kuttendorf.personal.md) 
+
+### [Alt-Kuttendorf.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Alt-Kuttendorf.secret.md)
 

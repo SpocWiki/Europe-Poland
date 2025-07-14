@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Labuhn~Lauenburg.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityLabuhn~Lauenburg.public.md) 
+### [Labuhn~Lauenburg](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Labuhn~Lauenburg.md) 
 
-### [Labuhn~Lauenburg.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityLabuhn~Lauenburg.internal.md) 
+### [Labuhn~Lauenburg.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Labuhn~Lauenburg.public.md) 
 
-### [Labuhn~Lauenburg.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityLabuhn~Lauenburg.protect.md) 
+### [Labuhn~Lauenburg.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Labuhn~Lauenburg.internal.md) 
 
-### [Labuhn~Lauenburg.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityLabuhn~Lauenburg.private.md) 
+### [Labuhn~Lauenburg.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Labuhn~Lauenburg.protect.md) 
 
-### [Labuhn~Lauenburg.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityLabuhn~Lauenburg.personal.md) 
+### [Labuhn~Lauenburg.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Labuhn~Lauenburg.private.md) 
 
-### [Labuhn~Lauenburg.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityLabuhn~Lauenburg.secret.md)
+### [Labuhn~Lauenburg.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Labuhn~Lauenburg.personal.md) 
+
+### [Labuhn~Lauenburg.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Labuhn~Lauenburg.secret.md)
 

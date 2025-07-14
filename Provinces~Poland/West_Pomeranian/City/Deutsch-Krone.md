@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Deutsch-Krone.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityDeutsch-Krone.public.md) 
+### [Deutsch-Krone](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Deutsch-Krone.md) 
 
-### [Deutsch-Krone.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityDeutsch-Krone.internal.md) 
+### [Deutsch-Krone.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Deutsch-Krone.public.md) 
 
-### [Deutsch-Krone.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityDeutsch-Krone.protect.md) 
+### [Deutsch-Krone.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Deutsch-Krone.internal.md) 
 
-### [Deutsch-Krone.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityDeutsch-Krone.private.md) 
+### [Deutsch-Krone.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Deutsch-Krone.protect.md) 
 
-### [Deutsch-Krone.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityDeutsch-Krone.personal.md) 
+### [Deutsch-Krone.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Deutsch-Krone.private.md) 
 
-### [Deutsch-Krone.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityDeutsch-Krone.secret.md)
+### [Deutsch-Krone.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Deutsch-Krone.personal.md) 
+
+### [Deutsch-Krone.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Deutsch-Krone.secret.md)
 

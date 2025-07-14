@@ -23,19 +23,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Voivodeship)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Provinces~Poland.public](/_public/\Earth\Continent\Europe\Europe~East\PolandProvinces~Poland.public.md) 
+### [Provinces~Poland](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland.md) 
 
-### [Provinces~Poland.internal](/_internal/\Earth\Continent\Europe\Europe~East\PolandProvinces~Poland.internal.md) 
+### [Provinces~Poland.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland.public.md) 
 
-### [Provinces~Poland.protect](/_protect/\Earth\Continent\Europe\Europe~East\PolandProvinces~Poland.protect.md) 
+### [Provinces~Poland.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland.internal.md) 
 
-### [Provinces~Poland.private](/_private/\Earth\Continent\Europe\Europe~East\PolandProvinces~Poland.private.md) 
+### [Provinces~Poland.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland.protect.md) 
 
-### [Provinces~Poland.personal](/_personal/\Earth\Continent\Europe\Europe~East\PolandProvinces~Poland.personal.md) 
+### [Provinces~Poland.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland.private.md) 
 
-### [Provinces~Poland.secret](/_secret/\Earth\Continent\Europe\Europe~East\PolandProvinces~Poland.secret.md)
+### [Provinces~Poland.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland.personal.md) 
+
+### [Provinces~Poland.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland.secret.md)
 

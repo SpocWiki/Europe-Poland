@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gross-Strehlitz.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityGross-Strehlitz.public.md) 
+### [Gross-Strehlitz](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Gross-Strehlitz.md) 
 
-### [Gross-Strehlitz.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityGross-Strehlitz.internal.md) 
+### [Gross-Strehlitz.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Gross-Strehlitz.public.md) 
 
-### [Gross-Strehlitz.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityGross-Strehlitz.protect.md) 
+### [Gross-Strehlitz.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Gross-Strehlitz.internal.md) 
 
-### [Gross-Strehlitz.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityGross-Strehlitz.private.md) 
+### [Gross-Strehlitz.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Gross-Strehlitz.protect.md) 
 
-### [Gross-Strehlitz.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityGross-Strehlitz.personal.md) 
+### [Gross-Strehlitz.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Gross-Strehlitz.private.md) 
 
-### [Gross-Strehlitz.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityGross-Strehlitz.secret.md)
+### [Gross-Strehlitz.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Gross-Strehlitz.personal.md) 
+
+### [Gross-Strehlitz.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Gross-Strehlitz.secret.md)
 

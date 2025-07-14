@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sobkowitz.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CitySobkowitz.public.md) 
+### [Sobkowitz](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Sobkowitz.md) 
 
-### [Sobkowitz.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CitySobkowitz.internal.md) 
+### [Sobkowitz.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Sobkowitz.public.md) 
 
-### [Sobkowitz.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CitySobkowitz.protect.md) 
+### [Sobkowitz.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Sobkowitz.internal.md) 
 
-### [Sobkowitz.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CitySobkowitz.private.md) 
+### [Sobkowitz.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Sobkowitz.protect.md) 
 
-### [Sobkowitz.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CitySobkowitz.personal.md) 
+### [Sobkowitz.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Sobkowitz.private.md) 
 
-### [Sobkowitz.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CitySobkowitz.secret.md)
+### [Sobkowitz.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Sobkowitz.personal.md) 
+
+### [Sobkowitz.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Sobkowitz.secret.md)
 

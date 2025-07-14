@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Leslau=Wieclawek.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityLeslau=Wieclawek.public.md) 
+### [Leslau=Wieclawek](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Leslau=Wieclawek.md) 
 
-### [Leslau=Wieclawek.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityLeslau=Wieclawek.internal.md) 
+### [Leslau=Wieclawek.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Leslau=Wieclawek.public.md) 
 
-### [Leslau=Wieclawek.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityLeslau=Wieclawek.protect.md) 
+### [Leslau=Wieclawek.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Leslau=Wieclawek.internal.md) 
 
-### [Leslau=Wieclawek.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityLeslau=Wieclawek.private.md) 
+### [Leslau=Wieclawek.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Leslau=Wieclawek.protect.md) 
 
-### [Leslau=Wieclawek.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityLeslau=Wieclawek.personal.md) 
+### [Leslau=Wieclawek.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Leslau=Wieclawek.private.md) 
 
-### [Leslau=Wieclawek.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Kuyavian-Pomeranian\CityLeslau=Wieclawek.secret.md)
+### [Leslau=Wieclawek.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Leslau=Wieclawek.personal.md) 
+
+### [Leslau=Wieclawek.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Leslau=Wieclawek.secret.md)
 

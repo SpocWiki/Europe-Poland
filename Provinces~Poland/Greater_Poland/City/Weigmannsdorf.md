@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Weigmannsdorf.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityWeigmannsdorf.public.md) 
+### [Weigmannsdorf](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Weigmannsdorf.md) 
 
-### [Weigmannsdorf.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityWeigmannsdorf.internal.md) 
+### [Weigmannsdorf.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Weigmannsdorf.public.md) 
 
-### [Weigmannsdorf.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityWeigmannsdorf.protect.md) 
+### [Weigmannsdorf.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Weigmannsdorf.internal.md) 
 
-### [Weigmannsdorf.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityWeigmannsdorf.private.md) 
+### [Weigmannsdorf.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Weigmannsdorf.protect.md) 
 
-### [Weigmannsdorf.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityWeigmannsdorf.personal.md) 
+### [Weigmannsdorf.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Weigmannsdorf.private.md) 
 
-### [Weigmannsdorf.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityWeigmannsdorf.secret.md)
+### [Weigmannsdorf.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Weigmannsdorf.personal.md) 
+
+### [Weigmannsdorf.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Weigmannsdorf.secret.md)
 

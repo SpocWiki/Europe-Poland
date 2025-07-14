@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gnadenfeld.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityGnadenfeld.public.md) 
+### [Gnadenfeld](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Gnadenfeld.md) 
 
-### [Gnadenfeld.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityGnadenfeld.internal.md) 
+### [Gnadenfeld.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Gnadenfeld.public.md) 
 
-### [Gnadenfeld.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityGnadenfeld.protect.md) 
+### [Gnadenfeld.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Gnadenfeld.internal.md) 
 
-### [Gnadenfeld.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityGnadenfeld.private.md) 
+### [Gnadenfeld.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Gnadenfeld.protect.md) 
 
-### [Gnadenfeld.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityGnadenfeld.personal.md) 
+### [Gnadenfeld.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Gnadenfeld.private.md) 
 
-### [Gnadenfeld.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Opole\CityGnadenfeld.secret.md)
+### [Gnadenfeld.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Gnadenfeld.personal.md) 
+
+### [Gnadenfeld.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Gnadenfeld.secret.md)
 

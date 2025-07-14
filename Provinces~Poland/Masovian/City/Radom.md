@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Radom.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Masovian\CityRadom.public.md) 
+### [Radom](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/City/Radom.md) 
 
-### [Radom.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Masovian\CityRadom.internal.md) 
+### [Radom.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/City/Radom.public.md) 
 
-### [Radom.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Masovian\CityRadom.protect.md) 
+### [Radom.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/City/Radom.internal.md) 
 
-### [Radom.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Masovian\CityRadom.private.md) 
+### [Radom.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/City/Radom.protect.md) 
 
-### [Radom.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Masovian\CityRadom.personal.md) 
+### [Radom.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/City/Radom.private.md) 
 
-### [Radom.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Masovian\CityRadom.secret.md)
+### [Radom.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/City/Radom.personal.md) 
+
+### [Radom.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/City/Radom.secret.md)
 

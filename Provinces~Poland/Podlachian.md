@@ -42,15 +42,17 @@ markerFolder: ./Podlachian/
 
 ## Confidential Links & Embeds: 
 
-### [Podlachian.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandPodlachian.public.md) 
+### [Podlachian](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Podlachian.md) 
 
-### [Podlachian.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandPodlachian.internal.md) 
+### [Podlachian.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Podlachian.public.md) 
 
-### [Podlachian.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandPodlachian.protect.md) 
+### [Podlachian.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Podlachian.internal.md) 
 
-### [Podlachian.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandPodlachian.private.md) 
+### [Podlachian.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Podlachian.protect.md) 
 
-### [Podlachian.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandPodlachian.personal.md) 
+### [Podlachian.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Podlachian.private.md) 
 
-### [Podlachian.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandPodlachian.secret.md)
+### [Podlachian.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Podlachian.personal.md) 
+
+### [Podlachian.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Podlachian.secret.md)
 

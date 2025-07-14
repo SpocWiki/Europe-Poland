@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bagrationowsk.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityBagrationowsk.public.md) 
+### [Bagrationowsk](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Bagrationowsk.md) 
 
-### [Bagrationowsk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityBagrationowsk.internal.md) 
+### [Bagrationowsk.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Bagrationowsk.public.md) 
 
-### [Bagrationowsk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityBagrationowsk.protect.md) 
+### [Bagrationowsk.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Bagrationowsk.internal.md) 
 
-### [Bagrationowsk.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityBagrationowsk.private.md) 
+### [Bagrationowsk.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Bagrationowsk.protect.md) 
 
-### [Bagrationowsk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityBagrationowsk.personal.md) 
+### [Bagrationowsk.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Bagrationowsk.private.md) 
 
-### [Bagrationowsk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityBagrationowsk.secret.md)
+### [Bagrationowsk.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Bagrationowsk.personal.md) 
+
+### [Bagrationowsk.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Bagrationowsk.secret.md)
 

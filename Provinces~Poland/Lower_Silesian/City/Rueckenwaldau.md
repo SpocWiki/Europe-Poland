@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rueckenwaldau.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityRueckenwaldau.public.md) 
+### [Rueckenwaldau](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Rueckenwaldau.md) 
 
-### [Rueckenwaldau.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityRueckenwaldau.internal.md) 
+### [Rueckenwaldau.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Rueckenwaldau.public.md) 
 
-### [Rueckenwaldau.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityRueckenwaldau.protect.md) 
+### [Rueckenwaldau.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Rueckenwaldau.internal.md) 
 
-### [Rueckenwaldau.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityRueckenwaldau.private.md) 
+### [Rueckenwaldau.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Rueckenwaldau.protect.md) 
 
-### [Rueckenwaldau.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityRueckenwaldau.personal.md) 
+### [Rueckenwaldau.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Rueckenwaldau.private.md) 
 
-### [Rueckenwaldau.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityRueckenwaldau.secret.md)
+### [Rueckenwaldau.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Rueckenwaldau.personal.md) 
+
+### [Rueckenwaldau.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Rueckenwaldau.secret.md)
 

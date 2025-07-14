@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Deutsch-Lissa.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityDeutsch-Lissa.public.md) 
+### [Deutsch-Lissa](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Deutsch-Lissa.md) 
 
-### [Deutsch-Lissa.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityDeutsch-Lissa.internal.md) 
+### [Deutsch-Lissa.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Deutsch-Lissa.public.md) 
 
-### [Deutsch-Lissa.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityDeutsch-Lissa.protect.md) 
+### [Deutsch-Lissa.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Deutsch-Lissa.internal.md) 
 
-### [Deutsch-Lissa.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityDeutsch-Lissa.private.md) 
+### [Deutsch-Lissa.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Deutsch-Lissa.protect.md) 
 
-### [Deutsch-Lissa.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityDeutsch-Lissa.personal.md) 
+### [Deutsch-Lissa.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Deutsch-Lissa.private.md) 
 
-### [Deutsch-Lissa.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityDeutsch-Lissa.secret.md)
+### [Deutsch-Lissa.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Deutsch-Lissa.personal.md) 
+
+### [Deutsch-Lissa.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Deutsch-Lissa.secret.md)
 

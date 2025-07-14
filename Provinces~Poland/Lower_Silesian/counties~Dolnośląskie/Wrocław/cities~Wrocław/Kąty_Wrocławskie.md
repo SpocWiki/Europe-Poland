@@ -22,19 +22,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Wroc%C5%82aw)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Kąty_Wrocławskie.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\counties~Dolnośląskie\Wrocław\cities~WrocławKąty_Wrocławskie.public.md) 
+### [Kąty_Wrocławskie](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/counties~Dolnośląskie/Wrocław/cities~Wrocław/Kąty_Wrocławskie.md) 
 
-### [Kąty_Wrocławskie.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\counties~Dolnośląskie\Wrocław\cities~WrocławKąty_Wrocławskie.internal.md) 
+### [Kąty_Wrocławskie.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/counties~Dolnośląskie/Wrocław/cities~Wrocław/Kąty_Wrocławskie.public.md) 
 
-### [Kąty_Wrocławskie.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\counties~Dolnośląskie\Wrocław\cities~WrocławKąty_Wrocławskie.protect.md) 
+### [Kąty_Wrocławskie.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/counties~Dolnośląskie/Wrocław/cities~Wrocław/Kąty_Wrocławskie.internal.md) 
 
-### [Kąty_Wrocławskie.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\counties~Dolnośląskie\Wrocław\cities~WrocławKąty_Wrocławskie.private.md) 
+### [Kąty_Wrocławskie.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/counties~Dolnośląskie/Wrocław/cities~Wrocław/Kąty_Wrocławskie.protect.md) 
 
-### [Kąty_Wrocławskie.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\counties~Dolnośląskie\Wrocław\cities~WrocławKąty_Wrocławskie.personal.md) 
+### [Kąty_Wrocławskie.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/counties~Dolnośląskie/Wrocław/cities~Wrocław/Kąty_Wrocławskie.private.md) 
 
-### [Kąty_Wrocławskie.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\counties~Dolnośląskie\Wrocław\cities~WrocławKąty_Wrocławskie.secret.md)
+### [Kąty_Wrocławskie.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/counties~Dolnośląskie/Wrocław/cities~Wrocław/Kąty_Wrocławskie.personal.md) 
+
+### [Kąty_Wrocławskie.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/counties~Dolnośląskie/Wrocław/cities~Wrocław/Kąty_Wrocławskie.secret.md)
 

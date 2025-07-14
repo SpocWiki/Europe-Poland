@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Friedersdorf~Brandenburg.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityFriedersdorf~Brandenburg.public.md) 
+### [Friedersdorf~Brandenburg](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Friedersdorf~Brandenburg.md) 
 
-### [Friedersdorf~Brandenburg.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityFriedersdorf~Brandenburg.internal.md) 
+### [Friedersdorf~Brandenburg.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Friedersdorf~Brandenburg.public.md) 
 
-### [Friedersdorf~Brandenburg.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityFriedersdorf~Brandenburg.protect.md) 
+### [Friedersdorf~Brandenburg.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Friedersdorf~Brandenburg.internal.md) 
 
-### [Friedersdorf~Brandenburg.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityFriedersdorf~Brandenburg.private.md) 
+### [Friedersdorf~Brandenburg.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Friedersdorf~Brandenburg.protect.md) 
 
-### [Friedersdorf~Brandenburg.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityFriedersdorf~Brandenburg.personal.md) 
+### [Friedersdorf~Brandenburg.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Friedersdorf~Brandenburg.private.md) 
 
-### [Friedersdorf~Brandenburg.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityFriedersdorf~Brandenburg.secret.md)
+### [Friedersdorf~Brandenburg.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Friedersdorf~Brandenburg.personal.md) 
+
+### [Friedersdorf~Brandenburg.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Friedersdorf~Brandenburg.secret.md)
 

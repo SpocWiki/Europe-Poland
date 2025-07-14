@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nikoleiken.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNikoleiken.public.md) 
+### [Nikoleiken](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Nikoleiken.md) 
 
-### [Nikoleiken.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNikoleiken.internal.md) 
+### [Nikoleiken.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Nikoleiken.public.md) 
 
-### [Nikoleiken.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNikoleiken.protect.md) 
+### [Nikoleiken.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Nikoleiken.internal.md) 
 
-### [Nikoleiken.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNikoleiken.private.md) 
+### [Nikoleiken.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Nikoleiken.protect.md) 
 
-### [Nikoleiken.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNikoleiken.personal.md) 
+### [Nikoleiken.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Nikoleiken.private.md) 
 
-### [Nikoleiken.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityNikoleiken.secret.md)
+### [Nikoleiken.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Nikoleiken.personal.md) 
+
+### [Nikoleiken.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Nikoleiken.secret.md)
 

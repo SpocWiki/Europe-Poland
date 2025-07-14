@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Grosscammin.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityGrosscammin.public.md) 
+### [Grosscammin](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Grosscammin.md) 
 
-### [Grosscammin.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityGrosscammin.internal.md) 
+### [Grosscammin.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Grosscammin.public.md) 
 
-### [Grosscammin.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityGrosscammin.protect.md) 
+### [Grosscammin.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Grosscammin.internal.md) 
 
-### [Grosscammin.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityGrosscammin.private.md) 
+### [Grosscammin.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Grosscammin.protect.md) 
 
-### [Grosscammin.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityGrosscammin.personal.md) 
+### [Grosscammin.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Grosscammin.private.md) 
 
-### [Grosscammin.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityGrosscammin.secret.md)
+### [Grosscammin.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Grosscammin.personal.md) 
+
+### [Grosscammin.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Grosscammin.secret.md)
 

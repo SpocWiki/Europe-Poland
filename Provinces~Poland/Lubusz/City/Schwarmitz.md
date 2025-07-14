@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schwarmitz.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CitySchwarmitz.public.md) 
+### [Schwarmitz](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Schwarmitz.md) 
 
-### [Schwarmitz.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CitySchwarmitz.internal.md) 
+### [Schwarmitz.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Schwarmitz.public.md) 
 
-### [Schwarmitz.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CitySchwarmitz.protect.md) 
+### [Schwarmitz.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Schwarmitz.internal.md) 
 
-### [Schwarmitz.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CitySchwarmitz.private.md) 
+### [Schwarmitz.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Schwarmitz.protect.md) 
 
-### [Schwarmitz.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CitySchwarmitz.personal.md) 
+### [Schwarmitz.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Schwarmitz.private.md) 
 
-### [Schwarmitz.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CitySchwarmitz.secret.md)
+### [Schwarmitz.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Schwarmitz.personal.md) 
+
+### [Schwarmitz.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Schwarmitz.secret.md)
 

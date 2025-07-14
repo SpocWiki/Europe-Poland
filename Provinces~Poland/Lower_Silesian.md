@@ -43,15 +43,17 @@ markerFolder: ./Lower_Silesian/
 
 ## Confidential Links & Embeds: 
 
-### [Lower_Silesian.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandLower_Silesian.public.md) 
+### [Lower_Silesian](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian.md) 
 
-### [Lower_Silesian.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandLower_Silesian.internal.md) 
+### [Lower_Silesian.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian.public.md) 
 
-### [Lower_Silesian.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandLower_Silesian.protect.md) 
+### [Lower_Silesian.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian.internal.md) 
 
-### [Lower_Silesian.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandLower_Silesian.private.md) 
+### [Lower_Silesian.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian.protect.md) 
 
-### [Lower_Silesian.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandLower_Silesian.personal.md) 
+### [Lower_Silesian.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian.private.md) 
 
-### [Lower_Silesian.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~PolandLower_Silesian.secret.md)
+### [Lower_Silesian.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian.personal.md) 
+
+### [Lower_Silesian.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Koenigswalde.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityKoenigswalde.public.md) 
+### [Koenigswalde](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Koenigswalde.md) 
 
-### [Koenigswalde.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityKoenigswalde.internal.md) 
+### [Koenigswalde.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Koenigswalde.public.md) 
 
-### [Koenigswalde.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityKoenigswalde.protect.md) 
+### [Koenigswalde.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Koenigswalde.internal.md) 
 
-### [Koenigswalde.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityKoenigswalde.private.md) 
+### [Koenigswalde.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Koenigswalde.protect.md) 
 
-### [Koenigswalde.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityKoenigswalde.personal.md) 
+### [Koenigswalde.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Koenigswalde.private.md) 
 
-### [Koenigswalde.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lubusz\CityKoenigswalde.secret.md)
+### [Koenigswalde.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Koenigswalde.personal.md) 
+
+### [Koenigswalde.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz/City/Koenigswalde.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lidzbark_Warmiński.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityLidzbark_Warmiński.public.md) 
+### [Lidzbark_Warmiński](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Lidzbark_Warmiński.md) 
 
-### [Lidzbark_Warmiński.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityLidzbark_Warmiński.internal.md) 
+### [Lidzbark_Warmiński.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Lidzbark_Warmiński.public.md) 
 
-### [Lidzbark_Warmiński.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityLidzbark_Warmiński.protect.md) 
+### [Lidzbark_Warmiński.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Lidzbark_Warmiński.internal.md) 
 
-### [Lidzbark_Warmiński.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityLidzbark_Warmiński.private.md) 
+### [Lidzbark_Warmiński.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Lidzbark_Warmiński.protect.md) 
 
-### [Lidzbark_Warmiński.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityLidzbark_Warmiński.personal.md) 
+### [Lidzbark_Warmiński.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Lidzbark_Warmiński.private.md) 
 
-### [Lidzbark_Warmiński.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Warmian-Masurian\CityLidzbark_Warmiński.secret.md)
+### [Lidzbark_Warmiński.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Lidzbark_Warmiński.personal.md) 
+
+### [Lidzbark_Warmiński.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Lidzbark_Warmiński.secret.md)
 

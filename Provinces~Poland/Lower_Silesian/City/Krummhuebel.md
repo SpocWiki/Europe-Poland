@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Krummhuebel.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKrummhuebel.public.md) 
+### [Krummhuebel](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Krummhuebel.md) 
 
-### [Krummhuebel.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKrummhuebel.internal.md) 
+### [Krummhuebel.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Krummhuebel.public.md) 
 
-### [Krummhuebel.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKrummhuebel.protect.md) 
+### [Krummhuebel.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Krummhuebel.internal.md) 
 
-### [Krummhuebel.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKrummhuebel.private.md) 
+### [Krummhuebel.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Krummhuebel.protect.md) 
 
-### [Krummhuebel.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKrummhuebel.personal.md) 
+### [Krummhuebel.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Krummhuebel.private.md) 
 
-### [Krummhuebel.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityKrummhuebel.secret.md)
+### [Krummhuebel.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Krummhuebel.personal.md) 
+
+### [Krummhuebel.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Krummhuebel.secret.md)
 

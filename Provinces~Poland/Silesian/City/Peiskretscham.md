@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Peiskretscham.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityPeiskretscham.public.md) 
+### [Peiskretscham](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Peiskretscham.md) 
 
-### [Peiskretscham.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityPeiskretscham.internal.md) 
+### [Peiskretscham.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Peiskretscham.public.md) 
 
-### [Peiskretscham.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityPeiskretscham.protect.md) 
+### [Peiskretscham.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Peiskretscham.internal.md) 
 
-### [Peiskretscham.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityPeiskretscham.private.md) 
+### [Peiskretscham.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Peiskretscham.protect.md) 
 
-### [Peiskretscham.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityPeiskretscham.personal.md) 
+### [Peiskretscham.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Peiskretscham.private.md) 
 
-### [Peiskretscham.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Silesian\CityPeiskretscham.secret.md)
+### [Peiskretscham.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Peiskretscham.personal.md) 
+
+### [Peiskretscham.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Peiskretscham.secret.md)
 

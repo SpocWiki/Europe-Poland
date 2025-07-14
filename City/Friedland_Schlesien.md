@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Friedland_Schlesien.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\CityFriedland_Schlesien.public.md) 
+### [Friedland_Schlesien](/_Standards/Earth/Continent/Europe/Europe~East/Poland/City/Friedland_Schlesien.md) 
 
-### [Friedland_Schlesien.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\CityFriedland_Schlesien.internal.md) 
+### [Friedland_Schlesien.public](/_public/Earth/Continent/Europe/Europe~East/Poland/City/Friedland_Schlesien.public.md) 
 
-### [Friedland_Schlesien.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\CityFriedland_Schlesien.protect.md) 
+### [Friedland_Schlesien.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/City/Friedland_Schlesien.internal.md) 
 
-### [Friedland_Schlesien.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\CityFriedland_Schlesien.private.md) 
+### [Friedland_Schlesien.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/City/Friedland_Schlesien.protect.md) 
 
-### [Friedland_Schlesien.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\CityFriedland_Schlesien.personal.md) 
+### [Friedland_Schlesien.private](/_private/Earth/Continent/Europe/Europe~East/Poland/City/Friedland_Schlesien.private.md) 
 
-### [Friedland_Schlesien.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\CityFriedland_Schlesien.secret.md)
+### [Friedland_Schlesien.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/City/Friedland_Schlesien.personal.md) 
+
+### [Friedland_Schlesien.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/City/Friedland_Schlesien.secret.md)
 

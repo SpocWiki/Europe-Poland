@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tiegenhof.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityTiegenhof.public.md) 
+### [Tiegenhof](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Tiegenhof.md) 
 
-### [Tiegenhof.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityTiegenhof.internal.md) 
+### [Tiegenhof.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Tiegenhof.public.md) 
 
-### [Tiegenhof.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityTiegenhof.protect.md) 
+### [Tiegenhof.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Tiegenhof.internal.md) 
 
-### [Tiegenhof.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityTiegenhof.private.md) 
+### [Tiegenhof.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Tiegenhof.protect.md) 
 
-### [Tiegenhof.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityTiegenhof.personal.md) 
+### [Tiegenhof.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Tiegenhof.private.md) 
 
-### [Tiegenhof.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityTiegenhof.secret.md)
+### [Tiegenhof.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Tiegenhof.personal.md) 
+
+### [Tiegenhof.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Tiegenhof.secret.md)
 

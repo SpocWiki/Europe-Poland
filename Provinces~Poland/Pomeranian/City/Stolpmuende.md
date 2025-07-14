@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Stolpmuende.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityStolpmuende.public.md) 
+### [Stolpmuende](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Stolpmuende.md) 
 
-### [Stolpmuende.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityStolpmuende.internal.md) 
+### [Stolpmuende.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Stolpmuende.public.md) 
 
-### [Stolpmuende.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityStolpmuende.protect.md) 
+### [Stolpmuende.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Stolpmuende.internal.md) 
 
-### [Stolpmuende.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityStolpmuende.private.md) 
+### [Stolpmuende.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Stolpmuende.protect.md) 
 
-### [Stolpmuende.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityStolpmuende.personal.md) 
+### [Stolpmuende.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Stolpmuende.private.md) 
 
-### [Stolpmuende.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Pomeranian\CityStolpmuende.secret.md)
+### [Stolpmuende.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Stolpmuende.personal.md) 
+
+### [Stolpmuende.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Stolpmuende.secret.md)
 

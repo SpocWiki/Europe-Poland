@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Neumarkt~Schlesien.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityNeumarkt~Schlesien.public.md) 
+### [Neumarkt~Schlesien](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Neumarkt~Schlesien.md) 
 
-### [Neumarkt~Schlesien.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityNeumarkt~Schlesien.internal.md) 
+### [Neumarkt~Schlesien.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Neumarkt~Schlesien.public.md) 
 
-### [Neumarkt~Schlesien.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityNeumarkt~Schlesien.protect.md) 
+### [Neumarkt~Schlesien.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Neumarkt~Schlesien.internal.md) 
 
-### [Neumarkt~Schlesien.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityNeumarkt~Schlesien.private.md) 
+### [Neumarkt~Schlesien.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Neumarkt~Schlesien.protect.md) 
 
-### [Neumarkt~Schlesien.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityNeumarkt~Schlesien.personal.md) 
+### [Neumarkt~Schlesien.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Neumarkt~Schlesien.private.md) 
 
-### [Neumarkt~Schlesien.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityNeumarkt~Schlesien.secret.md)
+### [Neumarkt~Schlesien.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Neumarkt~Schlesien.personal.md) 
+
+### [Neumarkt~Schlesien.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Neumarkt~Schlesien.secret.md)
 

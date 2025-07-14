@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Greifenhagen.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityGreifenhagen.public.md) 
+### [Greifenhagen](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Greifenhagen.md) 
 
-### [Greifenhagen.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityGreifenhagen.internal.md) 
+### [Greifenhagen.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Greifenhagen.public.md) 
 
-### [Greifenhagen.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityGreifenhagen.protect.md) 
+### [Greifenhagen.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Greifenhagen.internal.md) 
 
-### [Greifenhagen.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityGreifenhagen.private.md) 
+### [Greifenhagen.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Greifenhagen.protect.md) 
 
-### [Greifenhagen.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityGreifenhagen.personal.md) 
+### [Greifenhagen.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Greifenhagen.private.md) 
 
-### [Greifenhagen.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\West_Pomeranian\CityGreifenhagen.secret.md)
+### [Greifenhagen.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Greifenhagen.personal.md) 
+
+### [Greifenhagen.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Greifenhagen.secret.md)
 

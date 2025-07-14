@@ -37,15 +37,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Poznań.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityPoznań.public.md) 
+### [Poznań](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Poznań.md) 
 
-### [Poznań.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityPoznań.internal.md) 
+### [Poznań.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Poznań.public.md) 
 
-### [Poznań.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityPoznań.protect.md) 
+### [Poznań.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Poznań.internal.md) 
 
-### [Poznań.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityPoznań.private.md) 
+### [Poznań.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Poznań.protect.md) 
 
-### [Poznań.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityPoznań.personal.md) 
+### [Poznań.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Poznań.private.md) 
 
-### [Poznań.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Greater_Poland\CityPoznań.secret.md)
+### [Poznań.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Poznań.personal.md) 
+
+### [Poznań.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Poznań.secret.md)
 

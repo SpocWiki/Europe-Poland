@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dittmannsdorf-Schlesien.public](/_public/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityDittmannsdorf-Schlesien.public.md) 
+### [Dittmannsdorf-Schlesien](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Dittmannsdorf-Schlesien.md) 
 
-### [Dittmannsdorf-Schlesien.internal](/_internal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityDittmannsdorf-Schlesien.internal.md) 
+### [Dittmannsdorf-Schlesien.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Dittmannsdorf-Schlesien.public.md) 
 
-### [Dittmannsdorf-Schlesien.protect](/_protect/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityDittmannsdorf-Schlesien.protect.md) 
+### [Dittmannsdorf-Schlesien.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Dittmannsdorf-Schlesien.internal.md) 
 
-### [Dittmannsdorf-Schlesien.private](/_private/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityDittmannsdorf-Schlesien.private.md) 
+### [Dittmannsdorf-Schlesien.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Dittmannsdorf-Schlesien.protect.md) 
 
-### [Dittmannsdorf-Schlesien.personal](/_personal/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityDittmannsdorf-Schlesien.personal.md) 
+### [Dittmannsdorf-Schlesien.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Dittmannsdorf-Schlesien.private.md) 
 
-### [Dittmannsdorf-Schlesien.secret](/_secret/\Earth\Continent\Europe\Europe~East\Poland\Provinces~Poland\Lower_Silesian\CityDittmannsdorf-Schlesien.secret.md)
+### [Dittmannsdorf-Schlesien.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Dittmannsdorf-Schlesien.personal.md) 
+
+### [Dittmannsdorf-Schlesien.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Dittmannsdorf-Schlesien.secret.md)
 

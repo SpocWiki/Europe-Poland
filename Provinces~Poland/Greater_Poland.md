@@ -1,31 +1,30 @@
 ---
-location: [ 52.3 , 17.3 ] 
+location:
+  - 52.3
+  - 17.3
 type: geo-Region
 title: Greater_Poland
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Greater_Poland
-- Greater Poland
-
+  - Greater_Poland
+  - Greater Poland
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Greater_Poland

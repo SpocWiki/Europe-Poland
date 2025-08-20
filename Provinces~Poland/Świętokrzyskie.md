@@ -1,32 +1,31 @@
 ---
-location: [ 50.7 , 20.8 ] 
+location:
+  - 50.7
+  - 20.8
 type: geo-Region
 title: Świętokrzyskie
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Świętokrzyskie
-- Holy Cross
-- 
-
+  - Świętokrzyskie
+  - Holy Cross
+  - 
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Świętokrzyskie

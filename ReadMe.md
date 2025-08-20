@@ -1,38 +1,39 @@
 ---
 title: Poland
-linkTitle: 
+linkTitle:
 type: Country
 has_id_wikidata: Q36
 SpocWebEntityId: 26996
 location:
-- 52.0027
-- 17.6996
+  - 52.0027
+  - 17.6996
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
-keywords: 
-layout: 
+keywords:
+layout:
 draft: false
 confidential: public
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 icon: flag-pl
 tags:
-- geo/Country
+  - geo/Country
 aliases:
-- Poland
-- Polonia
-- Pologne
-- بولندا
-- 波兰
-- Польша
-- the Republic of Poland
-- la República de Polonia
+  - Poland
+  - Polonia
+  - Pologne
+  - بولندا
+  - 波兰
+  - Польша
+  - the Republic of Poland
+  - la República de Polonia
 Languages:
-- pl
+  - pl
 ---
 
 # [[Poland]] 

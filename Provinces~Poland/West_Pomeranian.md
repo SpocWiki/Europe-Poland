@@ -32,7 +32,7 @@ expiryDate:
 ```leaflet
 id: West_Pomeranian
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./West_Pomeranian/
 markerFolder: ./West_Pomeranian/

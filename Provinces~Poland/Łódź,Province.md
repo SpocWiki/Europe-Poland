@@ -34,7 +34,7 @@ expiryDate:
 ```leaflet
 id: Łódź
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Łódź/
 markerFolder: ./Łódź/

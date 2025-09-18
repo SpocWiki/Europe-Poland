@@ -99,7 +99,7 @@ into a Subfolder named `Poland`, so that this Link into the Sub-Repository works
 ```leaflet
 id: Poland
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: .//
 markerFolder: .//

@@ -32,7 +32,7 @@ expiryDate:
 ```leaflet
 id: Greater_Poland
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Greater_Poland/
 markerFolder: ./Greater_Poland/

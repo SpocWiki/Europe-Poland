@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Kuyavian-Pomeranian
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Kuyavian-Pomeranian/
 markerFolder: ./Kuyavian-Pomeranian/

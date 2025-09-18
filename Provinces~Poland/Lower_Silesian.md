@@ -33,7 +33,7 @@ expiryDate:
 ```leaflet
 id: Lower_Silesian
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Lower_Silesian/
 markerFolder: ./Lower_Silesian/

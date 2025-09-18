@@ -32,7 +32,7 @@ expiryDate:
 ```leaflet
 id: Lesser_Poland
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Lesser_Poland/
 markerFolder: ./Lesser_Poland/

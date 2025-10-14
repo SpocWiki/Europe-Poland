@@ -44,7 +44,7 @@ has_part_s_:
 position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~Rector_of_the_Jagiellonian_University,97765727]]"
 rector: "[[_Standards/WikiData/WD~Piotr_Jedynak,103916239]]"
 coordinate_location: Point(19.933888888 50.061666666)
-headquarters_location: "[[_Standards/WikiData/WD~Kraków,31487]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Kraków,31487]]"
 located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Kraków,31487]]"
 country: "[[_Standards/WikiData/WD~Poland,36]]"
 ranking:

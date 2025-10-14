@@ -21,7 +21,7 @@ State ::  [Greater_Poland](../../Greater_Poland.md)
 Country :: [[Poland]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 #has_/name_/de_ :: Posen 
 #has_/name_/pl_ :: Poznań

@@ -25,7 +25,7 @@ State ::
 Country :: [[Poland]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet

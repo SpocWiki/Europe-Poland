@@ -173,7 +173,7 @@ State ::
 Country :: [[Poland]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Kraków,31487|WD~Kraków,31487]] 
 
 ## #has_/map  

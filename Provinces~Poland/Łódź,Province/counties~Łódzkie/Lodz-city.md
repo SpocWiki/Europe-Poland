@@ -28,7 +28,7 @@ State ::
 Country :: [[Poland]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 #has_/name_/en_ :: Lodz 
 #has_/name_/de_ :: Litzmannstadt 

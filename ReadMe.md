@@ -168,7 +168,7 @@ Sub-region_Name ::  [[Eastern Europe]]
 [Area-Land::304220] 
 has_place_continent:: [[Europe]]  
 [VehicleCode::PL] 
-Capital :: [[Warszawa]]  
+Capital :: [[Provinces~Poland/Masovian/counties~Mazowieckie/Warszawa]]  
 
 [Alcohol-l::13.3] 
 [Language-Id::494] 

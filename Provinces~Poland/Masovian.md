@@ -35,8 +35,10 @@ id: Masovian
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./Masovian/
+geojsonFolder: ./Masovian//
 markerFolder: ./Masovian/
+coordinates: [[Masovian]] 
+markerFile: [[Masovian]] 
 ```
 
 

@@ -2,7 +2,42 @@
 aliases:
   - Warsaw
   - Warszawa
+  - Warschau
+has_id_wikidata: Q270
+location: [52.22,21.02] 
+mapzoom: [7,12] 
+mapmarker: city 
+type: City
+tags:
+- geo/City
+
+
+SpocWebEntityId: 35458
+isDeleted: false
+confidential: public
+
 ---
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::21.02] 
+[has_place_latitude::52.22] 
+[name::Warszawa] 
+State ::  
+Country :: [[Poland]]  
+[StateId::] 
+[Population::] 
+
+# [[Warszawa]] 
+
+#is_/same_as :: [[../../../../../../../../WikiData/WD~Warsaw,270|WD~Warsaw,270]] 
+
+```leaflet
+id: Warszawa
+coordinates: [[Warszawa]] 
+markerFile: [[Warszawa]] 
+defaultZoom: 11 
+maxZoom: 18
+```
 
 ## #has_/text_of_/abstract 
 

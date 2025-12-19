@@ -28,7 +28,7 @@ award_received:
   - "[[_Standards/WikiData/WD~Knight_of_the_Order_of_Polonia_Restituta,15715250]]"
   - "[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_Polonia_Restituta,15715257]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
   - "[[_Standards/WikiData/WD~Medvik,99413897]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"

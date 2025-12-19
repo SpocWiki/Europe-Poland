@@ -4,7 +4,10 @@ aliases:
   - Wódra
   - Uder
 has_id_wikidata: Q552
-location: [52.06972, 14.75556, 32]
+location:
+  - 52.06972
+  - 14.75556
+  - 32
 tributary:
   - "[[_Standards/WikiData/WD~Bóbr,148307]]"
   - "[[_Standards/WikiData/WD~Oława,164033]]"
@@ -114,7 +117,7 @@ instance_of:
   - "[[_Standards/WikiData/WD~main_stem,573344]]"
   - "[[_Standards/WikiData/WD~river,4022]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"

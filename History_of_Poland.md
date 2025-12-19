@@ -3,7 +3,7 @@ aliases:
   - history of Poland
 has_id_wikidata: Q199569
 has_part_s_: "[[_Standards/WikiData/WD~Second_Polish_Republic,207272]]"
-described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+described_by_source: "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 instance_of:
   - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
   - "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"

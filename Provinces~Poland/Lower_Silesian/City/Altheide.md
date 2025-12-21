@@ -1,16 +1,19 @@
 ---
-location: [50.4,16.53] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Altheide
+location:
+  - 50.4
+  - 16.53
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 28782
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

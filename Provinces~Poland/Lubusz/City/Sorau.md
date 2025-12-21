@@ -1,16 +1,19 @@
 ---
-location: [51.63,15.15] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Sorau
+location:
+  - 51.63
+  - 15.15
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34374
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

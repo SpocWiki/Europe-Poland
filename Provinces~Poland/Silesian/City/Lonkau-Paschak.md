@@ -1,16 +1,19 @@
 ---
-location: [49.95,18.92] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Lonkau-Paschak
+location:
+  - 49.95
+  - 18.92
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32087
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

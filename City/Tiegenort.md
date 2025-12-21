@@ -1,16 +1,19 @@
 ---
-location: [54.5,19.13] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Tiegenort
+location:
+  - 54.5
+  - 19.13
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34865
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

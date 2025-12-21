@@ -2,6 +2,8 @@
 aliases:
   - Wrocław
   - Breslau
+  - Kąty_Wrocławskie
+  - Kąty Wrocławskie
 ---
 
 > **Wrocław** (Polish: [ˈvrɔt͡swaf] ; German: Breslau [ˈbʁɛslaʊ]) 

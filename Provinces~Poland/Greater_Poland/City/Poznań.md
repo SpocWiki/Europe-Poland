@@ -1,16 +1,19 @@
 ---
-location: [52.42,16.93] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Poznań
+location:
+  - 52.42
+  - 16.93
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33490
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

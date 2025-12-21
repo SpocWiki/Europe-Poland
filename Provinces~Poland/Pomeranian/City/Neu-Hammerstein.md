@@ -1,16 +1,19 @@
 ---
-location: [54.67,17.58] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Neu-Hammerstein
+location:
+  - 54.67
+  - 17.58
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32791
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

@@ -1,16 +1,19 @@
 ---
-location: [52.35,16.95] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Minikowa
+location:
+  - 52.35
+  - 16.95
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32495
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

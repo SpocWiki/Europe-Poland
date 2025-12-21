@@ -1,7 +1,9 @@
 ---
+aliases:
+  - Lakes~Poland
 location:
   - 52.0667
-  - 19.4667 
+  - 19.4667
 ---
 
 # [[Lakes~Poland]] 

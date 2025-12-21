@@ -1,16 +1,19 @@
 ---
-location: [54.32,19.57] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Tolkemit
+location:
+  - 54.32
+  - 19.57
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34898
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

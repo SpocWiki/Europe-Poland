@@ -1,16 +1,19 @@
 ---
-location: [50.67,16.62] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Langenbielau
+location:
+  - 50.67
+  - 16.62
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31824
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

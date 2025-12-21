@@ -1,16 +1,19 @@
 ---
-location: [53.85,20.08] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Ziegenberg
+location:
+  - 53.85
+  - 20.08
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 35822
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

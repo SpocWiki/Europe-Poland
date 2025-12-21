@@ -1,16 +1,19 @@
 ---
-location: [53.7,17.57] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Konitz
+location:
+  - 53.7
+  - 17.57
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31559
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

@@ -1,16 +1,19 @@
 ---
-location: [54.18,16.18] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Koeslin
+location:
+  - 54.18
+  - 16.18
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31760
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

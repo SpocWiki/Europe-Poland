@@ -1,16 +1,19 @@
 ---
-location: [54.2,22.28] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Grossblandau
+location:
+  - 54.2
+  - 22.28
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 30610
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

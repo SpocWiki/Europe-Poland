@@ -1,16 +1,19 @@
 ---
-location: [53.45,18.33] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Schwetz
+location:
+  - 53.45
+  - 18.33
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34116
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

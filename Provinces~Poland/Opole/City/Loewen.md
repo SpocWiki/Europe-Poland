@@ -1,16 +1,19 @@
 ---
-location: [50.62,17.48] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Loewen
+location:
+  - 50.62
+  - 17.48
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32196
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

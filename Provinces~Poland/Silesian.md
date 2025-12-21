@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Silesian
+  - Schlesien
 location:
   - 50.2
   - 18.9
@@ -12,19 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Silesian
-  - Schlesien
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Silesian

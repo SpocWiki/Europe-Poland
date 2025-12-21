@@ -1,16 +1,19 @@
 ---
-location: [50.78,17.75] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Golschwitz
+location:
+  - 50.78
+  - 17.75
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 30499
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

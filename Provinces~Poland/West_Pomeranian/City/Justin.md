@@ -1,16 +1,19 @@
 ---
-location: [54.02,14.97] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Justin
+location:
+  - 54.02
+  - 14.97
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31228
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

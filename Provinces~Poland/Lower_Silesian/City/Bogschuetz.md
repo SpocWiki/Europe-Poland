@@ -1,16 +1,19 @@
 ---
-location: [51.25,17.4] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Bogschuetz
+location:
+  - 51.25
+  - 17.4
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29251
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

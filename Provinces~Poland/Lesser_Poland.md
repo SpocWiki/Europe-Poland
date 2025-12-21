@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Lesser_Poland
+  - Lesser Poland
 location:
   - 49.8
   - 20.2
@@ -12,19 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Lesser_Poland
-  - Lesser Poland
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Lesser_Poland

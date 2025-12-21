@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Szczecin
+  - Stettin
 location:
   - 53.41
   - 14.54
@@ -12,9 +15,6 @@ tags:
 SpocWebEntityId: 34568
 isDeleted: false
 confidential: public
-aliases:
-  - Szczecin
-  - Stettin
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

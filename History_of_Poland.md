@@ -1,14 +1,16 @@
 ---
 aliases:
   - history of Poland
+  - History_of_Poland
+  - History of Poland
 has_id_wikidata: Q199569
-has_part_s_: "[[_Standards/WikiData/WD~Second_Polish_Republic,207272]]"
-described_by_source: "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+has_part_s_: '[[_Standards/WikiData/WD~Second_Polish_Republic,207272]]'
+described_by_source: '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
-subclass_of: "[[_Standards/WikiData/WD~history_of_Europe,7787]]"
-facet_of: "[[_Standards/WikiData/WD~Poland,36]]"
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+  - '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]'
+subclass_of: '[[_Standards/WikiData/WD~history_of_Europe,7787]]'
+facet_of: '[[_Standards/WikiData/WD~Poland,36]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tobias%20Mayer%20Carte%20de%20la%20Pologne%201757.jpg
 Commons_category: History of Poland
 ---

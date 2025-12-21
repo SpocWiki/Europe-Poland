@@ -1,16 +1,19 @@
 ---
-location: [52.85,19.7] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Sierpc
+location:
+  - 52.85
+  - 19.7
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34257
 isDeleted: false
 confidential: public
-
 ---
 
 # [[Sierpc]] 

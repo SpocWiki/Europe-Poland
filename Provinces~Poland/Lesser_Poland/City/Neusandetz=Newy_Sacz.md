@@ -1,16 +1,20 @@
 ---
-location: [49.63,20.72] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Neusandetz=Newy_Sacz
+  - Neusandetz=Newy Sacz
+location:
+  - 49.63
+  - 20.72
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32850
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

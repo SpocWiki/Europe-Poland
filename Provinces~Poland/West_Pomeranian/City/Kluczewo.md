@@ -1,16 +1,19 @@
 ---
-location: [53.3,15] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Kluczewo
+location:
+  - 53.3
+  - 15
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31508
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

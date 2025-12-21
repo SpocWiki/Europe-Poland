@@ -1,16 +1,19 @@
 ---
-location: [51.42,16.2] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Mallwitz
+location:
+  - 51.42
+  - 16.2
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32237
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

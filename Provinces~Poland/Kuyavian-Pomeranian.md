@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Kuyavian-Pomeranian
 location:
   - 53
   - 18.5
@@ -12,18 +14,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Kuyavian-Pomeranian
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Kuyavian-Pomeranian

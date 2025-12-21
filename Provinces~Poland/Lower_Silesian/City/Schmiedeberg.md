@@ -1,16 +1,19 @@
 ---
-location: [50.8,15.83] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Schmiedeberg
+location:
+  - 50.8
+  - 15.83
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34048
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

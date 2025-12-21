@@ -1,16 +1,19 @@
 ---
-location: [51.45,15.1] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Freiwaldau
+location:
+  - 51.45
+  - 15.1
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 30263
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

@@ -1,16 +1,19 @@
 ---
-location: [50.47,19.23] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Siewier
+location:
+  - 50.47
+  - 19.23
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34261
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

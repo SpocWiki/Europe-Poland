@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Weichsel
+  - Vistula
+  - Vistula,City
 location:
   - 49.65
   - 18.87
@@ -12,9 +16,6 @@ tags:
 SpocWebEntityId: 35487
 isDeleted: false
 confidential: public
-aliases:
-  - Weichsel
-  - Vistula
 ---
 
 # [[Vistula,City]] 

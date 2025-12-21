@@ -1,6 +1,7 @@
 ---
 aliases:
   - Sigismund_III_Vasa
+  - Sigismund III Vasa
 has_id_wikidata: Q52940
 Image_Archive_Herder_Institute: Q52940
 Commons_category: Sigismund III of Poland
@@ -15,7 +16,7 @@ described_at_URL:
   - http://www.digiporta.net/index.php?id=314114314
   - http://www.digiporta.net/index.php?id=470277715
   - http://www.digiporta.net/index.php?id=748411632
-ISNI: "0000000374414735"
+ISNI: 0000000374414735
 Libris_URI: 86lnp54s01znt54
 Swedish_Open_Cultural_Heritage_URI:
   - LSH/agents/26619
@@ -24,57 +25,57 @@ Royal_Academy_new_identifier: zygmunt-iii
 date_of_death: 1632-04-29T00:00:00Z
 work_period_end_: 1632-01-01T00:00:00Z
 spouse:
-  - "[[_Standards/WikiData/WD~Anne_of_Austria,_Queen_of_Poland,161133]]"
-  - "[[_Standards/WikiData/WD~Constance_of_Austria,232276]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Polish_Lithuanian_Commonwealth,172107]]"
-family: "[[_Standards/WikiData/WD~House_of_Vasa,210601]]"
-mother: "[[_Standards/WikiData/WD~Catherine_Jagellon,233277]]"
+  - '[[_Standards/WikiData/WD~Anne_of_Austria,_Queen_of_Poland,161133]]'
+  - '[[_Standards/WikiData/WD~Constance_of_Austria,232276]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Polish_Lithuanian_Commonwealth,172107]]'
+family: '[[_Standards/WikiData/WD~House_of_Vasa,210601]]'
+mother: '[[_Standards/WikiData/WD~Catherine_Jagellon,233277]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Zygmunt,245304]]"
-  - "[[_Standards/WikiData/WD~Sigismund,10667549]]"
+  - '[[_Standards/WikiData/WD~Zygmunt,245304]]'
+  - '[[_Standards/WikiData/WD~Sigismund,10667549]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Dictionary_of_Swedish_National_Biography,379406]]"
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - '[[_Standards/WikiData/WD~Dictionary_of_Swedish_National_Biography,379406]]'
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Princess_Anna_of_Sweden,469783]]"
-  - "[[_Standards/WikiData/WD~Sofia_Johansdotter_(Gyllenhielm),509216]]"
-  - "[[_Standards/WikiData/WD~John,_Duke_of_Östergötland,1383646]]"
-  - "[[_Standards/WikiData/WD~Isabella_Johansdotter,4955893]]"
+  - '[[_Standards/WikiData/WD~Princess_Anna_of_Sweden,469783]]'
+  - '[[_Standards/WikiData/WD~Sofia_Johansdotter_(Gyllenhielm),509216]]'
+  - '[[_Standards/WikiData/WD~John,_Duke_of_Östergötland,1383646]]'
+  - '[[_Standards/WikiData/WD~Isabella_Johansdotter,4955893]]'
 child:
-  - "[[_Standards/WikiData/WD~John_Albert_Vasa,534948]]"
-  - "[[_Standards/WikiData/WD~Karol_Ferdynand_Vasa,655548]]"
-  - "[[_Standards/WikiData/WD~Anna_Catherine_Constance_Vasa,2187338]]"
-  - "[[_Standards/WikiData/WD~Alexander_Charles_Vasa,2617314]]"
-  - "[[_Standards/WikiData/WD~Anna_Maria_Vasa,9155451]]"
-  - "[[_Standards/WikiData/WD~John_II_Casimir_Vasa,53452]]"
-  - "[[_Standards/WikiData/WD~Władysław_IV_Vasa,54054]]"
-place_of_birth: "[[_Standards/WikiData/WD~Gripsholm_Castle,714783]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~Bavarian_State_Painting_Collections,812285]]"
+  - '[[_Standards/WikiData/WD~John_Albert_Vasa,534948]]'
+  - '[[_Standards/WikiData/WD~Karol_Ferdynand_Vasa,655548]]'
+  - '[[_Standards/WikiData/WD~Anna_Catherine_Constance_Vasa,2187338]]'
+  - '[[_Standards/WikiData/WD~Alexander_Charles_Vasa,2617314]]'
+  - '[[_Standards/WikiData/WD~Anna_Maria_Vasa,9155451]]'
+  - '[[_Standards/WikiData/WD~John_II_Casimir_Vasa,53452]]'
+  - '[[_Standards/WikiData/WD~Władysław_IV_Vasa,54054]]'
+place_of_birth: '[[_Standards/WikiData/WD~Gripsholm_Castle,714783]]'
+has_works_in_the_collection: '[[_Standards/WikiData/WD~Bavarian_State_Painting_Collections,812285]]'
 position_held:
-  - "[[_Standards/WikiData/WD~Monarch_of_Sweden,1268572]]"
-  - "[[_Standards/WikiData/WD~Grand_Duke_of_Lithuania,2639920]]"
-  - "[[_Standards/WikiData/WD~King_of_Poland,3273712]]"
+  - '[[_Standards/WikiData/WD~Monarch_of_Sweden,1268572]]'
+  - '[[_Standards/WikiData/WD~Grand_Duke_of_Lithuania,2639920]]'
+  - '[[_Standards/WikiData/WD~King_of_Poland,3273712]]'
 noble_title:
-  - "[[_Standards/WikiData/WD~Grand_Prince,1549319]]"
-  - "[[_Standards/WikiData/WD~king,12097]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-place_of_burial: "[[_Standards/WikiData/WD~Royal_Tombs_of_the_Wawel_Cathedral,9276407]]"
-award_received: "[[_Standards/WikiData/WD~Knight_of_the_Order_of_the_Golden_Fleece,15117228]]"
+  - '[[_Standards/WikiData/WD~Grand_Prince,1549319]]'
+  - '[[_Standards/WikiData/WD~king,12097]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+place_of_burial: '[[_Standards/WikiData/WD~Royal_Tombs_of_the_Wawel_Cathedral,9276407]]'
+award_received: '[[_Standards/WikiData/WD~Knight_of_the_Order_of_the_Golden_Fleece,15117228]]'
 occupation:
-  - "[[_Standards/WikiData/WD~patron_of_the_arts,15472169]]"
-  - "[[_Standards/WikiData/WD~monarch,116]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
+  - '[[_Standards/WikiData/WD~patron_of_the_arts,15472169]]'
+  - '[[_Standards/WikiData/WD~monarch,116]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 work_period_start_: 1587-01-01T00:00:00Z
 date_of_birth: 1566-06-20T00:00:00Z
-place_of_death: "[[_Standards/WikiData/WD~Warsaw,270]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Polish,809]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Catholicism,1841]]"
-cause_of_death: "[[_Standards/WikiData/WD~stroke,12202]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-father: "[[_Standards/WikiData/WD~John_III_of_Sweden,52944]]"
+place_of_death: '[[_Standards/WikiData/WD~Warsaw,270]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Polish,809]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841]]'
+cause_of_death: '[[_Standards/WikiData/WD~stroke,12202]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+father: '[[_Standards/WikiData/WD~John_III_of_Sweden,52944]]'
 Provenio_UUID:
   - 9075cbc8-f5c3-4174-9fb0-b55695ec8a5a
   - 6db21939-7566-4139-a054-10fad380c3bd

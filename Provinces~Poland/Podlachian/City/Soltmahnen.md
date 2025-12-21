@@ -1,16 +1,19 @@
 ---
-location: [53.7,22.4] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Soltmahnen
+location:
+  - 53.7
+  - 22.4
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34357
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

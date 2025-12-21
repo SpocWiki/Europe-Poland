@@ -1,16 +1,19 @@
 ---
-location: [53.22,15.5] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Pammin
+location:
+  - 53.22
+  - 15.5
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33231
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

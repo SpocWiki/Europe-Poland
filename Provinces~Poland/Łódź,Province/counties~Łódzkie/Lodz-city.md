@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Łódź
+  - Lodz
+  - Lodz-city
 location:
   - 51.77
   - 19.45
@@ -12,9 +16,6 @@ tags:
 SpocWebEntityId: 32070
 isDeleted: false
 confidential: public
-aliases:
-  - Łódź
-  - Lodz
 ---
 
 # [Lodz-city](Lodz-city.md) 

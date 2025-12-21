@@ -1,16 +1,19 @@
 ---
-location: [53.58,20.28] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Hohenstein~Ostpommern
+location:
+  - 53.58
+  - 20.28
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 30986
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

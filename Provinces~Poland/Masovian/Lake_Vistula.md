@@ -2,6 +2,8 @@
 aliases:
   - Włocławek Reservoir
   - Zbiornik Włocławski
+  - Lake_Vistula
+  - Lake Vistula
 ---
 
 # [[Lake_Vistula]] 

@@ -2,6 +2,7 @@
 aliases:
   - województwa
   - Voivodeship
+  - Provinces~Poland
 ---
 
 > A **Voivodeship** ( VOY-vohd-ship) or voivodate 

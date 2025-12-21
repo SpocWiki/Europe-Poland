@@ -1,16 +1,19 @@
 ---
-location: [51.28,15.42] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Thommendorf
+location:
+  - 51.28
+  - 15.42
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34853
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

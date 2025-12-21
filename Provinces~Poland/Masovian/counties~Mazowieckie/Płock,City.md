@@ -1,16 +1,19 @@
 ---
-location: [52.55,19.72] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Płock,City
+location:
+  - 52.55
+  - 19.72
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33411
 isDeleted: false
 confidential: public
-
 ---
 
 # [[Płock,City]]

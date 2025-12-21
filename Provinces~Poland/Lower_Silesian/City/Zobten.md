@@ -1,16 +1,19 @@
 ---
-location: [50.9,16.75] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Zobten
+location:
+  - 50.9
+  - 16.75
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 35845
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

@@ -1,16 +1,19 @@
 ---
-location: [53.27,16.47] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Deutsch-Krone
+location:
+  - 53.27
+  - 16.47
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29770
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

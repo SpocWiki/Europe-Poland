@@ -1,16 +1,19 @@
 ---
-location: [53.85,22.98] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Augustow
+location:
+  - 53.85
+  - 22.98
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 28929
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

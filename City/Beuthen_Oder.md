@@ -1,16 +1,22 @@
 ---
-location: [51,73,15,83] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Beuthen_Oder
+  - Beuthen Oder
+location:
+  - 51
+  - 73
+  - 15
+  - 83
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29160
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

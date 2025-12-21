@@ -1,16 +1,19 @@
 ---
-location: [50.38,18.35] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Ujest
+location:
+  - 50.38
+  - 18.35
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 35098
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

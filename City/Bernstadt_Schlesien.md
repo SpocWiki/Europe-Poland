@@ -1,16 +1,22 @@
 ---
-location: [51,13,17,5] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Bernstadt_Schlesien
+  - Bernstadt Schlesien
+location:
+  - 51
+  - 13
+  - 17
+  - 5
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29142
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

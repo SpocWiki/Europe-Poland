@@ -1,10 +1,11 @@
 ---
-has_id_wikidata: Q31487
 aliases:
   - Kraków
   - Krakau
   - Cracow
   - Krakow
+  - Kraków,City
+has_id_wikidata: Q31487
 location:
   - 50.05
   - 19.97
@@ -19,101 +20,101 @@ SpocWebEntityId: 31611
 isDeleted: false
 confidential: public
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Solothurn,68965]]"
-  - "[[_Standards/WikiData/WD~Fez,80985]]"
-  - "[[_Standards/WikiData/WD~Leuven,118958]]"
-  - "[[_Standards/WikiData/WD~Milan,490]]"
-  - "[[_Standards/WikiData/WD~Tbilisi,994]]"
-  - "[[_Standards/WikiData/WD~Bordeaux,1479]]"
-  - "[[_Standards/WikiData/WD~Innsbruck,1735]]"
-  - "[[_Standards/WikiData/WD~Bratislava,1780]]"
-  - "[[_Standards/WikiData/WD~Budapest,1781]]"
-  - "[[_Standards/WikiData/WD~Frankfurt,1794]]"
-  - "[[_Standards/WikiData/WD~Kyiv,1899]]"
-  - "[[_Standards/WikiData/WD~Florence,2044]]"
-  - "[[_Standards/WikiData/WD~Leipzig,2079]]"
-  - "[[_Standards/WikiData/WD~Nuremberg,2090]]"
-  - "[[_Standards/WikiData/WD~Edinburgh,23436]]"
-  - "[[_Standards/WikiData/WD~Vilnius,216]]"
-  - "[[_Standards/WikiData/WD~Lviv,36036]]"
-  - "[[_Standards/WikiData/WD~Pécs,45779]]"
-  - "[[_Standards/WikiData/WD~Rochester,49218]]"
-  - "[[_Standards/WikiData/WD~Gothenburg_Municipality,52502]]"
+  - '[[_Standards/WikiData/WD~Solothurn,68965]]'
+  - '[[_Standards/WikiData/WD~Fez,80985]]'
+  - '[[_Standards/WikiData/WD~Leuven,118958]]'
+  - '[[_Standards/WikiData/WD~Milan,490]]'
+  - '[[_Standards/WikiData/WD~Tbilisi,994]]'
+  - '[[_Standards/WikiData/WD~Bordeaux,1479]]'
+  - '[[_Standards/WikiData/WD~Innsbruck,1735]]'
+  - '[[_Standards/WikiData/WD~Bratislava,1780]]'
+  - '[[_Standards/WikiData/WD~Budapest,1781]]'
+  - '[[_Standards/WikiData/WD~Frankfurt,1794]]'
+  - '[[_Standards/WikiData/WD~Kyiv,1899]]'
+  - '[[_Standards/WikiData/WD~Florence,2044]]'
+  - '[[_Standards/WikiData/WD~Leipzig,2079]]'
+  - '[[_Standards/WikiData/WD~Nuremberg,2090]]'
+  - '[[_Standards/WikiData/WD~Edinburgh,23436]]'
+  - '[[_Standards/WikiData/WD~Vilnius,216]]'
+  - '[[_Standards/WikiData/WD~Lviv,36036]]'
+  - '[[_Standards/WikiData/WD~Pécs,45779]]'
+  - '[[_Standards/WikiData/WD~Rochester,49218]]'
+  - '[[_Standards/WikiData/WD~Gothenburg_Municipality,52502]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Gmina_Koniusza,387500]]"
-  - "[[_Standards/WikiData/WD~Wieliczka_County,609424]]"
-  - "[[_Standards/WikiData/WD~Proszowice_County,1147561]]"
-  - "[[_Standards/WikiData/WD~Kraków_County,1164890]]"
-  - "[[_Standards/WikiData/WD~Gmina_Igołomia_Wawrzeńczyce,1917697]]"
-  - "[[_Standards/WikiData/WD~Gmina_Niepołomice,1976665]]"
-  - "[[_Standards/WikiData/WD~Gmina_Michałowice,_Lesser_Poland_Voivodeship,2106470]]"
-  - "[[_Standards/WikiData/WD~Gmina_Wieliczka,2185724]]"
-  - "[[_Standards/WikiData/WD~Gmina_Mogilany,2201057]]"
-  - "[[_Standards/WikiData/WD~Gmina_Zabierzów,2230168]]"
-  - "[[_Standards/WikiData/WD~Gmina_Kocmyrzów_Luborzyca,2296261]]"
-  - "[[_Standards/WikiData/WD~Gmina_Zielonki,2458253]]"
-  - "[[_Standards/WikiData/WD~Gmina_Wielka_Wieś,2458319]]"
-  - "[[_Standards/WikiData/WD~Gmina_Świątniki_Górne,2458666]]"
-  - "[[_Standards/WikiData/WD~Gmina_Liszki,2461010]]"
-  - "[[_Standards/WikiData/WD~Gmina_Skawina,7726653]]"
+  - '[[_Standards/WikiData/WD~Gmina_Koniusza,387500]]'
+  - '[[_Standards/WikiData/WD~Wieliczka_County,609424]]'
+  - '[[_Standards/WikiData/WD~Proszowice_County,1147561]]'
+  - '[[_Standards/WikiData/WD~Kraków_County,1164890]]'
+  - '[[_Standards/WikiData/WD~Gmina_Igołomia_Wawrzeńczyce,1917697]]'
+  - '[[_Standards/WikiData/WD~Gmina_Niepołomice,1976665]]'
+  - '[[_Standards/WikiData/WD~Gmina_Michałowice,_Lesser_Poland_Voivodeship,2106470]]'
+  - '[[_Standards/WikiData/WD~Gmina_Wieliczka,2185724]]'
+  - '[[_Standards/WikiData/WD~Gmina_Mogilany,2201057]]'
+  - '[[_Standards/WikiData/WD~Gmina_Zabierzów,2230168]]'
+  - '[[_Standards/WikiData/WD~Gmina_Kocmyrzów_Luborzyca,2296261]]'
+  - '[[_Standards/WikiData/WD~Gmina_Zielonki,2458253]]'
+  - '[[_Standards/WikiData/WD~Gmina_Wielka_Wieś,2458319]]'
+  - '[[_Standards/WikiData/WD~Gmina_Świątniki_Górne,2458666]]'
+  - '[[_Standards/WikiData/WD~Gmina_Liszki,2461010]]'
+  - '[[_Standards/WikiData/WD~Gmina_Skawina,7726653]]'
 described_by_source:
-  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
   - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~Hanseatic_city,707813]]"
-  - "[[_Standards/WikiData/WD~city_with_powiat_rights_in_Poland,925381]]"
-  - "[[_Standards/WikiData/WD~tourist_destination,1200957]]"
-  - "[[_Standards/WikiData/WD~big_city,1549591]]"
-  - "[[_Standards/WikiData/WD~city_or_town,7930989]]"
-  - "[[_Standards/WikiData/WD~place_with_town_rights_and_privileges,13539802]]"
-  - "[[_Standards/WikiData/WD~former_national_capital,129268952]]"
+  - '[[_Standards/WikiData/WD~Hanseatic_city,707813]]'
+  - '[[_Standards/WikiData/WD~city_with_powiat_rights_in_Poland,925381]]'
+  - '[[_Standards/WikiData/WD~tourist_destination,1200957]]'
+  - '[[_Standards/WikiData/WD~big_city,1549591]]'
+  - '[[_Standards/WikiData/WD~city_or_town,7930989]]'
+  - '[[_Standards/WikiData/WD~place_with_town_rights_and_privileges,13539802]]'
+  - '[[_Standards/WikiData/WD~former_national_capital,129268952]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Organization_of_World_Heritage_Cities,734958]]"
-  - "[[_Standards/WikiData/WD~Creative_Cities_Network,1139352]]"
-  - "[[_Standards/WikiData/WD~League_of_Historical_Cities,9383972]]"
-  - "[[_Standards/WikiData/WD~International_Cities_of_Refuge_Network,15477956]]"
-owner_of: "[[_Standards/WikiData/WD~Marshal_Józef_Piłsudski_Stadium,738643]]"
-founded_by: "[[_Standards/WikiData/WD~Krakus,1049201]]"
+  - '[[_Standards/WikiData/WD~Organization_of_World_Heritage_Cities,734958]]'
+  - '[[_Standards/WikiData/WD~Creative_Cities_Network,1139352]]'
+  - '[[_Standards/WikiData/WD~League_of_Historical_Cities,9383972]]'
+  - '[[_Standards/WikiData/WD~International_Cities_of_Refuge_Network,15477956]]'
+owner_of: '[[_Standards/WikiData/WD~Marshal_Józef_Piłsudski_Stadium,738643]]'
+founded_by: '[[_Standards/WikiData/WD~Krakus,1049201]]'
 history_of_topic:
-  - "[[_Standards/WikiData/WD~history_of_Kraków,1120803]]"
-  - "[[_Standards/WikiData/WD~timeline_of_Kraków,11733589]]"
+  - '[[_Standards/WikiData/WD~history_of_Kraków,1120803]]'
+  - '[[_Standards/WikiData/WD~timeline_of_Kraków,11733589]]'
 award_received:
   - "[[_Standards/WikiData/WD~Order_of_the_Builders_of_People's_Poland,1703174]]"
-  - "[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_Polonia_Restituta,15715257]]"
-  - "[[_Standards/WikiData/WD~European_City_of_the_Trees,20198245]]"
+  - '[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_Polonia_Restituta,15715257]]'
+  - '[[_Standards/WikiData/WD~European_City_of_the_Trees,20198245]]'
 has_list:
-  - "[[_Standards/WikiData/WD~list_of_events_in_Kraków,11711946]]"
-  - "[[_Standards/WikiData/WD~list_of_people_from_Kraków,16360191]]"
-different_from: "[[_Standards/WikiData/WD~Kraków,11747925]]"
-legislative_body: "[[_Standards/WikiData/WD~Kraków_City_Council,11833358]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Kraków,13220232]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Mayor_of_Kraków,13647765]]"
-head_of_government: "[[_Standards/WikiData/WD~Aleksander_Miszalski,73424976]]"
+  - '[[_Standards/WikiData/WD~list_of_events_in_Kraków,11711946]]'
+  - '[[_Standards/WikiData/WD~list_of_people_from_Kraków,16360191]]'
+different_from: '[[_Standards/WikiData/WD~Kraków,11747925]]'
+legislative_body: '[[_Standards/WikiData/WD~Kraków_City_Council,11833358]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Kraków,13220232]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Mayor_of_Kraków,13647765]]'
+head_of_government: '[[_Standards/WikiData/WD~Aleksander_Miszalski,73424976]]'
 open_data_portal: "[[_Standards/WikiData/WD~Krakow's_city_data,97101693]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Kraków,100867265]]"
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Kraków,100867265]]'
 coordinate_location: Point(19.937222222 50.061388888)
 inception: http://www.wikidata.org/.well-known/genid/14cbdc32099cfad0eacab9f8372400a4
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Vistula,548]]"
-official_language: "[[_Standards/WikiData/WD~Polish,809]]"
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Vistula,548]]'
+official_language: '[[_Standards/WikiData/WD~Polish,809]]'
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
-  - "[[_Standards/WikiData/WD~UTC+02_00,6723]]"
-significant_event: "[[_Standards/WikiData/WD~town_privileges,28942]]"
-country: "[[_Standards/WikiData/WD~Poland,36]]"
-continent: "[[_Standards/WikiData/WD~Europe,46]]"
+  - '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
+  - '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
+significant_event: '[[_Standards/WikiData/WD~town_privileges,28942]]'
+country: '[[_Standards/WikiData/WD~Poland,36]]'
+continent: '[[_Standards/WikiData/WD~Europe,46]]'
 elevation_above_sea_level: 219
 area: 327
-capital_of: "[[_Standards/WikiData/WD~Lesser_Poland_Voivodeship,54159]]"
-part_of: "[[_Standards/WikiData/WD~Lesser_Poland_Voivodeship,54159]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Lesser_Poland_Voivodeship,54159]]"
-local_dialing_code: "12"
+capital_of: '[[_Standards/WikiData/WD~Lesser_Poland_Voivodeship,54159]]'
+part_of: '[[_Standards/WikiData/WD~Lesser_Poland_Voivodeship,54159]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Lesser_Poland_Voivodeship,54159]]'
+local_dialing_code: 12
 Wolfram_Language_entity_code:
   - Entity["AdministrativeDivision", {"Krakowski", "Malopolskie", "Poland"}]
   - Entity["Concept", "Cracow::4j7rx"]
@@ -130,7 +131,7 @@ demonym:
   - krakowianka
   - Cracovian
 time_of_earliest_written_record: 0966-01-01T00:00:00Z
-OmegaWiki_Defined_Meaning: "457353"
+OmegaWiki_Defined_Meaning: 457353
 male_population: 373899
 BHCL_UUID:
   - a703e483-f1aa-4615-b1ef-94e6bfef12e1
@@ -141,7 +142,7 @@ Commons_gallery: Kraków
 Commons_category: Kraków
 Image_Archive_Herder_Institute: Q31487
 population: 804237
-TERC_municipality_code: "1261011"
+TERC_municipality_code: 1261011
 native_label: Kraków
 official_name: Kraków
 licence_plate_code: KR
@@ -157,7 +158,7 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/POL%20Krak%C3%B3w%20map.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Zamek%20Kr%C3%B3lewski%20na%20Wawelu%20%281%29.jpg
 official_website: http://www.krakow.pl/
-ISNI: "0000000121518106"
+ISNI: 0000000121518106
 Provenio_UUID: 12c3e54b-1998-47d9-b5a2-2fc455fb6159
 postal_code: 30-001
 ---

@@ -1,16 +1,19 @@
 ---
-location: [53.47,14.58] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Zuellchow
+location:
+  - 53.47
+  - 14.58
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 35870
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

@@ -1,16 +1,19 @@
 ---
-location: [54.38,20.65] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Bagrationowsk
+location:
+  - 54.38
+  - 20.65
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33495
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

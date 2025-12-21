@@ -1,16 +1,19 @@
 ---
-location: [51.4,21.15] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Radom
+location:
+  - 51.4
+  - 21.15
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33609
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

@@ -1,16 +1,19 @@
 ---
-location: [54.3,19.52] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Kickelhof
+location:
+  - 54.3
+  - 19.52
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31417
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

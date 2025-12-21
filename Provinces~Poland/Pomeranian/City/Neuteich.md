@@ -1,16 +1,19 @@
 ---
-location: [54.15,19.02] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Neuteich
+location:
+  - 54.15
+  - 19.02
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32870
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

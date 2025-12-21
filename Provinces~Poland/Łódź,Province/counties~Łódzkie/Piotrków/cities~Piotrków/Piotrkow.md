@@ -1,16 +1,19 @@
 ---
-location: [51.32,19.7] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Piotrkow
+location:
+  - 51.32
+  - 19.7
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33380
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

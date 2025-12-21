@@ -1,16 +1,19 @@
 ---
-location: [53.75,21.35] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Peitschendorf
+location:
+  - 53.75
+  - 21.35
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33280
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

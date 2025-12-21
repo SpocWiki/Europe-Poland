@@ -1,16 +1,19 @@
 ---
-location: [51.1,16.5] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Ober-Mois
+location:
+  - 51.1
+  - 16.5
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33014
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

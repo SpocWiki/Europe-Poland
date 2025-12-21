@@ -1,16 +1,19 @@
 ---
-location: [50.88,18.42] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Landsberg~Schlesien
+location:
+  - 50.88
+  - 18.42
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31806
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

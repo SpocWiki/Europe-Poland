@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Świętokrzyskie
+  - Holy Cross
+  - ''
 location:
   - 50.7
   - 20.8
@@ -12,20 +16,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Świętokrzyskie
-  - Holy Cross
-  - 
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Świętokrzyskie

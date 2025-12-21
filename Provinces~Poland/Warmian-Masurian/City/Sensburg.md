@@ -1,16 +1,19 @@
 ---
-location: [53.63,21.32] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Sensburg
+location:
+  - 53.63
+  - 21.32
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34202
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

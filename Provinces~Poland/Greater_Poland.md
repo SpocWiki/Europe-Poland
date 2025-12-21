@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Greater_Poland
+  - Greater Poland
 location:
   - 52.3
   - 17.3
@@ -12,19 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Greater_Poland
-  - Greater Poland
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Greater_Poland

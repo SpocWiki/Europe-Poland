@@ -1,16 +1,19 @@
 ---
-location: [53.03,16.12] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Prellwitz
+location:
+  - 53.03
+  - 16.12
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33510
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

@@ -1,16 +1,19 @@
 ---
-location: [53.52,20.2] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Muehlen~Ostpommern
+location:
+  - 53.52
+  - 20.2
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32653
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

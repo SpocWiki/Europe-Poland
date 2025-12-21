@@ -1,16 +1,19 @@
 ---
-location: [52.95,15.88] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Waldowshof
+location:
+  - 52.95
+  - 15.88
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 35416
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

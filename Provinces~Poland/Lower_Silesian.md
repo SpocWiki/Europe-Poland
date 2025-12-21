@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Lower_Silesian
+  - Lower Silesian
+  - Niederschlesien
 location:
   - 50.9
   - 16.3
@@ -12,20 +16,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Lower_Silesian
-  - Lower Silesian
-  - Niederschlesien
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Lower_Silesian

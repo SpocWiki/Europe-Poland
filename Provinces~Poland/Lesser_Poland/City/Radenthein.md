@@ -1,16 +1,19 @@
 ---
-location: [49.62,19.97] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Radenthein
+location:
+  - 49.62
+  - 19.97
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33602
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

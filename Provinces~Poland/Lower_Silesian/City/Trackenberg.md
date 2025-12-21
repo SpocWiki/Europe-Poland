@@ -1,16 +1,19 @@
 ---
-location: [51.47,16.93] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Trackenberg
+location:
+  - 51.47
+  - 16.93
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34941
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

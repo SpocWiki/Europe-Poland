@@ -1,16 +1,19 @@
 ---
-location: [53.23,16.68] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Lebehnke
+location:
+  - 53.23
+  - 16.68
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31899
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

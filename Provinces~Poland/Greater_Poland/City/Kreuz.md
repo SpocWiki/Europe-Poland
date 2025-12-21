@@ -1,16 +1,19 @@
 ---
-location: [52.87,16.03] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Kreuz
+location:
+  - 52.87
+  - 16.03
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31638
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

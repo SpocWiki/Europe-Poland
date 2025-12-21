@@ -1,16 +1,19 @@
 ---
-location: [54.25,20.82] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Bartenstein
+location:
+  - 54.25
+  - 20.82
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29035
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

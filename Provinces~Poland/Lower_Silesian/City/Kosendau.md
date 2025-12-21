@@ -1,16 +1,19 @@
 ---
-location: [51.17,15.92] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Kosendau
+location:
+  - 51.17
+  - 15.92
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31587
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

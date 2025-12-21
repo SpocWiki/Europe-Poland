@@ -1,16 +1,19 @@
 ---
-location: [53.9,15.7] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Stolzenberg
+location:
+  - 53.9
+  - 15.7
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34589
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

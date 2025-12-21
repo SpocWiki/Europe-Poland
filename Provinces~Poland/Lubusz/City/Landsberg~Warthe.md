@@ -1,16 +1,19 @@
 ---
-location: [52.73,15.23] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Landsberg~Warthe
+location:
+  - 52.73
+  - 15.23
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31807
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

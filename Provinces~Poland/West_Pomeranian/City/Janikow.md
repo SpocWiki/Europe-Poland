@@ -1,16 +1,19 @@
 ---
-location: [53.52,15.8] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Janikow
+location:
+  - 53.52
+  - 15.8
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31159
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

@@ -4,29 +4,30 @@ aliases:
   - Solidarność
   - Independent Self-Governing Trade Union "Solidarity"
   - Niezależny Samorządny Związek Zawodowy „Solidarność”
+  - Solidarnosc
 has_id_wikidata: Q1003
 instance_of:
-  - "[[_Standards/WikiData/WD~labor_union,178790]]"
-  - "[[_Standards/WikiData/WD~organization,43229]]"
-chairperson: "[[_Standards/WikiData/WD~Piotr_Duda,265272]]"
+  - '[[_Standards/WikiData/WD~labor_union,178790]]'
+  - '[[_Standards/WikiData/WD~organization,43229]]'
+chairperson: '[[_Standards/WikiData/WD~Piotr_Duda,265272]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Solidarité,343953]]"
-  - "[[_Standards/WikiData/WD~solidarity,815726]]"
-  - "[[_Standards/WikiData/WD~Solidarnost,1561136]]"
-affiliation: "[[_Standards/WikiData/WD~International_Trade_Union_Confederation,1071706]]"
-member_of: "[[_Standards/WikiData/WD~European_Trade_Union_Confederation,1377852]]"
-archives_at: "[[_Standards/WikiData/WD~International_Institute_of_Social_History,1667757]]"
-replaces: "[[_Standards/WikiData/WD~Zrzeszenie_Związków_Zawodowych,9392075]]"
+  - '[[_Standards/WikiData/WD~Solidarité,343953]]'
+  - '[[_Standards/WikiData/WD~solidarity,815726]]'
+  - '[[_Standards/WikiData/WD~Solidarnost,1561136]]'
+affiliation: '[[_Standards/WikiData/WD~International_Trade_Union_Confederation,1071706]]'
+member_of: '[[_Standards/WikiData/WD~European_Trade_Union_Confederation,1377852]]'
+archives_at: '[[_Standards/WikiData/WD~International_Institute_of_Social_History,1667757]]'
+replaces: '[[_Standards/WikiData/WD~Zrzeszenie_Związków_Zawodowych,9392075]]'
 has_works_in_the_collection:
-  - "[[_Standards/WikiData/WD~Archives_of_National_Commission_of_Solidarity_Trade_Union,93271892]]"
-  - "[[_Standards/WikiData/WD~Polish_Underground_Library_at_Libri_Prohibiti,93272280]]"
-  - "[[_Standards/WikiData/WD~Poznan_Anarchist_Library_Archive,93272401]]"
-  - "[[_Standards/WikiData/WD~Polish_Underground_Publications_Collection_at_Polish_Library_POSK_in_London,93272430]]"
-  - "[[_Standards/WikiData/WD~Solidarity_Posters_Collection,93272433]]"
-  - "[[_Standards/WikiData/WD~Solidarity_Collection_at_the_British_Library,93272487]]"
-founded_by: "[[_Standards/WikiData/WD~Q444,444]]"
-headquarters_location: "[[_Standards/WikiData/WD~Gdańsk,1792]]"
-country: "[[_Standards/WikiData/WD~Poland,36]]"
+  - '[[_Standards/WikiData/WD~Archives_of_National_Commission_of_Solidarity_Trade_Union,93271892]]'
+  - '[[_Standards/WikiData/WD~Polish_Underground_Library_at_Libri_Prohibiti,93272280]]'
+  - '[[_Standards/WikiData/WD~Poznan_Anarchist_Library_Archive,93272401]]'
+  - '[[_Standards/WikiData/WD~Polish_Underground_Publications_Collection_at_Polish_Library_POSK_in_London,93272430]]'
+  - '[[_Standards/WikiData/WD~Solidarity_Posters_Collection,93272433]]'
+  - '[[_Standards/WikiData/WD~Solidarity_Collection_at_the_British_Library,93272487]]'
+founded_by: '[[_Standards/WikiData/WD~Q444,444]]'
+headquarters_location: '[[_Standards/WikiData/WD~Gdańsk,1792]]'
+country: '[[_Standards/WikiData/WD~Poland,36]]'
 Alexa_rank: 916330
 BHCL_UUID:
   - 7fc51712-b278-41b9-a476-b185ceed617e
@@ -36,7 +37,7 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Pl-solid
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Solidarno%C5%9B%C4%87%20logo%20FoP.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Strajk%20sierpniowy%20w%20Stoczni%20Gda%C5%84skiej%20im.%20Lenina%2034.jpg
 official_website: http://www.solidarnosc.org.pl
-ISNI: "0000000121809165"
+ISNI: 0000000121809165
 Commons_category: Solidarność
 IPA_transcription: sɔliˈdarnɔɕt͡ɕ
 native_label: Niezależny Samorządny Związek Zawodowy „Solidarność”

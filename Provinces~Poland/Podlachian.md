@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Podlachian
+  - Podlaskie
 location:
   - 53.4
   - 22.7
@@ -12,19 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Podlachian
-  - Podlaskie
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Podlachian

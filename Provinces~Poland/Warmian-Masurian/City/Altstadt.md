@@ -1,16 +1,19 @@
 ---
-location: [53.47,20] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Altstadt
+location:
+  - 53.47
+  - 20
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 28788
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

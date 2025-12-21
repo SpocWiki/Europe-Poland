@@ -1,16 +1,19 @@
 ---
-location: [53.33,15.05] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Stargard~Pommern
+location:
+  - 53.33
+  - 15.05
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34522
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

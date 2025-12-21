@@ -1,16 +1,19 @@
 ---
-location: [50.33,16.38] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Grunwald
+location:
+  - 50.33
+  - 16.38
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 30616
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

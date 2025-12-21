@@ -1,16 +1,19 @@
 ---
-location: [51.38,15.43] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Lorenzdorf
+location:
+  - 51.38
+  - 15.43
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32093
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

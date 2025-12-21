@@ -1,16 +1,19 @@
 ---
-location: [53.38,14.75] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Damm
+location:
+  - 53.38
+  - 14.75
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29712
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

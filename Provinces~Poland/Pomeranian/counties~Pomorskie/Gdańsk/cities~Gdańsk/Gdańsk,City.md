@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 0997-01-01 
 aliases:
   - Gdańsk
   - Danzig

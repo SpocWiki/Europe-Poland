@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1980-09-01 
 aliases:
   - Solidarity
   - Solidarność

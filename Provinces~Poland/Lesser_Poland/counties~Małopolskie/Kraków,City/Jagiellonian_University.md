@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1364-05-12 
 aliases:
   - Jagiellonian University
   - Uniwersytet Jagielloński

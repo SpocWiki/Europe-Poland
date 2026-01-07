@@ -14,6 +14,11 @@ tags:
 SpocWebEntityId: 34114
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 15.5
+dv_has_place_latitude: 52.6
+dv_name: Schwerin~Brandenburg
+dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.97
 dv_has_place_latitude: 49.28
-dv_name: Zakopane
+dv_has_name_: Zakopane
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

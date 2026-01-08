@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.42
 dv_has_place_latitude: 51.28
-dv_name: Thommendorf
+dv_has_name_: Thommendorf
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

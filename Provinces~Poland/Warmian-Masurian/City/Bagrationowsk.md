@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 20.65
 dv_has_place_latitude: 54.38
-dv_name: Bagrationowsk
+dv_has_name_: Bagrationowsk
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 36942
 ---

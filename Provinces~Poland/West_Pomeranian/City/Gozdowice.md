@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.33
 dv_has_place_latitude: 52.77
-dv_name: Gozdowice
+dv_has_name_: Gozdowice
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

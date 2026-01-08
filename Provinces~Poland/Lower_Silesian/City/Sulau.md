@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.18
 dv_has_place_latitude: 51.5
-dv_name: Sulau
+dv_has_name_: Sulau
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

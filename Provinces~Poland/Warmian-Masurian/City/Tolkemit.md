@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.57
 dv_has_place_latitude: 54.32
-dv_name: Tolkemit
+dv_has_name_: Tolkemit
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 36942
 ---

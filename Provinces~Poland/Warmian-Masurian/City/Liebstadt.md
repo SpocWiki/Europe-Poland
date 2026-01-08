@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 20.08
 dv_has_place_latitude: 54.02
-dv_name: Liebstadt
+dv_has_name_: Liebstadt
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

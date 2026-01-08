@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.68
 dv_has_place_latitude: 54.35
-dv_name: Frauenburg
+dv_has_name_: Frauenburg
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 36942
 ---

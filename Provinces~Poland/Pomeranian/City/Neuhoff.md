@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.58
 dv_has_place_latitude: 54.75
-dv_name: Neuhoff
+dv_has_name_: Neuhoff
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16
 dv_has_place_latitude: 50.72
-dv_name: Liebau
+dv_has_name_: Liebau
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

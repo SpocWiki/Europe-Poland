@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.47
 dv_has_place_latitude: 52.98
-dv_name: Bernikow
+dv_has_name_: Bernikow
 dv_Country: "[[../../../../../Europe~South/Portugal]]"
 ---
 #is_a_/Place  

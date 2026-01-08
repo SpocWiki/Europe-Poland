@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.8
 dv_has_place_latitude: 52.18
-dv_name: Ziebingen
+dv_has_name_: Ziebingen
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

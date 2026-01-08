@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 21.38
 dv_has_place_latitude: 54.27
-dv_name: Markhausen
+dv_has_name_: Markhausen
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

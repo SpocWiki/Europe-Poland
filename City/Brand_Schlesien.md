@@ -24,7 +24,7 @@ dv_has_place_longitude:
 dv_has_place_latitude:
   - 50
   - 28
-dv_name: Brand/Schlesien
+dv_has_name_: Brand/Schlesien
 dv_Country: "[[../../Poland]]"
 ---
 #is_a_/Place  

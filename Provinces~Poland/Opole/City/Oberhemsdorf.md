@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.12
 dv_has_place_latitude: 50.4
-dv_name: Oberhemsdorf
+dv_has_name_: Oberhemsdorf
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  

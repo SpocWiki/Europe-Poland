@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.63
 dv_has_place_latitude: 49.83
-dv_name: Cieszyn
+dv_has_name_: Cieszyn
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.22
 dv_has_place_latitude: 50.98
-dv_name: Kreuzburg
+dv_has_name_: Kreuzburg
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

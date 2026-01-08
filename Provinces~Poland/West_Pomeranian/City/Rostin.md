@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.8
 dv_has_place_latitude: 52.9
-dv_name: Rostin
+dv_has_name_: Rostin
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

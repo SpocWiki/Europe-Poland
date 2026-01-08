@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.5
 dv_has_place_latitude: 53.22
-dv_name: Pammin
+dv_has_name_: Pammin
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

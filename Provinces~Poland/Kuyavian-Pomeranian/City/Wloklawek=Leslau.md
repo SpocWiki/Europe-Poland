@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.08
 dv_has_place_latitude: 52.65
-dv_name: Wloklawek=Leslau
+dv_has_name_: Wloklawek=Leslau
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.32
 dv_has_place_latitude: 50.52
-dv_name: Gross-Strehlitz
+dv_has_name_: Gross-Strehlitz
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

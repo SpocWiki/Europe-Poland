@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 21.17
 dv_has_place_latitude: 49.65
-dv_name: Gorlice
+dv_has_name_: Gorlice
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

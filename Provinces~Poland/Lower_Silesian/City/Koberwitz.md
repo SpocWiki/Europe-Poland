@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.92
 dv_has_place_latitude: 50.98
-dv_name: Koberwitz
+dv_has_name_: Koberwitz
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

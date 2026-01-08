@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 23.17
 dv_has_place_latitude: 53.13
-dv_name: Bialystock
+dv_has_name_: Bialystock
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

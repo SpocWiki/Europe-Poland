@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.72
 dv_has_place_latitude: 52.55
-dv_name: Płock,City
+dv_has_name_: Płock,City
 dv_Country: "[[../../../../Poland]]"
 ---
 

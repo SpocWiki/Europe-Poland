@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.52
 dv_has_place_latitude: 50.3
-dv_name: Langenbrueck
+dv_has_name_: Langenbrueck
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

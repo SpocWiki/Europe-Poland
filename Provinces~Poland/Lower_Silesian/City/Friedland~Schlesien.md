@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.18
 dv_has_place_latitude: 50.67
-dv_name: Friedland~Schlesien
+dv_has_name_: Friedland~Schlesien
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

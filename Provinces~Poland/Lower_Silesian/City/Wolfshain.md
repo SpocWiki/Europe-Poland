@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.77
 dv_has_place_latitude: 51.27
-dv_name: Wolfshain
+dv_has_name_: Wolfshain
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

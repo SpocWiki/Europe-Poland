@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 20.2
 dv_has_place_latitude: 53.52
-dv_name: Muehlen~Ostpommern
+dv_has_name_: Muehlen~Ostpommern
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

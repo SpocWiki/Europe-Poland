@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.93
 dv_has_place_latitude: 52.42
-dv_name: Poznań
+dv_has_name_: Poznań
 dv_State: "[Greater_Poland](../../Greater_Poland.md)"
 dv_Country: "[[../../../../Poland]]"
 dv_has_:

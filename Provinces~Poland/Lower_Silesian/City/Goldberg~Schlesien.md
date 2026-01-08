@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.92
 dv_has_place_latitude: 51.13
-dv_name: Goldberg~Schlesien
+dv_has_name_: Goldberg~Schlesien
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

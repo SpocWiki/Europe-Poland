@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.13
 dv_has_place_latitude: 52.28
-dv_name: Paprotsch
+dv_has_name_: Paprotsch
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

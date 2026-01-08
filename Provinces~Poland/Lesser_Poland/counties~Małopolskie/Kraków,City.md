@@ -165,7 +165,7 @@ dv_"Concept", "Cracow: 4j7rx"
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.97
 dv_has_place_latitude: 50.05
-dv_name: Krakau
+dv_has_name_: Krakau
 dv_is_:
   same_as: "[[../../../../../../../../WikiData/WD~Kraków,31487|WD~Kraków,31487]]"
 dv_concept-cracow: 4j7rx"

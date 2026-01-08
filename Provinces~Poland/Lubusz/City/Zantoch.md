@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.42
 dv_has_place_latitude: 52.73
-dv_name: Zantoch
+dv_has_name_: Zantoch
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

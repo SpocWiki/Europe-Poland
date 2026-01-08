@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.32
 dv_has_place_latitude: 50.87
-dv_name: Freiburg~Schlesien
+dv_has_name_: Freiburg~Schlesien
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

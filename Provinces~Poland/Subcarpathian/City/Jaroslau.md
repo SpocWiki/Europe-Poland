@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 22.68
 dv_has_place_latitude: 50.02
-dv_name: Jaroslau
+dv_has_name_: Jaroslau
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

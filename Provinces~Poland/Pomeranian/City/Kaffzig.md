@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.88
 dv_has_place_latitude: 54.07
-dv_name: Kaffzig
+dv_has_name_: Kaffzig
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.67
 dv_has_place_latitude: 54.4
-dv_name: Neufahrwasser
+dv_has_name_: Neufahrwasser
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

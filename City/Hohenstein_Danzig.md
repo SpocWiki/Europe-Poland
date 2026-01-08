@@ -24,7 +24,7 @@ dv_has_place_longitude:
 dv_has_place_latitude:
   - 54
   - 15
-dv_name: Hohenstein/Danzig
+dv_has_name_: Hohenstein/Danzig
 dv_Country: "[[../../Poland]]"
 ---
 #is_a_/Place  

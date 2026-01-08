@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.2
 dv_has_place_latitude: 51.55
-dv_name: Kunau
+dv_has_name_: Kunau
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

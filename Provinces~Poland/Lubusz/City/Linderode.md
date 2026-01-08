@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15
 dv_has_place_latitude: 51.63
-dv_name: Linderode
+dv_has_name_: Linderode
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.82
 dv_has_place_latitude: 52.55
-dv_name: Tremessen
+dv_has_name_: Tremessen
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.3
 dv_has_place_latitude: 50.95
-dv_name: Ohlau
+dv_has_name_: Ohlau
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

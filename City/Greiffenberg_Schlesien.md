@@ -24,7 +24,7 @@ dv_has_place_longitude:
 dv_has_place_latitude:
   - 51
   - 3
-dv_name: Greiffenberg/Schlesien
+dv_has_name_: Greiffenberg/Schlesien
 dv_Country: "[[../../Poland]]"
 ---
 #is_a_/Place  

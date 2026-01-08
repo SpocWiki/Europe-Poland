@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.6
 dv_has_place_latitude: 51.75
-dv_name: Freystadt~Schlesien
+dv_has_name_: Freystadt~Schlesien
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

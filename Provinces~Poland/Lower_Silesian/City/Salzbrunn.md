@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.27
 dv_has_place_latitude: 50.82
-dv_name: Salzbrunn
+dv_has_name_: Salzbrunn
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

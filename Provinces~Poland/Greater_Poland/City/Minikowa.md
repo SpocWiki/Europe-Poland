@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.95
 dv_has_place_latitude: 52.35
-dv_name: Minikowa
+dv_has_name_: Minikowa
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 22.25
 dv_has_place_latitude: 50.45
-dv_name: Rudnik
+dv_has_name_: Rudnik
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

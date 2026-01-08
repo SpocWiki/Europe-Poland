@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 20.08
 dv_has_place_latitude: 49.98
-dv_name: Wieliczka
+dv_has_name_: Wieliczka
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

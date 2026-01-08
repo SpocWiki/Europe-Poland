@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18
 dv_has_place_latitude: 50.33
-dv_name: Nesselwitz
+dv_has_name_: Nesselwitz
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

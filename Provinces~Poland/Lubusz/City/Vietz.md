@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.92
 dv_has_place_latitude: 52.67
-dv_name: Vietz
+dv_has_name_: Vietz
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

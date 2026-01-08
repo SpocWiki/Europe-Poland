@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.75
 dv_has_place_latitude: 52.33
-dv_name: Staw
+dv_has_name_: Staw
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

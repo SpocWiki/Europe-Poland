@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.97
 dv_has_place_latitude: 53.7
-dv_name: Osterode~Ostpommern
+dv_has_name_: Osterode~Ostpommern
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

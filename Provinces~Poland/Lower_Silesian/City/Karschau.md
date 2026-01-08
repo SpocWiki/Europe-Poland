@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17
 dv_has_place_latitude: 50.77
-dv_name: Karschau
+dv_has_name_: Karschau
 dv_Country: "[[../../../../../Europe~South/Portugal]]"
 ---
 #is_a_/Place  

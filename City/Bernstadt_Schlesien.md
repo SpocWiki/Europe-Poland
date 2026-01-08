@@ -24,7 +24,7 @@ dv_has_place_longitude:
 dv_has_place_latitude:
   - 51
   - 13
-dv_name: Bernstadt/Schlesien
+dv_has_name_: Bernstadt/Schlesien
 dv_Country: "[[../../Poland]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.12
 dv_has_place_latitude: 53.67
-dv_name: Naugard
+dv_has_name_: Naugard
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

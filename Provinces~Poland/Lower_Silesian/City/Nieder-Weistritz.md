@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.47
 dv_has_place_latitude: 50.82
-dv_name: Nieder-Weistritz
+dv_has_name_: Nieder-Weistritz
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

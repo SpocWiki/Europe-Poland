@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.53
 dv_has_place_latitude: 50.6
-dv_name: Centnerbrunn
+dv_has_name_: Centnerbrunn
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

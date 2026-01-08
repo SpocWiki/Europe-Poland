@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.95
 dv_has_place_latitude: 49.83
-dv_name: Mysleince
+dv_has_name_: Mysleince
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 20.58
 dv_has_place_latitude: 54.13
-dv_name: Lidzbark Warmiński
+dv_has_name_: Lidzbark Warmiński
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

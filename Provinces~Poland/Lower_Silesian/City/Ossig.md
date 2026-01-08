@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.55
 dv_has_place_latitude: 51.02
-dv_name: Ossig
+dv_has_name_: Ossig
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

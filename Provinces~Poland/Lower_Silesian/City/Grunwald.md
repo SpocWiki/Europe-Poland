@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.38
 dv_has_place_latitude: 50.33
-dv_name: Grunwald
+dv_has_name_: Grunwald
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

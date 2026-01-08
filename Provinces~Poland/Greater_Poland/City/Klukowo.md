@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.02
 dv_has_place_latitude: 53.33
-dv_name: Klukowo
+dv_has_name_: Klukowo
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

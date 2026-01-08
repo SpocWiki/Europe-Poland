@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 20.53
 dv_has_place_latitude: 53.78
-dv_name: Petershof
+dv_has_name_: Petershof
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

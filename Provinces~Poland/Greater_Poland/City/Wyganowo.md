@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.28
 dv_has_place_latitude: 51.73
-dv_name: Wyganowo
+dv_has_name_: Wyganowo
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

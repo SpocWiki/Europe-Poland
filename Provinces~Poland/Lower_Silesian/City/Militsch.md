@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.27
 dv_has_place_latitude: 51.53
-dv_name: Militsch
+dv_has_name_: Militsch
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

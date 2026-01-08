@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.6
 dv_has_place_latitude: 50.85
-dv_name: Petersdorf~Riesengebirge
+dv_has_name_: Petersdorf~Riesengebirge
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

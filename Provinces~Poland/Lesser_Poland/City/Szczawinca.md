@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 20.5
 dv_has_place_latitude: 49.43
-dv_name: Szczawinca
+dv_has_name_: Szczawinca
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

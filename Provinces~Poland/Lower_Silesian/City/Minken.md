@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.47
 dv_has_place_latitude: 51.02
-dv_name: Minken
+dv_has_name_: Minken
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

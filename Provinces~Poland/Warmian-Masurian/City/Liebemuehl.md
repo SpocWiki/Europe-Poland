@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.82
 dv_has_place_latitude: 53.77
-dv_name: Liebemuehl
+dv_has_name_: Liebemuehl
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

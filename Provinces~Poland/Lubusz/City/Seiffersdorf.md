@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.48
 dv_has_place_latitude: 51.82
-dv_name: Seiffersdorf
+dv_has_name_: Seiffersdorf
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

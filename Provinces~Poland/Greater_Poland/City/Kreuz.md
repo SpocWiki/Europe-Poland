@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.03
 dv_has_place_latitude: 52.87
-dv_name: Kreuz
+dv_has_name_: Kreuz
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

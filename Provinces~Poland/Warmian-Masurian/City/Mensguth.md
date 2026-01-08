@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 20.47
 dv_has_place_latitude: 53.72
-dv_name: Mensguth
+dv_has_name_: Mensguth
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

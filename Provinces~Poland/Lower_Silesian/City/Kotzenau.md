@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.88
 dv_has_place_latitude: 51.42
-dv_name: Kotzenau
+dv_has_name_: Kotzenau
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

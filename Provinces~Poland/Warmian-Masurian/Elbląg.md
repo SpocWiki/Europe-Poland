@@ -21,8 +21,8 @@ dv_has_place_longitude:
 dv_has_place_latitude:
   - 54
   - 17
-dv_name: Elbląg
-dv_name-de: Elbing
+dv_has_name_: Elbląg
+dv_has_name_de: Elbing
 dv_Country: "[[../../../Poland]]"
 ---
 #is_a_/Place  
@@ -30,7 +30,7 @@ is_a_ = `=this.dv_is_a_`
 [has_place_longitude::19,33] 
 [has_place_latitude::54,17] 
 name = `=this.dv_name` 
-name-de = `=this.dv_name-de` 
+has_name_de = `=this.dv_has_name_de` 
 State ::  
 Country = `=this.dv_Country`
 [StateId::] 

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.4
 dv_has_place_latitude: 51.03
-dv_name: Eugenienhof
+dv_has_name_: Eugenienhof
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

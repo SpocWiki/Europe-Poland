@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.58
 dv_has_place_latitude: 52.45
-dv_name: Merseritz
+dv_has_name_: Merseritz
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

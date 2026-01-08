@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.1
 dv_has_place_latitude: 51.77
-dv_name: Kalisz
+dv_has_name_: Kalisz
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

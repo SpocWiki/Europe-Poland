@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.85
 dv_has_place_latitude: 54.35
-dv_name: Bohnsack
+dv_has_name_: Bohnsack
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.07
 dv_has_place_latitude: 52.32
-dv_name: Sternberg~Neum
+dv_has_name_: Sternberg~Neum
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

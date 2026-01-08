@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.47
 dv_has_place_latitude: 50.87
-dv_name: Brieg
+dv_has_name_: Brieg
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

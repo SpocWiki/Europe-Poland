@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.08
 dv_has_place_latitude: 51.05
-dv_name: Hartlieb
+dv_has_name_: Hartlieb
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

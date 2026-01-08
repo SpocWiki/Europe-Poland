@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.02
 dv_has_place_latitude: 54.15
-dv_name: Neuteich
+dv_has_name_: Neuteich
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

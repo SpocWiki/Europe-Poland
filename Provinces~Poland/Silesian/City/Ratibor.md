@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.22
 dv_has_place_latitude: 50.1
-dv_name: Ratibor
+dv_has_name_: Ratibor
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

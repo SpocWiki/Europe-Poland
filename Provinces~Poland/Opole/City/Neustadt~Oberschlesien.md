@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.58
 dv_has_place_latitude: 50.32
-dv_name: Neustadt~Oberschlesien
+dv_has_name_: Neustadt~Oberschlesien
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

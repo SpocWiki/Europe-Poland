@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.38
 dv_has_place_latitude: 53.73
-dv_name: Baerwalde
+dv_has_name_: Baerwalde
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

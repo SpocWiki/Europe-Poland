@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.07
 dv_has_place_latitude: 51.03
-dv_name: Schoenborn
+dv_has_name_: Schoenborn
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

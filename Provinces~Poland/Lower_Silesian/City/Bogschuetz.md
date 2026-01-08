@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.4
 dv_has_place_latitude: 51.25
-dv_name: Bogschuetz
+dv_has_name_: Bogschuetz
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

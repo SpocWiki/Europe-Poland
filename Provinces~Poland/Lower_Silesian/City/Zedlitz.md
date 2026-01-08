@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.17
 dv_has_place_latitude: 51.23
-dv_name: Zedlitz
+dv_has_name_: Zedlitz
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

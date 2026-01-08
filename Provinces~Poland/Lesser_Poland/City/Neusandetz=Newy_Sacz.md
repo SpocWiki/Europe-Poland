@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 20.72
 dv_has_place_latitude: 49.63
-dv_name: Neusandetz=Newy Sacz
+dv_has_name_: Neusandetz=Newy Sacz
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

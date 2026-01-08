@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 22.05
 dv_has_place_latitude: 53.95
-dv_name: Widminnen
+dv_has_name_: Widminnen
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

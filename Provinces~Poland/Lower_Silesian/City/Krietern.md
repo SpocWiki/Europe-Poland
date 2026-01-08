@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17
 dv_has_place_latitude: 51.08
-dv_name: Krietern
+dv_has_name_: Krietern
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

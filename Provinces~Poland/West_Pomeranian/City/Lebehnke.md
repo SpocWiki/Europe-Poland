@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.68
 dv_has_place_latitude: 53.23
-dv_name: Lebehnke
+dv_has_name_: Lebehnke
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.65
 dv_has_place_latitude: 50.73
-dv_name: Reichenbach~Niederschlesien
+dv_has_name_: Reichenbach~Niederschlesien
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

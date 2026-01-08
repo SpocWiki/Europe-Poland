@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.5
 dv_has_place_latitude: 54.13
-dv_name: Alt-Boick
+dv_has_name_: Alt-Boick
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

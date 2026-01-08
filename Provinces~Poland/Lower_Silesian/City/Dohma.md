@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.9
 dv_has_place_latitude: 51.38
-dv_name: Dohma
+dv_has_name_: Dohma
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

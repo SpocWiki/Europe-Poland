@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.13
 dv_has_place_latitude: 49.78
-dv_name: Josefsberg
+dv_has_name_: Josefsberg
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

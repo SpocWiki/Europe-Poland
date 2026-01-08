@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.25
 dv_has_place_latitude: 51.8
-dv_name: Naumburg~Schlesien
+dv_has_name_: Naumburg~Schlesien
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

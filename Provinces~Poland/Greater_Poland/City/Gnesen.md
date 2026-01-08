@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.6
 dv_has_place_latitude: 52.53
-dv_name: Gnesen
+dv_has_name_: Gnesen
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

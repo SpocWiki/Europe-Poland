@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.73
 dv_has_place_latitude: 51.6
-dv_name: Sierad
+dv_has_name_: Sierad
 dv_Country: "[[../../../../../../Poland]]"
 ---
 #is_a_/Place  

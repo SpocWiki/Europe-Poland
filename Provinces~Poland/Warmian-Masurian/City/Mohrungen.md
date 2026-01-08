@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.93
 dv_has_place_latitude: 53.9
-dv_name: Mohrungen
+dv_has_name_: Mohrungen
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

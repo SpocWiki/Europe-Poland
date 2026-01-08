@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.1
 dv_has_place_latitude: 53.25
-dv_name: Schulzendorf
+dv_has_name_: Schulzendorf
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

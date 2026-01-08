@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.72
 dv_has_place_latitude: 51.82
-dv_name: Neusalz
+dv_has_name_: Neusalz
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

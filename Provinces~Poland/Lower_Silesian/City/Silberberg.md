@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.65
 dv_has_place_latitude: 50.57
-dv_name: Silberberg
+dv_has_name_: Silberberg
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

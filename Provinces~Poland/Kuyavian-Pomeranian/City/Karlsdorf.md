@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.08
 dv_has_place_latitude: 53.13
-dv_name: Karlsdorf
+dv_has_name_: Karlsdorf
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.4
 dv_has_place_latitude: 53.25
-dv_name: Strasburg
+dv_has_name_: Strasburg
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

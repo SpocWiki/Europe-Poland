@@ -24,7 +24,7 @@ dv_has_place_longitude:
 dv_has_place_latitude:
   - 53
   - 92
-dv_name: Greifenberg/Pommern
+dv_has_name_: Greifenberg/Pommern
 dv_Country: "[[../../Poland]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 22.28
 dv_has_place_latitude: 54.2
-dv_name: Grossblandau
+dv_has_name_: Grossblandau
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

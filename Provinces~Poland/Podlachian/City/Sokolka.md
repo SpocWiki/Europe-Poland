@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 23.55
 dv_has_place_latitude: 53.43
-dv_name: Sokolka
+dv_has_name_: Sokolka
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

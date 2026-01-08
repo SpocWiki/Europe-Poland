@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.33
 dv_has_place_latitude: 50.47
-dv_name: Neisse
+dv_has_name_: Neisse
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

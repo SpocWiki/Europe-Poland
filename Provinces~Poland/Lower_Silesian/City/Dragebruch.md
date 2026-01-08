@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.98
 dv_has_place_latitude: 50.88
-dv_name: Dragebruch
+dv_has_name_: Dragebruch
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

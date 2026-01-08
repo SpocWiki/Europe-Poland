@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.73
 dv_has_place_latitude: 54.18
-dv_name: Muehlhausen~Ostpommern
+dv_has_name_: Muehlhausen~Ostpommern
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

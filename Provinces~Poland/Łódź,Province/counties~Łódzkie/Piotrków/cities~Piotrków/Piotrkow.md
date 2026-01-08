@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.7
 dv_has_place_latitude: 51.32
-dv_name: Piotrkow
+dv_has_name_: Piotrkow
 dv_Country: "[[../../../../../../Poland]]"
 ---
 #is_a_/Place  

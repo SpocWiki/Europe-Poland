@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.37
 dv_has_place_latitude: 53.43
-dv_name: Gilgenburg
+dv_has_name_: Gilgenburg
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

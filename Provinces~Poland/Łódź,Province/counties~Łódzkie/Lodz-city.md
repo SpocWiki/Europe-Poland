@@ -19,7 +19,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.45
 dv_has_place_latitude: 51.77
-dv_name: Lodz
+dv_has_name_: Lodz
 dv_Country: "[[../../../../Poland]]"
 dv_has_:
   name_:

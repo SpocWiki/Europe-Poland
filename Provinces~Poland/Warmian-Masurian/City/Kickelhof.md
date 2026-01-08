@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.52
 dv_has_place_latitude: 54.3
-dv_name: Kickelhof
+dv_has_name_: Kickelhof
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 36942
 ---

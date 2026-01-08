@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.67
 dv_has_place_latitude: 54.4
-dv_name: Jatzingen
+dv_has_name_: Jatzingen
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

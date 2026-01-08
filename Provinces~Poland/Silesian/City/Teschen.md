@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.63
 dv_has_place_latitude: 49.75
-dv_name: Teschen
+dv_has_name_: Teschen
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

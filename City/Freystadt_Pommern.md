@@ -24,7 +24,7 @@ dv_has_place_longitude:
 dv_has_place_latitude:
   - 53
   - 6
-dv_name: Freystadt/Pommern
+dv_has_name_: Freystadt/Pommern
 dv_Country: "[[../../Poland]]"
 ---
 #is_a_/Place  

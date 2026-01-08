@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.98
 dv_has_place_latitude: 49.95
-dv_name: Rudoltowitz
+dv_has_name_: Rudoltowitz
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

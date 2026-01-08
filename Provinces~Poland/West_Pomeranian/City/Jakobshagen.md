@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.43
 dv_has_place_latitude: 53.4
-dv_name: Jakobshagen
+dv_has_name_: Jakobshagen
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

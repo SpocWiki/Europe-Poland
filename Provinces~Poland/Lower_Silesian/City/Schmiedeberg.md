@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.83
 dv_has_place_latitude: 50.8
-dv_name: Schmiedeberg
+dv_has_name_: Schmiedeberg
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

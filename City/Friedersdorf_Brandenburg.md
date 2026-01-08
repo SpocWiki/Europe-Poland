@@ -24,7 +24,7 @@ dv_has_place_longitude:
 dv_has_place_latitude:
   - 51
   - 75
-dv_name: Friedersdorf/Brandenburg
+dv_has_name_: Friedersdorf/Brandenburg
 dv_Country: "[[../../Poland]]"
 ---
 #is_a_/Place  

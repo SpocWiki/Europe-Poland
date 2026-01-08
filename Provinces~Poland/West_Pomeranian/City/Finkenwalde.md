@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.63
 dv_has_place_latitude: 53.37
-dv_name: Finkenwalde
+dv_has_name_: Finkenwalde
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

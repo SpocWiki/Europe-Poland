@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.48
 dv_has_place_latitude: 53.67
-dv_name: Penckowo
+dv_has_name_: Penckowo
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

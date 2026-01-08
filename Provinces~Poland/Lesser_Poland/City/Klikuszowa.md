@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.98
 dv_has_place_latitude: 49.52
-dv_name: Klikuszowa
+dv_has_name_: Klikuszowa
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

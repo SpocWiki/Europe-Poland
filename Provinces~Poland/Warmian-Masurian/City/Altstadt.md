@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 20
 dv_has_place_latitude: 53.47
-dv_name: Altstadt
+dv_has_name_: Altstadt
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

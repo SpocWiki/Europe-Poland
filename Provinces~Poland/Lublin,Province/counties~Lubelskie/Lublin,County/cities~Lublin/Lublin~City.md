@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 22.57
 dv_has_place_latitude: 51.25
-dv_name: Lublin
+dv_has_name_: Lublin
 dv_Country: "[[../../../../../../Poland]]"
 ---
 

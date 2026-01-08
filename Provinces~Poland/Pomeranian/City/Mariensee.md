@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.32
 dv_has_place_latitude: 54.2
-dv_name: Mariensee
+dv_has_name_: Mariensee
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

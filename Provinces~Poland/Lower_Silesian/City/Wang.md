@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.72
 dv_has_place_latitude: 50.78
-dv_name: Wang
+dv_has_name_: Wang
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

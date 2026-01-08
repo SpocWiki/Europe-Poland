@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.7
 dv_has_place_latitude: 54.12
-dv_name: Pollnow
+dv_has_name_: Pollnow
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

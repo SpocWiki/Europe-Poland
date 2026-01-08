@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18
 dv_has_place_latitude: 50.78
-dv_name: Lugnian
+dv_has_name_: Lugnian
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

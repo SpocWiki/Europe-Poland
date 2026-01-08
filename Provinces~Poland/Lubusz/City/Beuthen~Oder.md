@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.83
 dv_has_place_latitude: 51.73
-dv_name: Beuthen~Oder
+dv_has_name_: Beuthen~Oder
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

@@ -24,7 +24,7 @@ dv_has_place_longitude:
 dv_has_place_latitude:
   - 50
   - 87
-dv_name: Freiburg/Schlesien
+dv_has_name_: Freiburg/Schlesien
 dv_Country: "[[../../Poland]]"
 ---
 #is_a_/Place  

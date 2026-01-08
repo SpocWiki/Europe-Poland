@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.05
 dv_has_place_latitude: 50.25
-dv_name: Gnadenfeld
+dv_has_name_: Gnadenfeld
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

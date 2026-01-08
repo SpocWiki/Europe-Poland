@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.6
 dv_has_place_latitude: 53.02
-dv_name: Thorn=Torun
+dv_has_name_: Thorn=Torun
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

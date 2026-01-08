@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.97
 dv_has_place_latitude: 49.62
-dv_name: Radenthein
+dv_has_name_: Radenthein
 dv_Country: "[[../../../../../Europe~Central/Austria]]"
 ---
 #is_a_/Place  

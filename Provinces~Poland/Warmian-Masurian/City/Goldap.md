@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 22.3
 dv_has_place_latitude: 54.32
-dv_name: Goldap
+dv_has_name_: Goldap
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

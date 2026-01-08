@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.03
 dv_has_place_latitude: 50.78
-dv_name: Landeshut
+dv_has_name_: Landeshut
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

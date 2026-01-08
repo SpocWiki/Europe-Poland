@@ -24,7 +24,7 @@ dv_has_place_longitude:
 dv_has_place_latitude:
   - 53
   - 58
-dv_name: Hohenstein/Ostpommern
+dv_has_name_: Hohenstein/Ostpommern
 dv_Country: "[[../../Poland]]"
 ---
 #is_a_/Place  

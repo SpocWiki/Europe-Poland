@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.97
 dv_has_place_latitude: 50.32
-dv_name: Koenigshuette
+dv_has_name_: Koenigshuette
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.47
 dv_has_place_latitude: 54.43
-dv_name: Zizow
+dv_has_name_: Zizow
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

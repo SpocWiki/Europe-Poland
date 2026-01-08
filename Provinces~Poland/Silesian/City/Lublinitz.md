@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.72
 dv_has_place_latitude: 50.68
-dv_name: Lublinitz
+dv_has_name_: Lublinitz
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

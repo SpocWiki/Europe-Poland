@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.78
 dv_has_place_latitude: 54.62
-dv_name: Hela
+dv_has_name_: Hela
 dv_Country: "[[../../Poland]]"
 ---
 #is_a_/Place  

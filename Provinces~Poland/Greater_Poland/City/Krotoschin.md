@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.43
 dv_has_place_latitude: 51.7
-dv_name: Krotoschin
+dv_has_name_: Krotoschin
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

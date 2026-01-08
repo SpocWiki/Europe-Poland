@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.32
 dv_has_place_latitude: 51.12
-dv_name: Gersdorf
+dv_has_name_: Gersdorf
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

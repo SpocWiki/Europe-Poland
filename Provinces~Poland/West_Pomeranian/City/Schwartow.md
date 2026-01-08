@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.33
 dv_has_place_latitude: 53.83
-dv_name: Schwartow
+dv_has_name_: Schwartow
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

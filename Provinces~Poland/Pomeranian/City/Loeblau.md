@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.5
 dv_has_place_latitude: 54.28
-dv_name: Loeblau
+dv_has_name_: Loeblau
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

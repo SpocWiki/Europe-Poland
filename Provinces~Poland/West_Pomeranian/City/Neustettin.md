@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.7
 dv_has_place_latitude: 53.72
-dv_name: Neustettin
+dv_has_name_: Neustettin
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

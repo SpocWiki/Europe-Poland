@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.92
 dv_has_place_latitude: 49.95
-dv_name: Lonkau-Paschak
+dv_has_name_: Lonkau-Paschak
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

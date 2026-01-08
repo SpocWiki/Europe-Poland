@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.77
 dv_has_place_latitude: 52.83
-dv_name: Podgoczyn
+dv_has_name_: Podgoczyn
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

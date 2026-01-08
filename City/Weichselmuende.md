@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.75
 dv_has_place_latitude: 54.38
-dv_name: Weichselmuende
+dv_has_name_: Weichselmuende
 dv_Country: "[[../../Poland]]"
 ---
 #is_a_/Place  

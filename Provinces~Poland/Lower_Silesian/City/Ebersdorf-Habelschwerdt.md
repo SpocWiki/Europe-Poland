@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.6
 dv_has_place_latitude: 50.8
-dv_name: Ebersdorf-Habelschwerdt
+dv_has_name_: Ebersdorf-Habelschwerdt
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

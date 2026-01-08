@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.3
 dv_has_place_latitude: 50.4
-dv_name: Lewin
+dv_has_name_: Lewin
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.12
 dv_has_place_latitude: 54.22
-dv_name: Tiegenhof
+dv_has_name_: Tiegenhof
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

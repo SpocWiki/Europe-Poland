@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.55
 dv_has_place_latitude: 54.18
-dv_name: Kolbergermuende
+dv_has_name_: Kolbergermuende
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

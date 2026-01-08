@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.35
 dv_has_place_latitude: 50.97
-dv_name: Striegau
+dv_has_name_: Striegau
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 20.57
 dv_has_place_latitude: 54.12
-dv_name: Neuhof
+dv_has_name_: Neuhof
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 36942
 ---

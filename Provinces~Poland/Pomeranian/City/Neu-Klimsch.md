@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.03
 dv_has_place_latitude: 54.12
-dv_name: Neu-Klimsch
+dv_has_name_: Neu-Klimsch
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

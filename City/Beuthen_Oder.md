@@ -24,7 +24,7 @@ dv_has_place_longitude:
 dv_has_place_latitude:
   - 51
   - 73
-dv_name: Beuthen/Oder
+dv_has_name_: Beuthen/Oder
 dv_Country: "[[../../Poland]]"
 ---
 #is_a_/Place  

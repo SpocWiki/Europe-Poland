@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.07
 dv_has_place_latitude: 51.6
-dv_name: Mildenau
+dv_has_name_: Mildenau
 dv_Country: "[[../../../../../Europe~South/Italy]]"
 ---
 #is_a_/Place  

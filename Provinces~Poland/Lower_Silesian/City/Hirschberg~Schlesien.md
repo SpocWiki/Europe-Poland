@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.73
 dv_has_place_latitude: 50.9
-dv_name: Hirschberg~Schlesien
+dv_has_name_: Hirschberg~Schlesien
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

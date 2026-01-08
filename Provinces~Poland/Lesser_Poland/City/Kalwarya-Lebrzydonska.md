@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.63
 dv_has_place_latitude: 49.87
-dv_name: Kalwarya-Lebrzydonska
+dv_has_name_: Kalwarya-Lebrzydonska
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.98
 dv_has_place_latitude: 53.83
-dv_name: Golczewo
+dv_has_name_: Golczewo
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

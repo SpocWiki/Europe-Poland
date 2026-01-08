@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.88
 dv_has_place_latitude: 51.15
-dv_name: Deutsch-Lissa
+dv_has_name_: Deutsch-Lissa
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

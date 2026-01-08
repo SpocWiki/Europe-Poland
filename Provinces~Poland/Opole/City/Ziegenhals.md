@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.35
 dv_has_place_latitude: 50.33
-dv_name: Ziegenhals
+dv_has_name_: Ziegenhals
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

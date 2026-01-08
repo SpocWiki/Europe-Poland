@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.18
 dv_has_place_latitude: 50.47
-dv_name: Ottmachau
+dv_has_name_: Ottmachau
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 22.13
 dv_has_place_latitude: 49.27
-dv_name: Smolnik
+dv_has_name_: Smolnik
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  

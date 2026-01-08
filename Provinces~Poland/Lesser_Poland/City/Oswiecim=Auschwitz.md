@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.23
 dv_has_place_latitude: 50.03
-dv_name: Oswiecim=Auschwitz
+dv_has_name_: Oswiecim=Auschwitz
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

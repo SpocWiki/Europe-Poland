@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 21.15
 dv_has_place_latitude: 54.05
-dv_name: Roessel
+dv_has_name_: Roessel
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

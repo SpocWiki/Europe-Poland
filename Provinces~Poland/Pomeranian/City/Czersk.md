@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.97
 dv_has_place_latitude: 53.8
-dv_name: Czersk
+dv_has_name_: Czersk
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

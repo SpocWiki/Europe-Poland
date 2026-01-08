@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.75
 dv_has_place_latitude: 54.55
-dv_name: Lauenburg~Pommern
+dv_has_name_: Lauenburg~Pommern
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

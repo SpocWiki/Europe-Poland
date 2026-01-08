@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.1
 dv_has_place_latitude: 52.03
-dv_name: Krossen
+dv_has_name_: Krossen
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

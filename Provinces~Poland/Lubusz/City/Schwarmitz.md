@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.75
 dv_has_place_latitude: 52
-dv_name: Schwarmitz
+dv_has_name_: Schwarmitz
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

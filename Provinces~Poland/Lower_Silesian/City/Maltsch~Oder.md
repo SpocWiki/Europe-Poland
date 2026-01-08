@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.5
 dv_has_place_latitude: 51.22
-dv_name: Maltsch~Oder
+dv_has_name_: Maltsch~Oder
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

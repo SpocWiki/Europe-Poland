@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.72
 dv_has_place_latitude: 51.27
-dv_name: Dyhernfurth
+dv_has_name_: Dyhernfurth
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

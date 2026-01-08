@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.48
 dv_has_place_latitude: 51.42
-dv_name: Kunzendorf~Oder
+dv_has_name_: Kunzendorf~Oder
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

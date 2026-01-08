@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.5
 dv_has_place_latitude: 51.13
-dv_name: Bernstadt~Schlesien
+dv_has_name_: Bernstadt~Schlesien
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

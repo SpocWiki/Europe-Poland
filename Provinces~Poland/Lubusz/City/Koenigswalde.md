@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.25
 dv_has_place_latitude: 52.52
-dv_name: Koenigswalde
+dv_has_name_: Koenigswalde
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

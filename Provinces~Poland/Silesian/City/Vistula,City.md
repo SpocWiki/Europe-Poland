@@ -19,7 +19,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.87
 dv_has_place_latitude: 49.65
-dv_name: Weichsel
+dv_has_name_: Weichsel
 dv_Country: "[[../../../../Poland]]"
 ---
 

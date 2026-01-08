@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.88
 dv_has_place_latitude: 52.05
-dv_name: Noldau
+dv_has_name_: Noldau
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

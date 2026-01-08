@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.43
 dv_has_place_latitude: 52.01
-dv_name: Rothenburg an der Oder
+dv_has_name_: Rothenburg an der Oder
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

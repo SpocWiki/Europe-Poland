@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 32850
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 20.72
+dv_has_place_latitude: 49.63
+dv_name: Neusandetz=Newy Sacz
+dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::20.72] 
-[has_place_latitude::49.63] 
-[name::Neusandetz=Newy Sacz] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Poland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Neusandetz=Newy_Sacz](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Neusandetz=Newy_Sacz.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Neusandetz=Newy_Sacz|Neusandetz=Newy_Sacz]] 
 
-### [Neusandetz=Newy_Sacz.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Neusandetz=Newy_Sacz.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Neusandetz=Newy_Sacz.public|Neusandetz=Newy_Sacz.public]] 
 
-### [Neusandetz=Newy_Sacz.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Neusandetz=Newy_Sacz.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Neusandetz=Newy_Sacz.internal|Neusandetz=Newy_Sacz.internal]] 
 
-### [Neusandetz=Newy_Sacz.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Neusandetz=Newy_Sacz.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Neusandetz=Newy_Sacz.protect|Neusandetz=Newy_Sacz.protect]] 
 
-### [Neusandetz=Newy_Sacz.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Neusandetz=Newy_Sacz.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Neusandetz=Newy_Sacz.private|Neusandetz=Newy_Sacz.private]] 
 
-### [Neusandetz=Newy_Sacz.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Neusandetz=Newy_Sacz.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Neusandetz=Newy_Sacz.personal|Neusandetz=Newy_Sacz.personal]] 
 
-### [Neusandetz=Newy_Sacz.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Neusandetz=Newy_Sacz.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Neusandetz=Newy_Sacz.secret|Neusandetz=Newy_Sacz.secret]] 
 

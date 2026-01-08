@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31745
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 14.43
+dv_has_place_latitude: 52.97
+dv_name: Koenigsberg~Neumark
+dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::14.43] 
-[has_place_latitude::52.97] 
-[name::Koenigsberg~Neumark] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Poland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Koenigsberg~Neumark](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Koenigsberg~Neumark.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Koenigsberg~Neumark|Koenigsberg~Neumark]] 
 
-### [Koenigsberg~Neumark.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Koenigsberg~Neumark.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Koenigsberg~Neumark.public|Koenigsberg~Neumark.public]] 
 
-### [Koenigsberg~Neumark.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Koenigsberg~Neumark.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Koenigsberg~Neumark.internal|Koenigsberg~Neumark.internal]] 
 
-### [Koenigsberg~Neumark.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Koenigsberg~Neumark.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Koenigsberg~Neumark.protect|Koenigsberg~Neumark.protect]] 
 
-### [Koenigsberg~Neumark.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Koenigsberg~Neumark.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Koenigsberg~Neumark.private|Koenigsberg~Neumark.private]] 
 
-### [Koenigsberg~Neumark.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Koenigsberg~Neumark.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Koenigsberg~Neumark.personal|Koenigsberg~Neumark.personal]] 
 
-### [Koenigsberg~Neumark.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Koenigsberg~Neumark.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/City/Koenigsberg~Neumark.secret|Koenigsberg~Neumark.secret]] 
 

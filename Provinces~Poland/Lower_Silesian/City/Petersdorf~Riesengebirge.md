@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33323
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 15.6
+dv_has_place_latitude: 50.85
+dv_name: Petersdorf~Riesengebirge
+dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::15.6] 
-[has_place_latitude::50.85] 
-[name::Petersdorf~Riesengebirge] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Poland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Petersdorf~Riesengebirge](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Petersdorf~Riesengebirge.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Petersdorf~Riesengebirge|Petersdorf~Riesengebirge]] 
 
-### [Petersdorf~Riesengebirge.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Petersdorf~Riesengebirge.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Petersdorf~Riesengebirge.public|Petersdorf~Riesengebirge.public]] 
 
-### [Petersdorf~Riesengebirge.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Petersdorf~Riesengebirge.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Petersdorf~Riesengebirge.internal|Petersdorf~Riesengebirge.internal]] 
 
-### [Petersdorf~Riesengebirge.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Petersdorf~Riesengebirge.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Petersdorf~Riesengebirge.protect|Petersdorf~Riesengebirge.protect]] 
 
-### [Petersdorf~Riesengebirge.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Petersdorf~Riesengebirge.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Petersdorf~Riesengebirge.private|Petersdorf~Riesengebirge.private]] 
 
-### [Petersdorf~Riesengebirge.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Petersdorf~Riesengebirge.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Petersdorf~Riesengebirge.personal|Petersdorf~Riesengebirge.personal]] 
 
-### [Petersdorf~Riesengebirge.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Petersdorf~Riesengebirge.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Petersdorf~Riesengebirge.secret|Petersdorf~Riesengebirge.secret]] 
 

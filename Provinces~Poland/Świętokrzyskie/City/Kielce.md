@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31420
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 20.62
+dv_has_place_latitude: 50.87
+dv_name: Kielce
+dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::20.62] 
-[has_place_latitude::50.87] 
-[name::Kielce] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Poland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kielce](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Świętokrzyskie/City/Kielce.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Świętokrzyskie/City/Kielce|Kielce]] 
 
-### [Kielce.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Świętokrzyskie/City/Kielce.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Świętokrzyskie/City/Kielce.public|Kielce.public]] 
 
-### [Kielce.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Świętokrzyskie/City/Kielce.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Świętokrzyskie/City/Kielce.internal|Kielce.internal]] 
 
-### [Kielce.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Świętokrzyskie/City/Kielce.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Świętokrzyskie/City/Kielce.protect|Kielce.protect]] 
 
-### [Kielce.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Świętokrzyskie/City/Kielce.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Świętokrzyskie/City/Kielce.private|Kielce.private]] 
 
-### [Kielce.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Świętokrzyskie/City/Kielce.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Świętokrzyskie/City/Kielce.personal|Kielce.personal]] 
 
-### [Kielce.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Świętokrzyskie/City/Kielce.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Świętokrzyskie/City/Kielce.secret|Kielce.secret]] 
 

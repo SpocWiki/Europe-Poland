@@ -17,14 +17,23 @@ tags:
 SpocWebEntityId: 30284
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude:
+  - 16
+  - 18
+dv_has_place_latitude:
+  - 50
+  - 67
+dv_name: Friedland/Schlesien
+dv_Country: "[[../../Poland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+is_a_ = `=this.dv_is_a_`
 [has_place_longitude::16,18] 
 [has_place_latitude::50,67] 
-[name::Friedland/Schlesien] 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Poland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -41,17 +50,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Friedland_Schlesien](/_Standards/Earth/Continent/Europe/Europe~East/Poland/City/Friedland_Schlesien.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Poland/City/Friedland_Schlesien|Friedland_Schlesien]] 
 
-### [Friedland_Schlesien.public](/_public/Earth/Continent/Europe/Europe~East/Poland/City/Friedland_Schlesien.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Poland/City/Friedland_Schlesien.public|Friedland_Schlesien.public]] 
 
-### [Friedland_Schlesien.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/City/Friedland_Schlesien.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Poland/City/Friedland_Schlesien.internal|Friedland_Schlesien.internal]] 
 
-### [Friedland_Schlesien.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/City/Friedland_Schlesien.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Poland/City/Friedland_Schlesien.protect|Friedland_Schlesien.protect]] 
 
-### [Friedland_Schlesien.private](/_private/Earth/Continent/Europe/Europe~East/Poland/City/Friedland_Schlesien.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Poland/City/Friedland_Schlesien.private|Friedland_Schlesien.private]] 
 
-### [Friedland_Schlesien.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/City/Friedland_Schlesien.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Poland/City/Friedland_Schlesien.personal|Friedland_Schlesien.personal]] 
 
-### [Friedland_Schlesien.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/City/Friedland_Schlesien.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Poland/City/Friedland_Schlesien.secret|Friedland_Schlesien.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35615
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 19.15
+dv_has_place_latitude: 53.63
+dv_name: Wilkau~Westpommern
+dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::19.15] 
-[has_place_latitude::53.63] 
-[name::Wilkau~Westpommern] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Poland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wilkau~Westpommern](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Wilkau~Westpommern.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Wilkau~Westpommern|Wilkau~Westpommern]] 
 
-### [Wilkau~Westpommern.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Wilkau~Westpommern.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Wilkau~Westpommern.public|Wilkau~Westpommern.public]] 
 
-### [Wilkau~Westpommern.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Wilkau~Westpommern.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Wilkau~Westpommern.internal|Wilkau~Westpommern.internal]] 
 
-### [Wilkau~Westpommern.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Wilkau~Westpommern.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Wilkau~Westpommern.protect|Wilkau~Westpommern.protect]] 
 
-### [Wilkau~Westpommern.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Wilkau~Westpommern.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Wilkau~Westpommern.private|Wilkau~Westpommern.private]] 
 
-### [Wilkau~Westpommern.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Wilkau~Westpommern.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Wilkau~Westpommern.personal|Wilkau~Westpommern.personal]] 
 
-### [Wilkau~Westpommern.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Wilkau~Westpommern.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Wilkau~Westpommern.secret|Wilkau~Westpommern.secret]] 
 

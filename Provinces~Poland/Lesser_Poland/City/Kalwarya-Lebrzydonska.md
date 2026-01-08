@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31277
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 19.63
+dv_has_place_latitude: 49.87
+dv_name: Kalwarya-Lebrzydonska
+dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::19.63] 
-[has_place_latitude::49.87] 
-[name::Kalwarya-Lebrzydonska] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Poland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kalwarya-Lebrzydonska](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Kalwarya-Lebrzydonska.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Kalwarya-Lebrzydonska|Kalwarya-Lebrzydonska]] 
 
-### [Kalwarya-Lebrzydonska.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Kalwarya-Lebrzydonska.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Kalwarya-Lebrzydonska.public|Kalwarya-Lebrzydonska.public]] 
 
-### [Kalwarya-Lebrzydonska.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Kalwarya-Lebrzydonska.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Kalwarya-Lebrzydonska.internal|Kalwarya-Lebrzydonska.internal]] 
 
-### [Kalwarya-Lebrzydonska.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Kalwarya-Lebrzydonska.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Kalwarya-Lebrzydonska.protect|Kalwarya-Lebrzydonska.protect]] 
 
-### [Kalwarya-Lebrzydonska.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Kalwarya-Lebrzydonska.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Kalwarya-Lebrzydonska.private|Kalwarya-Lebrzydonska.private]] 
 
-### [Kalwarya-Lebrzydonska.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Kalwarya-Lebrzydonska.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Kalwarya-Lebrzydonska.personal|Kalwarya-Lebrzydonska.personal]] 
 
-### [Kalwarya-Lebrzydonska.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Kalwarya-Lebrzydonska.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/City/Kalwarya-Lebrzydonska.secret|Kalwarya-Lebrzydonska.secret]] 
 

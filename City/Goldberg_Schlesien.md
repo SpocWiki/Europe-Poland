@@ -17,14 +17,23 @@ tags:
 SpocWebEntityId: 30492
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude:
+  - 15
+  - 92
+dv_has_place_latitude:
+  - 51
+  - 13
+dv_name: Goldberg/Schlesien
+dv_Country: "[[../../Poland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+is_a_ = `=this.dv_is_a_`
 [has_place_longitude::15,92] 
 [has_place_latitude::51,13] 
-[name::Goldberg/Schlesien] 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Poland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -41,17 +50,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Goldberg_Schlesien](/_Standards/Earth/Continent/Europe/Europe~East/Poland/City/Goldberg_Schlesien.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Poland/City/Goldberg_Schlesien|Goldberg_Schlesien]] 
 
-### [Goldberg_Schlesien.public](/_public/Earth/Continent/Europe/Europe~East/Poland/City/Goldberg_Schlesien.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Poland/City/Goldberg_Schlesien.public|Goldberg_Schlesien.public]] 
 
-### [Goldberg_Schlesien.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/City/Goldberg_Schlesien.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Poland/City/Goldberg_Schlesien.internal|Goldberg_Schlesien.internal]] 
 
-### [Goldberg_Schlesien.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/City/Goldberg_Schlesien.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Poland/City/Goldberg_Schlesien.protect|Goldberg_Schlesien.protect]] 
 
-### [Goldberg_Schlesien.private](/_private/Earth/Continent/Europe/Europe~East/Poland/City/Goldberg_Schlesien.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Poland/City/Goldberg_Schlesien.private|Goldberg_Schlesien.private]] 
 
-### [Goldberg_Schlesien.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/City/Goldberg_Schlesien.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Poland/City/Goldberg_Schlesien.personal|Goldberg_Schlesien.personal]] 
 
-### [Goldberg_Schlesien.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/City/Goldberg_Schlesien.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Poland/City/Goldberg_Schlesien.secret|Goldberg_Schlesien.secret]] 
 

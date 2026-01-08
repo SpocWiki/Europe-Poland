@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31694
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 16.5
+dv_has_place_latitude: 50.6
+dv_name: Kunzendorf~Neur.
+dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::16.5] 
-[has_place_latitude::50.6] 
-[name::Kunzendorf~Neur.] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Poland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kunzendorf~Neur.](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Kunzendorf~Neur..md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Kunzendorf~Neur.|Kunzendorf~Neur.]] 
 
-### [Kunzendorf~Neur..public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Kunzendorf~Neur..public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Kunzendorf~Neur..public|Kunzendorf~Neur..public]] 
 
-### [Kunzendorf~Neur..internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Kunzendorf~Neur..internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Kunzendorf~Neur..internal|Kunzendorf~Neur..internal]] 
 
-### [Kunzendorf~Neur..protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Kunzendorf~Neur..protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Kunzendorf~Neur..protect|Kunzendorf~Neur..protect]] 
 
-### [Kunzendorf~Neur..private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Kunzendorf~Neur..private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Kunzendorf~Neur..private|Kunzendorf~Neur..private]] 
 
-### [Kunzendorf~Neur..personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Kunzendorf~Neur..personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Kunzendorf~Neur..personal|Kunzendorf~Neur..personal]] 
 
-### [Kunzendorf~Neur..secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Kunzendorf~Neur..secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Kunzendorf~Neur..secret|Kunzendorf~Neur..secret]] 
 

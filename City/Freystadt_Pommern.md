@@ -17,14 +17,23 @@ tags:
 SpocWebEntityId: 30269
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude:
+  - 19
+  - 27
+dv_has_place_latitude:
+  - 53
+  - 6
+dv_name: Freystadt/Pommern
+dv_Country: "[[../../Poland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+is_a_ = `=this.dv_is_a_`
 [has_place_longitude::19,27] 
 [has_place_latitude::53,6] 
-[name::Freystadt/Pommern] 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Poland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -41,17 +50,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Freystadt_Pommern](/_Standards/Earth/Continent/Europe/Europe~East/Poland/City/Freystadt_Pommern.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Poland/City/Freystadt_Pommern|Freystadt_Pommern]] 
 
-### [Freystadt_Pommern.public](/_public/Earth/Continent/Europe/Europe~East/Poland/City/Freystadt_Pommern.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Poland/City/Freystadt_Pommern.public|Freystadt_Pommern.public]] 
 
-### [Freystadt_Pommern.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/City/Freystadt_Pommern.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Poland/City/Freystadt_Pommern.internal|Freystadt_Pommern.internal]] 
 
-### [Freystadt_Pommern.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/City/Freystadt_Pommern.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Poland/City/Freystadt_Pommern.protect|Freystadt_Pommern.protect]] 
 
-### [Freystadt_Pommern.private](/_private/Earth/Continent/Europe/Europe~East/Poland/City/Freystadt_Pommern.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Poland/City/Freystadt_Pommern.private|Freystadt_Pommern.private]] 
 
-### [Freystadt_Pommern.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/City/Freystadt_Pommern.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Poland/City/Freystadt_Pommern.personal|Freystadt_Pommern.personal]] 
 
-### [Freystadt_Pommern.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/City/Freystadt_Pommern.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Poland/City/Freystadt_Pommern.secret|Freystadt_Pommern.secret]] 
 

@@ -11,17 +11,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Lublin,County](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lublin,Province/counties~Lubelskie/Lublin,County.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lublin,Province/counties~Lubelskie/Lublin,County|Lublin,County]] 
 
-### [Lublin,County.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lublin,Province/counties~Lubelskie/Lublin,County.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lublin,Province/counties~Lubelskie/Lublin,County.public|Lublin,County.public]] 
 
-### [Lublin,County.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lublin,Province/counties~Lubelskie/Lublin,County.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lublin,Province/counties~Lubelskie/Lublin,County.internal|Lublin,County.internal]] 
 
-### [Lublin,County.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lublin,Province/counties~Lubelskie/Lublin,County.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lublin,Province/counties~Lubelskie/Lublin,County.protect|Lublin,County.protect]] 
 
-### [Lublin,County.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lublin,Province/counties~Lubelskie/Lublin,County.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lublin,Province/counties~Lubelskie/Lublin,County.private|Lublin,County.private]] 
 
-### [Lublin,County.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lublin,Province/counties~Lubelskie/Lublin,County.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lublin,Province/counties~Lubelskie/Lublin,County.personal|Lublin,County.personal]] 
 
-### [Lublin,County.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lublin,Province/counties~Lubelskie/Lublin,County.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lublin,Province/counties~Lubelskie/Lublin,County.secret|Lublin,County.secret]] 
 

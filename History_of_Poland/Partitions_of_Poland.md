@@ -9,11 +9,14 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Rzeczpospo
 Krugosvet_article_archived_: istoriya/RAZDELI_POLSHI.html
 Commons_category: Partitions of Poland
 point_in_time: 1772-01-01T00:00:00Z
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Partitions_of_Poland,152006]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Partitions_of_Poland,152006]]"
 ---
 
 # [[Partitions_of_Poland]] 
 
-#is_/same_as :: [[WD~Partitions_of_Poland,152006]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -33,4 +36,21 @@ point_in_time: 1772-01-01T00:00:00Z
 > In Polish historiography, the term "Fourth Partition of Poland" has also been used, in reference to any subsequent annexation of Polish lands by foreign invaders. Depending on source and historical period, this could mean the events of 1815, or 1832 and 1846, or 1939. The term "Fourth Partition" in a temporal sense can also mean the diaspora communities that played an important political role in re-establishing the Polish sovereign state after 1918.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Partitions%20of%20Poland) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Poland/History_of_Poland/Partitions_of_Poland|Partitions_of_Poland]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Poland/History_of_Poland/Partitions_of_Poland.public|Partitions_of_Poland.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Poland/History_of_Poland/Partitions_of_Poland.internal|Partitions_of_Poland.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Poland/History_of_Poland/Partitions_of_Poland.protect|Partitions_of_Poland.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Poland/History_of_Poland/Partitions_of_Poland.private|Partitions_of_Poland.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Poland/History_of_Poland/Partitions_of_Poland.personal|Partitions_of_Poland.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Poland/History_of_Poland/Partitions_of_Poland.secret|Partitions_of_Poland.secret]] 
 

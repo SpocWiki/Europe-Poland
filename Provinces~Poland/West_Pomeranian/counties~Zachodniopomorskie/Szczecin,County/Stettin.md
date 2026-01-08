@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 34568
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 14.54
+dv_has_place_latitude: 53.41
+dv_name: Stettin
+dv_Country: "[[../../../../../Poland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::14.54] 
-[has_place_latitude::53.41] 
-[name::Stettin] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Poland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -57,17 +62,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Stettin](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/counties~Zachodniopomorskie/Szczecin,County/Stettin.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/counties~Zachodniopomorskie/Szczecin,County/Stettin|Stettin]] 
 
-### [Stettin.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/counties~Zachodniopomorskie/Szczecin,County/Stettin.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/counties~Zachodniopomorskie/Szczecin,County/Stettin.public|Stettin.public]] 
 
-### [Stettin.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/counties~Zachodniopomorskie/Szczecin,County/Stettin.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/counties~Zachodniopomorskie/Szczecin,County/Stettin.internal|Stettin.internal]] 
 
-### [Stettin.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/counties~Zachodniopomorskie/Szczecin,County/Stettin.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/counties~Zachodniopomorskie/Szczecin,County/Stettin.protect|Stettin.protect]] 
 
-### [Stettin.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/counties~Zachodniopomorskie/Szczecin,County/Stettin.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/counties~Zachodniopomorskie/Szczecin,County/Stettin.private|Stettin.private]] 
 
-### [Stettin.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/counties~Zachodniopomorskie/Szczecin,County/Stettin.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/counties~Zachodniopomorskie/Szczecin,County/Stettin.personal|Stettin.personal]] 
 
-### [Stettin.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/counties~Zachodniopomorskie/Szczecin,County/Stettin.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/counties~Zachodniopomorskie/Szczecin,County/Stettin.secret|Stettin.secret]] 
 

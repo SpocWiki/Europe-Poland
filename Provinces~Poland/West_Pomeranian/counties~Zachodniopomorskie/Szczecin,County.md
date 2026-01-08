@@ -5,17 +5,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Szczecin,County](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/counties~Zachodniopomorskie/Szczecin,County.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/counties~Zachodniopomorskie/Szczecin,County|Szczecin,County]] 
 
-### [Szczecin,County.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/counties~Zachodniopomorskie/Szczecin,County.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/counties~Zachodniopomorskie/Szczecin,County.public|Szczecin,County.public]] 
 
-### [Szczecin,County.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/counties~Zachodniopomorskie/Szczecin,County.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/counties~Zachodniopomorskie/Szczecin,County.internal|Szczecin,County.internal]] 
 
-### [Szczecin,County.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/counties~Zachodniopomorskie/Szczecin,County.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/counties~Zachodniopomorskie/Szczecin,County.protect|Szczecin,County.protect]] 
 
-### [Szczecin,County.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/counties~Zachodniopomorskie/Szczecin,County.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/counties~Zachodniopomorskie/Szczecin,County.private|Szczecin,County.private]] 
 
-### [Szczecin,County.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/counties~Zachodniopomorskie/Szczecin,County.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/counties~Zachodniopomorskie/Szczecin,County.personal|Szczecin,County.personal]] 
 
-### [Szczecin,County.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/counties~Zachodniopomorskie/Szczecin,County.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/West_Pomeranian/counties~Zachodniopomorskie/Szczecin,County.secret|Szczecin,County.secret]] 
 

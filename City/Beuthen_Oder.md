@@ -17,14 +17,23 @@ tags:
 SpocWebEntityId: 29160
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude:
+  - 15
+  - 83
+dv_has_place_latitude:
+  - 51
+  - 73
+dv_name: Beuthen/Oder
+dv_Country: "[[../../Poland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+is_a_ = `=this.dv_is_a_`
 [has_place_longitude::15,83] 
 [has_place_latitude::51,73] 
-[name::Beuthen/Oder] 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Poland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -41,17 +50,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Beuthen_Oder](/_Standards/Earth/Continent/Europe/Europe~East/Poland/City/Beuthen_Oder.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Poland/City/Beuthen_Oder|Beuthen_Oder]] 
 
-### [Beuthen_Oder.public](/_public/Earth/Continent/Europe/Europe~East/Poland/City/Beuthen_Oder.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Poland/City/Beuthen_Oder.public|Beuthen_Oder.public]] 
 
-### [Beuthen_Oder.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/City/Beuthen_Oder.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Poland/City/Beuthen_Oder.internal|Beuthen_Oder.internal]] 
 
-### [Beuthen_Oder.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/City/Beuthen_Oder.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Poland/City/Beuthen_Oder.protect|Beuthen_Oder.protect]] 
 
-### [Beuthen_Oder.private](/_private/Earth/Continent/Europe/Europe~East/Poland/City/Beuthen_Oder.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Poland/City/Beuthen_Oder.private|Beuthen_Oder.private]] 
 
-### [Beuthen_Oder.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/City/Beuthen_Oder.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Poland/City/Beuthen_Oder.personal|Beuthen_Oder.personal]] 
 
-### [Beuthen_Oder.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/City/Beuthen_Oder.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Poland/City/Beuthen_Oder.secret|Beuthen_Oder.secret]] 
 

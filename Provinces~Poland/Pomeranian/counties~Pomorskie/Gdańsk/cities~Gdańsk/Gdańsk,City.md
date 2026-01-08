@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../../../../WikiData/WD~Gdańsk,1792|WD~Gdańsk,1792]]"
+dv_is_same_as: "[[../../../../../../../../../../WikiData/WD~Gdańsk,1792|WD~Gdańsk,1792]]"
+
 has_time_started: 0997-01-01 
 aliases:
   - Gdańsk
@@ -165,7 +169,7 @@ postal_code: 80-008–80-958
 
 # [[Gdańsk,City]] 
 
-#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Gdańsk,1792|WD~Gdańsk,1792]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -194,17 +198,17 @@ postal_code: 80-008–80-958
 
 ## Confidential Links & Embeds: 
 
-### [Gdańsk~City](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/counties~Pomorskie/Gdańsk/cities~Gdańsk/Gdańsk~City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/counties~Pomorskie/Gdańsk/cities~Gdańsk/Gdańsk,City|Gdańsk,City]] 
 
-### [Gdańsk~City.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/counties~Pomorskie/Gdańsk/cities~Gdańsk/Gdańsk~City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/counties~Pomorskie/Gdańsk/cities~Gdańsk/Gdańsk,City.public|Gdańsk,City.public]] 
 
-### [Gdańsk~City.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/counties~Pomorskie/Gdańsk/cities~Gdańsk/Gdańsk~City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/counties~Pomorskie/Gdańsk/cities~Gdańsk/Gdańsk,City.internal|Gdańsk,City.internal]] 
 
-### [Gdańsk~City.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/counties~Pomorskie/Gdańsk/cities~Gdańsk/Gdańsk~City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/counties~Pomorskie/Gdańsk/cities~Gdańsk/Gdańsk,City.protect|Gdańsk,City.protect]] 
 
-### [Gdańsk~City.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/counties~Pomorskie/Gdańsk/cities~Gdańsk/Gdańsk~City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/counties~Pomorskie/Gdańsk/cities~Gdańsk/Gdańsk,City.private|Gdańsk,City.private]] 
 
-### [Gdańsk~City.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/counties~Pomorskie/Gdańsk/cities~Gdańsk/Gdańsk~City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/counties~Pomorskie/Gdańsk/cities~Gdańsk/Gdańsk,City.personal|Gdańsk,City.personal]] 
 
-### [Gdańsk~City.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/counties~Pomorskie/Gdańsk/cities~Gdańsk/Gdańsk~City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/counties~Pomorskie/Gdańsk/cities~Gdańsk/Gdańsk,City.secret|Gdańsk,City.secret]] 
 

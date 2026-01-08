@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30518
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 18.57
+dv_has_place_latitude: 54.5
+dv_name: Gotenhafen=Gdynia
+dv_Country: "[[../../Poland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::18.57] 
-[has_place_latitude::54.5] 
-[name::Gotenhafen=Gdynia] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Poland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gotenhafen=Gdynia](/_Standards/Earth/Continent/Europe/Europe~East/Poland/City/Gotenhafen=Gdynia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Poland/City/Gotenhafen=Gdynia|Gotenhafen=Gdynia]] 
 
-### [Gotenhafen=Gdynia.public](/_public/Earth/Continent/Europe/Europe~East/Poland/City/Gotenhafen=Gdynia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Poland/City/Gotenhafen=Gdynia.public|Gotenhafen=Gdynia.public]] 
 
-### [Gotenhafen=Gdynia.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/City/Gotenhafen=Gdynia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Poland/City/Gotenhafen=Gdynia.internal|Gotenhafen=Gdynia.internal]] 
 
-### [Gotenhafen=Gdynia.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/City/Gotenhafen=Gdynia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Poland/City/Gotenhafen=Gdynia.protect|Gotenhafen=Gdynia.protect]] 
 
-### [Gotenhafen=Gdynia.private](/_private/Earth/Continent/Europe/Europe~East/Poland/City/Gotenhafen=Gdynia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Poland/City/Gotenhafen=Gdynia.private|Gotenhafen=Gdynia.private]] 
 
-### [Gotenhafen=Gdynia.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/City/Gotenhafen=Gdynia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Poland/City/Gotenhafen=Gdynia.personal|Gotenhafen=Gdynia.personal]] 
 
-### [Gotenhafen=Gdynia.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/City/Gotenhafen=Gdynia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Poland/City/Gotenhafen=Gdynia.secret|Gotenhafen=Gdynia.secret]] 
 

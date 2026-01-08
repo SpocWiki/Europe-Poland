@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30863
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 18.78
+dv_has_place_latitude: 54.62
+dv_name: Hela
+dv_Country: "[[../../Poland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::18.78] 
-[has_place_latitude::54.62] 
-[name::Hela] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Poland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hela](/_Standards/Earth/Continent/Europe/Europe~East/Poland/City/Hela.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Poland/City/Hela|Hela]] 
 
-### [Hela.public](/_public/Earth/Continent/Europe/Europe~East/Poland/City/Hela.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Poland/City/Hela.public|Hela.public]] 
 
-### [Hela.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/City/Hela.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Poland/City/Hela.internal|Hela.internal]] 
 
-### [Hela.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/City/Hela.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Poland/City/Hela.protect|Hela.protect]] 
 
-### [Hela.private](/_private/Earth/Continent/Europe/Europe~East/Poland/City/Hela.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Poland/City/Hela.private|Hela.private]] 
 
-### [Hela.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/City/Hela.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Poland/City/Hela.personal|Hela.personal]] 
 
-### [Hela.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/City/Hela.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Poland/City/Hela.secret|Hela.secret]] 
 

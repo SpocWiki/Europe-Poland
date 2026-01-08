@@ -42,17 +42,17 @@ markerFolder: ./Świętokrzyskie/
 
 ## Confidential Links & Embeds: 
 
-### [Świętokrzyskie](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Świętokrzyskie.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Świętokrzyskie|Świętokrzyskie]] 
 
-### [Świętokrzyskie.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Świętokrzyskie.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Świętokrzyskie.public|Świętokrzyskie.public]] 
 
-### [Świętokrzyskie.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Świętokrzyskie.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Świętokrzyskie.internal|Świętokrzyskie.internal]] 
 
-### [Świętokrzyskie.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Świętokrzyskie.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Świętokrzyskie.protect|Świętokrzyskie.protect]] 
 
-### [Świętokrzyskie.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Świętokrzyskie.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Świętokrzyskie.private|Świętokrzyskie.private]] 
 
-### [Świętokrzyskie.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Świętokrzyskie.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Świętokrzyskie.personal|Świętokrzyskie.personal]] 
 
-### [Świętokrzyskie.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Świętokrzyskie.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Świętokrzyskie.secret|Świętokrzyskie.secret]] 
 

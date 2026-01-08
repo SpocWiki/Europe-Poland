@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33423
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 18.13
+dv_has_place_latitude: 51.32
+dv_name: Podsamtsche
+dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::18.13] 
-[has_place_latitude::51.32] 
-[name::Podsamtsche] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Poland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Podsamtsche](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province/City/Podsamtsche.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province/City/Podsamtsche|Podsamtsche]] 
 
-### [Podsamtsche.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province/City/Podsamtsche.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province/City/Podsamtsche.public|Podsamtsche.public]] 
 
-### [Podsamtsche.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province/City/Podsamtsche.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province/City/Podsamtsche.internal|Podsamtsche.internal]] 
 
-### [Podsamtsche.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province/City/Podsamtsche.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province/City/Podsamtsche.protect|Podsamtsche.protect]] 
 
-### [Podsamtsche.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province/City/Podsamtsche.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province/City/Podsamtsche.private|Podsamtsche.private]] 
 
-### [Podsamtsche.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province/City/Podsamtsche.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province/City/Podsamtsche.personal|Podsamtsche.personal]] 
 
-### [Podsamtsche.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province/City/Podsamtsche.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province/City/Podsamtsche.secret|Podsamtsche.secret]] 
 

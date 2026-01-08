@@ -26,17 +26,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Provinces~Poland](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland|Provinces~Poland]] 
 
-### [Provinces~Poland.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland.public|Provinces~Poland.public]] 
 
-### [Provinces~Poland.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland.internal|Provinces~Poland.internal]] 
 
-### [Provinces~Poland.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland.protect|Provinces~Poland.protect]] 
 
-### [Provinces~Poland.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland.private|Provinces~Poland.private]] 
 
-### [Provinces~Poland.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland.personal|Provinces~Poland.personal]] 
 
-### [Provinces~Poland.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland.secret|Provinces~Poland.secret]] 
 

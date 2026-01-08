@@ -40,17 +40,17 @@ markerFolder: ./Pomeranian/
 
 ## Confidential Links & Embeds: 
 
-### [Pomeranian](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian|Pomeranian]] 
 
-### [Pomeranian.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian.public|Pomeranian.public]] 
 
-### [Pomeranian.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian.internal|Pomeranian.internal]] 
 
-### [Pomeranian.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian.protect|Pomeranian.protect]] 
 
-### [Pomeranian.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian.private|Pomeranian.private]] 
 
-### [Pomeranian.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian.personal|Pomeranian.personal]] 
 
-### [Pomeranian.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian.secret|Pomeranian.secret]] 
 

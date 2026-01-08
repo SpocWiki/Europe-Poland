@@ -44,17 +44,17 @@ markerFile: [[Masovian]]
 
 ## Confidential Links & Embeds: 
 
-### [Masovian](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian|Masovian]] 
 
-### [Masovian.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian.public|Masovian.public]] 
 
-### [Masovian.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian.internal|Masovian.internal]] 
 
-### [Masovian.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian.protect|Masovian.protect]] 
 
-### [Masovian.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian.private|Masovian.private]] 
 
-### [Masovian.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian.personal|Masovian.personal]] 
 
-### [Masovian.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian.secret|Masovian.secret]] 
 

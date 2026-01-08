@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29180
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 19.05
+dv_has_place_latitude: 49.83
+dv_name: Bielitz=Bielsco
+dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::19.05] 
-[has_place_latitude::49.83] 
-[name::Bielitz=Bielsco] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Poland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bielitz=Bielsco](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Bielitz=Bielsco.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Bielitz=Bielsco|Bielitz=Bielsco]] 
 
-### [Bielitz=Bielsco.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Bielitz=Bielsco.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Bielitz=Bielsco.public|Bielitz=Bielsco.public]] 
 
-### [Bielitz=Bielsco.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Bielitz=Bielsco.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Bielitz=Bielsco.internal|Bielitz=Bielsco.internal]] 
 
-### [Bielitz=Bielsco.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Bielitz=Bielsco.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Bielitz=Bielsco.protect|Bielitz=Bielsco.protect]] 
 
-### [Bielitz=Bielsco.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Bielitz=Bielsco.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Bielitz=Bielsco.private|Bielitz=Bielsco.private]] 
 
-### [Bielitz=Bielsco.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Bielitz=Bielsco.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Bielitz=Bielsco.personal|Bielitz=Bielsco.personal]] 
 
-### [Bielitz=Bielsco.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Bielitz=Bielsco.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Bielitz=Bielsco.secret|Bielitz=Bielsco.secret]] 
 

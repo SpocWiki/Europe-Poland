@@ -40,17 +40,17 @@ markerFolder: ./Lubusz/
 
 ## Confidential Links & Embeds: 
 
-### [Lubusz](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz|Lubusz]] 
 
-### [Lubusz.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz.public|Lubusz.public]] 
 
-### [Lubusz.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz.internal|Lubusz.internal]] 
 
-### [Lubusz.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz.protect|Lubusz.protect]] 
 
-### [Lubusz.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz.private|Lubusz.private]] 
 
-### [Lubusz.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz.personal|Lubusz.personal]] 
 
-### [Lubusz.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lubusz.secret|Lubusz.secret]] 
 

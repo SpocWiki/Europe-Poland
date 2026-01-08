@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35488
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 18.75
+dv_has_place_latitude: 54.38
+dv_name: Weichselmuende
+dv_Country: "[[../../Poland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::18.75] 
-[has_place_latitude::54.38] 
-[name::Weichselmuende] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Poland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Weichselmuende](/_Standards/Earth/Continent/Europe/Europe~East/Poland/City/Weichselmuende.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Poland/City/Weichselmuende|Weichselmuende]] 
 
-### [Weichselmuende.public](/_public/Earth/Continent/Europe/Europe~East/Poland/City/Weichselmuende.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Poland/City/Weichselmuende.public|Weichselmuende.public]] 
 
-### [Weichselmuende.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/City/Weichselmuende.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Poland/City/Weichselmuende.internal|Weichselmuende.internal]] 
 
-### [Weichselmuende.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/City/Weichselmuende.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Poland/City/Weichselmuende.protect|Weichselmuende.protect]] 
 
-### [Weichselmuende.private](/_private/Earth/Continent/Europe/Europe~East/Poland/City/Weichselmuende.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Poland/City/Weichselmuende.private|Weichselmuende.private]] 
 
-### [Weichselmuende.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/City/Weichselmuende.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Poland/City/Weichselmuende.personal|Weichselmuende.personal]] 
 
-### [Weichselmuende.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/City/Weichselmuende.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Poland/City/Weichselmuende.secret|Weichselmuende.secret]] 
 

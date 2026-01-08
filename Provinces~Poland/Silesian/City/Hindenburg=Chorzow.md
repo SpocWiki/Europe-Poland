@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30947
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 18.78
+dv_has_place_latitude: 50.32
+dv_name: Hindenburg=Chorzow
+dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::18.78] 
-[has_place_latitude::50.32] 
-[name::Hindenburg=Chorzow] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Poland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hindenburg=Chorzow](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Hindenburg=Chorzow.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Hindenburg=Chorzow|Hindenburg=Chorzow]] 
 
-### [Hindenburg=Chorzow.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Hindenburg=Chorzow.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Hindenburg=Chorzow.public|Hindenburg=Chorzow.public]] 
 
-### [Hindenburg=Chorzow.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Hindenburg=Chorzow.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Hindenburg=Chorzow.internal|Hindenburg=Chorzow.internal]] 
 
-### [Hindenburg=Chorzow.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Hindenburg=Chorzow.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Hindenburg=Chorzow.protect|Hindenburg=Chorzow.protect]] 
 
-### [Hindenburg=Chorzow.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Hindenburg=Chorzow.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Hindenburg=Chorzow.private|Hindenburg=Chorzow.private]] 
 
-### [Hindenburg=Chorzow.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Hindenburg=Chorzow.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Hindenburg=Chorzow.personal|Hindenburg=Chorzow.personal]] 
 
-### [Hindenburg=Chorzow.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Hindenburg=Chorzow.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian/City/Hindenburg=Chorzow.secret|Hindenburg=Chorzow.secret]] 
 

@@ -20,17 +20,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Bydgoszcz~City](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/counties~Kujawsko-Pomorskie/Bydgoszcz,County/cities~Bydgoszcz/Bydgoszcz~City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/counties~Kujawsko-Pomorskie/Bydgoszcz,County/cities~Bydgoszcz/Bydgoszcz~City|Bydgoszcz~City]] 
 
-### [Bydgoszcz~City.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/counties~Kujawsko-Pomorskie/Bydgoszcz,County/cities~Bydgoszcz/Bydgoszcz~City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/counties~Kujawsko-Pomorskie/Bydgoszcz,County/cities~Bydgoszcz/Bydgoszcz~City.public|Bydgoszcz~City.public]] 
 
-### [Bydgoszcz~City.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/counties~Kujawsko-Pomorskie/Bydgoszcz,County/cities~Bydgoszcz/Bydgoszcz~City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/counties~Kujawsko-Pomorskie/Bydgoszcz,County/cities~Bydgoszcz/Bydgoszcz~City.internal|Bydgoszcz~City.internal]] 
 
-### [Bydgoszcz~City.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/counties~Kujawsko-Pomorskie/Bydgoszcz,County/cities~Bydgoszcz/Bydgoszcz~City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/counties~Kujawsko-Pomorskie/Bydgoszcz,County/cities~Bydgoszcz/Bydgoszcz~City.protect|Bydgoszcz~City.protect]] 
 
-### [Bydgoszcz~City.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/counties~Kujawsko-Pomorskie/Bydgoszcz,County/cities~Bydgoszcz/Bydgoszcz~City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/counties~Kujawsko-Pomorskie/Bydgoszcz,County/cities~Bydgoszcz/Bydgoszcz~City.private|Bydgoszcz~City.private]] 
 
-### [Bydgoszcz~City.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/counties~Kujawsko-Pomorskie/Bydgoszcz,County/cities~Bydgoszcz/Bydgoszcz~City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/counties~Kujawsko-Pomorskie/Bydgoszcz,County/cities~Bydgoszcz/Bydgoszcz~City.personal|Bydgoszcz~City.personal]] 
 
-### [Bydgoszcz~City.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/counties~Kujawsko-Pomorskie/Bydgoszcz,County/cities~Bydgoszcz/Bydgoszcz~City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/counties~Kujawsko-Pomorskie/Bydgoszcz,County/cities~Bydgoszcz/Bydgoszcz~City.secret|Bydgoszcz~City.secret]] 
 

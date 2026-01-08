@@ -4,11 +4,14 @@ aliases:
   - Zbiornik Włocławski
   - Lake_Vistula
   - Lake Vistula
+dv_is_:
+  part_of_: "[[../../Rivers~Poland/Vistula,River|Vistula,River]]"
+dv_is_part_of_: "[[../../Rivers~Poland/Vistula,River|Vistula,River]]"
 ---
 
 # [[Lake_Vistula]] 
 
-#is_/part_of_ :: [[../../Rivers~Poland/Vistula,River|Vistula,River]] 
+is_part_of_ = `=this.dv_is_part_of_`
 
 ## #has_/text_of_/abstract 
 
@@ -26,4 +29,21 @@ aliases:
 > For this reason, is considered an important source of  greenhouse gases emission.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/W%C5%82oc%C5%82awek%20Reservoir) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/Lake_Vistula|Lake_Vistula]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/Lake_Vistula.public|Lake_Vistula.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/Lake_Vistula.internal|Lake_Vistula.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/Lake_Vistula.protect|Lake_Vistula.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/Lake_Vistula.private|Lake_Vistula.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/Lake_Vistula.personal|Lake_Vistula.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/Lake_Vistula.secret|Lake_Vistula.secret]] 
 

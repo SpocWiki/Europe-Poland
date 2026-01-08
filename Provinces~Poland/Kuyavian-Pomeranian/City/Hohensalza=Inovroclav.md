@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30982
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 18.27
+dv_has_place_latitude: 52.8
+dv_name: Hohensalza=Inovroclav
+dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::18.27] 
-[has_place_latitude::52.8] 
-[name::Hohensalza=Inovroclav] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Poland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hohensalza=Inovroclav](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Hohensalza=Inovroclav.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Hohensalza=Inovroclav|Hohensalza=Inovroclav]] 
 
-### [Hohensalza=Inovroclav.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Hohensalza=Inovroclav.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Hohensalza=Inovroclav.public|Hohensalza=Inovroclav.public]] 
 
-### [Hohensalza=Inovroclav.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Hohensalza=Inovroclav.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Hohensalza=Inovroclav.internal|Hohensalza=Inovroclav.internal]] 
 
-### [Hohensalza=Inovroclav.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Hohensalza=Inovroclav.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Hohensalza=Inovroclav.protect|Hohensalza=Inovroclav.protect]] 
 
-### [Hohensalza=Inovroclav.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Hohensalza=Inovroclav.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Hohensalza=Inovroclav.private|Hohensalza=Inovroclav.private]] 
 
-### [Hohensalza=Inovroclav.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Hohensalza=Inovroclav.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Hohensalza=Inovroclav.personal|Hohensalza=Inovroclav.personal]] 
 
-### [Hohensalza=Inovroclav.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Hohensalza=Inovroclav.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Kuyavian-Pomeranian/City/Hohensalza=Inovroclav.secret|Hohensalza=Inovroclav.secret]] 
 

@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../../../WikiData/WD~Jagiellonian_University,189441]]"
+dv_is_same_as: "[[../../../../../../../../../WikiData/WD~Jagiellonian_University,189441]]"
+
 has_time_started: 1364-05-12 
 aliases:
   - Jagiellonian University
@@ -78,7 +82,7 @@ EU_Participant_Identification_Code: 999642716
 
 # [[Jagiellonian_University]] 
 
-#is_/same_as :: [[WD~Jagiellonian_University,189441]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -96,4 +100,21 @@ EU_Participant_Identification_Code: 999642716
 > In addition to Copernicus, the university's notable alumni include heads of state King John III Sobieski, Pope John Paul II, and Andrzej Duda; Polish prime ministers Beata Szydło and Józef Cyrankiewicz; renowned cultural figures Jan Kochanowski, Stanisław Lem, and Krzysztof Penderecki; and leading intellectuals and researchers such as Hugo Kołłątaj, Bronisław Malinowski, Carl Menger, Leo Sternbach, and Norman Davies. Four Nobel laureates have been affiliated with the university, all in literature: Ivo Andrić and Wisława Szymborska, who studied there, and Czesław Miłosz and Olga Tokarczuk, who taught there. Faculty and graduates of the university have been elected to the Polish Academy of Arts and Sciences, the Royal Society, the British Academy, the American Academy of Arts and Sciences, and other honorary societies.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jagiellonian%20University) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/counties~Małopolskie/Kraków,City/Jagiellonian_University|Jagiellonian_University]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/counties~Małopolskie/Kraków,City/Jagiellonian_University.public|Jagiellonian_University.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/counties~Małopolskie/Kraków,City/Jagiellonian_University.internal|Jagiellonian_University.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/counties~Małopolskie/Kraków,City/Jagiellonian_University.protect|Jagiellonian_University.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/counties~Małopolskie/Kraków,City/Jagiellonian_University.private|Jagiellonian_University.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/counties~Małopolskie/Kraków,City/Jagiellonian_University.personal|Jagiellonian_University.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lesser_Poland/counties~Małopolskie/Kraków,City/Jagiellonian_University.secret|Jagiellonian_University.secret]] 
 

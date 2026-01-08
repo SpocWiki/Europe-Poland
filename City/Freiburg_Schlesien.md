@@ -17,14 +17,23 @@ tags:
 SpocWebEntityId: 30252
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude:
+  - 16
+  - 32
+dv_has_place_latitude:
+  - 50
+  - 87
+dv_name: Freiburg/Schlesien
+dv_Country: "[[../../Poland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+is_a_ = `=this.dv_is_a_`
 [has_place_longitude::16,32] 
 [has_place_latitude::50,87] 
-[name::Freiburg/Schlesien] 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Poland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -41,17 +50,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Freiburg_Schlesien](/_Standards/Earth/Continent/Europe/Europe~East/Poland/City/Freiburg_Schlesien.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Poland/City/Freiburg_Schlesien|Freiburg_Schlesien]] 
 
-### [Freiburg_Schlesien.public](/_public/Earth/Continent/Europe/Europe~East/Poland/City/Freiburg_Schlesien.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Poland/City/Freiburg_Schlesien.public|Freiburg_Schlesien.public]] 
 
-### [Freiburg_Schlesien.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/City/Freiburg_Schlesien.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Poland/City/Freiburg_Schlesien.internal|Freiburg_Schlesien.internal]] 
 
-### [Freiburg_Schlesien.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/City/Freiburg_Schlesien.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Poland/City/Freiburg_Schlesien.protect|Freiburg_Schlesien.protect]] 
 
-### [Freiburg_Schlesien.private](/_private/Earth/Continent/Europe/Europe~East/Poland/City/Freiburg_Schlesien.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Poland/City/Freiburg_Schlesien.private|Freiburg_Schlesien.private]] 
 
-### [Freiburg_Schlesien.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/City/Freiburg_Schlesien.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Poland/City/Freiburg_Schlesien.personal|Freiburg_Schlesien.personal]] 
 
-### [Freiburg_Schlesien.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/City/Freiburg_Schlesien.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Poland/City/Freiburg_Schlesien.secret|Freiburg_Schlesien.secret]] 
 

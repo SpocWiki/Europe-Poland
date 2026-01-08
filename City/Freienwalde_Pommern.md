@@ -17,14 +17,23 @@ tags:
 SpocWebEntityId: 30257
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude:
+  - 15
+  - 33
+dv_has_place_latitude:
+  - 53
+  - 47
+dv_name: Freienwalde/Pommern
+dv_Country: "[[../../Poland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+is_a_ = `=this.dv_is_a_`
 [has_place_longitude::15,33] 
 [has_place_latitude::53,47] 
-[name::Freienwalde/Pommern] 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Poland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -41,17 +50,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Freienwalde_Pommern](/_Standards/Earth/Continent/Europe/Europe~East/Poland/City/Freienwalde_Pommern.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Poland/City/Freienwalde_Pommern|Freienwalde_Pommern]] 
 
-### [Freienwalde_Pommern.public](/_public/Earth/Continent/Europe/Europe~East/Poland/City/Freienwalde_Pommern.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Poland/City/Freienwalde_Pommern.public|Freienwalde_Pommern.public]] 
 
-### [Freienwalde_Pommern.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/City/Freienwalde_Pommern.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Poland/City/Freienwalde_Pommern.internal|Freienwalde_Pommern.internal]] 
 
-### [Freienwalde_Pommern.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/City/Freienwalde_Pommern.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Poland/City/Freienwalde_Pommern.protect|Freienwalde_Pommern.protect]] 
 
-### [Freienwalde_Pommern.private](/_private/Earth/Continent/Europe/Europe~East/Poland/City/Freienwalde_Pommern.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Poland/City/Freienwalde_Pommern.private|Freienwalde_Pommern.private]] 
 
-### [Freienwalde_Pommern.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/City/Freienwalde_Pommern.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Poland/City/Freienwalde_Pommern.personal|Freienwalde_Pommern.personal]] 
 
-### [Freienwalde_Pommern.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/City/Freienwalde_Pommern.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Poland/City/Freienwalde_Pommern.secret|Freienwalde_Pommern.secret]] 
 

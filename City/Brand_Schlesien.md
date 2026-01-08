@@ -17,14 +17,23 @@ tags:
 SpocWebEntityId: 29313
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude:
+  - 16
+  - 55
+dv_has_place_latitude:
+  - 50
+  - 28
+dv_name: Brand/Schlesien
+dv_Country: "[[../../Poland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+is_a_ = `=this.dv_is_a_`
 [has_place_longitude::16,55] 
 [has_place_latitude::50,28] 
-[name::Brand/Schlesien] 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Poland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -41,17 +50,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Brand_Schlesien](/_Standards/Earth/Continent/Europe/Europe~East/Poland/City/Brand_Schlesien.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Poland/City/Brand_Schlesien|Brand_Schlesien]] 
 
-### [Brand_Schlesien.public](/_public/Earth/Continent/Europe/Europe~East/Poland/City/Brand_Schlesien.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Poland/City/Brand_Schlesien.public|Brand_Schlesien.public]] 
 
-### [Brand_Schlesien.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/City/Brand_Schlesien.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Poland/City/Brand_Schlesien.internal|Brand_Schlesien.internal]] 
 
-### [Brand_Schlesien.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/City/Brand_Schlesien.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Poland/City/Brand_Schlesien.protect|Brand_Schlesien.protect]] 
 
-### [Brand_Schlesien.private](/_private/Earth/Continent/Europe/Europe~East/Poland/City/Brand_Schlesien.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Poland/City/Brand_Schlesien.private|Brand_Schlesien.private]] 
 
-### [Brand_Schlesien.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/City/Brand_Schlesien.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Poland/City/Brand_Schlesien.personal|Brand_Schlesien.personal]] 
 
-### [Brand_Schlesien.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/City/Brand_Schlesien.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Poland/City/Brand_Schlesien.secret|Brand_Schlesien.secret]] 
 

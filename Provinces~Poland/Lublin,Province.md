@@ -41,17 +41,17 @@ markerFolder: ./Lublin/
 
 ## Confidential Links & Embeds: 
 
-### [Lublin,Province](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lublin,Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lublin,Province|Lublin,Province]] 
 
-### [Lublin,Province.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lublin,Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lublin,Province.public|Lublin,Province.public]] 
 
-### [Lublin,Province.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lublin,Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lublin,Province.internal|Lublin,Province.internal]] 
 
-### [Lublin,Province.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lublin,Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lublin,Province.protect|Lublin,Province.protect]] 
 
-### [Lublin,Province.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lublin,Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lublin,Province.private|Lublin,Province.private]] 
 
-### [Lublin,Province.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lublin,Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lublin,Province.personal|Lublin,Province.personal]] 
 
-### [Lublin,Province.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lublin,Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lublin,Province.secret|Lublin,Province.secret]] 
 

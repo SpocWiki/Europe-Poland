@@ -14,17 +14,22 @@ tags:
 SpocWebEntityId: 34257
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 19.7
+dv_has_place_latitude: 52.85
+dv_name: Sierpe
+dv_Country: "[[../../../../Poland]]"
 ---
 
 # [[Sierpc]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::19.7] 
-[has_place_latitude::52.85] 
-[name::Sierpe] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Poland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -41,17 +46,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sierpe](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/City/Sierpe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/counties~Mazowieckie/Sierpc|Sierpc]] 
 
-### [Sierpe.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/City/Sierpe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/counties~Mazowieckie/Sierpc.public|Sierpc.public]] 
 
-### [Sierpe.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/City/Sierpe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/counties~Mazowieckie/Sierpc.internal|Sierpc.internal]] 
 
-### [Sierpe.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/City/Sierpe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/counties~Mazowieckie/Sierpc.protect|Sierpc.protect]] 
 
-### [Sierpe.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/City/Sierpe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/counties~Mazowieckie/Sierpc.private|Sierpc.private]] 
 
-### [Sierpe.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/City/Sierpe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/counties~Mazowieckie/Sierpc.personal|Sierpc.personal]] 
 
-### [Sierpe.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/City/Sierpe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/counties~Mazowieckie/Sierpc.secret|Sierpc.secret]] 
 

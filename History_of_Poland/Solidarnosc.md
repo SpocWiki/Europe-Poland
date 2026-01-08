@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Solidarity,1003|WD~Solidarity,1003]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Solidarity,1003|WD~Solidarity,1003]]"
+
 has_time_started: 1980-09-01 
 aliases:
   - Solidarity
@@ -47,7 +51,7 @@ inception: 1980-09-01T00:00:00Z
 
 # [[Solidarnosc]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Solidarity,1003|WD~Solidarity,1003]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -91,4 +95,19 @@ inception: 1980-09-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Solidarity%20(Polish%20trade%20union)) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Poland/History_of_Poland/Solidarnosc|Solidarnosc]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Poland/History_of_Poland/Solidarnosc.public|Solidarnosc.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Poland/History_of_Poland/Solidarnosc.internal|Solidarnosc.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Poland/History_of_Poland/Solidarnosc.protect|Solidarnosc.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Poland/History_of_Poland/Solidarnosc.private|Solidarnosc.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Poland/History_of_Poland/Solidarnosc.personal|Solidarnosc.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Poland/History_of_Poland/Solidarnosc.secret|Solidarnosc.secret]] 
 

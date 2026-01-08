@@ -4,20 +4,23 @@ aliases:
   - History_of_Poland
   - History of Poland
 has_id_wikidata: Q199569
-has_part_s_: '[[_Standards/WikiData/WD~Second_Polish_Republic,207272]]'
-described_by_source: '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+has_part_s_: "[[_Standards/WikiData/WD~Second_Polish_Republic,207272]]"
+described_by_source: "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-  - '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]'
-subclass_of: '[[_Standards/WikiData/WD~history_of_Europe,7787]]'
-facet_of: '[[_Standards/WikiData/WD~Poland,36]]'
+  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
+  - "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
+subclass_of: "[[_Standards/WikiData/WD~history_of_Europe,7787]]"
+facet_of: "[[_Standards/WikiData/WD~Poland,36]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tobias%20Mayer%20Carte%20de%20la%20Pologne%201757.jpg
 Commons_category: History of Poland
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~History_of_Poland,199569|WD~History_of_Poland,199569]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~History_of_Poland,199569|WD~History_of_Poland,199569]]"
 ---
 
 # [[History_of_Poland]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~History_of_Poland,199569|WD~History_of_Poland,199569]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -35,4 +38,21 @@ Commons_category: History of Poland
 > The Second Polish Republic was established in 1918 and existed as an independent state until 1939, when Nazi Germany and the Soviet Union invaded Poland, marking the beginning of World War II. Millions of Polish citizens of different faiths or identities perished under Nazi occupation between 1939 and 1945 through planned genocide and extermination. A Polish government-in-exile functioned throughout the war, and the Poles contributed to the Allied victory through participation in military campaigns on both the eastern and western fronts. The westward advances of the Soviet Red Army in 1944 and 1945 compelled Nazi Germany's forces to retreat from Poland, which led to the establishment of a satellite communist country, known from 1952 as the Polish People's Republic. The territorial adjustments mandated by the Allies at the end of World War II in 1945 shifted Poland's geographic centre of gravity towards the west, and the re-defined Polish lands largely lost their historic multi-ethnic character. By the late 1980s, the Polish reform movement Solidarity contributed to a peaceful transition from a planned communist economy to capitalism and a liberal parliamentary democracy. This process resulted in the creation of the modern Polish state, the Third Polish Republic, founded in 1989.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Poland) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Poland/History_of_Poland|History_of_Poland]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Poland/History_of_Poland.public|History_of_Poland.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Poland/History_of_Poland.internal|History_of_Poland.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Poland/History_of_Poland.protect|History_of_Poland.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Poland/History_of_Poland.private|History_of_Poland.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Poland/History_of_Poland.personal|History_of_Poland.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Poland/History_of_Poland.secret|History_of_Poland.secret]] 
 

@@ -14,20 +14,32 @@ tags:
 SpocWebEntityId: 33490
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 16.93
+dv_has_place_latitude: 52.42
+dv_name: Poznań
+dv_State: "[Greater_Poland](../../Greater_Poland.md)"
+dv_Country: "[[../../../../Poland]]"
+dv_has_:
+  name_:
+    de_: Posen
+    pl_: Poznań
+dv_has_name_de_: Posen
+dv_has_name_pl_: Poznań
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::16.93] 
-[has_place_latitude::52.42] 
-[name::Poznań] 
-State ::  [Greater_Poland](../../Greater_Poland.md) 
-Country :: [[Poland]]  
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
+State = `=this.dv_State`
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
 
-#has_/name_/de_ :: Posen 
-#has_/name_/pl_ :: Poznań
+has_name_de_ = `=this.dv_has_name_de_`
+has_name_pl_ = `=this.dv_has_name_pl_`
 
 ```leaflet
 id: Posen=Pozan
@@ -40,17 +52,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Poznań](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Poznań.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Poznań|Poznań]] 
 
-### [Poznań.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Poznań.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Poznań.public|Poznań.public]] 
 
-### [Poznań.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Poznań.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Poznań.internal|Poznań.internal]] 
 
-### [Poznań.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Poznań.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Poznań.protect|Poznań.protect]] 
 
-### [Poznań.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Poznań.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Poznań.private|Poznań.private]] 
 
-### [Poznań.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Poznań.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Poznań.personal|Poznań.personal]] 
 
-### [Poznań.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Poznań.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Greater_Poland/City/Poznań.secret|Poznań.secret]] 
 

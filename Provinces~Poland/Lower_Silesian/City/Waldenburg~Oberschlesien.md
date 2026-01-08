@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35407
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 16.3
+dv_has_place_latitude: 50.77
+dv_name: Waldenburg~Oberschlesien
+dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::16.3] 
-[has_place_latitude::50.77] 
-[name::Waldenburg~Oberschlesien] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Poland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Waldenburg~Oberschlesien](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Waldenburg~Oberschlesien.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Waldenburg~Oberschlesien|Waldenburg~Oberschlesien]] 
 
-### [Waldenburg~Oberschlesien.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Waldenburg~Oberschlesien.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Waldenburg~Oberschlesien.public|Waldenburg~Oberschlesien.public]] 
 
-### [Waldenburg~Oberschlesien.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Waldenburg~Oberschlesien.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Waldenburg~Oberschlesien.internal|Waldenburg~Oberschlesien.internal]] 
 
-### [Waldenburg~Oberschlesien.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Waldenburg~Oberschlesien.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Waldenburg~Oberschlesien.protect|Waldenburg~Oberschlesien.protect]] 
 
-### [Waldenburg~Oberschlesien.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Waldenburg~Oberschlesien.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Waldenburg~Oberschlesien.private|Waldenburg~Oberschlesien.private]] 
 
-### [Waldenburg~Oberschlesien.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Waldenburg~Oberschlesien.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Waldenburg~Oberschlesien.personal|Waldenburg~Oberschlesien.personal]] 
 
-### [Waldenburg~Oberschlesien.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Waldenburg~Oberschlesien.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Lower_Silesian/City/Waldenburg~Oberschlesien.secret|Waldenburg~Oberschlesien.secret]] 
 

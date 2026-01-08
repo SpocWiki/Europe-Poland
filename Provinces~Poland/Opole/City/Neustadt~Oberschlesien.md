@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32857
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 17.58
+dv_has_place_latitude: 50.32
+dv_name: Neustadt~Oberschlesien
+dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::17.58] 
-[has_place_latitude::50.32] 
-[name::Neustadt~Oberschlesien] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Poland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Neustadt~Oberschlesien](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Neustadt~Oberschlesien.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Neustadt~Oberschlesien|Neustadt~Oberschlesien]] 
 
-### [Neustadt~Oberschlesien.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Neustadt~Oberschlesien.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Neustadt~Oberschlesien.public|Neustadt~Oberschlesien.public]] 
 
-### [Neustadt~Oberschlesien.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Neustadt~Oberschlesien.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Neustadt~Oberschlesien.internal|Neustadt~Oberschlesien.internal]] 
 
-### [Neustadt~Oberschlesien.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Neustadt~Oberschlesien.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Neustadt~Oberschlesien.protect|Neustadt~Oberschlesien.protect]] 
 
-### [Neustadt~Oberschlesien.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Neustadt~Oberschlesien.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Neustadt~Oberschlesien.private|Neustadt~Oberschlesien.private]] 
 
-### [Neustadt~Oberschlesien.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Neustadt~Oberschlesien.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Neustadt~Oberschlesien.personal|Neustadt~Oberschlesien.personal]] 
 
-### [Neustadt~Oberschlesien.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Neustadt~Oberschlesien.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Opole/City/Neustadt~Oberschlesien.secret|Neustadt~Oberschlesien.secret]] 
 

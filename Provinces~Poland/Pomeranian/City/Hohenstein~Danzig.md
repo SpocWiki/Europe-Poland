@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30985
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 18.77
+dv_has_place_latitude: 54.15
+dv_name: Hohenstein~Danzig
+dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::18.77] 
-[has_place_latitude::54.15] 
-[name::Hohenstein~Danzig] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Poland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hohenstein~Danzig](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Hohenstein~Danzig.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Hohenstein~Danzig|Hohenstein~Danzig]] 
 
-### [Hohenstein~Danzig.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Hohenstein~Danzig.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Hohenstein~Danzig.public|Hohenstein~Danzig.public]] 
 
-### [Hohenstein~Danzig.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Hohenstein~Danzig.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Hohenstein~Danzig.internal|Hohenstein~Danzig.internal]] 
 
-### [Hohenstein~Danzig.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Hohenstein~Danzig.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Hohenstein~Danzig.protect|Hohenstein~Danzig.protect]] 
 
-### [Hohenstein~Danzig.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Hohenstein~Danzig.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Hohenstein~Danzig.private|Hohenstein~Danzig.private]] 
 
-### [Hohenstein~Danzig.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Hohenstein~Danzig.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Hohenstein~Danzig.personal|Hohenstein~Danzig.personal]] 
 
-### [Hohenstein~Danzig.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Hohenstein~Danzig.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Hohenstein~Danzig.secret|Hohenstein~Danzig.secret]] 
 

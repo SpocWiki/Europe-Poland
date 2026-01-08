@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 30853
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 20.58
+dv_has_place_latitude: 54.13
+dv_name: Lidzbark Warmiński
+dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::20.58] 
-[has_place_latitude::54.13] 
-[name::Lidzbark Warmiński] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Poland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lidzbark_Warmiński](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Lidzbark_Warmiński.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Lidzbark_Warmiński|Lidzbark_Warmiński]] 
 
-### [Lidzbark_Warmiński.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Lidzbark_Warmiński.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Lidzbark_Warmiński.public|Lidzbark_Warmiński.public]] 
 
-### [Lidzbark_Warmiński.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Lidzbark_Warmiński.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Lidzbark_Warmiński.internal|Lidzbark_Warmiński.internal]] 
 
-### [Lidzbark_Warmiński.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Lidzbark_Warmiński.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Lidzbark_Warmiński.protect|Lidzbark_Warmiński.protect]] 
 
-### [Lidzbark_Warmiński.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Lidzbark_Warmiński.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Lidzbark_Warmiński.private|Lidzbark_Warmiński.private]] 
 
-### [Lidzbark_Warmiński.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Lidzbark_Warmiński.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Lidzbark_Warmiński.personal|Lidzbark_Warmiński.personal]] 
 
-### [Lidzbark_Warmiński.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Lidzbark_Warmiński.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Warmian-Masurian/City/Lidzbark_Warmiński.secret|Lidzbark_Warmiński.secret]] 
 

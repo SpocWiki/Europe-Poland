@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33380
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 19.7
+dv_has_place_latitude: 51.32
+dv_name: Piotrkow
+dv_Country: "[[../../../../../../Poland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::19.7] 
-[has_place_latitude::51.32] 
-[name::Piotrkow] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Poland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Piotrkow](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province/counties~Łódzkie/Piotrków/cities~Piotrków/Piotrkow.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province/counties~Łódzkie/Piotrków/cities~Piotrków/Piotrkow|Piotrkow]] 
 
-### [Piotrkow.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province/counties~Łódzkie/Piotrków/cities~Piotrków/Piotrkow.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province/counties~Łódzkie/Piotrków/cities~Piotrków/Piotrkow.public|Piotrkow.public]] 
 
-### [Piotrkow.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province/counties~Łódzkie/Piotrków/cities~Piotrków/Piotrkow.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province/counties~Łódzkie/Piotrków/cities~Piotrków/Piotrkow.internal|Piotrkow.internal]] 
 
-### [Piotrkow.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province/counties~Łódzkie/Piotrków/cities~Piotrków/Piotrkow.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province/counties~Łódzkie/Piotrków/cities~Piotrków/Piotrkow.protect|Piotrkow.protect]] 
 
-### [Piotrkow.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province/counties~Łódzkie/Piotrków/cities~Piotrków/Piotrkow.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province/counties~Łódzkie/Piotrków/cities~Piotrków/Piotrkow.private|Piotrkow.private]] 
 
-### [Piotrkow.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province/counties~Łódzkie/Piotrków/cities~Piotrków/Piotrkow.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province/counties~Łódzkie/Piotrków/cities~Piotrków/Piotrkow.personal|Piotrkow.personal]] 
 
-### [Piotrkow.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province/counties~Łódzkie/Piotrków/cities~Piotrków/Piotrkow.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Łódź,Province/counties~Łódzkie/Piotrków/cities~Piotrków/Piotrkow.secret|Piotrkow.secret]] 
 

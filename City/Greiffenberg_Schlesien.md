@@ -4,7 +4,7 @@ aliases:
   - Greiffenberg Schlesien
 location:
   - 51
-  - 03
+  - 3
   - 15
   - 42
 mapzoom:
@@ -17,14 +17,23 @@ tags:
 SpocWebEntityId: 30565
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude:
+  - 15
+  - 42
+dv_has_place_latitude:
+  - 51
+  - 3
+dv_name: Greiffenberg/Schlesien
+dv_Country: "[[../../Poland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+is_a_ = `=this.dv_is_a_`
 [has_place_longitude::15,42] 
 [has_place_latitude::51,03] 
-[name::Greiffenberg/Schlesien] 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Poland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -41,17 +50,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Greiffenberg_Schlesien](/_Standards/Earth/Continent/Europe/Europe~East/Poland/City/Greiffenberg_Schlesien.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Poland/City/Greiffenberg_Schlesien|Greiffenberg_Schlesien]] 
 
-### [Greiffenberg_Schlesien.public](/_public/Earth/Continent/Europe/Europe~East/Poland/City/Greiffenberg_Schlesien.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Poland/City/Greiffenberg_Schlesien.public|Greiffenberg_Schlesien.public]] 
 
-### [Greiffenberg_Schlesien.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/City/Greiffenberg_Schlesien.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Poland/City/Greiffenberg_Schlesien.internal|Greiffenberg_Schlesien.internal]] 
 
-### [Greiffenberg_Schlesien.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/City/Greiffenberg_Schlesien.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Poland/City/Greiffenberg_Schlesien.protect|Greiffenberg_Schlesien.protect]] 
 
-### [Greiffenberg_Schlesien.private](/_private/Earth/Continent/Europe/Europe~East/Poland/City/Greiffenberg_Schlesien.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Poland/City/Greiffenberg_Schlesien.private|Greiffenberg_Schlesien.private]] 
 
-### [Greiffenberg_Schlesien.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/City/Greiffenberg_Schlesien.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Poland/City/Greiffenberg_Schlesien.personal|Greiffenberg_Schlesien.personal]] 
 
-### [Greiffenberg_Schlesien.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/City/Greiffenberg_Schlesien.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Poland/City/Greiffenberg_Schlesien.secret|Greiffenberg_Schlesien.secret]] 
 

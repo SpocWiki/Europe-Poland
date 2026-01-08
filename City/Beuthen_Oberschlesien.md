@@ -17,14 +17,23 @@ tags:
 SpocWebEntityId: 29159
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude:
+  - 18
+  - 93
+dv_has_place_latitude:
+  - 50
+  - 35
+dv_name: Beuthen/Oberschlesien
+dv_Country: "[[../../Poland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+is_a_ = `=this.dv_is_a_`
 [has_place_longitude::18,93] 
 [has_place_latitude::50,35] 
-[name::Beuthen/Oberschlesien] 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Poland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -41,17 +50,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Beuthen_Oberschlesien](/_Standards/Earth/Continent/Europe/Europe~East/Poland/City/Beuthen_Oberschlesien.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Poland/City/Beuthen_Oberschlesien|Beuthen_Oberschlesien]] 
 
-### [Beuthen_Oberschlesien.public](/_public/Earth/Continent/Europe/Europe~East/Poland/City/Beuthen_Oberschlesien.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Poland/City/Beuthen_Oberschlesien.public|Beuthen_Oberschlesien.public]] 
 
-### [Beuthen_Oberschlesien.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/City/Beuthen_Oberschlesien.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Poland/City/Beuthen_Oberschlesien.internal|Beuthen_Oberschlesien.internal]] 
 
-### [Beuthen_Oberschlesien.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/City/Beuthen_Oberschlesien.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Poland/City/Beuthen_Oberschlesien.protect|Beuthen_Oberschlesien.protect]] 
 
-### [Beuthen_Oberschlesien.private](/_private/Earth/Continent/Europe/Europe~East/Poland/City/Beuthen_Oberschlesien.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Poland/City/Beuthen_Oberschlesien.private|Beuthen_Oberschlesien.private]] 
 
-### [Beuthen_Oberschlesien.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/City/Beuthen_Oberschlesien.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Poland/City/Beuthen_Oberschlesien.personal|Beuthen_Oberschlesien.personal]] 
 
-### [Beuthen_Oberschlesien.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/City/Beuthen_Oberschlesien.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Poland/City/Beuthen_Oberschlesien.secret|Beuthen_Oberschlesien.secret]] 
 

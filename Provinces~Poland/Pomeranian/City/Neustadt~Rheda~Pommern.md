@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32864
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 18.33
+dv_has_place_latitude: 54.67
+dv_name: Neustadt an der Rheda~Pommern
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::18.33] 
-[has_place_latitude::54.67] 
-[name::Neustadt an der Rheda~Pommern] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Neustadt~Rheda~Pommern](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Neustadt~Rheda~Pommern.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Neustadt~Rheda~Pommern|Neustadt~Rheda~Pommern]] 
 
-### [Neustadt~Rheda~Pommern.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Neustadt~Rheda~Pommern.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Neustadt~Rheda~Pommern.public|Neustadt~Rheda~Pommern.public]] 
 
-### [Neustadt~Rheda~Pommern.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Neustadt~Rheda~Pommern.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Neustadt~Rheda~Pommern.internal|Neustadt~Rheda~Pommern.internal]] 
 
-### [Neustadt~Rheda~Pommern.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Neustadt~Rheda~Pommern.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Neustadt~Rheda~Pommern.protect|Neustadt~Rheda~Pommern.protect]] 
 
-### [Neustadt~Rheda~Pommern.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Neustadt~Rheda~Pommern.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Neustadt~Rheda~Pommern.private|Neustadt~Rheda~Pommern.private]] 
 
-### [Neustadt~Rheda~Pommern.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Neustadt~Rheda~Pommern.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Neustadt~Rheda~Pommern.personal|Neustadt~Rheda~Pommern.personal]] 
 
-### [Neustadt~Rheda~Pommern.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Neustadt~Rheda~Pommern.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Pomeranian/City/Neustadt~Rheda~Pommern.secret|Neustadt~Rheda~Pommern.secret]] 
 

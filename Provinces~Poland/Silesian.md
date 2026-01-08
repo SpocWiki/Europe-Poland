@@ -41,17 +41,17 @@ markerFolder: ./Silesian/
 
 ## Confidential Links & Embeds: 
 
-### [Silesian](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian|Silesian]] 
 
-### [Silesian.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian.public|Silesian.public]] 
 
-### [Silesian.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian.internal|Silesian.internal]] 
 
-### [Silesian.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian.protect|Silesian.protect]] 
 
-### [Silesian.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian.private|Silesian.private]] 
 
-### [Silesian.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian.personal|Silesian.personal]] 
 
-### [Silesian.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Silesian.secret|Silesian.secret]] 
 

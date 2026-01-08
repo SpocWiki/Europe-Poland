@@ -17,14 +17,23 @@ tags:
 SpocWebEntityId: 30280
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude:
+  - 15
+  - 17
+dv_has_place_latitude:
+  - 51
+  - 75
+dv_name: Friedersdorf/Brandenburg
+dv_Country: "[[../../Poland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+is_a_ = `=this.dv_is_a_`
 [has_place_longitude::15,17] 
 [has_place_latitude::51,75] 
-[name::Friedersdorf/Brandenburg] 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Poland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -41,17 +50,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Friedersdorf_Brandenburg](/_Standards/Earth/Continent/Europe/Europe~East/Poland/City/Friedersdorf_Brandenburg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Poland/City/Friedersdorf_Brandenburg|Friedersdorf_Brandenburg]] 
 
-### [Friedersdorf_Brandenburg.public](/_public/Earth/Continent/Europe/Europe~East/Poland/City/Friedersdorf_Brandenburg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Poland/City/Friedersdorf_Brandenburg.public|Friedersdorf_Brandenburg.public]] 
 
-### [Friedersdorf_Brandenburg.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/City/Friedersdorf_Brandenburg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Poland/City/Friedersdorf_Brandenburg.internal|Friedersdorf_Brandenburg.internal]] 
 
-### [Friedersdorf_Brandenburg.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/City/Friedersdorf_Brandenburg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Poland/City/Friedersdorf_Brandenburg.protect|Friedersdorf_Brandenburg.protect]] 
 
-### [Friedersdorf_Brandenburg.private](/_private/Earth/Continent/Europe/Europe~East/Poland/City/Friedersdorf_Brandenburg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Poland/City/Friedersdorf_Brandenburg.private|Friedersdorf_Brandenburg.private]] 
 
-### [Friedersdorf_Brandenburg.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/City/Friedersdorf_Brandenburg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Poland/City/Friedersdorf_Brandenburg.personal|Friedersdorf_Brandenburg.personal]] 
 
-### [Friedersdorf_Brandenburg.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/City/Friedersdorf_Brandenburg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Poland/City/Friedersdorf_Brandenburg.secret|Friedersdorf_Brandenburg.secret]] 
 

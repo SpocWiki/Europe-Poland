@@ -14,17 +14,22 @@ tags:
 SpocWebEntityId: 33411
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 19.72
+dv_has_place_latitude: 52.55
+dv_name: Płock,City
+dv_Country: "[[../../../../Poland]]"
 ---
 
 # [[Płock,City]]
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::19.72] 
-[has_place_latitude::52.55] 
-[name::Płock,City] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Poland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -45,17 +50,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Płock,City](/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/City/Płock,City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/counties~Mazowieckie/Płock,City|Płock,City]] 
 
-### [Płock,City.public](/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/City/Płock,City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/counties~Mazowieckie/Płock,City.public|Płock,City.public]] 
 
-### [Płock,City.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/City/Płock,City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/counties~Mazowieckie/Płock,City.internal|Płock,City.internal]] 
 
-### [Płock,City.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/City/Płock,City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/counties~Mazowieckie/Płock,City.protect|Płock,City.protect]] 
 
-### [Płock,City.private](/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/City/Płock,City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/counties~Mazowieckie/Płock,City.private|Płock,City.private]] 
 
-### [Płock,City.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/City/Płock,City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/counties~Mazowieckie/Płock,City.personal|Płock,City.personal]] 
 
-### [Płock,City.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/City/Płock,City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Poland/Provinces~Poland/Masovian/counties~Mazowieckie/Płock,City.secret|Płock,City.secret]] 
 

@@ -165,7 +165,7 @@ dv_"Concept", "Cracow: 4j7rx"
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.97
 dv_has_place_latitude: 50.05
-dv_has_name_: Krakau
+dv_has_name: Krakau
 dv_is_:
   same_as: "[[../../../../../../../../WikiData/WD~Kraków,31487|WD~Kraków,31487]]"
 dv_concept-cracow: 4j7rx"
@@ -178,7 +178,7 @@ dv_is_same_as: "[[../../../../../../../../WikiData/WD~Kraków,31487|WD~Kraków,3
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country :: [[Poland]]  
 [StateId::] 

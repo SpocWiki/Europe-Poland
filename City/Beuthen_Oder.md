@@ -24,14 +24,14 @@ dv_has_place_longitude:
 dv_has_place_latitude:
   - 51
   - 73
-dv_has_name_: Beuthen/Oder
+dv_has_name: Beuthen/Oder
 dv_Country: "[[../../Poland]]"
 ---
 #is_a_/Place  
 is_a_ = `=this.dv_is_a_`
 [has_place_longitude::15,83] 
 [has_place_latitude::51,73] 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country = `=this.dv_Country`
 [StateId::] 

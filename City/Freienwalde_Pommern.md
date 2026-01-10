@@ -24,14 +24,14 @@ dv_has_place_longitude:
 dv_has_place_latitude:
   - 53
   - 47
-dv_has_name_: Freienwalde/Pommern
+dv_has_name: Freienwalde/Pommern
 dv_Country: "[[../../Poland]]"
 ---
 #is_a_/Place  
 is_a_ = `=this.dv_is_a_`
 [has_place_longitude::15,33] 
 [has_place_latitude::53,47] 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country = `=this.dv_Country`
 [StateId::] 

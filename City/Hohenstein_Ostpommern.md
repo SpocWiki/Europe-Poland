@@ -24,14 +24,14 @@ dv_has_place_longitude:
 dv_has_place_latitude:
   - 53
   - 58
-dv_has_name_: Hohenstein/Ostpommern
+dv_has_name: Hohenstein/Ostpommern
 dv_Country: "[[../../Poland]]"
 ---
 #is_a_/Place  
 is_a_ = `=this.dv_is_a_`
 [has_place_longitude::20,28] 
 [has_place_latitude::53,58] 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country = `=this.dv_Country`
 [StateId::] 

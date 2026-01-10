@@ -24,14 +24,14 @@ dv_has_place_longitude:
 dv_has_place_latitude:
   - 51
   - 3
-dv_has_name_: Greiffenberg/Schlesien
+dv_has_name: Greiffenberg/Schlesien
 dv_Country: "[[../../Poland]]"
 ---
 #is_a_/Place  
 is_a_ = `=this.dv_is_a_`
 [has_place_longitude::15,42] 
 [has_place_latitude::51,03] 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country = `=this.dv_Country`
 [StateId::] 

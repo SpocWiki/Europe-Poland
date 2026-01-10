@@ -24,14 +24,14 @@ dv_has_place_longitude:
 dv_has_place_latitude:
   - 54
   - 15
-dv_has_name_: Hohenstein/Danzig
+dv_has_name: Hohenstein/Danzig
 dv_Country: "[[../../Poland]]"
 ---
 #is_a_/Place  
 is_a_ = `=this.dv_is_a_`
 [has_place_longitude::18,77] 
 [has_place_latitude::54,15] 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country = `=this.dv_Country`
 [StateId::] 

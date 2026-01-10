@@ -194,7 +194,7 @@ postal_code: 00-000
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 21.02
 dv_has_place_latitude: 52.22
-dv_has_name_: Warszawa
+dv_has_name: Warszawa
 dv_is_:
   same_as: "[[../../../../../../../../WikiData/WD~Warsaw,270|WD~Warsaw,270]]"
 dv_is_same_as: "[[../../../../../../../../WikiData/WD~Warsaw,270|WD~Warsaw,270]]"
@@ -206,7 +206,7 @@ dv_is_same_as: "[[../../../../../../../../WikiData/WD~Warsaw,270|WD~Warsaw,270]]
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country :: [[Poland]]  
 [StateId::] 
